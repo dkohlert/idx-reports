@@ -2618,6 +2618,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1833,
+    "projectUUID" : "FD9A3874-AD2C-4546-9690-631210AAFC1A",
+    "name" : "US, California, Los Angeles County—County Death Records, 1898–1978 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 201,
+  "batchCount" : 114898,
+  "auditBatchCount" : 5457,
+  "imageCount" : 491141,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5457,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 201,
+    "batchCount" : 109441,
+    "images" : 491141,
+    "recordCount" : 3242902
+  },
+  "exportStateCounts" : {
+    "accepted" : 435914,
+    "exported" : 310,
+    "failed" : 2,
+    "inProgress" : 0,
+    "audit" : 22933,
+    "blocked" : 29865,
+    "duplicate" : 10285,
+    "ned" : 2812,
+    "unreadable" : 0,
+    "notExported" : 11953,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2707,
     "projectUUID" : "5DDDFD48-38D6-4FA5-9422-4690F6AAA437",
     "name" : "US, Ohio, Summit County—Summit County Coroner Inquests, 1882–1922",
