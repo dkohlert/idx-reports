@@ -14926,6 +14926,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3031,
+    "projectUUID" : "F160BC5E-07EF-4020-877A-7ABC42EF019C",
+    "name" : "US, Georgia—World War I Draft Registration Cards, 1917–1918 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 99,
+  "batchCount" : 116368,
+  "auditBatchCount" : 5538,
+  "imageCount" : 555473,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5538,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 110830,
+    "images" : 555473,
+    "recordCount" : 551353
+  },
+  "exportStateCounts" : {
+    "accepted" : 550118,
+    "exported" : 20,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 27677,
+    "blocked" : 1566,
+    "duplicate" : 403,
+    "ned" : 669,
+    "unreadable" : 0,
+    "notExported" : 2697,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1849,
     "projectUUID" : "D0C348AC-91A6-47F9-836E-C2C05FC57466",
     "name" : "Colombia, Arquidiócesis de Cartagena—Registros Parroquiales, 1777–2014 [Parte B]",
