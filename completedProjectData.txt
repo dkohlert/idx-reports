@@ -8806,6 +8806,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2981,
+    "projectUUID" : "C6826638-391B-4479-B51A-EF50144E64FB",
+    "name" : "US—Index to Passengers Arriving in New York, 1944–1948",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 92,
+  "batchCount" : 117725,
+  "auditBatchCount" : 5607,
+  "imageCount" : 1206180,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5607,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 92,
+    "batchCount" : 112118,
+    "images" : 1206180,
+    "recordCount" : 1123860
+  },
+  "exportStateCounts" : {
+    "accepted" : 1108214,
+    "exported" : 159,
+    "failed" : 10,
+    "inProgress" : 0,
+    "audit" : 55820,
+    "blocked" : 89731,
+    "duplicate" : 310,
+    "ned" : 3442,
+    "unreadable" : 0,
+    "notExported" : 4314,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1755,
     "projectUUID" : "0C626197-5AB5-42FC-B15E-9B63A2422FAA",
     "name" : "US, Montana, Flathead County—Births, 1881–1942",
