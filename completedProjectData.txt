@@ -3094,6 +3094,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2974,
+    "projectUUID" : "2566FC70-C54E-41DA-A384-8DECE190F8D7",
+    "name" : "US, Illinois—World War I Draft Registration Cards, 1917–1918 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 287,
+  "batchCount" : 169042,
+  "auditBatchCount" : 8049,
+  "imageCount" : 1617815,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 8049,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 287,
+    "batchCount" : 160993,
+    "images" : 1617815,
+    "recordCount" : 1600702
+  },
+  "exportStateCounts" : {
+    "accepted" : 1597922,
+    "exported" : 4871,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 80432,
+    "blocked" : 4151,
+    "duplicate" : 1633,
+    "ned" : 2648,
+    "unreadable" : 0,
+    "notExported" : 6590,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1557,
     "projectUUID" : "3A01F87B-1575-4494-98BB-9B9FCC7CCF7D",
     "name" : "US, Arkansas—Confederate Soldier Home Records, 1890–1963",
