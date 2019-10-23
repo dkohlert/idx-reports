@@ -6766,6 +6766,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3085,
+    "projectUUID" : "71E758F8-030C-4070-8271-78120ACA78E7",
+    "name" : "US, Michigan—World War I Draft Registration Cards, 1917–1918 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 106,
+  "batchCount" : 121851,
+  "auditBatchCount" : 5796,
+  "imageCount" : 580413,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5796,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 106,
+    "batchCount" : 116055,
+    "images" : 580413,
+    "recordCount" : 567534
+  },
+  "exportStateCounts" : {
+    "accepted" : 387160,
+    "exported" : 179584,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 28794,
+    "blocked" : 3795,
+    "duplicate" : 9404,
+    "ned" : 390,
+    "unreadable" : 0,
+    "notExported" : 80,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2538,
     "projectUUID" : "CD8E8449-CCBD-4284-81FE-9E6655F99C79",
     "name" : "US, Montana, Granite County—Birth Records, 1895–1906 [Part A]",
