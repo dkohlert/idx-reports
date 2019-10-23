@@ -2550,6 +2550,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2784,
+    "projectUUID" : "1CAB89D0-3CEF-4772-B626-8B16B7E03588",
+    "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part E]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 95,
+  "batchCount" : 165321,
+  "auditBatchCount" : 7871,
+  "imageCount" : 517658,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 7871,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 95,
+    "batchCount" : 157450,
+    "images" : 517658,
+    "recordCount" : 529369
+  },
+  "exportStateCounts" : {
+    "accepted" : 510569,
+    "exported" : 81,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 25619,
+    "blocked" : 5325,
+    "duplicate" : 219,
+    "ned" : 1453,
+    "unreadable" : 0,
+    "notExported" : 11,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1914,
     "projectUUID" : "336D1940-16E1-4646-81A6-5DEBB58AE767",
     "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part S]",
