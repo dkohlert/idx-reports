@@ -26656,6 +26656,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2090,
+    "projectUUID" : "1234CCE2-A83A-416A-88A8-1D98B05C3F24",
+    "name" : "UK, England, Lincolnshire—Parish Registers, 1538–1990 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 240,
+  "batchCount" : 172703,
+  "auditBatchCount" : 8222,
+  "imageCount" : 236694,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 8222,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 240,
+    "batchCount" : 164481,
+    "images" : 236694,
+    "recordCount" : 2756313
+  },
+  "exportStateCounts" : {
+    "accepted" : 200110,
+    "exported" : 1652,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 10782,
+    "blocked" : 21627,
+    "duplicate" : 694,
+    "ned" : 4877,
+    "unreadable" : 0,
+    "notExported" : 7734,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2548,
     "projectUUID" : "CC5CA8F8-11CD-4A3F-B04F-193BECB66DAB",
     "name" : "Brasil  (Lote Rápido), São Paulo—Registro Civil, Casamentos, 1907–1995 [Parte H]",
