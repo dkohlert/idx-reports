@@ -19550,6 +19550,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3029,
+    "projectUUID" : "96DCAC9B-F355-4AA2-B89D-6C01BA246C8A",
+    "name" : "US (Quick Batch), Texas—World War I Draft Registration Cards, 1917–1918 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 181,
+  "batchCount" : 215208,
+  "auditBatchCount" : 10240,
+  "imageCount" : 1032995,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 10240,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 181,
+    "batchCount" : 204968,
+    "images" : 1032995,
+    "recordCount" : 1014052
+  },
+  "exportStateCounts" : {
+    "accepted" : 1012548,
+    "exported" : 24,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 51151,
+    "blocked" : 9413,
+    "duplicate" : 8084,
+    "ned" : 784,
+    "unreadable" : 0,
+    "notExported" : 2142,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2710,
     "projectUUID" : "E1C1780E-01E6-4D3F-9D9C-E48BA7F9FC37",
     "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte V]",
