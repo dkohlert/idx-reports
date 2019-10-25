@@ -6392,6 +6392,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2320,
+    "projectUUID" : "BF756A9A-DAAB-419D-9C81-3F60D0BEC079",
+    "name" : "US (Quick Batch), Minnesota—County Death Records, 1850–1999 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 259,
+  "batchCount" : 264841,
+  "auditBatchCount" : 12604,
+  "imageCount" : 387035,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 12604,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 259,
+    "batchCount" : 252237,
+    "images" : 387035,
+    "recordCount" : 1225029
+  },
+  "exportStateCounts" : {
+    "accepted" : 256481,
+    "exported" : 517,
+    "failed" : 2,
+    "inProgress" : 1,
+    "audit" : 13053,
+    "blocked" : 125572,
+    "duplicate" : 34,
+    "ned" : 5213,
+    "unreadable" : 0,
+    "notExported" : 69,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2880,
     "projectUUID" : "D51B1B74-B46B-40E0-B4D8-9D3A73F5099A",
     "name" : "US, New Jersey, Jersey City—Holy Name Cemetery, Card Index of Interment, 1849–1984",
