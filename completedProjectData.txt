@@ -21964,6 +21964,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2629,
+    "projectUUID" : "5098AA75-BBF6-429E-B404-A046CF661C18",
+    "name" : "US, North Carolina—Index to Vital Records, Births, 1800–2000 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 260,
+  "batchCount" : 177920,
+  "auditBatchCount" : 8462,
+  "imageCount" : 194476,
+  "blockedCount" : 19829,
+  "iesAuditBatchCount" : 8445,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 260,
+    "batchCount" : 169129,
+    "images" : 194137,
+    "recordCount" : 4850506
+  },
+  "exportStateCounts" : {
+    "accepted" : 171267,
+    "exported" : 1598,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 8694,
+    "blocked" : 19829,
+    "duplicate" : 41,
+    "ned" : 854,
+    "unreadable" : 0,
+    "notExported" : 548,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1760,
     "projectUUID" : "3EC1B3A3-EB1B-471A-9A6D-F018CF082297",
     "name" : "US, New York—County Naturalization Records, 1792–1976 [Part I]",
