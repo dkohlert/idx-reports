@@ -22440,6 +22440,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2453,
+    "projectUUID" : "2023E50F-F99F-46D6-9119-41270E0E38A8",
+    "name" : "US (Quick Batch), Illinois—World War II Draft Registrations, 1940—1945 [Part D]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 400,
+  "batchCount" : 253988,
+  "auditBatchCount" : 12090,
+  "imageCount" : 437837,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 12090,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 400,
+    "batchCount" : 241898,
+    "images" : 437837,
+    "recordCount" : 415996
+  },
+  "exportStateCounts" : {
+    "accepted" : 415312,
+    "exported" : 2,
+    "failed" : 1,
+    "inProgress" : 0,
+    "audit" : 20724,
+    "blocked" : 22104,
+    "duplicate" : 66,
+    "ned" : 352,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2783,
     "projectUUID" : "F1ADBE3E-99D6-44D8-AE93-A815268A2078",
     "name" : "Argentina, Entre Ríos—Registro Civil, 1860–1930",
