@@ -16184,6 +16184,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2916,
+    "projectUUID" : "22DF622F-3ECA-472A-9E6A-79E4258C9336",
+    "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part G]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 236459,
+  "auditBatchCount" : 11247,
+  "imageCount" : 1127976,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 11247,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 225212,
+    "images" : 1127976,
+    "recordCount" : 1138045
+  },
+  "exportStateCounts" : {
+    "accepted" : 1108488,
+    "exported" : 110,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 56220,
+    "blocked" : 2306,
+    "duplicate" : 714,
+    "ned" : 16167,
+    "unreadable" : 0,
+    "notExported" : 191,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2160,
     "projectUUID" : "1BE48DC9-07CA-4F8C-A145-619E42C9F861",
     "name" : "Brasil, Santa Catarina, Florianopolis—Registros da Igreja, 1751–1954 [Parte C]",
