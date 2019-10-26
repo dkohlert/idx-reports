@@ -26350,6 +26350,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2450,
+    "projectUUID" : "6FA7785F-2E5A-4F49-BDA2-006889DBCDCD",
+    "name" : "US (Quick Batch), Illinois, Cook County—Marriages, 1921–1964 [Part M]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 578,
+  "batchCount" : 293666,
+  "auditBatchCount" : 13980,
+  "imageCount" : 575929,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 13980,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 578,
+    "batchCount" : 279686,
+    "images" : 575929,
+    "recordCount" : 286419
+  },
+  "exportStateCounts" : {
+    "accepted" : 283018,
+    "exported" : 3036,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 14216,
+    "blocked" : 289786,
+    "duplicate" : 1,
+    "ned" : 88,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2468,
     "projectUUID" : "91717981-495C-4D70-B4B1-4D840FEA2058",
     "name" : "Liberia (Quick Batch)—Marriage Records, 1912–2015 [Part F]",
