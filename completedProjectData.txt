@@ -14586,6 +14586,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2449,
+    "projectUUID" : "EF860B6C-C53F-433D-ACDB-72A30920FD59",
+    "name" : "US (Quick Batch), Illinois—World War II Draft Registrations, 1940–1945 [Part C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 287,
+  "batchCount" : 311749,
+  "auditBatchCount" : 14851,
+  "imageCount" : 314008,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 14851,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 287,
+    "batchCount" : 296898,
+    "images" : 314008,
+    "recordCount" : 298589
+  },
+  "exportStateCounts" : {
+    "accepted" : 298273,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 14953,
+    "blocked" : 15208,
+    "duplicate" : 3,
+    "ned" : 523,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3530,
     "projectUUID" : "C9C62BFA-FFF9-4DFC-9C76-20816522ACBA",
     "name" : "US, New York, New York City—World War II Draft Registration Cards, 1940–1947 [Part E]",
