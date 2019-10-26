@@ -3468,6 +3468,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3010,
+    "projectUUID" : "D2FF9F8F-D129-4383-A197-A48C5E4B06D3",
+    "name" : "US, Wisconsin—Birth Records, Charge-Out Forms, 1964–1980 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 285,
+  "batchCount" : 315840,
+  "auditBatchCount" : 15024,
+  "imageCount" : 711658,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 15024,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 285,
+    "batchCount" : 300816,
+    "images" : 711658,
+    "recordCount" : 4503
+  },
+  "exportStateCounts" : {
+    "accepted" : 4478,
+    "exported" : 17,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 35379,
+    "blocked" : 2924,
+    "duplicate" : 1,
+    "ned" : 704236,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3050,
     "projectUUID" : "A80EAD52-E5E8-40E5-90B8-9182EB174113",
     "name" : "US—Revolutionary War Rosters, 1775–1783 [Part G]",
