@@ -18224,6 +18224,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3131,
+    "projectUUID" : "1C1192D4-B1FE-49DD-92D9-27410528912C",
+    "name" : "US (Quick Batch), Ohio—World War I Draft Registration Cards, 1917–1918 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 238,
+  "batchCount" : 292466,
+  "auditBatchCount" : 13925,
+  "imageCount" : 1398211,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 13925,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 238,
+    "batchCount" : 278541,
+    "images" : 1398211,
+    "recordCount" : 1391326
+  },
+  "exportStateCounts" : {
+    "accepted" : 1388897,
+    "exported" : 7,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 69601,
+    "blocked" : 6035,
+    "duplicate" : 830,
+    "ned" : 242,
+    "unreadable" : 0,
+    "notExported" : 2200,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2745,
     "projectUUID" : "6A25FA40-8ECF-4C3E-AE0A-9EAFBFDC2763",
     "name" : "US—Obituaries, 1980–2014 [Part 2AN]",
