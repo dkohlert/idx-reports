@@ -13532,6 +13532,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3157,
+    "projectUUID" : "08375710-42A9-4B33-B890-9D2AA1603E9E",
+    "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 298,
+  "batchCount" : 385051,
+  "auditBatchCount" : 18330,
+  "imageCount" : 739419,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 18330,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 298,
+    "batchCount" : 366721,
+    "images" : 739419,
+    "recordCount" : 733352
+  },
+  "exportStateCounts" : {
+    "accepted" : 522106,
+    "exported" : 209786,
+    "failed" : 2,
+    "inProgress" : 2,
+    "audit" : 36656,
+    "blocked" : 6126,
+    "duplicate" : 20,
+    "ned" : 1245,
+    "unreadable" : 0,
+    "notExported" : 132,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3252,
     "projectUUID" : "83FA30FD-2401-4C36-BDEA-8F311C9BF0CC",
     "name" : "US, Alaska—Military Service Discharge Records, 1898–1934",
