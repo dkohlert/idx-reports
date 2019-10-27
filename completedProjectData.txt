@@ -10268,6 +10268,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3257,
+    "projectUUID" : "DB41EE40-AB39-4B03-8916-EE1C320D3E24",
+    "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1917–1940 [Part I]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 280,
+  "batchCount" : 324435,
+  "auditBatchCount" : 15448,
+  "imageCount" : 1560761,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 15448,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 280,
+    "batchCount" : 308987,
+    "images" : 1560761,
+    "recordCount" : 1568456
+  },
+  "exportStateCounts" : {
+    "accepted" : 1540740,
+    "exported" : 155,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 77168,
+    "blocked" : 17080,
+    "duplicate" : 826,
+    "ned" : 1725,
+    "unreadable" : 0,
+    "notExported" : 235,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1870,
     "projectUUID" : "E5EEB6C8-DF35-4690-8D63-122A87B2FA22",
     "name" : "Peru, Junin—Civil Registration, Births, 1890–1999 [Part A]",
