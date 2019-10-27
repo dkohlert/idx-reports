@@ -20196,6 +20196,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3109,
+    "projectUUID" : "3BC83693-DC43-47AC-84A0-1D50A78B75DF",
+    "name" : "US, AL, AR, FL, KY, MO—World War I Draft Registration Cards, 1917–1918 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 321,
+  "batchCount" : 378347,
+  "auditBatchCount" : 18024,
+  "imageCount" : 1808970,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 18024,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 321,
+    "batchCount" : 360323,
+    "images" : 1808970,
+    "recordCount" : 1795632
+  },
+  "exportStateCounts" : {
+    "accepted" : 1393606,
+    "exported" : 398603,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 90048,
+    "blocked" : 8744,
+    "duplicate" : 1592,
+    "ned" : 6079,
+    "unreadable" : 0,
+    "notExported" : 340,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2624,
     "projectUUID" : "D5A83245-1C11-4824-A5F6-080AA793293E",
     "name" : "US, Kansas—1905 State Census",
