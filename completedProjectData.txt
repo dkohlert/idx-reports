@@ -12172,6 +12172,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2909,
+    "projectUUID" : "5014372B-71DB-49FF-A1C9-8C84EAF6C8C0",
+    "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 382698,
+  "auditBatchCount" : 18193,
+  "imageCount" : 731427,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 18193,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 364505,
+    "images" : 731427,
+    "recordCount" : 724209
+  },
+  "exportStateCounts" : {
+    "accepted" : 721029,
+    "exported" : 1338,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 36380,
+    "blocked" : 2614,
+    "duplicate" : 14,
+    "ned" : 6289,
+    "unreadable" : 0,
+    "notExported" : 143,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3101,
     "projectUUID" : "E841C49C-1DBC-4A67-9181-58D26BF42F4F",
     "name" : "US (Quick Batch), Alaska—Pioneer Home Discharge Index, 1913–1958",
