@@ -27234,6 +27234,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2054,
+    "projectUUID" : "6B027497-5022-4EFB-A550-8F4B587F9E6B",
+    "name" : "US, Wisconsin—Birth Records, 1981–1993 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 272,
+  "batchCount" : 431677,
+  "auditBatchCount" : 20556,
+  "imageCount" : 846289,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 20556,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 272,
+    "batchCount" : 411121,
+    "images" : 846289,
+    "recordCount" : 830879
+  },
+  "exportStateCounts" : {
+    "accepted" : 826674,
+    "exported" : 668,
+    "failed" : 2,
+    "inProgress" : 0,
+    "audit" : 41925,
+    "blocked" : 8844,
+    "duplicate" : 302,
+    "ned" : 10919,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2355,
     "projectUUID" : "0CB7A86D-2678-42CB-9EAE-B1675A9702BA",
     "name" : "Brasil, São Paulo—Registros Civis, Matrimônios, 1907–1995 [Parte B]",
