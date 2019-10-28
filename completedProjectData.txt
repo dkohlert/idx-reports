@@ -25092,6 +25092,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1763,
+    "projectUUID" : "CC30DF64-3277-4726-960E-2C9254570877",
+    "name" : "US, Georgia, Houston County—Probate Court, Probate Records, 1827–1958",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 23,
+  "batchCount" : 528,
+  "auditBatchCount" : 25,
+  "imageCount" : 5793,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 25,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 23,
+    "batchCount" : 503,
+    "images" : 5793,
+    "recordCount" : 4082
+  },
+  "exportStateCounts" : {
+    "accepted" : 2679,
+    "exported" : 146,
+    "failed" : 90,
+    "inProgress" : 0,
+    "audit" : 237,
+    "blocked" : 1068,
+    "duplicate" : 36,
+    "ned" : 1184,
+    "unreadable" : 0,
+    "notExported" : 590,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1774,
     "projectUUID" : "383B3CB8-0E34-4999-8862-5F0776F622A1",
     "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part P]",
