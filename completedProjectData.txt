@@ -5372,6 +5372,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1737,
+    "projectUUID" : "7C67F031-39CA-4985-ACA1-ECABE43B479B",
+    "name" : "US, Illinois—Naturalization Records, 1848–2000 [Part C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 149,
+  "batchCount" : 69910,
+  "auditBatchCount" : 3326,
+  "imageCount" : 733783,
+  "blockedCount" : 68604,
+  "iesAuditBatchCount" : 3326,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 149,
+    "batchCount" : 66583,
+    "images" : 733773,
+    "recordCount" : 635628
+  },
+  "exportStateCounts" : {
+    "accepted" : 616703,
+    "exported" : 9287,
+    "failed" : 2,
+    "inProgress" : 0,
+    "audit" : 33236,
+    "blocked" : 69280,
+    "duplicate" : 7355,
+    "ned" : 1246,
+    "unreadable" : 0,
+    "notExported" : 30576,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1756,
     "projectUUID" : "53637ADE-B89C-41CF-8D25-A751F099CD0E",
     "name" : "US, Montana, Flathead County—Deaths 1897–2007 ",
