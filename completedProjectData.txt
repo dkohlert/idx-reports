@@ -8976,6 +8976,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2346,
+    "projectUUID" : "2705E06C-2199-4862-B607-338B184A1673",
+    "name" : "US, Illinois—World War II Draft Registrations, 1940–1945 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 515143,
+  "auditBatchCount" : 24512,
+  "imageCount" : 549153,
+  "blockedCount" : 4512,
+  "iesAuditBatchCount" : 24512,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 490610,
+    "images" : 549132,
+    "recordCount" : 527406
+  },
+  "exportStateCounts" : {
+    "accepted" : 526397,
+    "exported" : 18,
+    "failed" : 3,
+    "inProgress" : 0,
+    "audit" : 27190,
+    "blocked" : 4512,
+    "duplicate" : 20,
+    "ned" : 18182,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1917,
     "projectUUID" : "62BB214E-B0A5-489C-BA43-3058A190C46F",
     "name" : "US, Kansas—1915 State Census [Part A]",
