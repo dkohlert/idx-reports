@@ -15470,6 +15470,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2334,
+    "projectUUID" : "BBAAD840-13AA-4D2A-A481-583F595F2ECB",
+    "name" : "US, Wisconsin—Birth Records, 1964–1980",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 485,
+  "batchCount" : 640135,
+  "auditBatchCount" : 30474,
+  "imageCount" : 1241699,
+  "blockedCount" : 14105,
+  "iesAuditBatchCount" : 30410,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 485,
+    "batchCount" : 608379,
+    "images" : 1241499,
+    "recordCount" : 1227203
+  },
+  "exportStateCounts" : {
+    "accepted" : 1221220,
+    "exported" : 503,
+    "failed" : 4,
+    "inProgress" : 0,
+    "audit" : 61344,
+    "blocked" : 14105,
+    "duplicate" : 170,
+    "ned" : 5490,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3119,
     "projectUUID" : "ECDCAF18-A0D1-40CF-8CE6-0A29F10AEF70",
     "name" : "US, New York—World War I Draft Registration Cards, 1917–1918 [Part C]",
