@@ -25942,6 +25942,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2114,
+    "projectUUID" : "27FCEC51-9261-4943-B03B-A002E402D652",
+    "name" : "Brasil, São Paulo—Registro Civil, Nacimientos, 1907–1995 [Parte F]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 897,
+  "batchCount" : 22300,
+  "auditBatchCount" : 1034,
+  "imageCount" : 214782,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1030,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 897,
+    "batchCount" : 21186,
+    "images" : 214782,
+    "recordCount" : 209686
+  },
+  "exportStateCounts" : {
+    "accepted" : 208035,
+    "exported" : 154,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 10223,
+    "blocked" : 5649,
+    "duplicate" : 187,
+    "ned" : 757,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1893,
     "projectUUID" : "3C3D89A2-1D70-4F6B-9CDC-59248C494DC5",
     "name" : "Honduras—Registro civil, 1841–1966 [Parte C]",
