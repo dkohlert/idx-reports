@@ -10064,6 +10064,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2590,
+    "projectUUID" : "2C5DF358-487B-4ADF-90BA-D77BB7E43426",
+    "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, Casamentos, 1907–1995 [Parte J]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 70337,
+  "auditBatchCount" : 3350,
+  "imageCount" : 69145,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 3350,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 66987,
+    "images" : 69145,
+    "recordCount" : 67694
+  },
+  "exportStateCounts" : {
+    "accepted" : 44264,
+    "exported" : 22803,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3368,
+    "blocked" : 1799,
+    "duplicate" : 0,
+    "ned" : 231,
+    "unreadable" : 0,
+    "notExported" : 45,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2953,
     "projectUUID" : "09CDCAD9-7876-4B21-8363-37C0B1846CD5",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AJ]",
