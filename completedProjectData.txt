@@ -25806,6 +25806,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2570,
+    "projectUUID" : "D09D6A2D-62A5-45B7-99D7-B71D3B57F82A",
+    "name" : "US, Nebraska—Marriage Records, 1750–1990 [Part F]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 90,
+  "batchCount" : 106340,
+  "auditBatchCount" : 5062,
+  "imageCount" : 130931,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5062,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 90,
+    "batchCount" : 101278,
+    "images" : 130931,
+    "recordCount" : 169601
+  },
+  "exportStateCounts" : {
+    "accepted" : 118125,
+    "exported" : 70,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 6266,
+    "blocked" : 5047,
+    "duplicate" : 316,
+    "ned" : 6391,
+    "unreadable" : 0,
+    "notExported" : 981,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3008,
     "projectUUID" : "F4EFBC27-BA30-4A6C-8EB8-6B81D71BD5E4",
     "name" : "US, North Carolina—County Court Record, Maiden Name of Divorced Women, 1926–1975 [Part B]",
