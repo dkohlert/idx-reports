@@ -11050,6 +11050,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2193,
+    "projectUUID" : "6F1F0B35-3C6C-4EEA-B1E0-05987B127DDE",
+    "name" : "Sverige, Örebro—Kyrkoböcker, 1800–1860 [Del 10C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 24,
+  "batchCount" : 10365,
+  "auditBatchCount" : 495,
+  "imageCount" : 18377,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 495,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 24,
+    "batchCount" : 9870,
+    "images" : 18377,
+    "recordCount" : 120826
+  },
+  "exportStateCounts" : {
+    "accepted" : 9214,
+    "exported" : 337,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 495,
+    "blocked" : 8507,
+    "duplicate" : 0,
+    "ned" : 114,
+    "unreadable" : 0,
+    "notExported" : 203,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2535,
     "projectUUID" : "D8FACEB2-3118-4611-9E9A-BBE80314DA09",
     "name" : "US, Washington—Marriage Records, 1750–1990 [Part D]",
