@@ -15504,6 +15504,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2447,
+    "projectUUID" : "D530439C-D361-4730-B950-8CC281AC70EF",
+    "name" : "Perú, Junín—Registro Civil, Nacimientos, 1890-1999 [Parte N]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 262,
+  "batchCount" : 6670,
+  "auditBatchCount" : 310,
+  "imageCount" : 52129,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 310,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 262,
+    "batchCount" : 6360,
+    "images" : 52129,
+    "recordCount" : 47177
+  },
+  "exportStateCounts" : {
+    "accepted" : 45918,
+    "exported" : 81,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2280,
+    "blocked" : 5577,
+    "duplicate" : 43,
+    "ned" : 383,
+    "unreadable" : 0,
+    "notExported" : 127,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1849,
     "projectUUID" : "D0C348AC-91A6-47F9-836E-C2C05FC57466",
     "name" : "Colombia, Arquidiócesis de Cartagena—Registros Parroquiales, 1777–2014 [Parte B]",
