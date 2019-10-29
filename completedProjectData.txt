@@ -21896,6 +21896,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2589,
+    "projectUUID" : "05E90868-7B23-4DC0-8ACC-452954CD7BF4",
+    "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, Casamentos, 1907–1995 [Parte I]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 59897,
+  "auditBatchCount" : 2841,
+  "imageCount" : 70515,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2841,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 57056,
+    "images" : 70515,
+    "recordCount" : 68831
+  },
+  "exportStateCounts" : {
+    "accepted" : 67923,
+    "exported" : 247,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3433,
+    "blocked" : 1749,
+    "duplicate" : 44,
+    "ned" : 159,
+    "unreadable" : 0,
+    "notExported" : 393,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1406,
     "projectUUID" : "6C8A7EDF-A21F-415F-A649-451EFAFE2DDD",
     "name" : "US, Ohio—Naturalization Records, 1818–1954 [Part D]",
