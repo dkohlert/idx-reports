@@ -5304,6 +5304,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2679,
+    "projectUUID" : "C2F65F0E-7197-445F-BF33-78F3719B4374",
+    "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte T]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 71167,
+  "auditBatchCount" : 3388,
+  "imageCount" : 69825,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 3388,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 67779,
+    "images" : 69825,
+    "recordCount" : 70532
+  },
+  "exportStateCounts" : {
+    "accepted" : 67221,
+    "exported" : 54,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3399,
+    "blocked" : 1845,
+    "duplicate" : 0,
+    "ned" : 189,
+    "unreadable" : 0,
+    "notExported" : 516,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2667,
     "projectUUID" : "80A6C3CB-41F0-428A-AB3C-5C1568FBCA47",
     "name" : "US, New Hampshire—World War II Draft Registration Cards, 1940–1945",
