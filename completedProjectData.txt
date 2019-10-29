@@ -17578,6 +17578,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2181,
+    "projectUUID" : "67B32E11-99ED-4A91-B17E-024166B97DEB",
+    "name" : "US, Rhode Island—Naturalization Records, 1907–1991 [Part E]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 47,
+  "batchCount" : 2963,
+  "auditBatchCount" : 144,
+  "imageCount" : 30267,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 144,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 47,
+    "batchCount" : 2819,
+    "images" : 30267,
+    "recordCount" : 35138
+  },
+  "exportStateCounts" : {
+    "accepted" : 27493,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1409,
+    "blocked" : 2469,
+    "duplicate" : 52,
+    "ned" : 251,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2518,
     "projectUUID" : "AC463F4F-37DA-48F4-AA7A-21C1F78E39AF",
     "name" : "Australia, South Australia—School Admission Registers, 1873–1985 [Part A]",
