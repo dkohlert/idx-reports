@@ -12308,6 +12308,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1959,
+    "projectUUID" : "D1FA86E8-3C4D-413D-9123-06CC4C809C7D",
+    "name" : "South Africa, Cape Province—Civil Deaths, 1895–1972 [Part D]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 289,
+  "batchCount" : 95681,
+  "auditBatchCount" : 4545,
+  "imageCount" : 890937,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4545,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 289,
+    "batchCount" : 91136,
+    "images" : 890937,
+    "recordCount" : 1382830
+  },
+  "exportStateCounts" : {
+    "accepted" : 709246,
+    "exported" : 73262,
+    "failed" : 10,
+    "inProgress" : 0,
+    "audit" : 42628,
+    "blocked" : 37156,
+    "duplicate" : 58547,
+    "ned" : 3322,
+    "unreadable" : 0,
+    "notExported" : 8759,
+    "readyForExport" : 0,
+    "rejected" : 635,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3101,
     "projectUUID" : "E841C49C-1DBC-4A67-9181-58D26BF42F4F",
     "name" : "US (Quick Batch), Alaska—Pioneer Home Discharge Index, 1913–1958",
