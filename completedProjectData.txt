@@ -5746,6 +5746,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2801,
+    "projectUUID" : "61FE74D9-4223-44F3-BA44-2771A7CF15DF",
+    "name" : "Suisse, Berne—État civil, 1792–1876 [Partie C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 466,
+  "auditBatchCount" : 23,
+  "imageCount" : 563,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 23,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 443,
+    "images" : 563,
+    "recordCount" : 1402
+  },
+  "exportStateCounts" : {
+    "accepted" : 384,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 23,
+    "blocked" : 120,
+    "duplicate" : 0,
+    "ned" : 58,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2607,
     "projectUUID" : "54DBB1C2-BEFF-4ED5-AE2D-75A0FB5E214A",
     "name" : "US, Ohio, Summit County—Edwin Shaw Sanatorium Records, 1915–1947",
