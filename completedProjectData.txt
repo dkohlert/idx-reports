@@ -12988,6 +12988,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2363,
+    "projectUUID" : "389508A8-4F6B-48AD-A184-643B57F54F85",
+    "name" : "US (Quick Batch), Iowa—Birth Records, 1921–1942",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 192,
+  "batchCount" : 773931,
+  "auditBatchCount" : 36845,
+  "imageCount" : 743124,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 36845,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 192,
+    "batchCount" : 737086,
+    "images" : 743124,
+    "recordCount" : 743035
+  },
+  "exportStateCounts" : {
+    "accepted" : 741019,
+    "exported" : 1,
+    "failed" : 1,
+    "inProgress" : 0,
+    "audit" : 37083,
+    "blocked" : 1501,
+    "duplicate" : 5,
+    "ned" : 597,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1918,
     "projectUUID" : "DA23C42C-A79B-45A2-9871-36DAE1DAE193",
     "name" : "Philippines—National Offices, Civil Registration of Deaths, 1945–1986 [Part B]",
