@@ -20536,6 +20536,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3047,
+    "projectUUID" : "034EC8C5-C6A3-4426-BAB1-9F4B3886193E",
+    "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantees, 1630–1975 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 75,
+  "batchCount" : 46532,
+  "auditBatchCount" : 2221,
+  "imageCount" : 45513,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2221,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 75,
+    "batchCount" : 44311,
+    "images" : 45513,
+    "recordCount" : 1021752
+  },
+  "exportStateCounts" : {
+    "accepted" : 42807,
+    "exported" : 1366,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2221,
+    "blocked" : 1202,
+    "duplicate" : 0,
+    "ned" : 127,
+    "unreadable" : 0,
+    "notExported" : 11,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2485,
     "projectUUID" : "F4B2653D-C473-47AB-8147-17D2C64BE8D9",
     "name" : "US (Quick Batch), Texas—Birth Records, 1916–1920",
