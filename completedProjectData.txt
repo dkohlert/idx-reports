@@ -680,6 +680,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3209,
+    "projectUUID" : "F539DD35-7557-4555-AF64-61E7D4EC9458",
+    "name" : "Chile—Registros de cementerios, 1880–2015 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 642,
+  "batchCount" : 30790,
+  "auditBatchCount" : 1459,
+  "imageCount" : 179295,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1459,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 642,
+    "batchCount" : 29331,
+    "images" : 179295,
+    "recordCount" : 109203
+  },
+  "exportStateCounts" : {
+    "accepted" : 64072,
+    "exported" : 15057,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 6652,
+    "blocked" : 45600,
+    "duplicate" : 2099,
+    "ned" : 52387,
+    "unreadable" : 0,
+    "notExported" : 79,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1820,
     "projectUUID" : "14AFF258-5AC4-417A-9AA5-0936B4850077",
     "name" : "Australia, Victoria—Inward Passenger Lists, 1839–1923",
