@@ -19346,6 +19346,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3196,
+    "projectUUID" : "1E1B42AB-8068-4D60-A7A7-4D2665970562",
+    "name" : "US—American Medical Association, Deceased Physicians File, 1864–1970",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 237,
+  "batchCount" : 102121,
+  "auditBatchCount" : 4868,
+  "imageCount" : 707724,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4868,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 237,
+    "batchCount" : 97253,
+    "images" : 707724,
+    "recordCount" : 533160
+  },
+  "exportStateCounts" : {
+    "accepted" : 450915,
+    "exported" : 75398,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 31268,
+    "blocked" : 82615,
+    "duplicate" : 68680,
+    "ned" : 29968,
+    "unreadable" : 0,
+    "notExported" : 118,
+    "readyForExport" : 0,
+    "rejected" : 30,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3226,
     "projectUUID" : "E3BDD7CC-25BE-410B-A64D-3D673C28FBD8",
     "name" : "Brasil, Minas Gerais, Belo Horizonte—Municipal Cemetery Records, 1897–2012 [Part A]",
