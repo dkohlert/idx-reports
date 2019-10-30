@@ -19380,6 +19380,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3470,
+    "projectUUID" : "4B80C705-24D4-4FD0-983F-F5BF88AB6408",
+    "name" : "US (Quick Batch)—Obituaries of German Immigrants, 1988–2013",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 1743,
+  "auditBatchCount" : 83,
+  "imageCount" : 1666,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 83,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 1660,
+    "images" : 1666,
+    "recordCount" : 25685
+  },
+  "exportStateCounts" : {
+    "accepted" : 1647,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 83,
+    "blocked" : 5,
+    "duplicate" : 0,
+    "ned" : 14,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2818,
     "projectUUID" : "6F6C3C28-07B9-4205-82B5-F315E01203D0",
     "name" : "US (Quick Batch), Colorado—Statewide Divorce Index, 1900–1939 [Part B]",
