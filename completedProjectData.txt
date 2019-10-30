@@ -13328,6 +13328,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3464,
+    "projectUUID" : "BDA2412F-77BF-4C67-B17E-A6A683E6EB42",
+    "name" : "US, Pennsylvania, Pittsburgh—Allegheny Cemetery Records, Cemetery Plot Books, 1845–1960",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 897,
+  "auditBatchCount" : 43,
+  "imageCount" : 1193,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 43,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 854,
+    "images" : 1193,
+    "recordCount" : 32055
+  },
+  "exportStateCounts" : {
+    "accepted" : 827,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 43,
+    "blocked" : 339,
+    "duplicate" : 0,
+    "ned" : 21,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1596,
     "projectUUID" : "7BCD263E-429C-465D-8266-BFDAAAF53322",
     "name" : "US, Georgia—Deaths, 1941–1943 [Part A]",
