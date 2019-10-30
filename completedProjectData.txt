@@ -11050,6 +11050,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3245,
+    "projectUUID" : "03E807DC-1B81-4D2A-A40A-70B3377D4824",
+    "name" : "South Africa, Transvaal—Death Notices from Probate Files, 1869–1958 [Part F]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 210,
+  "auditBatchCount" : 10,
+  "imageCount" : 1087,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 10,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 200,
+    "images" : 1087,
+    "recordCount" : 6656
+  },
+  "exportStateCounts" : {
+    "accepted" : 60,
+    "exported" : 931,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 50,
+    "blocked" : 89,
+    "duplicate" : 3,
+    "ned" : 4,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2870,
     "projectUUID" : "A5D620C3-50F0-47B8-A879-1782ADD53FCF",
     "name" : "US, Texas, Gonzales County—Birth Records, 1878–1945 [Part A]",
