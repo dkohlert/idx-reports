@@ -19244,6 +19244,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3155,
+    "projectUUID" : "5B894684-7AC9-40D3-91BF-7E8931843BF7",
+    "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part J]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 138,
+  "batchCount" : 13024,
+  "auditBatchCount" : 618,
+  "imageCount" : 128031,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 618,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 138,
+    "batchCount" : 12406,
+    "images" : 128031,
+    "recordCount" : 132362
+  },
+  "exportStateCounts" : {
+    "accepted" : 67615,
+    "exported" : 19809,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 6157,
+    "blocked" : 4637,
+    "duplicate" : 27154,
+    "ned" : 8792,
+    "unreadable" : 0,
+    "notExported" : 24,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2683,
     "projectUUID" : "93C0BD74-2249-4288-B9A9-CA2CC320C348",
     "name" : "US, Georgia—Atlanta, Census of White and Colored Citizens, 1885–1888",
