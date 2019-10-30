@@ -3026,6 +3026,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3160,
+    "projectUUID" : "96D9E19F-5F06-4C91-843D-4945A821C437",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AR]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 23371,
+  "auditBatchCount" : 1099,
+  "imageCount" : 67810,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1099,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 22272,
+    "images" : 67810,
+    "recordCount" : 67349
+  },
+  "exportStateCounts" : {
+    "accepted" : 65962,
+    "exported" : 72,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3265,
+    "blocked" : 1523,
+    "duplicate" : 77,
+    "ned" : 125,
+    "unreadable" : 0,
+    "notExported" : 51,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2503,
     "projectUUID" : "2DDC6929-9268-45C9-AA74-08FBC720E708",
     "name" : "US, Washington—World War I Veteran's Compensation Fund Applications, 1921–1925",
