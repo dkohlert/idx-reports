@@ -10370,6 +10370,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3354,
+    "projectUUID" : "D4F2DAB2-69DC-4E69-81C3-88743CE87D66",
+    "name" : "US, Alabama, Jefferson County—Circuit Court Files, 1870–1916 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 3091,
+  "auditBatchCount" : 149,
+  "imageCount" : 77549,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 149,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 2942,
+    "images" : 77549,
+    "recordCount" : 25211
+  },
+  "exportStateCounts" : {
+    "accepted" : 22520,
+    "exported" : 1571,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1322,
+    "blocked" : 51485,
+    "duplicate" : 52,
+    "ned" : 1737,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 184,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2734,
     "projectUUID" : "5BA06869-336B-4EAB-BB75-01B92B68DA06",
     "name" : "Australia, South Australia—School Admission Registers, 1873–1985 [Part B]",
