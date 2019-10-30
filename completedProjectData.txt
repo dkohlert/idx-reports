@@ -17952,6 +17952,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3271,
+    "projectUUID" : "9E088018-E5CA-43D1-8695-3794ED649E56",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907–1995 [Part BA]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 24083,
+  "auditBatchCount" : 1140,
+  "imageCount" : 70054,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1140,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 22943,
+    "images" : 70054,
+    "recordCount" : 69764
+  },
+  "exportStateCounts" : {
+    "accepted" : 61074,
+    "exported" : 7098,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3413,
+    "blocked" : 1532,
+    "duplicate" : 135,
+    "ned" : 155,
+    "unreadable" : 0,
+    "notExported" : 60,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2381,
     "projectUUID" : "083F99AE-5DDA-4CE9-9428-4EC6EC48820D",
     "name" : "US, New Jersey—Birth Index, 1901–1903",
