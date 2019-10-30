@@ -8636,6 +8636,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3192,
+    "projectUUID" : "3807569B-1FCC-4913-8CA9-B81A0BD1B7A5",
+    "name" : "US—Obituaries of German Immigrants, 1950–2016 [Part E]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 3,
+  "batchCount" : 60,
+  "auditBatchCount" : 2,
+  "imageCount" : 288,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3,
+    "batchCount" : 58,
+    "images" : 288,
+    "recordCount" : 1092
+  },
+  "exportStateCounts" : {
+    "accepted" : 281,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 10,
+    "blocked" : 0,
+    "duplicate" : 7,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1982,
     "projectUUID" : "D2DE8C24-608E-43FD-862F-7D09F1A68721",
     "name" : "US, Rhode Island—Naturalization Records, 1907–1991 [Part C]",
