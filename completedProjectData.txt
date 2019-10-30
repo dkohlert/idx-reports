@@ -8398,6 +8398,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3357,
+    "projectUUID" : "4E250D31-69EB-4512-955C-FC4E929EEF46",
+    "name" : "Spain (Quick Batch), Gerona—Passport Records, 1717–1970",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 37,
+  "batchCount" : 3319,
+  "auditBatchCount" : 154,
+  "imageCount" : 19966,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 154,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 37,
+    "batchCount" : 3165,
+    "images" : 19966,
+    "recordCount" : 11885
+  },
+  "exportStateCounts" : {
+    "accepted" : 5576,
+    "exported" : 5409,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 538,
+    "blocked" : 8827,
+    "duplicate" : 8,
+    "ned" : 145,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1411,
     "projectUUID" : "D6A79524-35AF-45BF-A227-043199769092",
     "name" : "US, New York—County Naturalization Records, 1792–1976 [Part A]",
