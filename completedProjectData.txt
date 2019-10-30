@@ -26894,6 +26894,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3504,
+    "projectUUID" : "2E0D07E1-1A64-44A4-8E36-3342316DBDBD",
+    "name" : "US, Arkansas, Sevier County—Record of Voters, 1868–1966",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 3540,
+  "auditBatchCount" : 170,
+  "imageCount" : 3574,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 170,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 3370,
+    "images" : 3574,
+    "recordCount" : 212825
+  },
+  "exportStateCounts" : {
+    "accepted" : 3362,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 170,
+    "blocked" : 204,
+    "duplicate" : 0,
+    "ned" : 2,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2237,
     "projectUUID" : "C7A9AAAE-5F9D-4564-BE8F-4BC3F89C9E21",
     "name" : "Perú, Áncash—Registros Civiles, 1888–2000 [Parte D]",
