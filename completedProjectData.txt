@@ -15844,6 +15844,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3301,
+    "projectUUID" : "ECDB89C1-0D75-4717-B2CF-0C66243D8C6A",
+    "name" : "US, Wisconsin—Naturalization Records, 1848–1943",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 92,
+  "batchCount" : 5345,
+  "auditBatchCount" : 252,
+  "imageCount" : 27303,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 252,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 92,
+    "batchCount" : 5093,
+    "images" : 27303,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 22712,
+    "inProgress" : 0,
+    "audit" : 1130,
+    "blocked" : 4591,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1757,
     "projectUUID" : "AB120A8A-238D-4DD0-AD69-665B42A2ED86",
     "name" : "US, Ohio, Crawford County—Obituaries, 2004–2014",
