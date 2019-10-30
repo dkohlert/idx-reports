@@ -2754,6 +2754,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3230,
+    "projectUUID" : "E88A5D38-32D7-434A-919D-2657A124A13D",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AY]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 22114,
+  "auditBatchCount" : 1049,
+  "imageCount" : 64219,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1049,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 21065,
+    "images" : 64219,
+    "recordCount" : 63087
+  },
+  "exportStateCounts" : {
+    "accepted" : 32360,
+    "exported" : 30149,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3120,
+    "blocked" : 1517,
+    "duplicate" : 31,
+    "ned" : 149,
+    "unreadable" : 0,
+    "notExported" : 13,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2707,
     "projectUUID" : "5DDDFD48-38D6-4FA5-9422-4690F6AAA437",
     "name" : "US, Ohio, Summit County—Summit County Coroner Inquests, 1882–1922",
