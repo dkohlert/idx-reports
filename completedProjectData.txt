@@ -13226,6 +13226,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3013,
+    "projectUUID" : "F1CAD986-42E9-4E7A-A584-51FDB88FDCE6",
+    "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part R]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1500,
+  "batchCount" : 2510,
+  "auditBatchCount" : 45,
+  "imageCount" : 3909,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 45,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1500,
+    "batchCount" : 2465,
+    "images" : 3909,
+    "recordCount" : 39446
+  },
+  "exportStateCounts" : {
+    "accepted" : 2726,
+    "exported" : 6,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 56,
+    "blocked" : 373,
+    "duplicate" : 3,
+    "ned" : 793,
+    "unreadable" : 0,
+    "notExported" : 8,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3039,
     "projectUUID" : "2C75A2FA-7FD5-45CB-A0BE-F17A35FF745D",
     "name" : "US, Louisiana—Tombstone Inscriptions, 1812–1970",
