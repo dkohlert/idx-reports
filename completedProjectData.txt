@@ -8806,6 +8806,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3263,
+    "projectUUID" : "61AC4338-9A1B-4255-B7B2-C7544F6177CF",
+    "name" : "US, Maine—Births, Marriages, and Deaths, 1635–2003 [Part C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 119,
+  "auditBatchCount" : 6,
+  "imageCount" : 246,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 6,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 113,
+    "images" : 246,
+    "recordCount" : 3402
+  },
+  "exportStateCounts" : {
+    "accepted" : 156,
+    "exported" : 14,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 12,
+    "blocked" : 32,
+    "duplicate" : 9,
+    "ned" : 35,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3192,
     "projectUUID" : "3807569B-1FCC-4913-8CA9-B81A0BD1B7A5",
     "name" : "US—Obituaries of German Immigrants, 1950–2016 [Part E]",
