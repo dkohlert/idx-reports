@@ -26418,6 +26418,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3335,
+    "projectUUID" : "679592C1-D79B-4C29-BB0F-E98E91BFC759",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BE]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 400,
+  "batchCount" : 31958,
+  "auditBatchCount" : 1512,
+  "imageCount" : 93200,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1512,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 400,
+    "batchCount" : 30446,
+    "images" : 93200,
+    "recordCount" : 91465
+  },
+  "exportStateCounts" : {
+    "accepted" : 81450,
+    "exported" : 9146,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 4516,
+    "blocked" : 2262,
+    "duplicate" : 50,
+    "ned" : 232,
+    "unreadable" : 0,
+    "notExported" : 12,
+    "readyForExport" : 0,
+    "rejected" : 48,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1952,
     "projectUUID" : "41F3FD4D-C562-4FE2-866C-D1573FF4ADCD",
     "name" : "US, Colorado—Statewide Divorce Index, 1900–1939",
