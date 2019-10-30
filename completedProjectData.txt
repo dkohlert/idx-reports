@@ -4794,6 +4794,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2849,
+    "projectUUID" : "6F3E60DC-EDB1-404A-8097-1CEBEB6FF2F2",
+    "name" : "South Africa, Transvaal—Civil Registration, Deaths, 1869–1954 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 280,
+  "batchCount" : 85746,
+  "auditBatchCount" : 4073,
+  "imageCount" : 826145,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4073,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 280,
+    "batchCount" : 81673,
+    "images" : 826145,
+    "recordCount" : 784432
+  },
+  "exportStateCounts" : {
+    "accepted" : 735648,
+    "exported" : 47602,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 40659,
+    "blocked" : 11388,
+    "duplicate" : 29047,
+    "ned" : 1306,
+    "unreadable" : 0,
+    "notExported" : 1149,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2467,
     "projectUUID" : "337519B1-336C-4389-BDC3-59938EEF98A0",
     "name" : "US, Delaware—Delaware Public Archives, Birth Certificates, 1913–1915 [Part B]",
