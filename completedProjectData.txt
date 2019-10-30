@@ -24446,6 +24446,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3355,
+    "projectUUID" : "B9855E5A-933D-4F18-8F5C-DE633C60E163",
+    "name" : "US (Quick Batch), Maine, Kennebec County—Togus Cemetery Records",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 1047,
+  "auditBatchCount" : 50,
+  "imageCount" : 4476,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 50,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 997,
+    "images" : 4476,
+    "recordCount" : 4442
+  },
+  "exportStateCounts" : {
+    "accepted" : 139,
+    "exported" : 4302,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 223,
+    "blocked" : 32,
+    "duplicate" : 2,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2199,
     "projectUUID" : "D54B28ED-98DB-4AF2-93D8-28317DD5FC77",
     "name" : "US (Quick Batch), New Jersey—Naturalization Records, 1796–1991 [Part H]",
