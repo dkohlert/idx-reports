@@ -1836,6 +1836,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3393,
+    "projectUUID" : "0B5C9738-682E-4CCB-8609-970700D63038",
+    "name" : "US, California, Lassen County—Burial Permits, 1931–1988",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 2036,
+  "auditBatchCount" : 95,
+  "imageCount" : 9928,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 95,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 1941,
+    "images" : 9928,
+    "recordCount" : 8953
+  },
+  "exportStateCounts" : {
+    "accepted" : 8861,
+    "exported" : 55,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 475,
+    "blocked" : 229,
+    "duplicate" : 706,
+    "ned" : 71,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3507,
     "projectUUID" : "54E5360A-F617-46E4-BF4E-3D03DDB26B2A",
     "name" : "US, New York, New York City—World War II Draft Registration Cards, 1940–1947 [Part D]",
