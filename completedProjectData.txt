@@ -10574,6 +10574,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3565,
+    "projectUUID" : "9AA75E2B-35A6-4ACF-B245-08A02C57E645",
+    "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 9948,
+  "auditBatchCount" : 473,
+  "imageCount" : 10310,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 473,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 9475,
+    "images" : 10310,
+    "recordCount" : 114728
+  },
+  "exportStateCounts" : {
+    "accepted" : 9319,
+    "exported" : 5,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 473,
+    "blocked" : 836,
+    "duplicate" : 0,
+    "ned" : 43,
+    "unreadable" : 0,
+    "notExported" : 77,
+    "readyForExport" : 0,
+    "rejected" : 31,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3354,
     "projectUUID" : "D4F2DAB2-69DC-4E69-81C3-88743CE87D66",
     "name" : "US, Alabama, Jefferson County—Circuit Court Files, 1870–1916 [Part B]",
