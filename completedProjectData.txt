@@ -21352,6 +21352,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3134,
+    "projectUUID" : "A36797A7-EB5D-4385-B82A-631373342699",
+    "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part F]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 30257,
+  "auditBatchCount" : 1439,
+  "imageCount" : 289379,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1439,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 28818,
+    "images" : 289379,
+    "recordCount" : 287736
+  },
+  "exportStateCounts" : {
+    "accepted" : 148502,
+    "exported" : 138943,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 14389,
+    "blocked" : 1426,
+    "duplicate" : 395,
+    "ned" : 63,
+    "unreadable" : 0,
+    "notExported" : 50,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 529,
     "projectUUID" : "88188A81-EC92-4330-9359-D2B852BABE4F",
     "name" : "Brasil, Pernambuco—Óbitos, 1900–2011 (Parte 2B)",
