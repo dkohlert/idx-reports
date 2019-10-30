@@ -20978,6 +20978,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3394,
+    "projectUUID" : "033B0421-ABDD-433A-A5CE-18786E8C864B",
+    "name" : "US (Quick Batch), California, Mendocino County, Ukiah—Russian River Cemetery, Index to Burials, 1850–1990",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 4402,
+  "auditBatchCount" : 210,
+  "imageCount" : 12939,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 210,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 4192,
+    "images" : 12939,
+    "recordCount" : 11091
+  },
+  "exportStateCounts" : {
+    "accepted" : 11056,
+    "exported" : 28,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 630,
+    "blocked" : 380,
+    "duplicate" : 117,
+    "ned" : 1355,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1098,
     "projectUUID" : "5F6141A4-2EA6-4982-A5A0-781C5B65D400",
     "name" : "Australia—Cemetery Inscriptions and Newspaper Clippings, 1802–2005 [Part B]",
