@@ -11424,6 +11424,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3506,
+    "projectUUID" : "0FAB0F9D-05A7-4817-892D-245A8CAC8125",
+    "name" : "US, Wisconsin, Dane—Naturalization Records, 1887–1945",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 86,
+  "batchCount" : 5318,
+  "auditBatchCount" : 248,
+  "imageCount" : 34078,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 248,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 86,
+    "batchCount" : 5070,
+    "images" : 34078,
+    "recordCount" : 27389
+  },
+  "exportStateCounts" : {
+    "accepted" : 23987,
+    "exported" : 119,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1214,
+    "blocked" : 8931,
+    "duplicate" : 71,
+    "ned" : 852,
+    "unreadable" : 0,
+    "notExported" : 97,
+    "readyForExport" : 0,
+    "rejected" : 21,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2870,
     "projectUUID" : "A5D620C3-50F0-47B8-A879-1782ADD53FCF",
     "name" : "US, Texas, Gonzales County—Birth Records, 1878–1945 [Part A]",
