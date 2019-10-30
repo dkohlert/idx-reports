@@ -7752,6 +7752,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3248,
+    "projectUUID" : "1AC81222-FF10-458D-9ADF-5B60F7638EBE",
+    "name" : "US, Ohio, Clermont County—Duplicate Tax Records, 1838–1867",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 43,
+  "batchCount" : 19539,
+  "auditBatchCount" : 928,
+  "imageCount" : 24733,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 928,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 43,
+    "batchCount" : 18611,
+    "images" : 24733,
+    "recordCount" : 404970
+  },
+  "exportStateCounts" : {
+    "accepted" : 16069,
+    "exported" : 2298,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 943,
+    "blocked" : 5824,
+    "duplicate" : 0,
+    "ned" : 538,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 4,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3018,
     "projectUUID" : "405FD517-9ECD-4361-BA84-025B9809CA24",
     "name" : "US, Rhode Island—World War II Draft Registration Cards, 1940–1947 [Part A]",
