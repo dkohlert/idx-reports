@@ -15878,6 +15878,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3211,
+    "projectUUID" : "70AF5C7E-C5A4-4472-9268-82F7EE095C99",
+    "name" : "US, Pennsylvania, Pittsburgh—Allegheny Cemetery Records 1845–1960",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 4,
+  "batchCount" : 2311,
+  "auditBatchCount" : 110,
+  "imageCount" : 2465,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 110,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 4,
+    "batchCount" : 2201,
+    "images" : 2465,
+    "recordCount" : 104245
+  },
+  "exportStateCounts" : {
+    "accepted" : 836,
+    "exported" : 1329,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 110,
+    "blocked" : 264,
+    "duplicate" : 0,
+    "ned" : 36,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3031,
     "projectUUID" : "F160BC5E-07EF-4020-877A-7ABC42EF019C",
     "name" : "US, Georgia—World War I Draft Registration Cards, 1917–1918 [Part A]",
