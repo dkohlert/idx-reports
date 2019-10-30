@@ -23256,6 +23256,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3451,
+    "projectUUID" : "BAA0D1DF-9EEE-495B-B559-B45113D46757",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registration , 1888–2000 [Part AB]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 76,
+  "batchCount" : 2568,
+  "auditBatchCount" : 121,
+  "imageCount" : 12037,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 121,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 76,
+    "batchCount" : 2447,
+    "images" : 12037,
+    "recordCount" : 9765
+  },
+  "exportStateCounts" : {
+    "accepted" : 9554,
+    "exported" : 41,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 474,
+    "blocked" : 2407,
+    "duplicate" : 3,
+    "ned" : 32,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2871,
     "projectUUID" : "E7DECD3A-E9D0-418C-92C5-A49D67DC2498",
     "name" : "US, Ohio—Adjutant General's Office, World War I Enrollment Cards, 1914–1918",
