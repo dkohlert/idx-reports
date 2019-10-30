@@ -27098,6 +27098,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3186,
+    "projectUUID" : "3985AA0A-5DD2-4E06-B6D5-255CAD6C6B05",
+    "name" : "UK, England, Huntingdonshire—Parish Registers, 1538–1983",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 43,
+  "batchCount" : 8839,
+  "auditBatchCount" : 418,
+  "imageCount" : 29037,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 418,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 43,
+    "batchCount" : 8421,
+    "images" : 29037,
+    "recordCount" : 308804
+  },
+  "exportStateCounts" : {
+    "accepted" : 14067,
+    "exported" : 213,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 764,
+    "blocked" : 13651,
+    "duplicate" : 52,
+    "ned" : 1052,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1929,
     "projectUUID" : "0655A536-F58A-4757-BB06-348A78B40DC8",
     "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte B]",
