@@ -18088,6 +18088,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3432,
+    "projectUUID" : "310DA8B8-E437-4D83-B8E8-EF931B609F0C",
+    "name" : "US, Idaho—Naturalizations, 1892–1990 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 101,
+  "batchCount" : 2314,
+  "auditBatchCount" : 109,
+  "imageCount" : 32116,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 109,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 101,
+    "batchCount" : 2205,
+    "images" : 32116,
+    "recordCount" : 15962
+  },
+  "exportStateCounts" : {
+    "accepted" : 15053,
+    "exported" : 310,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 832,
+    "blocked" : 14903,
+    "duplicate" : 112,
+    "ned" : 1690,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 41,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1856,
     "projectUUID" : "01523E22-A79A-4243-8795-0A69B9825D38",
     "name" : "Philippines—National Offices, Civil Registration of Marriages, 1945–1987 [Part D]",
