@@ -17952,6 +17952,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3517,
+    "projectUUID" : "F6A05ED3-C8F9-4E71-AEDC-EA426BA11040",
+    "name" : "US, Virginia—Slave Birth Index, 1853–1866",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 3,
+  "batchCount" : 2749,
+  "auditBatchCount" : 131,
+  "imageCount" : 2679,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 131,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3,
+    "batchCount" : 2618,
+    "images" : 2679,
+    "recordCount" : 155001
+  },
+  "exportStateCounts" : {
+    "accepted" : 2614,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 131,
+    "blocked" : 61,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2465,
     "projectUUID" : "FACACC67-C8CA-44F4-9D62-7E331DB2ECF6",
     "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part F]",
