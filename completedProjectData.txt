@@ -2346,6 +2346,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3214,
+    "projectUUID" : "00A60792-5C27-494A-87F1-CDAFA87EA7BC",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AW]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 22962,
+  "auditBatchCount" : 1078,
+  "imageCount" : 66840,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1078,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 21884,
+    "images" : 66840,
+    "recordCount" : 66837
+  },
+  "exportStateCounts" : {
+    "accepted" : 30136,
+    "exported" : 34808,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3219,
+    "blocked" : 1497,
+    "duplicate" : 231,
+    "ned" : 141,
+    "unreadable" : 0,
+    "notExported" : 27,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1985,
     "projectUUID" : "FD777D2D-EACC-4E40-A8EF-0A25F9C299E0",
     "name" : "US, Iowa—World War II Draft Registration Cards, 1940–1945 [Part A]",
