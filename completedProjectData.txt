@@ -3298,6 +3298,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3453,
+    "projectUUID" : "8C4874A9-0E95-4764-BC81-12578B5C1360",
+    "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 10,
+  "batchCount" : 2064,
+  "auditBatchCount" : 98,
+  "imageCount" : 2056,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 98,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 10,
+    "batchCount" : 1966,
+    "images" : 2056,
+    "recordCount" : 24819
+  },
+  "exportStateCounts" : {
+    "accepted" : 294,
+    "exported" : 1635,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 98,
+    "blocked" : 90,
+    "duplicate" : 0,
+    "ned" : 37,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3152,
     "projectUUID" : "EC5D0D96-8378-4679-B0CE-7BF59B12D483",
     "name" : "US, Iowa—Old Age Assistance Records, 1934–1946 [Part F]",
