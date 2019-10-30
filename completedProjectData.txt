@@ -6732,6 +6732,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2968,
+    "projectUUID" : "CF9B4476-BD7B-4CAC-B3F9-828B33F5714F",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AO]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 21419,
+  "auditBatchCount" : 1023,
+  "imageCount" : 62433,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1023,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 20396,
+    "images" : 62433,
+    "recordCount" : 61246
+  },
+  "exportStateCounts" : {
+    "accepted" : 60526,
+    "exported" : 46,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3052,
+    "blocked" : 1586,
+    "duplicate" : 97,
+    "ned" : 106,
+    "unreadable" : 0,
+    "notExported" : 72,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2064,
     "projectUUID" : "31793D8D-578F-4EC4-802A-0CED0B5FA903",
     "name" : "Portugal, Aveiro—Civil Registration, 1911–1915",
