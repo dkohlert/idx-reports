@@ -1700,6 +1700,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3324,
+    "projectUUID" : "DD1C52E9-1DC4-4D0A-AE07-AE6DFCA0B32B",
+    "name" : "US, Montana—Naturalizations, 1868–1999",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 8,
+  "batchCount" : 995,
+  "auditBatchCount" : 46,
+  "imageCount" : 3680,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 46,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 8,
+    "batchCount" : 949,
+    "images" : 3680,
+    "recordCount" : 7490
+  },
+  "exportStateCounts" : {
+    "accepted" : 8,
+    "exported" : 2292,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 123,
+    "blocked" : 1161,
+    "duplicate" : 7,
+    "ned" : 212,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2674,
     "projectUUID" : "DF62C2CA-FEA3-475C-B5EB-38BC235EAD35",
     "name" : "Peru, Cusco—Registros Civiles, 1889–1997 [Parte 2V]",
