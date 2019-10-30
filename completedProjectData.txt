@@ -27302,6 +27302,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3221,
+    "projectUUID" : "B55D0A30-25D5-4FB5-ABEC-8DDBE821502F",
+    "name" : "France, Haute-Vienne—Recensement de 1836",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 35,
+  "batchCount" : 4464,
+  "auditBatchCount" : 213,
+  "imageCount" : 29672,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 213,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 35,
+    "batchCount" : 4251,
+    "images" : 29672,
+    "recordCount" : 242042
+  },
+  "exportStateCounts" : {
+    "accepted" : 4134,
+    "exported" : 20,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 213,
+    "blocked" : 25421,
+    "duplicate" : 0,
+    "ned" : 84,
+    "unreadable" : 0,
+    "notExported" : 13,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1701,
     "projectUUID" : "F7207875-30A2-45E7-AE47-0B9F4C626201",
     "name" : "US—Native American Vital Records, 1885–1940 [Part A]",
