@@ -12376,6 +12376,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3363,
+    "projectUUID" : "450D181E-11AB-4090-85E1-52A5EC39FAD3",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part X]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 399,
+  "batchCount" : 9887,
+  "auditBatchCount" : 463,
+  "imageCount" : 41220,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 463,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 399,
+    "batchCount" : 9424,
+    "images" : 41220,
+    "recordCount" : 37316
+  },
+  "exportStateCounts" : {
+    "accepted" : 19939,
+    "exported" : 16073,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1780,
+    "blocked" : 4808,
+    "duplicate" : 88,
+    "ned" : 296,
+    "unreadable" : 0,
+    "notExported" : 8,
+    "readyForExport" : 0,
+    "rejected" : 8,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2347,
     "projectUUID" : "93057411-E256-4F0F-A72D-2330ADF52F8C",
     "name" : "Perú, Diocesis de Huacho—Registros Parroquiales, 1560—1952 [Parte F]",
