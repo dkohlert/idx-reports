@@ -27880,6 +27880,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3198,
+    "projectUUID" : "F0C17FDA-FA90-46F0-9530-B674672F278C",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AV]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 25170,
+  "auditBatchCount" : 1198,
+  "imageCount" : 73124,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1198,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 23972,
+    "images" : 73124,
+    "recordCount" : 72736
+  },
+  "exportStateCounts" : {
+    "accepted" : 70083,
+    "exported" : 1251,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3573,
+    "blocked" : 1621,
+    "duplicate" : 61,
+    "ned" : 87,
+    "unreadable" : 0,
+    "notExported" : 21,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1556,
     "projectUUID" : "0B455F4D-C54E-44C8-B272-5573E52AF630",
     "name" : "US, Maine—Naturalization Records, 1918–1991 [Part B]",
