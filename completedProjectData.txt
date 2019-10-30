@@ -14790,6 +14790,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3420,
+    "projectUUID" : "4609F229-83D3-44AA-9F0A-1D00F71E69EF",
+    "name" : "US, Alabama, Jefferson County—Circuit Court Files, 1870–1916 [Part C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 330,
+  "batchCount" : 5614,
+  "auditBatchCount" : 269,
+  "imageCount" : 130823,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 269,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 330,
+    "batchCount" : 5345,
+    "images" : 130823,
+    "recordCount" : 48581
+  },
+  "exportStateCounts" : {
+    "accepted" : 32152,
+    "exported" : 15020,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2607,
+    "blocked" : 79233,
+    "duplicate" : 452,
+    "ned" : 3828,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 137,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2666,
     "projectUUID" : "72506472-0431-4B0F-9152-F45B9A9A4FC6",
     "name" : "US, Michigan—Census of World War I Veterans, 1917–1919",
