@@ -17884,6 +17884,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3223,
+    "projectUUID" : "F34E4D12-9724-47B6-8358-422916125413",
+    "name" : "Brasil, Bahia—Listas de passageiros, 1855–1965 [Parte A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 99,
+  "batchCount" : 40532,
+  "auditBatchCount" : 1929,
+  "imageCount" : 39002,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1929,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 38603,
+    "images" : 39002,
+    "recordCount" : 2109286
+  },
+  "exportStateCounts" : {
+    "accepted" : 36159,
+    "exported" : 2135,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1929,
+    "blocked" : 399,
+    "duplicate" : 0,
+    "ned" : 283,
+    "unreadable" : 0,
+    "notExported" : 25,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1973,
     "projectUUID" : "A39520FC-1D1C-454C-BDF8-3DE3DCB1F805",
     "name" : "Ireland—Civil Registration, Marriages, 1845–1870 [Part C]",
