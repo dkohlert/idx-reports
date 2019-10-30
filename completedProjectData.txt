@@ -19822,6 +19822,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3072,
+    "projectUUID" : "648E3DC5-9E93-470E-A5E3-F9E1E3B96EAE",
+    "name" : "US, New York, Westchester—Index to Land Records, Grantee's, 1630-1975 [Part D]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 139,
+  "batchCount" : 60191,
+  "auditBatchCount" : 2870,
+  "imageCount" : 66541,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2870,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 139,
+    "batchCount" : 57321,
+    "images" : 66541,
+    "recordCount" : 2419722
+  },
+  "exportStateCounts" : {
+    "accepted" : 37410,
+    "exported" : 19677,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2870,
+    "blocked" : 9219,
+    "duplicate" : 0,
+    "ned" : 220,
+    "unreadable" : 0,
+    "notExported" : 13,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2008,
     "projectUUID" : "CEB8D505-95B0-43EB-A1DB-259F35EE9399",
     "name" : "Paraguay, Asunción—Registros Parroquiales, 1915–1973 [Parte B]",
