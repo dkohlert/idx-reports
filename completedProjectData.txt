@@ -850,6 +850,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3466,
+    "projectUUID" : "B6721716-EEA6-4F3A-8607-6E8F71A70EB7",
+    "name" : "US, Pennsylvania, Pittsburgh—Allegheny Cemetery Records, Interment Records, 1845–1960",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 30605,
+  "auditBatchCount" : 1457,
+  "imageCount" : 36081,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1457,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 29148,
+    "images" : 36081,
+    "recordCount" : 59735
+  },
+  "exportStateCounts" : {
+    "accepted" : 6564,
+    "exported" : 29360,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1799,
+    "blocked" : 94,
+    "duplicate" : 33,
+    "ned" : 20,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3499,
     "projectUUID" : "F7B69D2E-ABEC-4C89-B9E6-4AE4202977EC",
     "name" : "US, Missouri—1880 Census [Part C]",
