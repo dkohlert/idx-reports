@@ -17986,6 +17986,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2952,
+    "projectUUID" : "61FFF8CF-7C39-4EC9-B00A-4D38D956E879",
+    "name" : "UK, England, Cambridgeshire—Parish Registers, 1754–1950",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 98,
+  "batchCount" : 35335,
+  "auditBatchCount" : 1682,
+  "imageCount" : 68890,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1682,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 98,
+    "batchCount" : 33653,
+    "images" : 68890,
+    "recordCount" : 471637
+  },
+  "exportStateCounts" : {
+    "accepted" : 32576,
+    "exported" : 327,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1682,
+    "blocked" : 35226,
+    "duplicate" : 0,
+    "ned" : 572,
+    "unreadable" : 0,
+    "notExported" : 189,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2518,
     "projectUUID" : "AC463F4F-37DA-48F4-AA7A-21C1F78E39AF",
     "name" : "Australia, South Australia—School Admission Registers, 1873–1985 [Part A]",
