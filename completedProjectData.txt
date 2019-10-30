@@ -16014,6 +16014,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3604,
+    "projectUUID" : "340F46C5-5A3A-4CEC-BD21-951C7D3672C6",
+    "name" : "US, Colorado, Jefferson County, Wheatridge—Crown Hill Cemetery Records, 1900–1950",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 1391,
+  "auditBatchCount" : 66,
+  "imageCount" : 1334,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 66,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 1325,
+    "images" : 1334,
+    "recordCount" : 27583
+  },
+  "exportStateCounts" : {
+    "accepted" : 1321,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 66,
+    "blocked" : 9,
+    "duplicate" : 0,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3162,
     "projectUUID" : "37BE46C6-171F-4D8D-A84D-7C65DFA3E561",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AS]",
