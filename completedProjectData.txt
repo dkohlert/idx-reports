@@ -23120,6 +23120,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3372,
+    "projectUUID" : "949F0E78-12EE-4416-82DA-F0F49891CAB2",
+    "name" : "US, Oklahoma, Oklahoma City, Rose Hill Burial Park—Interment Cards, 1917–1982",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 16,
+  "batchCount" : 7114,
+  "auditBatchCount" : 338,
+  "imageCount" : 29023,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 338,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 16,
+    "batchCount" : 6776,
+    "images" : 29023,
+    "recordCount" : 55781
+  },
+  "exportStateCounts" : {
+    "accepted" : 28469,
+    "exported" : 111,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1435,
+    "blocked" : 201,
+    "duplicate" : 149,
+    "ned" : 19,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 74,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2589,
     "projectUUID" : "05E90868-7B23-4DC0-8ACC-452954CD7BF4",
     "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, Casamentos, 1907–1995 [Parte I]",
