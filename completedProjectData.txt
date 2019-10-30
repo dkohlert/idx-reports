@@ -9452,6 +9452,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3116,
+    "projectUUID" : "0BF4C391-ED9C-4250-AFF5-7730799D78CB",
+    "name" : "US, New York—World War I Draft Registration Cards, 1917–1918 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 108,
+  "batchCount" : 132786,
+  "auditBatchCount" : 6323,
+  "imageCount" : 634744,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 6323,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 108,
+    "batchCount" : 126463,
+    "images" : 634744,
+    "recordCount" : 632235
+  },
+  "exportStateCounts" : {
+    "accepted" : 597824,
+    "exported" : 33526,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 31602,
+    "blocked" : 2708,
+    "duplicate" : 331,
+    "ned" : 291,
+    "unreadable" : 0,
+    "notExported" : 60,
+    "readyForExport" : 0,
+    "rejected" : 4,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1987,
     "projectUUID" : "D07AD81D-8A10-45FD-8346-09B4020A4598",
     "name" : "US, Georgia—Church Records, 1828–1991",
