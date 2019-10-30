@@ -16320,6 +16320,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3500,
+    "projectUUID" : "9609469F-84E6-4177-9AF8-13678B7EBBE7",
+    "name" : "US, Delaware—Baptism Record Index Cards, 1714–1890",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 460,
+  "auditBatchCount" : 22,
+  "imageCount" : 4424,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 22,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 438,
+    "images" : 4424,
+    "recordCount" : 4373
+  },
+  "exportStateCounts" : {
+    "accepted" : 4360,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 220,
+    "blocked" : 46,
+    "duplicate" : 15,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2009,
     "projectUUID" : "85695A09-CA45-43A8-AA88-1B081DD45853",
     "name" : "Polska, Radom—Ksiegi Metrykalne, 1733–1868 [Czesc 6]",
