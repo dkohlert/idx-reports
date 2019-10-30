@@ -8228,6 +8228,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2965,
+    "projectUUID" : "B6387A1B-AE91-42DD-94B9-D033082478B6",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AN]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 22768,
+  "auditBatchCount" : 1082,
+  "imageCount" : 66352,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1082,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 21686,
+    "images" : 66352,
+    "recordCount" : 64984
+  },
+  "exportStateCounts" : {
+    "accepted" : 64273,
+    "exported" : 58,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3227,
+    "blocked" : 1693,
+    "duplicate" : 82,
+    "ned" : 168,
+    "unreadable" : 0,
+    "notExported" : 78,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2738,
     "projectUUID" : "5C682796-2D37-40B3-9798-AAA76E6F8105",
     "name" : "Perú (Lote Rápido), Junín—Registros Civiles, 1890–1999 [Parte P]",
