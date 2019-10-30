@@ -6358,6 +6358,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3187,
+    "projectUUID" : "3BF3DD51-DC15-45ED-9166-B72D880EB582",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AT]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 24148,
+  "auditBatchCount" : 1140,
+  "imageCount" : 70575,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1140,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 23008,
+    "images" : 70575,
+    "recordCount" : 70610
+  },
+  "exportStateCounts" : {
+    "accepted" : 68206,
+    "exported" : 199,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3411,
+    "blocked" : 1846,
+    "duplicate" : 137,
+    "ned" : 127,
+    "unreadable" : 0,
+    "notExported" : 60,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1947,
     "projectUUID" : "B26183A2-BE31-4B1D-A521-68561D3D42A6",
     "name" : "US, Kansas—World War II Draft Registration Cards, 1940–1945",
