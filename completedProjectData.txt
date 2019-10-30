@@ -18530,6 +18530,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3004,
+    "projectUUID" : "6A6B95C0-78AB-4314-A407-49CFCA99C938",
+    "name" : "South Africa, KwaZulu Natal—Passenger Lists, 1860–1911 [Part A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 90,
+  "batchCount" : 7182,
+  "auditBatchCount" : 336,
+  "imageCount" : 7729,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 336,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 90,
+    "batchCount" : 6846,
+    "images" : 7729,
+    "recordCount" : 153963
+  },
+  "exportStateCounts" : {
+    "accepted" : 6694,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 336,
+    "blocked" : 880,
+    "duplicate" : 0,
+    "ned" : 148,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3057,
     "projectUUID" : "7F4079D8-B1A8-49E9-AED6-1378D26D95C7",
     "name" : "Chile—Registros Civiles, 1885–1932 [Parte M]",
