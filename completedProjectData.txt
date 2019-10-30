@@ -16218,6 +16218,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3554,
+    "projectUUID" : "0D86B115-EF87-4E41-80F6-99B6C986D422",
+    "name" : "US, North Carolina—Voter Registration Records, 1868–1898",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 4,
+  "batchCount" : 1680,
+  "auditBatchCount" : 81,
+  "imageCount" : 2015,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 81,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 4,
+    "batchCount" : 1599,
+    "images" : 2015,
+    "recordCount" : 15067
+  },
+  "exportStateCounts" : {
+    "accepted" : 1542,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 81,
+    "blocked" : 402,
+    "duplicate" : 0,
+    "ned" : 69,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2034,
     "projectUUID" : "A0F87CC1-0B53-40FA-A631-E9259F41B1B0",
     "name" : "US—Native American, Eastern Cherokee Indian Reservation Rolls, 1848–1970",
