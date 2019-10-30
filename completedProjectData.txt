@@ -5712,6 +5712,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1192,
+    "projectUUID" : "FC0C00B1-4B3A-42D4-8D32-6070C3A64277",
+    "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2Z]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 463,
+  "auditBatchCount" : 22,
+  "imageCount" : 8736,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 22,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 441,
+    "images" : 8736,
+    "recordCount" : 2375
+  },
+  "exportStateCounts" : {
+    "accepted" : 274,
+    "exported" : 2097,
+    "failed" : 0,
+    "inProgress" : 1939,
+    "audit" : 220,
+    "blocked" : 4373,
+    "duplicate" : 51,
+    "ned" : 2,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2667,
     "projectUUID" : "80A6C3CB-41F0-428A-AB3C-5C1568FBCA47",
     "name" : "US, New Hampshire—World War II Draft Registration Cards, 1940–1945",
