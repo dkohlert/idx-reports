@@ -8126,6 +8126,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3367,
+    "projectUUID" : "A60D2ED5-505B-4CB5-BAB7-F11844A237A4",
+    "name" : "US, California—County Marriage Records, 1850–1952 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 3,
+  "batchCount" : 947,
+  "auditBatchCount" : 45,
+  "imageCount" : 3434,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 45,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3,
+    "batchCount" : 902,
+    "images" : 3434,
+    "recordCount" : 48526
+  },
+  "exportStateCounts" : {
+    "accepted" : 193,
+    "exported" : 1392,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 90,
+    "blocked" : 1630,
+    "duplicate" : 20,
+    "ned" : 199,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2601,
     "projectUUID" : "AB484CE6-DBBC-4995-9672-8F1BF8F76901",
     "name" : "US, Virginia—Danville City Cemetery Records, 1833–2006",
