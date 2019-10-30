@@ -4114,6 +4114,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2883,
+    "projectUUID" : "0E29340C-F8FA-42CE-8245-2C303D9D679A",
+    "name" : "Cabo Verde, Ilha de Santiago—Registros da igreja catolica, 1834–1946 [Parte B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 169,
+  "batchCount" : 2225,
+  "auditBatchCount" : 113,
+  "imageCount" : 8655,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 113,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 169,
+    "batchCount" : 2112,
+    "images" : 8655,
+    "recordCount" : 24029
+  },
+  "exportStateCounts" : {
+    "accepted" : 7549,
+    "exported" : 128,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 424,
+    "blocked" : 638,
+    "duplicate" : 13,
+    "ned" : 323,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1100,
     "projectUUID" : "EA2540AD-5CCA-45B5-8BB6-F0FC8E7D6B52",
     "name" : "UK, England, Surrey—Parish Registers, 1754–1992 [Part C]",
