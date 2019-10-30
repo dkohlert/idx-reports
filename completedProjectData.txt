@@ -24786,6 +24786,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2932,
+    "projectUUID" : "A0C84831-E3D6-4CD7-9421-7F8C7EF5CEE3",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte Y]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 258,
+  "batchCount" : 19935,
+  "auditBatchCount" : 938,
+  "imageCount" : 61888,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 938,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 258,
+    "batchCount" : 18997,
+    "images" : 61888,
+    "recordCount" : 53702
+  },
+  "exportStateCounts" : {
+    "accepted" : 51660,
+    "exported" : 48,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2812,
+    "blocked" : 4831,
+    "duplicate" : 43,
+    "ned" : 5062,
+    "unreadable" : 0,
+    "notExported" : 244,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2089,
     "projectUUID" : "FA009701-BD8A-414F-A162-367CFA4D1973",
     "name" : "US, California, Los Angeles County—County Death Records, 1898–1978 [Part D]",
