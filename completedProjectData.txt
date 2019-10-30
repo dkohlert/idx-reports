@@ -6188,6 +6188,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3066,
+    "projectUUID" : "7E286FE3-0700-44FD-920B-5DC0A952EE32",
+    "name" : "US, Arizona, Nogales—Index and Manifests of Alien Arrivals, 1905–1952",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 74,
+  "batchCount" : 52316,
+  "auditBatchCount" : 2498,
+  "imageCount" : 501858,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2498,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 74,
+    "batchCount" : 49818,
+    "images" : 501858,
+    "recordCount" : 501952
+  },
+  "exportStateCounts" : {
+    "accepted" : 442716,
+    "exported" : 52853,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 24959,
+    "blocked" : 4050,
+    "duplicate" : 713,
+    "ned" : 828,
+    "unreadable" : 0,
+    "notExported" : 689,
+    "readyForExport" : 0,
+    "rejected" : 9,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2749,
     "projectUUID" : "AD072A37-45BE-4826-B942-315CB7A6B90C",
     "name" : "US—Obituaries, 1980–2014 [Part 2AO]",
