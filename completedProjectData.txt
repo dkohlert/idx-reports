@@ -12512,6 +12512,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3345,
+    "projectUUID" : "BCD513ED-7C2A-4CF8-861D-C52A3568388C",
+    "name" : "US (Quick Batch), Montana—Manifests of Alien Arrivals, 1917–1956",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 73,
+  "batchCount" : 52451,
+  "auditBatchCount" : 2494,
+  "imageCount" : 428623,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2494,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 73,
+    "batchCount" : 49957,
+    "images" : 428623,
+    "recordCount" : 217231
+  },
+  "exportStateCounts" : {
+    "accepted" : 189854,
+    "exported" : 24448,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 10870,
+    "blocked" : 210877,
+    "duplicate" : 260,
+    "ned" : 2820,
+    "unreadable" : 0,
+    "notExported" : 346,
+    "readyForExport" : 0,
+    "rejected" : 18,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2764,
     "projectUUID" : "BED595C9-339E-400E-A1F2-A5F60EA8CBA3",
     "name" : "US (Quick Batch), North Carolina—Cemetery Inscription Card Index, 1800–1972",
