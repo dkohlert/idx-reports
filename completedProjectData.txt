@@ -30668,6 +30668,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3601,
+    "projectUUID" : "3D77FD23-DA96-4FEF-A431-AE3160823BA0",
+    "name" : "Guatemala—Civil Registration, 1885–2009 [Part J]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 140,
+  "batchCount" : 10067,
+  "auditBatchCount" : 478,
+  "imageCount" : 52244,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 114,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 140,
+    "batchCount" : 9589,
+    "images" : 52244,
+    "recordCount" : 480
+  },
+  "exportStateCounts" : {
+    "accepted" : 264,
+    "exported" : 5,
+    "failed" : 1033,
+    "inProgress" : 45704,
+    "audit" : 570,
+    "blocked" : 4651,
+    "duplicate" : 23,
+    "ned" : 563,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2355,
     "projectUUID" : "0CB7A86D-2678-42CB-9EAE-B1675A9702BA",
     "name" : "Brasil, São Paulo—Registros Civis, Matrimônios, 1907–1995 [Parte B]",
