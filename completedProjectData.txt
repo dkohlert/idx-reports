@@ -23188,6 +23188,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3615,
+    "projectUUID" : "46A0D341-E01A-41F0-B1D9-A257F27CBBBB",
+    "name" : "US, Tennessee, Shelby County, Memphis—Death Records, 1848–1913 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 15,
+  "batchCount" : 4742,
+  "auditBatchCount" : 224,
+  "imageCount" : 45329,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 212,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 15,
+    "batchCount" : 4518,
+    "images" : 45329,
+    "recordCount" : 16289
+  },
+  "exportStateCounts" : {
+    "accepted" : 16237,
+    "exported" : 40,
+    "failed" : 1730,
+    "inProgress" : 26683,
+    "audit" : 2119,
+    "blocked" : 224,
+    "duplicate" : 19,
+    "ned" : 396,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2461,
     "projectUUID" : "CA6C36F8-7EF1-499D-A441-0728362286CB",
     "name" : "US, Kentucky—World War II Draft Registration Cards, 1940-1945 [Part A]",
