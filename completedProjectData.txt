@@ -22712,6 +22712,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2580,
+    "projectUUID" : "690AEF5A-D245-49ED-90D0-0E2E3EF099CB",
+    "name" : "Guatemala—Registros Civiles, 1885–2009 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 160,
+  "batchCount" : 9168,
+  "auditBatchCount" : 431,
+  "imageCount" : 45144,
+  "blockedCount" : 3556,
+  "iesAuditBatchCount" : 431,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 160,
+    "batchCount" : 8736,
+    "images" : 45140,
+    "recordCount" : 11649
+  },
+  "exportStateCounts" : {
+    "accepted" : 8636,
+    "exported" : 491,
+    "failed" : 49,
+    "inProgress" : 20897,
+    "audit" : 2046,
+    "blocked" : 3556,
+    "duplicate" : 286,
+    "ned" : 11206,
+    "unreadable" : 0,
+    "notExported" : 14,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2461,
     "projectUUID" : "CA6C36F8-7EF1-499D-A441-0728362286CB",
     "name" : "US, Kentucky—World War II Draft Registration Cards, 1940-1945 [Part A]",
