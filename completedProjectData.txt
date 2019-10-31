@@ -23358,6 +23358,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3591,
+    "projectUUID" : "5C067B94-B5D3-4EAE-9358-08882D03D38B",
+    "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part P]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 34,
+  "batchCount" : 39509,
+  "auditBatchCount" : 1880,
+  "imageCount" : 172045,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1880,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 34,
+    "batchCount" : 37629,
+    "images" : 172045,
+    "recordCount" : 123265
+  },
+  "exportStateCounts" : {
+    "accepted" : 122628,
+    "exported" : 148,
+    "failed" : 40,
+    "inProgress" : 45705,
+    "audit" : 8441,
+    "blocked" : 3308,
+    "duplicate" : 5,
+    "ned" : 179,
+    "unreadable" : 0,
+    "notExported" : 28,
+    "readyForExport" : 0,
+    "rejected" : 4,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1550,
     "projectUUID" : "4104188D-600D-442F-BFF0-64E4E333864B",
     "name" : "US, Iowa—Old Age Assistance Records, 1934–1946 [Part D]",
