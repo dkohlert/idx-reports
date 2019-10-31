@@ -1326,6 +1326,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3602,
+    "projectUUID" : "423F11FB-9240-4AA1-A433-7DE65253D9B9",
+    "name" : "US, Mississippi, Adams County—Natchez Death Index, 1835–1905",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 542,
+  "auditBatchCount" : 26,
+  "imageCount" : 1213,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 26,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 516,
+    "images" : 1213,
+    "recordCount" : 22273
+  },
+  "exportStateCounts" : {
+    "accepted" : 500,
+    "exported" : 4,
+    "failed" : 0,
+    "inProgress" : 2,
+    "audit" : 26,
+    "blocked" : 696,
+    "duplicate" : 0,
+    "ned" : 4,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 7,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2762,
     "projectUUID" : "A4B473DB-B432-4A20-B409-7ACF1EE41E44",
     "name" : "US, North Dakota—Red River Valley Genealogical Society, Church Records, 1877–1999",
