@@ -31994,6 +31994,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2584,
+    "projectUUID" : "D02CA3F5-58FA-4F9D-9A60-A56BAB54AE52",
+    "name" : "Slovensko, Prešov— štátny oblastný archív záznamov cirkvi, 1592–1935 [Časť C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 10,
+  "batchCount" : 6353,
+  "auditBatchCount" : 302,
+  "imageCount" : 6527,
+  "blockedCount" : 470,
+  "iesAuditBatchCount" : 50,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 10,
+    "batchCount" : 1025,
+    "images" : 1495,
+    "recordCount" : 14399
+  },
+  "exportStateCounts" : {
+    "accepted" : 965,
+    "exported" : 6,
+    "failed" : 19,
+    "inProgress" : 19,
+    "audit" : 50,
+    "blocked" : 470,
+    "duplicate" : 0,
+    "ned" : 16,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1969,
     "projectUUID" : "5AD4F3C4-D56A-40D4-8D6F-5F02E1DE42EC",
     "name" : "Luxemburg—Meldeunterlagen, 1796–1923 [Part E]",
