@@ -16014,6 +16014,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2342,
+    "projectUUID" : "510A9ED0-02AC-42C0-B24F-679218D54B24",
+    "name" : "Italia (Antenati Italiani), Avellino—Nati, 1809–1899",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 121,
+  "batchCount" : 55109,
+  "auditBatchCount" : 2623,
+  "imageCount" : 352115,
+  "blockedCount" : 90088,
+  "iesAuditBatchCount" : 2,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 121,
+    "batchCount" : 85,
+    "images" : 90513,
+    "recordCount" : 110
+  },
+  "exportStateCounts" : {
+    "accepted" : 52,
+    "exported" : 0,
+    "failed" : 220,
+    "inProgress" : 145,
+    "audit" : 10,
+    "blocked" : 90088,
+    "duplicate" : 5,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2200,
     "projectUUID" : "09039927-D8C8-42DD-9276-4E02E1EB257D",
     "name" : "Brasil, (Lote Rápido) São Paulo—Registro Civil, Nascimento, 1907–1995 [Parte G]",
