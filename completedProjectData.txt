@@ -9894,6 +9894,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3110,
+    "projectUUID" : "DF2D859F-C5FC-41F1-B350-17C628541517",
+    "name" : "UK (Quick Batch), England, Derbyshire—Parish Registers, 1538–1753 [Part K]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 300,
+  "auditBatchCount" : 14,
+  "imageCount" : 340,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 14,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 286,
+    "images" : 340,
+    "recordCount" : 8291
+  },
+  "exportStateCounts" : {
+    "accepted" : 181,
+    "exported" : 24,
+    "failed" : 1,
+    "inProgress" : 1,
+    "audit" : 14,
+    "blocked" : 54,
+    "duplicate" : 0,
+    "ned" : 78,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2685,
     "projectUUID" : "4272FBB2-F609-4D9B-A09A-BFEE8A8C1E70",
     "name" : "US—Veterans Administration Master Index, World War I, 1861–1940 [Part C]",
