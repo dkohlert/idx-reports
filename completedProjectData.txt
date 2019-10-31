@@ -10132,6 +10132,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3111,
+    "projectUUID" : "0D4090C4-EBCB-4A3F-81D8-59351E4471AF",
+    "name" : "UK, Wales—National Library of Wales Marriage Bonds, 1564–1754 [Part E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 36,
+  "batchCount" : 4408,
+  "auditBatchCount" : 211,
+  "imageCount" : 23037,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 44,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 36,
+    "batchCount" : 4197,
+    "images" : 23037,
+    "recordCount" : 116
+  },
+  "exportStateCounts" : {
+    "accepted" : 116,
+    "exported" : 0,
+    "failed" : 415,
+    "inProgress" : 14521,
+    "audit" : 183,
+    "blocked" : 5590,
+    "duplicate" : 21,
+    "ned" : 2374,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2663,
     "projectUUID" : "B101D64E-FF93-405F-BCD7-74F8AD98E05B",
     "name" : "US, Connecticut—World War I, Military Census of Nurses, 1917",
