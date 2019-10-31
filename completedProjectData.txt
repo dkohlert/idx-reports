@@ -14926,6 +14926,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2327,
+    "projectUUID" : "5C9EF475-04BA-4949-89AA-476AEE5B5822",
+    "name" : "Chile—Registros Civiles, 1885—1932 [Parte L]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 164,
+  "batchCount" : 16730,
+  "auditBatchCount" : 788,
+  "imageCount" : 82710,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 788,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 164,
+    "batchCount" : 15942,
+    "images" : 82710,
+    "recordCount" : 256988
+  },
+  "exportStateCounts" : {
+    "accepted" : 67878,
+    "exported" : 524,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3476,
+    "blocked" : 12181,
+    "duplicate" : 610,
+    "ned" : 780,
+    "unreadable" : 0,
+    "notExported" : 737,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2276,
     "projectUUID" : "A21328DF-DA70-4950-91AA-8E68B749FFBC",
     "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part I]",
