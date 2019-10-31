@@ -22542,6 +22542,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2059,
+    "projectUUID" : "AA00D9F0-E501-40DC-ACF2-2FF26A05B78A",
+    "name" : "Deutschland, Sachsen-Anhalt, Halberstadt—Zivilstandsregister, 1874–1982",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 293,
+  "batchCount" : 21583,
+  "auditBatchCount" : 1018,
+  "imageCount" : 207372,
+  "blockedCount" : 2395,
+  "iesAuditBatchCount" : 901,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 292,
+    "batchCount" : 18109,
+    "images" : 182921,
+    "recordCount" : 91260
+  },
+  "exportStateCounts" : {
+    "accepted" : 90634,
+    "exported" : 5,
+    "failed" : 1886,
+    "inProgress" : 66000,
+    "audit" : 8979,
+    "blocked" : 2395,
+    "duplicate" : 12,
+    "ned" : 21989,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 564,
     "projectUUID" : "4F02B9D9-1261-4C3E-AE4A-D6F57446986D",
     "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2J]",
