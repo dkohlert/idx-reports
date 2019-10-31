@@ -3638,6 +3638,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3593,
+    "projectUUID" : "373DA2DF-9DF3-4CDE-BB34-6E4A30E363D1",
+    "name" : "UK, England, Oxfordshire—Bishop's Transcripts, 1539–1753",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 6183,
+  "auditBatchCount" : 293,
+  "imageCount" : 25080,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 25,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 5890,
+    "images" : 25080,
+    "recordCount" : 1769
+  },
+  "exportStateCounts" : {
+    "accepted" : 252,
+    "exported" : 5,
+    "failed" : 54,
+    "inProgress" : 5601,
+    "audit" : 25,
+    "blocked" : 19137,
+    "duplicate" : 0,
+    "ned" : 30,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3086,
     "projectUUID" : "57C3AD78-BEA8-488A-9186-E0855E684685",
     "name" : "US, West Virginia—World War I Draft Registration Cards, 1917–1918 [Part A]",
