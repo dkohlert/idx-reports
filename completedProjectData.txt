@@ -2346,6 +2346,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1800,
+    "projectUUID" : "D3824D3C-0C49-437E-90C0-6A7E62EBC070",
+    "name" : "Polska, Diecezja Lubelska — Księgi metrykalne kościoła rzymskokatolickiego, 1901–1950 [Część 5]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 28,
+  "batchCount" : 2954,
+  "auditBatchCount" : 138,
+  "imageCount" : 8590,
+  "blockedCount" : 183,
+  "iesAuditBatchCount" : 73,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 28,
+    "batchCount" : 1481,
+    "images" : 4604,
+    "recordCount" : 10289
+  },
+  "exportStateCounts" : {
+    "accepted" : 3383,
+    "exported" : 0,
+    "failed" : 594,
+    "inProgress" : 340,
+    "audit" : 219,
+    "blocked" : 183,
+    "duplicate" : 0,
+    "ned" : 104,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1966,
     "projectUUID" : "6798DEA3-F67F-4644-BA87-CDE2FA67A46E",
     "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part E]",
