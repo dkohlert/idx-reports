@@ -27302,6 +27302,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3360,
+    "projectUUID" : "47562644-A11D-4F8D-8F9B-803CBAC5C5A0",
+    "name" : "Peru, Iquitos—Cemetery Records, 1912–2013 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 17,
+  "batchCount" : 3108,
+  "auditBatchCount" : 148,
+  "imageCount" : 4507,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 148,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 17,
+    "batchCount" : 2960,
+    "images" : 4507,
+    "recordCount" : 72861
+  },
+  "exportStateCounts" : {
+    "accepted" : 1941,
+    "exported" : 993,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 190,
+    "blocked" : 693,
+    "duplicate" : 1,
+    "ned" : 822,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 57,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2882,
     "projectUUID" : "71200538-E280-4F50-8D6F-CF1C55AD9794",
     "name" : "US, Ohio, Columbus—Union Cemetery Association, Burial Records, 1878–1980",
