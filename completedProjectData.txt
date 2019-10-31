@@ -33216,4 +33216,38 @@
     "rejected" : 0,
     "published" : 0
   }
+}, {
+  "project" : {
+    "projectId" : 2851,
+    "projectUUID" : "59A979CA-AD2F-4B03-A17E-68814B592E0A",
+    "name" : "Perú (Lote Rápido), Ancash—Registro Civil, 1888–2000 [Parte P]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 11011,
+  "auditBatchCount" : 512,
+  "imageCount" : 44872,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 512,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 10499,
+    "images" : 44872,
+    "recordCount" : 41745
+  },
+  "exportStateCounts" : {
+    "accepted" : 40943,
+    "exported" : 139,
+    "failed" : 4,
+    "inProgress" : 4,
+    "audit" : 2030,
+    "blocked" : 3289,
+    "duplicate" : 20,
+    "ned" : 197,
+    "unreadable" : 0,
+    "notExported" : 258,
+    "readyForExport" : 0,
+    "rejected" : 18,
+    "published" : 0
+  }
 } ]
