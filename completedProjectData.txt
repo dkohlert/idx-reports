@@ -8500,6 +8500,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3330,
+    "projectUUID" : "E95E8F99-86F6-425E-A853-A0F4F20A8EBD",
+    "name" : "US, Alaska—Naturalizations, 1884–1991",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 217,
+  "batchCount" : 22929,
+  "auditBatchCount" : 1090,
+  "imageCount" : 152134,
+  "blockedCount" : 65773,
+  "iesAuditBatchCount" : 145,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 217,
+    "batchCount" : 3014,
+    "images" : 78682,
+    "recordCount" : 4857
+  },
+  "exportStateCounts" : {
+    "accepted" : 4811,
+    "exported" : 37,
+    "failed" : 121,
+    "inProgress" : 5784,
+    "audit" : 624,
+    "blocked" : 65773,
+    "duplicate" : 43,
+    "ned" : 2113,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2696,
     "projectUUID" : "831FDF3A-3E4A-4768-A799-FD8ABEE2101A",
     "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantors, 1630-1975 [Part B]",
