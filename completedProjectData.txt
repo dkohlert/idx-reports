@@ -3706,6 +3706,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2266,
+    "projectUUID" : "28D1E93A-C162-42AF-86B3-1E6B56D2CE42",
+    "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte O]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 505,
+  "batchCount" : 4420,
+  "auditBatchCount" : 198,
+  "imageCount" : 22699,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 198,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 505,
+    "batchCount" : 4222,
+    "images" : 22699,
+    "recordCount" : 35352
+  },
+  "exportStateCounts" : {
+    "accepted" : 19672,
+    "exported" : 5,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 932,
+    "blocked" : 2464,
+    "duplicate" : 21,
+    "ned" : 537,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2805,
     "projectUUID" : "1DCB7E73-543C-4DCF-8E56-90912D9A2B43",
     "name" : "US, Oregon—World War I, County Military Service Records, 1919–1920 [Part B]",
