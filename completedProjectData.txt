@@ -21148,6 +21148,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3516,
+    "projectUUID" : "2AF6FE72-D795-4320-82E7-C06A4EE02BFC",
+    "name" : "US, Wisconsin, Milwaukee—Pilgrim's Rest Cemetery Records, 1880–1979",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 4,
+  "batchCount" : 1635,
+  "auditBatchCount" : 79,
+  "imageCount" : 15572,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 79,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 4,
+    "batchCount" : 1556,
+    "images" : 15572,
+    "recordCount" : 15599
+  },
+  "exportStateCounts" : {
+    "accepted" : 15523,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 782,
+    "blocked" : 29,
+    "duplicate" : 13,
+    "ned" : 7,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2163,
     "projectUUID" : "FCB7FB5A-B331-4172-8427-06C08D92343E",
     "name" : "UK, England, Lancashire, Oldham—Cemetery Registers, 1950–1999 [Part B]",
