@@ -31790,6 +31790,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2843,
+    "projectUUID" : "3460D229-3CE1-417C-A995-CD34D3724988",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AC]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 22558,
+  "auditBatchCount" : 1069,
+  "imageCount" : 65582,
+  "blockedCount" : 1538,
+  "iesAuditBatchCount" : 780,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 15776,
+    "images" : 48535,
+    "recordCount" : 950
+  },
+  "exportStateCounts" : {
+    "accepted" : 937,
+    "exported" : 0,
+    "failed" : 303,
+    "inProgress" : 44888,
+    "audit" : 2324,
+    "blocked" : 1538,
+    "duplicate" : 87,
+    "ned" : 782,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2201,
     "projectUUID" : "01184538-EFCB-4382-BB0B-79BDECE705F2",
     "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte F]",
