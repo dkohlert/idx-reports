@@ -23188,6 +23188,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3623,
+    "projectUUID" : "B553916F-A618-487E-8A61-EE89437CD1EF",
+    "name" : "US, New York, Central Regions—Index to Land Records, Grantee's, 1630-1975 [Part F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 59,
+  "batchCount" : 32636,
+  "auditBatchCount" : 1554,
+  "imageCount" : 34594,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 52,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 59,
+    "batchCount" : 31082,
+    "images" : 34594,
+    "recordCount" : 28581
+  },
+  "exportStateCounts" : {
+    "accepted" : 609,
+    "exported" : 1,
+    "failed" : 59,
+    "inProgress" : 30410,
+    "audit" : 52,
+    "blocked" : 3512,
+    "duplicate" : 0,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2485,
     "projectUUID" : "F4B2653D-C473-47AB-8147-17D2C64BE8D9",
     "name" : "US (Quick Batch), Texas—Birth Records, 1916–1920",
