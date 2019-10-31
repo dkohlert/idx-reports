@@ -2584,6 +2584,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2836,
+    "projectUUID" : "0321A78C-A5E3-406E-9723-C9F2133D603F",
+    "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 50610,
+  "auditBatchCount" : 2396,
+  "imageCount" : 100298,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2396,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 48214,
+    "images" : 100298,
+    "recordCount" : 176579
+  },
+  "exportStateCounts" : {
+    "accepted" : 52821,
+    "exported" : 7714,
+    "failed" : 6,
+    "inProgress" : 33388,
+    "audit" : 4783,
+    "blocked" : 4159,
+    "duplicate" : 33,
+    "ned" : 2012,
+    "unreadable" : 0,
+    "notExported" : 120,
+    "readyForExport" : 0,
+    "rejected" : 45,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3214,
     "projectUUID" : "00A60792-5C27-494A-87F1-CDAFA87EA7BC",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AW]",
