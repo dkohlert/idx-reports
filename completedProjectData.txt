@@ -17442,6 +17442,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2156,
+    "projectUUID" : "ED9830E2-4783-4231-AF24-26E5070258DC",
+    "name" : "Italia (Antenati Italiani), Benevento—Matrimoni, 1810–1942 [Parte E]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 190,
+  "batchCount" : 1115,
+  "auditBatchCount" : 54,
+  "imageCount" : 8120,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 54,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 190,
+    "batchCount" : 1061,
+    "images" : 8120,
+    "recordCount" : 4819
+  },
+  "exportStateCounts" : {
+    "accepted" : 4813,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 257,
+    "blocked" : 3148,
+    "duplicate" : 3,
+    "ned" : 105,
+    "unreadable" : 0,
+    "notExported" : 50,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2665,
     "projectUUID" : "682DF250-12A6-466E-B837-3B45423BDF86",
     "name" : "US, Arizona, Gila County—Cemetery Records, 1927–1994",
