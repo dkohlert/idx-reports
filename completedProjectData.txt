@@ -2346,6 +2346,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1803,
+    "projectUUID" : "3DB8E074-8708-47ED-9D96-BDB3EA6D0160",
+    "name" : "Deutschland, Sachsen—Volkszählungslisten, 1770–1934",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 46,
+  "batchCount" : 32105,
+  "auditBatchCount" : 1530,
+  "imageCount" : 33173,
+  "blockedCount" : 2562,
+  "iesAuditBatchCount" : 270,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 46,
+    "batchCount" : 5343,
+    "images" : 7906,
+    "recordCount" : 95939
+  },
+  "exportStateCounts" : {
+    "accepted" : 3053,
+    "exported" : 240,
+    "failed" : 0,
+    "inProgress" : 2030,
+    "audit" : 270,
+    "blocked" : 2562,
+    "duplicate" : 0,
+    "ned" : 17,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1800,
     "projectUUID" : "D3824D3C-0C49-437E-90C0-6A7E62EBC070",
     "name" : "Polska, Diecezja Lubelska — Księgi metrykalne kościoła rzymskokatolickiego, 1901–1950 [Część 5]",
