@@ -29784,6 +29784,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3595,
+    "projectUUID" : "DF35ECB4-853E-413A-BCC6-9EF806E112D2",
+    "name" : "US, Georgia—County Delayed Birth and Death Records, 1870–1960",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 17,
+  "batchCount" : 3433,
+  "auditBatchCount" : 163,
+  "imageCount" : 5153,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 163,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 17,
+    "batchCount" : 3270,
+    "images" : 5153,
+    "recordCount" : 100566
+  },
+  "exportStateCounts" : {
+    "accepted" : 3099,
+    "exported" : 23,
+    "failed" : 0,
+    "inProgress" : 7,
+    "audit" : 163,
+    "blocked" : 1879,
+    "duplicate" : 0,
+    "ned" : 145,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2468,
     "projectUUID" : "91717981-495C-4D70-B4B1-4D840FEA2058",
     "name" : "Liberia (Quick Batch)—Marriage Records, 1912–2015 [Part F]",
