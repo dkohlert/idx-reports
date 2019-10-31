@@ -22576,6 +22576,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2056,
+    "projectUUID" : "9BF99D74-EE9C-4691-B1D2-67FC0E0CB252",
+    "name" : "Sverige, Stockholms stad—Index till kyrkböcker, 1546–1927 [Del 5]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 101,
+  "batchCount" : 41642,
+  "auditBatchCount" : 1982,
+  "imageCount" : 39767,
+  "blockedCount" : 105,
+  "iesAuditBatchCount" : 1137,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 101,
+    "batchCount" : 22707,
+    "images" : 22814,
+    "recordCount" : 346159
+  },
+  "exportStateCounts" : {
+    "accepted" : 20866,
+    "exported" : 834,
+    "failed" : 78,
+    "inProgress" : 882,
+    "audit" : 1137,
+    "blocked" : 105,
+    "duplicate" : 0,
+    "ned" : 12,
+    "unreadable" : 0,
+    "notExported" : 37,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2509,
     "projectUUID" : "EA023475-FF43-4EB6-923C-870E2D9063E1",
     "name" : "US, Mississippi—Department of Archives and History, World War I Service Cards, 1917–1919",
