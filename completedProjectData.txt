@@ -29716,6 +29716,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3619,
+    "projectUUID" : "55A3FA0A-C944-4B26-9740-0939571DABA5",
+    "name" : "US, California—List of United States Citizens Arriving at San Francisco, 1930—1949",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 33450,
+  "auditBatchCount" : 1594,
+  "imageCount" : 40137,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1584,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 31856,
+    "images" : 40137,
+    "recordCount" : 418978
+  },
+  "exportStateCounts" : {
+    "accepted" : 30690,
+    "exported" : 27,
+    "failed" : 276,
+    "inProgress" : 770,
+    "audit" : 1584,
+    "blocked" : 8281,
+    "duplicate" : 0,
+    "ned" : 72,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 19,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2114,
     "projectUUID" : "27FCEC51-9261-4943-B03B-A002E402D652",
     "name" : "Brasil, São Paulo—Registro Civil, Nacimientos, 1907–1995 [Parte F]",
