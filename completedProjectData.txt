@@ -14722,6 +14722,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3584,
+    "projectUUID" : "9176E5D7-B714-49B2-95C4-37D8461A11C5",
+    "name" : "Peru, Huánuco—Civil Registration, 1888–1998 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1000,
+  "batchCount" : 122080,
+  "auditBatchCount" : 5817,
+  "imageCount" : 240565,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4571,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1000,
+    "batchCount" : 116263,
+    "images" : 240565,
+    "recordCount" : 38059
+  },
+  "exportStateCounts" : {
+    "accepted" : 37545,
+    "exported" : 113,
+    "failed" : 1443,
+    "inProgress" : 188832,
+    "audit" : 9123,
+    "blocked" : 8661,
+    "duplicate" : 117,
+    "ned" : 3741,
+    "unreadable" : 0,
+    "notExported" : 94,
+    "readyForExport" : 0,
+    "rejected" : 19,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2060,
     "projectUUID" : "7EA2C3C3-55DB-410C-AF3C-6A44CBB2D8E8",
     "name" : "US, Texas, Cooke County—Deeds, 1895–1924",
