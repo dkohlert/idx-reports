@@ -17748,6 +17748,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2582,
+    "projectUUID" : "91CFBA02-C94C-45AD-8539-021AB137CE21",
+    "name" : "Ukraine, L'viv—Roman Catholic Diocese Church Book Duplicates, 1600–1948 [Part 2]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 4095,
+  "auditBatchCount" : 195,
+  "imageCount" : 4563,
+  "blockedCount" : 663,
+  "iesAuditBatchCount" : 192,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 3885,
+    "images" : 4548,
+    "recordCount" : 27768
+  },
+  "exportStateCounts" : {
+    "accepted" : 2150,
+    "exported" : 98,
+    "failed" : 61,
+    "inProgress" : 1290,
+    "audit" : 192,
+    "blocked" : 663,
+    "duplicate" : 0,
+    "ned" : 282,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1906,
     "projectUUID" : "30B4BCB6-A18F-4BEA-A2B3-418D40469D17",
     "name" : "US—Freedmen's Bureau, Ration Reports and Related Records, 1865–1872 [Part A]",
