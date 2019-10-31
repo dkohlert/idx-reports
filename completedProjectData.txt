@@ -7820,6 +7820,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2048,
+    "projectUUID" : "801BEB31-9428-4716-95F4-9465E04C6080",
+    "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 8170,
+  "auditBatchCount" : 382,
+  "imageCount" : 63939,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 382,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 7788,
+    "images" : 63939,
+    "recordCount" : 46108
+  },
+  "exportStateCounts" : {
+    "accepted" : 39346,
+    "exported" : 67,
+    "failed" : 5,
+    "inProgress" : 52,
+    "audit" : 2018,
+    "blocked" : 22908,
+    "duplicate" : 32,
+    "ned" : 964,
+    "unreadable" : 0,
+    "notExported" : 565,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2517,
     "projectUUID" : "15899067-87B4-4A4E-A5EF-09128A1F6E27",
     "name" : "Perú, Áncash—Registros Civiles, 1888–2000 [Parte E]",
