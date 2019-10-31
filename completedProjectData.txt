@@ -19618,6 +19618,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3607,
+    "projectUUID" : "81FABB6B-F614-4D55-B01C-E8097B18C5F6",
+    "name" : "US, American Samoa—Vital Records, 1850–1972",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 87,
+  "batchCount" : 11375,
+  "auditBatchCount" : 538,
+  "imageCount" : 75593,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 110,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 87,
+    "batchCount" : 10837,
+    "images" : 75593,
+    "recordCount" : 5752
+  },
+  "exportStateCounts" : {
+    "accepted" : 1421,
+    "exported" : 5,
+    "failed" : 250,
+    "inProgress" : 71096,
+    "audit" : 119,
+    "blocked" : 2737,
+    "duplicate" : 3,
+    "ned" : 80,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1867,
     "projectUUID" : "C12553FA-818E-45CC-BD08-70367CCCEA6B",
     "name" : "US, Missouri—County Marriages, 1806–1969 [Part H] ",
