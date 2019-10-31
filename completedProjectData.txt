@@ -10744,6 +10744,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2817,
+    "projectUUID" : "B736F1D1-20BF-476D-9D42-FCA56F22B425",
+    "name" : "US, Hawaii—Births and Baptisms, 1843–1909 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 111,
+  "batchCount" : 5251,
+  "auditBatchCount" : 246,
+  "imageCount" : 141180,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 246,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 111,
+    "batchCount" : 5005,
+    "images" : 141180,
+    "recordCount" : 70195
+  },
+  "exportStateCounts" : {
+    "accepted" : 18229,
+    "exported" : 271,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1179,
+    "blocked" : 116935,
+    "duplicate" : 485,
+    "ned" : 5202,
+    "unreadable" : 0,
+    "notExported" : 49,
+    "readyForExport" : 0,
+    "rejected" : 9,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2265,
     "projectUUID" : "305004BD-0EF1-46EA-96BB-AA9B68957B31",
     "name" : "Colombia, Cartagena—Registros de la Iglesia Católica, 1777–2014 [Parte C]",
