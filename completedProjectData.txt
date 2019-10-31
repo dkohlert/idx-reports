@@ -4216,6 +4216,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1799,
+    "projectUUID" : "6218B683-8E4F-43FF-92E8-FC56A927520F",
+    "name" : "Украина, Запорожье—Ревизские сказки, 1811–1858 [Часть А]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 40,
+  "batchCount" : 57688,
+  "auditBatchCount" : 2746,
+  "imageCount" : 62154,
+  "blockedCount" : 7029,
+  "iesAuditBatchCount" : 683,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 40,
+    "batchCount" : 13648,
+    "images" : 20689,
+    "recordCount" : 163155
+  },
+  "exportStateCounts" : {
+    "accepted" : 13374,
+    "exported" : 11,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 685,
+    "blocked" : 7029,
+    "duplicate" : 0,
+    "ned" : 268,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3038,
     "projectUUID" : "9112B0A6-0749-4203-B895-7FE1FC6E5C94",
     "name" : "US, Oklahoma—World War I Draft Registration Cards, 1917–1918 [Part A]",
