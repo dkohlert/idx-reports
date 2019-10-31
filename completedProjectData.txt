@@ -22474,6 +22474,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2206,
+    "projectUUID" : "4C41158E-B679-4F58-9436-A8655E5A035C",
+    "name" : "Italia (Antenati Italiani), L'Aquila—Morti, 1911–1943 [Parte G]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 42,
+  "batchCount" : 337,
+  "auditBatchCount" : 13,
+  "imageCount" : 2280,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 13,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 42,
+    "batchCount" : 324,
+    "images" : 2280,
+    "recordCount" : 2861
+  },
+  "exportStateCounts" : {
+    "accepted" : 1528,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 58,
+    "blocked" : 733,
+    "duplicate" : 1,
+    "ned" : 18,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2724,
     "projectUUID" : "E7F9AA8A-9B48-4325-BC77-F2192A5EEFB9",
     "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2K]",
