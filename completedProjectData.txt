@@ -5644,6 +5644,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2331,
+    "projectUUID" : "F3105A29-28A4-430D-8EB4-5DF50D56718F",
+    "name" : "Italia (Antenati Italiani), Udine—Nati, 1806–1900 [Parte 2G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 455,
+  "auditBatchCount" : 14,
+  "imageCount" : 2333,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 14,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 441,
+    "images" : 2333,
+    "recordCount" : 4898
+  },
+  "exportStateCounts" : {
+    "accepted" : 1779,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 62,
+    "blocked" : 517,
+    "duplicate" : 0,
+    "ned" : 37,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2370,
     "projectUUID" : "1827DACC-FD56-411B-81BB-DB0C53AB7C1F",
     "name" : "US—Todesanzeigen für Deutsche Einwanderer, 1900–2016 [Teil C]",
