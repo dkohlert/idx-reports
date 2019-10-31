@@ -18666,6 +18666,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2856,
+    "projectUUID" : "DA500312-9E7B-4A5E-B19E-1BF48FCA91F7",
+    "name" : "Italia, (Antenati Italiani), Avellino—Stato Civile, 1875–1901 [Parte 2K]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 2715,
+  "auditBatchCount" : 115,
+  "imageCount" : 17042,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 115,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 2600,
+    "images" : 17042,
+    "recordCount" : 18021
+  },
+  "exportStateCounts" : {
+    "accepted" : 8232,
+    "exported" : 4043,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 554,
+    "blocked" : 4487,
+    "duplicate" : 1,
+    "ned" : 276,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2381,
     "projectUUID" : "083F99AE-5DDA-4CE9-9428-4EC6EC48820D",
     "name" : "US, New Jersey—Birth Index, 1901–1903",
