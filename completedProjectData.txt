@@ -12614,6 +12614,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1798,
+    "projectUUID" : "82B63ED5-3DE9-46ED-B712-B6BD608A9CD0",
+    "name" : "Liberia—Marriage Records, 1912–2015 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 198,
+  "batchCount" : 3543,
+  "auditBatchCount" : 154,
+  "imageCount" : 48182,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 154,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 198,
+    "batchCount" : 3389,
+    "images" : 48182,
+    "recordCount" : 24019
+  },
+  "exportStateCounts" : {
+    "accepted" : 22781,
+    "exported" : 685,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1509,
+    "blocked" : 15400,
+    "duplicate" : 124,
+    "ned" : 8207,
+    "unreadable" : 0,
+    "notExported" : 985,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1719,
     "projectUUID" : "32DD20A4-9827-4BD3-AE05-F8AE68B5D0EF",
     "name" : "Germany, Baden, Stebbach—Church Book Records, 1675–1951",
