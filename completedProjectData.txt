@@ -20434,6 +20434,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2844,
+    "projectUUID" : "4B9F1790-125D-491C-98A6-AA857B6AA988",
+    "name" : "USA, I wojna światowa—rekruci do służby wojskowej w Armii Polskiej we Francji, 1917–1919",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 11,
+  "batchCount" : 2573,
+  "auditBatchCount" : 122,
+  "imageCount" : 13105,
+  "blockedCount" : 890,
+  "iesAuditBatchCount" : 85,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 11,
+    "batchCount" : 1755,
+    "images" : 9633,
+    "recordCount" : 4276
+  },
+  "exportStateCounts" : {
+    "accepted" : 3529,
+    "exported" : 735,
+    "failed" : 125,
+    "inProgress" : 4157,
+    "audit" : 421,
+    "blocked" : 890,
+    "duplicate" : 119,
+    "ned" : 78,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2540,
     "projectUUID" : "D71F27E6-E411-4B1E-AE07-0CF439D116A5",
     "name" : "US—Newsbank Historical Newspapers, Births, 1815–2011 [Part B]",
