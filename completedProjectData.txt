@@ -17680,6 +17680,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2569,
+    "projectUUID" : "589DF182-666B-428A-B649-659D9F6BC01A",
+    "name" : "Suid-Afrika—Nederduitsch Hervormde Kerk Doop en Ledenadministrasie, 1838–1991 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 61751,
+  "auditBatchCount" : 2939,
+  "imageCount" : 75737,
+  "blockedCount" : 16886,
+  "iesAuditBatchCount" : 511,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 10197,
+    "images" : 27087,
+    "recordCount" : 192202
+  },
+  "exportStateCounts" : {
+    "accepted" : 8043,
+    "exported" : 207,
+    "failed" : 53,
+    "inProgress" : 1357,
+    "audit" : 511,
+    "blocked" : 16886,
+    "duplicate" : 0,
+    "ned" : 411,
+    "unreadable" : 0,
+    "notExported" : 120,
+    "readyForExport" : 0,
+    "rejected" : 10,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1906,
     "projectUUID" : "30B4BCB6-A18F-4BEA-A2B3-418D40469D17",
     "name" : "US—Freedmen's Bureau, Ration Reports and Related Records, 1865–1872 [Part A]",
