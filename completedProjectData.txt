@@ -29818,6 +29818,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3605,
+    "projectUUID" : "7F549B63-C745-45AF-9F27-1C5D2F267191",
+    "name" : "US, Florida—Voter Registration Records, 1867–1905",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 903,
+  "auditBatchCount" : 43,
+  "imageCount" : 1451,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 43,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 860,
+    "images" : 1451,
+    "recordCount" : 25455
+  },
+  "exportStateCounts" : {
+    "accepted" : 855,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 43,
+    "blocked" : 591,
+    "duplicate" : 0,
+    "ned" : 4,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3294,
     "projectUUID" : "BE1E9684-A0A4-4BE5-966A-46CA5C7D271D",
     "name" : "US, Alaska—Naturalization Records, 1900–1972",
