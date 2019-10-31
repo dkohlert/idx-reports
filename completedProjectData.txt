@@ -27744,6 +27744,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3343,
+    "projectUUID" : "8F5C3845-04AE-4E86-B067-F0B35C03D816",
+    "name" : "Nicaragua—Civil Registration, 1809–2013 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 261,
+  "batchCount" : 20088,
+  "auditBatchCount" : 959,
+  "imageCount" : 78315,
+  "blockedCount" : 3387,
+  "iesAuditBatchCount" : 89,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 258,
+    "batchCount" : 1800,
+    "images" : 10555,
+    "recordCount" : 3222
+  },
+  "exportStateCounts" : {
+    "accepted" : 2077,
+    "exported" : 23,
+    "failed" : 288,
+    "inProgress" : 4631,
+    "audit" : 355,
+    "blocked" : 3387,
+    "duplicate" : 10,
+    "ned" : 137,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2850,
     "projectUUID" : "61BED182-0960-482B-B2BA-2A985CAB948A",
     "name" : "Italia (Antenati Italiani), Pesaro e Urbino—Morti, 1875–1943 [Part 1T]",
