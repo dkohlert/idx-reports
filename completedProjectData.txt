@@ -1394,6 +1394,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3361,
+    "projectUUID" : "1846E68B-3F85-401A-A039-778F6FCBAD1D",
+    "name" : "Peru, Lima—Civil Registration, 1917–1995 [Part J2]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 38174,
+  "auditBatchCount" : 1814,
+  "imageCount" : 76931,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1814,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 36360,
+    "images" : 76931,
+    "recordCount" : 71897
+  },
+  "exportStateCounts" : {
+    "accepted" : 54913,
+    "exported" : 16261,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3577,
+    "blocked" : 5129,
+    "duplicate" : 145,
+    "ned" : 466,
+    "unreadable" : 0,
+    "notExported" : 17,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3025,
     "projectUUID" : "8FB18E15-7D4B-4814-AE03-D6290C190D72",
     "name" : "US, Ohio—Tax Records, 1800–1850 [Part C]",
