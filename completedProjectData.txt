@@ -12410,6 +12410,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3328,
+    "projectUUID" : "B8EE1665-4BCB-42C5-B9DA-479FCB53E835",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part V]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 11178,
+  "auditBatchCount" : 521,
+  "imageCount" : 44872,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 521,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 10657,
+    "images" : 44872,
+    "recordCount" : 42187
+  },
+  "exportStateCounts" : {
+    "accepted" : 40690,
+    "exported" : 496,
+    "failed" : 0,
+    "inProgress" : 4,
+    "audit" : 2033,
+    "blocked" : 3273,
+    "duplicate" : 19,
+    "ned" : 309,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 77,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1993,
     "projectUUID" : "50A91494-9949-41E9-A5DC-A52C73C6831C",
     "name" : "Italia, Terni, Narni—Stato Civile, 1861–1910 [Parte B]",
