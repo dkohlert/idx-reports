@@ -14212,6 +14212,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2066,
+    "projectUUID" : "B139FF3F-DB66-4892-9D47-1A3DD7A37338",
+    "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, Geboorten, 1811–1902",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 47,
+  "batchCount" : 5188,
+  "auditBatchCount" : 245,
+  "imageCount" : 26501,
+  "blockedCount" : 7349,
+  "iesAuditBatchCount" : 114,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 47,
+    "batchCount" : 2262,
+    "images" : 16405,
+    "recordCount" : 41868
+  },
+  "exportStateCounts" : {
+    "accepted" : 7276,
+    "exported" : 11,
+    "failed" : 24,
+    "inProgress" : 1636,
+    "audit" : 456,
+    "blocked" : 7349,
+    "duplicate" : 106,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1994,
     "projectUUID" : "AF218CFC-8CAD-41CE-837A-930541D052A9",
     "name" : "Brasil, Rio de Janeiro—Registro Civil, Óbitos, 1900–2012",
