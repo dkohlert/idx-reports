@@ -18122,6 +18122,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2075,
+    "projectUUID" : "4E4A55D1-60F3-4713-8BC1-CEAA1C4A7161",
+    "name" : "Suomi, Kuopio—Henkikirjat, 1809–1915 [Osa A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 54,
+  "batchCount" : 44262,
+  "auditBatchCount" : 2106,
+  "imageCount" : 44506,
+  "blockedCount" : 2345,
+  "iesAuditBatchCount" : 103,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 54,
+    "batchCount" : 2066,
+    "images" : 4416,
+    "recordCount" : 96577
+  },
+  "exportStateCounts" : {
+    "accepted" : 1597,
+    "exported" : 92,
+    "failed" : 210,
+    "inProgress" : 102,
+    "audit" : 103,
+    "blocked" : 2345,
+    "duplicate" : 0,
+    "ned" : 68,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2026,
     "projectUUID" : "3E8B763B-3CC1-400B-A099-A5795B848F74",
     "name" : "US, Kansas—World War II Draft Registration Cards, 1940–1945 [Part B]",
