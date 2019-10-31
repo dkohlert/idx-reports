@@ -29070,6 +29070,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2084,
+    "projectUUID" : "7A308876-A667-4411-A7B0-44C33C600351",
+    "name" : "Norge—Tinglysningskort, 1640–1903 [Del C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 52,
+  "batchCount" : 27488,
+  "auditBatchCount" : 1306,
+  "imageCount" : 118207,
+  "blockedCount" : 641,
+  "iesAuditBatchCount" : 137,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 52,
+    "batchCount" : 2960,
+    "images" : 16676,
+    "recordCount" : 99298
+  },
+  "exportStateCounts" : {
+    "accepted" : 12674,
+    "exported" : 28,
+    "failed" : 1200,
+    "inProgress" : 887,
+    "audit" : 762,
+    "blocked" : 641,
+    "duplicate" : 21,
+    "ned" : 945,
+    "unreadable" : 0,
+    "notExported" : 286,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1952,
     "projectUUID" : "41F3FD4D-C562-4FE2-866C-D1573FF4ADCD",
     "name" : "US, Colorado—Statewide Divorce Index, 1900–1939",
