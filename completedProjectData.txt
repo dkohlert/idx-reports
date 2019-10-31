@@ -9520,6 +9520,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3608,
+    "projectUUID" : "C8986096-D7AE-4CE3-9AF5-E56E8D1A7567",
+    "name" : "Germany, Schleswig-Holstein, Kreis Steinburg—Civil Registration, 1874–1983 [Part E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 166,
+  "auditBatchCount" : 8,
+  "imageCount" : 185,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 3,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 158,
+    "images" : 185,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 1,
+    "inProgress" : 157,
+    "audit" : 3,
+    "blocked" : 27,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3192,
     "projectUUID" : "3807569B-1FCC-4913-8CA9-B81A0BD1B7A5",
     "name" : "US—Obituaries of German Immigrants, 1950–2016 [Part E]",
