@@ -7718,6 +7718,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2838,
+    "projectUUID" : "1667C9E1-BB2D-4E9F-AE58-F61E9B48739D",
+    "name" : "Italia (Antenati Italiani), Udine—Stato Civile, 1806–1900 [Parte 2K]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 299,
+  "batchCount" : 2440,
+  "auditBatchCount" : 103,
+  "imageCount" : 13343,
+  "blockedCount" : 2495,
+  "iesAuditBatchCount" : 29,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 299,
+    "batchCount" : 570,
+    "images" : 5236,
+    "recordCount" : 1994
+  },
+  "exportStateCounts" : {
+    "accepted" : 856,
+    "exported" : 24,
+    "failed" : 230,
+    "inProgress" : 1555,
+    "audit" : 138,
+    "blocked" : 2495,
+    "duplicate" : 2,
+    "ned" : 74,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3148,
     "projectUUID" : "D687286C-B650-4266-875C-08F2A360D8B1",
     "name" : "US, North Dakota—Red River Valley Genealogical Society, Pioneer Files, 1880–1953",
