@@ -10846,6 +10846,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3342,
+    "projectUUID" : "D701F9C5-9F3B-4BCD-A34B-9D9C52174410",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BG]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 36964,
+  "auditBatchCount" : 1738,
+  "imageCount" : 108518,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1738,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 35226,
+    "images" : 108518,
+    "recordCount" : 106750
+  },
+  "exportStateCounts" : {
+    "accepted" : 90568,
+    "exported" : 14204,
+    "failed" : 3,
+    "inProgress" : 6,
+    "audit" : 5199,
+    "blocked" : 3357,
+    "duplicate" : 50,
+    "ned" : 300,
+    "unreadable" : 0,
+    "notExported" : 18,
+    "readyForExport" : 0,
+    "rejected" : 12,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2290,
     "projectUUID" : "7D41209F-814A-40BC-84CB-3FFFA01D9968",
     "name" : "US (Quick Batch), Arkansas, Sevier County—Death Records, 1914–1923",
