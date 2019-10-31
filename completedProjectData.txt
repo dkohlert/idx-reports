@@ -11594,6 +11594,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2085,
+    "projectUUID" : "83604D82-B4FC-4567-8590-34D0B47A3F53",
+    "name" : "España, Provincia de Asturias—registro civil, 1836–1871 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 149,
+  "batchCount" : 2334,
+  "auditBatchCount" : 95,
+  "imageCount" : 20434,
+  "blockedCount" : 2856,
+  "iesAuditBatchCount" : 80,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 149,
+    "batchCount" : 1866,
+    "images" : 16848,
+    "recordCount" : 12852
+  },
+  "exportStateCounts" : {
+    "accepted" : 6141,
+    "exported" : 4,
+    "failed" : 1138,
+    "inProgress" : 6487,
+    "audit" : 589,
+    "blocked" : 2856,
+    "duplicate" : 17,
+    "ned" : 205,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2953,
     "projectUUID" : "09CDCAD9-7876-4B21-8363-37C0B1846CD5",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AJ]",
