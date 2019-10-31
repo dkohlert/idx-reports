@@ -21556,6 +21556,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2113,
+    "projectUUID" : "AE97BE2B-80E0-4E4D-9079-F9864A6726B8",
+    "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte N]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 99,
+  "batchCount" : 679,
+  "auditBatchCount" : 26,
+  "imageCount" : 3986,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 26,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 653,
+    "images" : 3986,
+    "recordCount" : 5614
+  },
+  "exportStateCounts" : {
+    "accepted" : 3215,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 120,
+    "blocked" : 644,
+    "duplicate" : 6,
+    "ned" : 120,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2841,
     "projectUUID" : "D262DB47-81CD-41F1-AB0D-5AB013467662",
     "name" : "US, Maine—Tombstone Inscriptions, Surname Index, 1620–2014",
