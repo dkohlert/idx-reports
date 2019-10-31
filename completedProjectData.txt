@@ -4250,6 +4250,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2319,
+    "projectUUID" : "E3DBB5AE-2DA6-4AFB-9EC6-8BCCC2708FFC",
+    "name" : "US (Quick Batch), Utah—FamilySearch, Early Church Information File, 1830–1900",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 63,
+  "batchCount" : 913496,
+  "auditBatchCount" : 43497,
+  "imageCount" : 912608,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 43497,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 63,
+    "batchCount" : 869999,
+    "images" : 912608,
+    "recordCount" : 1006294
+  },
+  "exportStateCounts" : {
+    "accepted" : 831015,
+    "exported" : 67,
+    "failed" : 5,
+    "inProgress" : 7,
+    "audit" : 45448,
+    "blocked" : 3423,
+    "duplicate" : 233,
+    "ned" : 77680,
+    "unreadable" : 0,
+    "notExported" : 178,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2425,
     "projectUUID" : "0CB895FB-2A92-4FB6-B17E-19A56887BFF3",
     "name" : "Colombia, Diócesis de Barranquilla—Registros de la Iglesia Catolica, 1808–1985 [Parte B]",
