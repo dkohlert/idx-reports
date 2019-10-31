@@ -31586,6 +31586,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3606,
+    "projectUUID" : "31A7E339-E187-4CCF-AD6E-301B9AE349F9",
+    "name" : "US, Missouri—Recruitment Lists of Volunteers for the United States Colored Troops, 1863–1865",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 1039,
+  "auditBatchCount" : 49,
+  "imageCount" : 6131,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 36,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 6,
+    "batchCount" : 990,
+    "images" : 6131,
+    "recordCount" : 1998
+  },
+  "exportStateCounts" : {
+    "accepted" : 1994,
+    "exported" : 0,
+    "failed" : 439,
+    "inProgress" : 3349,
+    "audit" : 199,
+    "blocked" : 329,
+    "duplicate" : 1,
+    "ned" : 19,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1934,
     "projectUUID" : "D47CB283-3FA9-482B-8483-BE9B49561270",
     "name" : "US, Kentucky—Births, Marriages, and Deaths, 1636–1955 [Part A]",
