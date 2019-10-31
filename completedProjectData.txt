@@ -8806,6 +8806,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2369,
+    "projectUUID" : "556B4CA7-B7B6-40D1-8F1F-42057718EAD8",
+    "name" : "Italia (Antenati Italiani), Mantova—Matrimoni, 1810–1942 [Parte A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 151,
+  "batchCount" : 917,
+  "auditBatchCount" : 36,
+  "imageCount" : 5002,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 36,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 151,
+    "batchCount" : 881,
+    "images" : 5002,
+    "recordCount" : 3549
+  },
+  "exportStateCounts" : {
+    "accepted" : 3469,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 160,
+    "blocked" : 872,
+    "duplicate" : 0,
+    "ned" : 661,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2965,
     "projectUUID" : "B6387A1B-AE91-42DD-94B9-D033082478B6",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AN]",
