@@ -17646,6 +17646,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3365,
+    "projectUUID" : "20B53411-F311-4DE2-9934-708B7633A07B",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BI]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 40000,
+  "auditBatchCount" : 1905,
+  "imageCount" : 116406,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1905,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 38095,
+    "images" : 116406,
+    "recordCount" : 114077
+  },
+  "exportStateCounts" : {
+    "accepted" : 112434,
+    "exported" : 642,
+    "failed" : 9,
+    "inProgress" : 0,
+    "audit" : 5689,
+    "blocked" : 2643,
+    "duplicate" : 96,
+    "ned" : 156,
+    "unreadable" : 0,
+    "notExported" : 397,
+    "readyForExport" : 0,
+    "rejected" : 29,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3255,
     "projectUUID" : "118ACAB1-B4E3-4460-AEF4-DF45310CE002",
     "name" : "Philippines—Marriage Records, 1945–1987 [Part B]",
