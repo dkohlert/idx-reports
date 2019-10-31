@@ -26622,6 +26622,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3364,
+    "projectUUID" : "9F8A1CBE-CA04-48FD-9C48-C165C30C8DB6",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BH]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 37824,
+  "auditBatchCount" : 1788,
+  "imageCount" : 110529,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1788,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 36036,
+    "images" : 110529,
+    "recordCount" : 107413
+  },
+  "exportStateCounts" : {
+    "accepted" : 101949,
+    "exported" : 4552,
+    "failed" : 3,
+    "inProgress" : 24,
+    "audit" : 5344,
+    "blocked" : 2914,
+    "duplicate" : 108,
+    "ned" : 205,
+    "unreadable" : 0,
+    "notExported" : 735,
+    "readyForExport" : 0,
+    "rejected" : 39,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2630,
     "projectUUID" : "EBFF4386-2F99-4990-BDCE-4410055E65B0",
     "name" : "US, North Carolina—Index to Vital Records, Deaths, 1800–2000 [Part B]",
