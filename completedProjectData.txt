@@ -22338,6 +22338,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2576,
+    "projectUUID" : "9B504230-771A-4245-A08C-D8F8366E546B",
+    "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 177,
+  "batchCount" : 8569,
+  "auditBatchCount" : 401,
+  "imageCount" : 50067,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 401,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 177,
+    "batchCount" : 8168,
+    "images" : 50067,
+    "recordCount" : 79948
+  },
+  "exportStateCounts" : {
+    "accepted" : 31281,
+    "exported" : 149,
+    "failed" : 0,
+    "inProgress" : 2,
+    "audit" : 1624,
+    "blocked" : 17091,
+    "duplicate" : 82,
+    "ned" : 1425,
+    "unreadable" : 0,
+    "notExported" : 37,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 564,
     "projectUUID" : "4F02B9D9-1261-4C3E-AE4A-D6F57446986D",
     "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2J]",
