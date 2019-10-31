@@ -14314,6 +14314,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3596,
+    "projectUUID" : "D4BFD1B6-878B-4FCC-B077-B0BC93618D5A",
+    "name" : "US, New York, Adirondacks—Index to Land Records, Grantors, 1630-1975 [Part I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 53,
+  "batchCount" : 26152,
+  "auditBatchCount" : 1245,
+  "imageCount" : 27747,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 139,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 53,
+    "batchCount" : 24907,
+    "images" : 27747,
+    "recordCount" : 56278
+  },
+  "exportStateCounts" : {
+    "accepted" : 1292,
+    "exported" : 4,
+    "failed" : 84,
+    "inProgress" : 23959,
+    "audit" : 139,
+    "blocked" : 2407,
+    "duplicate" : 0,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2279,
     "projectUUID" : "90EBE3C6-B03B-4D14-B302-7AD01FA1A5A7",
     "name" : "Perú (Lote rápido), Amazonas—Registros Civiles, Matrimonios, 1935-1999 [Parte E]",
