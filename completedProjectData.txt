@@ -27438,6 +27438,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2857,
+    "projectUUID" : "A7477752-A494-4AF3-9098-7DDD0CE65670",
+    "name" : "Peru, Diocesis de Huacho—Parish Records, 1560–2016 [Part H]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 369,
+  "batchCount" : 35374,
+  "auditBatchCount" : 1676,
+  "imageCount" : 171036,
+  "blockedCount" : 3681,
+  "iesAuditBatchCount" : 984,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 369,
+    "batchCount" : 19849,
+    "images" : 102249,
+    "recordCount" : 43953
+  },
+  "exportStateCounts" : {
+    "accepted" : 20836,
+    "exported" : 1012,
+    "failed" : 446,
+    "inProgress" : 75808,
+    "audit" : 4890,
+    "blocked" : 3681,
+    "duplicate" : 50,
+    "ned" : 364,
+    "unreadable" : 0,
+    "notExported" : 50,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2377,
     "projectUUID" : "83BBC774-DB4D-4C0B-97C3-D02CA4BEC4C2",
     "name" : "Nederland (Snelle batch), Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel E]",
