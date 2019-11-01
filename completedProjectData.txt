@@ -8976,6 +8976,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3115,
+    "projectUUID" : "2A79EE2A-3E18-40EF-AA05-2DC56C18342D",
+    "name" : "US, Pennsylvania—Register of Military Volunteers, 1861–1865",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 15,
+  "batchCount" : 9053,
+  "auditBatchCount" : 431,
+  "imageCount" : 8802,
+  "blockedCount" : 180,
+  "iesAuditBatchCount" : 33,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 15,
+    "batchCount" : 590,
+    "images" : 770,
+    "recordCount" : 12387
+  },
+  "exportStateCounts" : {
+    "accepted" : 339,
+    "exported" : 32,
+    "failed" : 54,
+    "inProgress" : 162,
+    "audit" : 33,
+    "blocked" : 180,
+    "duplicate" : 0,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2463,
     "projectUUID" : "65FFEC3A-6FA4-41EF-B5BC-1AB2654A31FF",
     "name" : "Italia (Antenati Italiani), Benevento—Nati, 1810–1942 [Parte M]",
