@@ -20706,6 +20706,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3626,
+    "projectUUID" : "F3C971AE-425E-428B-A128-ABEDA6263C33",
+    "name" : "Spain, Gerona—Passports, 1717-1970",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 1638,
+  "auditBatchCount" : 80,
+  "imageCount" : 1689,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 1558,
+    "images" : 1689,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 3,
+    "inProgress" : 1555,
+    "audit" : 0,
+    "blocked" : 131,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2881,
     "projectUUID" : "2B9EC1B3-AD49-43AA-B273-3680EA87764C",
     "name" : "Italia (Antenati Italiani), Macerata—Stato Civile, 1808–1814 [Parte A]",
