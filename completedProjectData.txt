@@ -5100,6 +5100,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3376,
+    "projectUUID" : "A343B930-B3E3-4FEC-BE45-FD38935BFA54",
+    "name" : "Brazil, Paraná—Civil Registration, 1852–1996 [Part A2]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 199,
+  "batchCount" : 51242,
+  "auditBatchCount" : 2439,
+  "imageCount" : 241442,
+  "blockedCount" : 21769,
+  "iesAuditBatchCount" : 448,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 199,
+    "batchCount" : 8980,
+    "images" : 58132,
+    "recordCount" : 82168
+  },
+  "exportStateCounts" : {
+    "accepted" : 23991,
+    "exported" : 4934,
+    "failed" : 2847,
+    "inProgress" : 2180,
+    "audit" : 1810,
+    "blocked" : 21769,
+    "duplicate" : 141,
+    "ned" : 2047,
+    "unreadable" : 0,
+    "notExported" : 16,
+    "readyForExport" : 0,
+    "rejected" : 207,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2809,
     "projectUUID" : "CAC8B690-48E4-47F8-A7D9-4B8CC43579F1",
     "name" : "Perú (Lote Rápido), Ancash—Registro Civil, 1888–2000 [Part M]",
