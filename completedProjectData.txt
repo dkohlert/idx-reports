@@ -20468,6 +20468,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2610,
+    "projectUUID" : "5B6660B9-4B96-4934-ADFB-70001B1E7368",
+    "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte L]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 23197,
+  "auditBatchCount" : 1092,
+  "imageCount" : 67635,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1092,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 22105,
+    "images" : 67635,
+    "recordCount" : 65314
+  },
+  "exportStateCounts" : {
+    "accepted" : 64069,
+    "exported" : 44,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3175,
+    "blocked" : 3243,
+    "duplicate" : 29,
+    "ned" : 247,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2358,
     "projectUUID" : "624CC290-5A21-4CFA-9781-F54B720CAE4F",
     "name" : "Brasil, Rio de Janeiro—Registro Civil, Óbitos, 1900–2012 [Parte B]",
