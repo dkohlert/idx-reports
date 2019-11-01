@@ -10030,6 +10030,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3370,
+    "projectUUID" : "54334DC6-F848-4D5D-922D-D5B58FB74820",
+    "name" : "France, Marne—Recensement de 1856",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 10,
+  "batchCount" : 6717,
+  "auditBatchCount" : 321,
+  "imageCount" : 8423,
+  "blockedCount" : 2026,
+  "iesAuditBatchCount" : 168,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 10,
+    "batchCount" : 3349,
+    "images" : 5376,
+    "recordCount" : 189672
+  },
+  "exportStateCounts" : {
+    "accepted" : 2957,
+    "exported" : 337,
+    "failed" : 0,
+    "inProgress" : 45,
+    "audit" : 168,
+    "blocked" : 2026,
+    "duplicate" : 0,
+    "ned" : 8,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1965,
     "projectUUID" : "E5BFE96C-CBCA-4775-9527-65B1C20E0E7D",
     "name" : "US, Montana, Rosebud County—Birth and Death Records, 1882–2011",
