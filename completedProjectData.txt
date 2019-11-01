@@ -23902,6 +23902,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3630,
+    "projectUUID" : "2654DD2E-4642-4378-8B53-B72CD217BA6A",
+    "name" : "US, Tennessee, Shelby County, Memphis—Death Records, 1848–1913 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 791,
+  "auditBatchCount" : 38,
+  "imageCount" : 1526,
+  "blockedCount" : 39,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 753,
+    "images" : 792,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 753,
+    "audit" : 0,
+    "blocked" : 39,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2509,
     "projectUUID" : "EA023475-FF43-4EB6-923C-870E2D9063E1",
     "name" : "US, Mississippi—Department of Archives and History, World War I Service Cards, 1917–1919",
