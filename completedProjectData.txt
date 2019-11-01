@@ -2584,6 +2584,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2094,
+    "projectUUID" : "90A94243-925D-4412-956D-98C0DA397EC8",
+    "name" : "Deutschland, Schleswig-Holstein, Kreis Steinburg-Standesamtliche Unterlagen, 1874-1983 [Teil D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 360,
+  "batchCount" : 5294,
+  "auditBatchCount" : 244,
+  "imageCount" : 53437,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 244,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 360,
+    "batchCount" : 5050,
+    "images" : 53437,
+    "recordCount" : 29572
+  },
+  "exportStateCounts" : {
+    "accepted" : 29126,
+    "exported" : 49,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2379,
+    "blocked" : 4196,
+    "duplicate" : 144,
+    "ned" : 19397,
+    "unreadable" : 0,
+    "notExported" : 525,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2134,
     "projectUUID" : "341B86E3-FED4-4977-BD5E-31DE5EE3A9AA",
     "name" : "Polynésie française—Registres d’état civil, Mariages, 1843–1999 [Partie C]",
