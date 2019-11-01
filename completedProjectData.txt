@@ -29172,6 +29172,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2088,
+    "projectUUID" : "A0A28FDD-1BC5-473E-9438-8FD37004A57A",
+    "name" : "Hrvatska, Delnički dekanat—crkvene knjige, 1725–1926 [Dio B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 5393,
+  "auditBatchCount" : 256,
+  "imageCount" : 5831,
+  "blockedCount" : 366,
+  "iesAuditBatchCount" : 63,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 1204,
+    "images" : 1573,
+    "recordCount" : 17595
+  },
+  "exportStateCounts" : {
+    "accepted" : 1097,
+    "exported" : 31,
+    "failed" : 57,
+    "inProgress" : 20,
+    "audit" : 63,
+    "blocked" : 366,
+    "duplicate" : 0,
+    "ned" : 2,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3335,
     "projectUUID" : "679592C1-D79B-4C29-BB0F-E98E91BFC759",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BE]",
