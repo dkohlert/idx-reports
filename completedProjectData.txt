@@ -1224,6 +1224,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2099,
+    "projectUUID" : "BDCAF64D-3CC0-489A-9127-B071E64F5691",
+    "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 7169,
+  "auditBatchCount" : 337,
+  "imageCount" : 7142,
+  "blockedCount" : 309,
+  "iesAuditBatchCount" : 127,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 2574,
+    "images" : 2884,
+    "recordCount" : 58830
+  },
+  "exportStateCounts" : {
+    "accepted" : 1475,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 1042,
+    "audit" : 127,
+    "blocked" : 309,
+    "duplicate" : 0,
+    "ned" : 41,
+    "unreadable" : 0,
+    "notExported" : 14,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2906,
     "projectUUID" : "3D740621-7742-465E-BFF6-CCB5B2F8C06A",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AG]",
