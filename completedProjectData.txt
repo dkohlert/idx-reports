@@ -17748,6 +17748,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2863,
+    "projectUUID" : "8E732B56-126F-4B33-ACD0-547157CD11AD",
+    "name" : "Italia (Antenati Italiani), Napoli, Avvocata—Stato Civile, 1809–1845 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 62,
+  "batchCount" : 19628,
+  "auditBatchCount" : 929,
+  "imageCount" : 99168,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 929,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 62,
+    "batchCount" : 18699,
+    "images" : 99168,
+    "recordCount" : 116883
+  },
+  "exportStateCounts" : {
+    "accepted" : 80701,
+    "exported" : 6177,
+    "failed" : 0,
+    "inProgress" : 5,
+    "audit" : 4531,
+    "blocked" : 7998,
+    "duplicate" : 3574,
+    "ned" : 561,
+    "unreadable" : 0,
+    "notExported" : 151,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2216,
     "projectUUID" : "3633C8B2-D169-425F-A709-747E3B99B973",
     "name" : "US, Hawaii—Death Records and Death Registers, 1841–1925",
