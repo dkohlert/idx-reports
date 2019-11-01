@@ -17986,6 +17986,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3647,
+    "projectUUID" : "6A526EF4-0CD6-4E8C-9BEF-ED858067BECE",
+    "name" : "US, Hawaii—Board of Health, Marriage Record Indexes, 1909–1989",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 51,
+  "batchCount" : 40601,
+  "auditBatchCount" : 1930,
+  "imageCount" : 293796,
+  "blockedCount" : 2798,
+  "iesAuditBatchCount" : 192,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 51,
+    "batchCount" : 38671,
+    "images" : 292545,
+    "recordCount" : 39334
+  },
+  "exportStateCounts" : {
+    "accepted" : 24394,
+    "exported" : 40,
+    "failed" : 46,
+    "inProgress" : 265159,
+    "audit" : 1272,
+    "blocked" : 2798,
+    "duplicate" : 79,
+    "ned" : 29,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3500,
     "projectUUID" : "9609469F-84E6-4177-9AF8-13678B7EBBE7",
     "name" : "US, Delaware—Baptism Record Index Cards, 1714–1890",
