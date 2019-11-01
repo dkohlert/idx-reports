@@ -28910,6 +28910,41 @@
   "dateTimeFetched" : ""
 }, {
   "project" : {
+    "projectId" : 3400,
+    "projectUUID" : "A29AD4D9-7CD1-4614-AB2B-E77517D1A840",
+    "name" : "US, South Dakota—Grave Registration Records, 1940–1941",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 18,
+  "batchCount" : 18373,
+  "auditBatchCount" : 876,
+  "imageCount" : 20344,
+  "blockedCount" : 2845,
+  "iesAuditBatchCount" : 491,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 18,
+    "batchCount" : 9908,
+    "images" : 12753,
+    "recordCount" : 82938
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 6777,
+    "failed" : 2,
+    "inProgress" : 2519,
+    "audit" : 491,
+    "blocked" : 2845,
+    "duplicate" : 0,
+    "ned" : 610,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-01 14:48:40"
+}, {
+  "project" : {
     "projectId" : 2173,
     "projectUUID" : "6DD14135-1BFC-438E-9118-93E3C513F7B6",
     "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part C]",
