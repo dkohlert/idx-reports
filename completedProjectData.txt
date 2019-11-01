@@ -5474,6 +5474,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3622,
+    "projectUUID" : "DF5EF717-180B-42DA-8107-49DF038FFE7C",
+    "name" : "Peru, Prelatura de Yauyos-Cañete-Huarochirí—Catholic Church Records, 1665–2018",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1087,
+  "batchCount" : 33224,
+  "auditBatchCount" : 1574,
+  "imageCount" : 329193,
+  "blockedCount" : 179094,
+  "iesAuditBatchCount" : 77,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1087,
+    "batchCount" : 31650,
+    "images" : 273898,
+    "recordCount" : 900
+  },
+  "exportStateCounts" : {
+    "accepted" : 202,
+    "exported" : 12,
+    "failed" : 1123,
+    "inProgress" : 91867,
+    "audit" : 230,
+    "blocked" : 180358,
+    "duplicate" : 36,
+    "ned" : 297,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2364,
     "projectUUID" : "623102FE-B780-435F-9A54-BA5D09A001BD",
     "name" : "Brasil, Rio de Janeiro—Registro Civil, Óbitos, 1900–2012 [Parte C]",
