@@ -28050,6 +28050,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3137,
+    "projectUUID" : "BD6951EF-8B45-4BC8-A017-4C52EC550743",
+    "name" : "US, Hawaii—Hansen's Disease Records, Kalaupapa Census Index, 1839–1970",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 7,
+  "batchCount" : 1527,
+  "auditBatchCount" : 73,
+  "imageCount" : 7429,
+  "blockedCount" : 224,
+  "iesAuditBatchCount" : 66,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 7,
+    "batchCount" : 1326,
+    "images" : 6809,
+    "recordCount" : 6753
+  },
+  "exportStateCounts" : {
+    "accepted" : 3853,
+    "exported" : 2718,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 329,
+    "blocked" : 224,
+    "duplicate" : 4,
+    "ned" : 10,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2377,
     "projectUUID" : "83BBC774-DB4D-4C0B-97C3-D02CA4BEC4C2",
     "name" : "Nederland (Snelle batch), Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel E]",
