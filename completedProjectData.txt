@@ -7140,6 +7140,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3368,
+    "projectUUID" : "30723B57-56DE-4D30-853A-842C2AA3AE4C",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registrations, 1888–2000 [Part Y]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 400,
+  "batchCount" : 7936,
+  "auditBatchCount" : 363,
+  "imageCount" : 32029,
+  "blockedCount" : 2361,
+  "iesAuditBatchCount" : 363,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 400,
+    "batchCount" : 7569,
+    "images" : 32013,
+    "recordCount" : 29734
+  },
+  "exportStateCounts" : {
+    "accepted" : 29372,
+    "exported" : 55,
+    "failed" : 16,
+    "inProgress" : 16,
+    "audit" : 1430,
+    "blocked" : 2361,
+    "duplicate" : 10,
+    "ned" : 60,
+    "unreadable" : 0,
+    "notExported" : 113,
+    "readyForExport" : 0,
+    "rejected" : 10,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2362,
     "projectUUID" : "1550C506-CAD7-46E4-8920-A3A779696963",
     "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part M]",
