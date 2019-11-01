@@ -33600,6 +33600,41 @@
   "dateTimeFetched" : ""
 }, {
   "project" : {
+    "projectId" : 3401,
+    "projectUUID" : "3FD8C214-33A8-4871-B662-EF52CE01A802",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BJ]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 39333,
+  "auditBatchCount" : 1864,
+  "imageCount" : 115057,
+  "blockedCount" : 3162,
+  "iesAuditBatchCount" : 1864,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 37469,
+    "images" : 115055,
+    "recordCount" : 111927
+  },
+  "exportStateCounts" : {
+    "accepted" : 110735,
+    "exported" : 214,
+    "failed" : 147,
+    "inProgress" : 172,
+    "audit" : 5582,
+    "blocked" : 3162,
+    "duplicate" : 391,
+    "ned" : 171,
+    "unreadable" : 0,
+    "notExported" : 42,
+    "readyForExport" : 0,
+    "rejected" : 22,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-01 15:34:10"
+}, {
+  "project" : {
     "projectId" : 2264,
     "projectUUID" : "A558AE93-789F-41A9-80BC-3E841901FA6A",
     "name" : "Italia (Antenati Italiani), Udine—Nati, 1806–1900 [Parte 2F]",
