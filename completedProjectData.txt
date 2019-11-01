@@ -31450,6 +31450,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1841,
+    "projectUUID" : "90A08E10-8E37-47B2-A963-4E0E86C955EC",
+    "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 12,
+  "batchCount" : 17882,
+  "auditBatchCount" : 850,
+  "imageCount" : 36259,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 850,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 12,
+    "batchCount" : 17032,
+    "images" : 36259,
+    "recordCount" : 179554
+  },
+  "exportStateCounts" : {
+    "accepted" : 27806,
+    "exported" : 2853,
+    "failed" : 12,
+    "inProgress" : 12,
+    "audit" : 1700,
+    "blocked" : 2189,
+    "duplicate" : 323,
+    "ned" : 2586,
+    "unreadable" : 0,
+    "notExported" : 458,
+    "readyForExport" : 0,
+    "rejected" : 20,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3294,
     "projectUUID" : "BE1E9684-A0A4-4BE5-966A-46CA5C7D271D",
     "name" : "US, Alaska—Naturalization Records, 1900–1972",
