@@ -15674,6 +15674,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3645,
+    "projectUUID" : "80B62061-E178-4C7A-89F4-5F1B50667205",
+    "name" : "US, Texas, Harrison County—Delayed Birth Records, 1860–1933 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 362,
+  "auditBatchCount" : 17,
+  "imageCount" : 1451,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 17,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 345,
+    "images" : 1451,
+    "recordCount" : 1086
+  },
+  "exportStateCounts" : {
+    "accepted" : 1078,
+    "exported" : 9,
+    "failed" : 80,
+    "inProgress" : 122,
+    "audit" : 68,
+    "blocked" : 73,
+    "duplicate" : 2,
+    "ned" : 86,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1699,
     "projectUUID" : "68208348-8FFF-404E-A822-640C0DE80142",
     "name" : "US, Texas, Swisher County—Death Records, 1903–1989",
