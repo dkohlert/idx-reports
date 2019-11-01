@@ -9928,6 +9928,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1832,
+    "projectUUID" : "EB09646E-D569-4578-87C4-1FA02C95DA0D",
+    "name" : "US—Native American Census Rolls, 1885–1940 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 602,
+  "batchCount" : 345223,
+  "auditBatchCount" : 16424,
+  "imageCount" : 365146,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 16424,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 602,
+    "batchCount" : 328799,
+    "images" : 365146,
+    "recordCount" : 6000425
+  },
+  "exportStateCounts" : {
+    "accepted" : 297157,
+    "exported" : 8177,
+    "failed" : 0,
+    "inProgress" : 22170,
+    "audit" : 16515,
+    "blocked" : 34493,
+    "duplicate" : 7,
+    "ned" : 2612,
+    "unreadable" : 0,
+    "notExported" : 503,
+    "readyForExport" : 0,
+    "rejected" : 27,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3608,
     "projectUUID" : "C8986096-D7AE-4CE3-9AF5-E56E8D1A7567",
     "name" : "Germany, Schleswig-Holstein, Kreis Steinburg—Civil Registration, 1874–1983 [Part E]",
