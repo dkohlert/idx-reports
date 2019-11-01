@@ -10268,6 +10268,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3378,
+    "projectUUID" : "3E407589-15CF-4B5C-BEF7-1F8B1E213E67",
+    "name" : "US, North Dakota—Naturalizations, 1868–1924",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 12,
+  "batchCount" : 281,
+  "auditBatchCount" : 14,
+  "imageCount" : 2197,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 14,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 12,
+    "batchCount" : 267,
+    "images" : 2197,
+    "recordCount" : 1864
+  },
+  "exportStateCounts" : {
+    "accepted" : 1272,
+    "exported" : 5,
+    "failed" : 5,
+    "inProgress" : 0,
+    "audit" : 70,
+    "blocked" : 880,
+    "duplicate" : 0,
+    "ned" : 21,
+    "unreadable" : 0,
+    "notExported" : 14,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2960,
     "projectUUID" : "939AF8CC-7EA5-4862-BFB3-8A2AF4165FB1",
     "name" : "US—Military Order of the Stars and Bars Card Index, 1861–1865",
