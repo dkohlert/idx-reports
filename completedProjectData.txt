@@ -29206,6 +29206,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3648,
+    "projectUUID" : "C027106B-2F11-4C52-83EB-7E2B6D866E08",
+    "name" : "US, Louisiana, New Orleans—Slave Manifests of Coastwise Vessels, 1807–1860",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 30,
+  "batchCount" : 3299,
+  "auditBatchCount" : 158,
+  "imageCount" : 30324,
+  "blockedCount" : 17955,
+  "iesAuditBatchCount" : 89,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 30,
+    "batchCount" : 3141,
+    "images" : 21096,
+    "recordCount" : 7682
+  },
+  "exportStateCounts" : {
+    "accepted" : 1268,
+    "exported" : 2,
+    "failed" : 72,
+    "inProgress" : 1770,
+    "audit" : 89,
+    "blocked" : 17955,
+    "duplicate" : 0,
+    "ned" : 27,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2876,
     "projectUUID" : "3F640029-B1FB-425F-A807-E401EB9E3F90",
     "name" : "Brasil, São Paulo—Araçatuba, Registro Civil–1918-1999 [Parte B]",
