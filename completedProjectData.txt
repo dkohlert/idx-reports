@@ -33388,6 +33388,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3141,
+    "projectUUID" : "C4084CEF-8A80-4C33-A83A-578420ABC0A3",
+    "name" : "Philippines—Marriage Records, 1945–1987 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 213211,
+  "auditBatchCount" : 10148,
+  "imageCount" : 666868,
+  "blockedCount" : 58515,
+  "iesAuditBatchCount" : 7630,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 152675,
+    "images" : 515926,
+    "recordCount" : 121380
+  },
+  "exportStateCounts" : {
+    "accepted" : 108704,
+    "exported" : 10197,
+    "failed" : 612,
+    "inProgress" : 333135,
+    "audit" : 22852,
+    "blocked" : 58515,
+    "duplicate" : 1773,
+    "ned" : 2875,
+    "unreadable" : 0,
+    "notExported" : 114,
+    "readyForExport" : 0,
+    "rejected" : 4,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1934,
     "projectUUID" : "D47CB283-3FA9-482B-8483-BE9B49561270",
     "name" : "US, Kentucky—Births, Marriages, and Deaths, 1636–1955 [Part A]",
