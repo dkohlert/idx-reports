@@ -3220,6 +3220,41 @@
   "dateTimeFetched" : ""
 }, {
   "project" : {
+    "projectId" : 2889,
+    "projectUUID" : "D5925F5A-5EBB-4077-984E-38575ACA5A0E",
+    "name" : "US, New York, New York City—Index to Land Records, Grantors, 1630-1975 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 32038,
+  "auditBatchCount" : 1522,
+  "imageCount" : 30922,
+  "blockedCount" : 405,
+  "iesAuditBatchCount" : 852,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 17040,
+    "images" : 17446,
+    "recordCount" : 369243
+  },
+  "exportStateCounts" : {
+    "accepted" : 10431,
+    "exported" : 13,
+    "failed" : 893,
+    "inProgress" : 5655,
+    "audit" : 852,
+    "blocked" : 405,
+    "duplicate" : 0,
+    "ned" : 44,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-01 15:27:03"
+}, {
+  "project" : {
     "projectId" : 3230,
     "projectUUID" : "E88A5D38-32D7-434A-919D-2657A124A13D",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AY]",
