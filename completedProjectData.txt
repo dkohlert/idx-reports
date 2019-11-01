@@ -34825,6 +34825,41 @@
   "dateTimeFetched" : ""
 }, {
   "project" : {
+    "projectId" : 3399,
+    "projectUUID" : "947372AB-27CE-46E0-8BE8-7C94680C03A5",
+    "name" : "US (Quick Batch), Alabama—Friends of Magnolia Cemetery, Funeral Books, 1911–1965",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 18,
+  "batchCount" : 6605,
+  "auditBatchCount" : 313,
+  "imageCount" : 19536,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 313,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 18,
+    "batchCount" : 6292,
+    "images" : 19536,
+    "recordCount" : 21911
+  },
+  "exportStateCounts" : {
+    "accepted" : 18216,
+    "exported" : 29,
+    "failed" : 0,
+    "inProgress" : 18,
+    "audit" : 954,
+    "blocked" : 390,
+    "duplicate" : 273,
+    "ned" : 598,
+    "unreadable" : 0,
+    "notExported" : 12,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-01 14:45:46"
+}, {
+  "project" : {
     "projectId" : 2403,
     "projectUUID" : "8D7F9F3B-91ED-486D-B984-7F044F50B5E4",
     "name" : "US, Oregon, Baker County—Military Service Discharge Records, 1945–1950",
