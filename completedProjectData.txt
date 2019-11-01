@@ -32062,6 +32062,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2604,
+    "projectUUID" : "D53A242D-F280-4F5B-945E-A50774B9CF2A",
+    "name" : "Peru, Lima—Registros Civiles, Matrimonios, 1917–1995 [Parte V]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 16111,
+  "auditBatchCount" : 756,
+  "imageCount" : 66982,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 756,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 15355,
+    "images" : 66982,
+    "recordCount" : 62422
+  },
+  "exportStateCounts" : {
+    "accepted" : 61361,
+    "exported" : 74,
+    "failed" : 10,
+    "inProgress" : 187,
+    "audit" : 3109,
+    "blocked" : 4160,
+    "duplicate" : 114,
+    "ned" : 922,
+    "unreadable" : 0,
+    "notExported" : 154,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2043,
     "projectUUID" : "7062A5B4-8517-425F-A93F-10EA5575D5A7",
     "name" : "Deutschland, Westfalen, Minden—Volkszahlungen, 1880–1902 [Teil 2]",
