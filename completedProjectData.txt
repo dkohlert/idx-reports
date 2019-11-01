@@ -22202,6 +22202,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2354,
+    "projectUUID" : "9EB3ABC6-E174-4282-986E-2E9BEB2A8F21",
+    "name" : "Guatemala (Lote rápido)—Registro Civil, 1800–1950 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 160,
+  "batchCount" : 106830,
+  "auditBatchCount" : 5087,
+  "imageCount" : 107470,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5087,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 160,
+    "batchCount" : 101743,
+    "images" : 107470,
+    "recordCount" : 148046
+  },
+  "exportStateCounts" : {
+    "accepted" : 38875,
+    "exported" : 1461,
+    "failed" : 32,
+    "inProgress" : 59544,
+    "audit" : 5116,
+    "blocked" : 5075,
+    "duplicate" : 8,
+    "ned" : 1856,
+    "unreadable" : 0,
+    "notExported" : 601,
+    "readyForExport" : 0,
+    "rejected" : 18,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3492,
     "projectUUID" : "FC495516-25EA-4BA5-948C-FACB53C54F49",
     "name" : "UK, England, Surrey—Parish Registers, 1538–1970 [Part F]",
