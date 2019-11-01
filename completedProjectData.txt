@@ -17204,6 +17204,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2884,
+    "projectUUID" : "D6CF1CFC-8A7E-4E9B-B7D4-17792B321A4D",
+    "name" : "Bolivia, Departamento de La Paz—Registros de la Iglesia Católica, 1627–1965 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 52292,
+  "auditBatchCount" : 2491,
+  "imageCount" : 131533,
+  "blockedCount" : 6642,
+  "iesAuditBatchCount" : 2491,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 49797,
+    "images" : 131522,
+    "recordCount" : 121888
+  },
+  "exportStateCounts" : {
+    "accepted" : 15595,
+    "exported" : 2321,
+    "failed" : 165,
+    "inProgress" : 102489,
+    "audit" : 6249,
+    "blocked" : 6642,
+    "duplicate" : 564,
+    "ned" : 3701,
+    "unreadable" : 0,
+    "notExported" : 24,
+    "readyForExport" : 0,
+    "rejected" : 21,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3022,
     "projectUUID" : "8B4C56A3-5EB5-485F-B299-F5501216C313",
     "name" : "US (Quick Batch), Delaware—Marriage Records, 1750–1990 [Part K]",
