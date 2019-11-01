@@ -16150,6 +16150,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3634,
+    "projectUUID" : "894096E3-B5D2-40BA-89AF-EAC453E2FC75",
+    "name" : "US, Wisconsin—Out of Wedlock Births, 1964–1993",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 496,
+  "batchCount" : 144452,
+  "auditBatchCount" : 6866,
+  "imageCount" : 307039,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1208,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 496,
+    "batchCount" : 137586,
+    "images" : 307039,
+    "recordCount" : 37438
+  },
+  "exportStateCounts" : {
+    "accepted" : 37308,
+    "exported" : 125,
+    "failed" : 80,
+    "inProgress" : 236292,
+    "audit" : 2413,
+    "blocked" : 33544,
+    "duplicate" : 12,
+    "ned" : 40,
+    "unreadable" : 0,
+    "notExported" : 66,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3300,
     "projectUUID" : "B6E9526B-147E-44DB-925B-7760D4616221",
     "name" : "US, North Carolina—Index to Vital Records, Deaths, 1800–2000 [Part D]",
