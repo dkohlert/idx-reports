@@ -5916,6 +5916,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 1598,
+    "projectUUID" : "5FDE4608-A36B-4228-B255-51A0E7EF61E9",
+    "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 33409,
+  "auditBatchCount" : 1587,
+  "imageCount" : 111932,
+  "blockedCount" : 26213,
+  "iesAuditBatchCount" : 688,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 13754,
+    "images" : 61176,
+    "recordCount" : 95828
+  },
+  "exportStateCounts" : {
+    "accepted" : 23915,
+    "exported" : 1276,
+    "failed" : 3533,
+    "inProgress" : 4671,
+    "audit" : 1752,
+    "blocked" : 26213,
+    "duplicate" : 234,
+    "ned" : 953,
+    "unreadable" : 0,
+    "notExported" : 380,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2353,
     "projectUUID" : "4840BC5D-207E-4579-B2E3-6C0CFC59BC41",
     "name" : "US, California, Sacramento—Cemetery Records, 1900–1959",
