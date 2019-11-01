@@ -26600,6 +26600,41 @@
   "dateTimeFetched" : ""
 }, {
   "project" : {
+    "projectId" : 3142,
+    "projectUUID" : "E17B57B5-7ED7-4824-8D6B-03662BC477A4",
+    "name" : "UK, England, Cumbria—Parish Records, 1754–1990",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 36,
+  "batchCount" : 57204,
+  "auditBatchCount" : 2724,
+  "imageCount" : 70696,
+  "blockedCount" : 16201,
+  "iesAuditBatchCount" : 2268,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 36,
+    "batchCount" : 45223,
+    "images" : 61438,
+    "recordCount" : 370250
+  },
+  "exportStateCounts" : {
+    "accepted" : 31529,
+    "exported" : 58,
+    "failed" : 234,
+    "inProgress" : 4948,
+    "audit" : 2269,
+    "blocked" : 16201,
+    "duplicate" : 0,
+    "ned" : 8334,
+    "unreadable" : 0,
+    "notExported" : 134,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-01 14:53:10"
+}, {
+  "project" : {
     "projectId" : 1684,
     "projectUUID" : "662C9A71-A8F2-4FB8-98FA-7E0A0534E57A",
     "name" : "US, New York—County Naturalization Records, 1792–1976 [Part E]",
