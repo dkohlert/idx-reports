@@ -32062,6 +32062,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2373,
+    "projectUUID" : "B572D592-792A-4F50-BA00-EA5E1372C0DD",
+    "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 13,
+  "batchCount" : 38618,
+  "auditBatchCount" : 1840,
+  "imageCount" : 40137,
+  "blockedCount" : 1662,
+  "iesAuditBatchCount" : 1419,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 13,
+    "batchCount" : 28460,
+    "images" : 30211,
+    "recordCount" : 535471
+  },
+  "exportStateCounts" : {
+    "accepted" : 22991,
+    "exported" : 1646,
+    "failed" : 255,
+    "inProgress" : 840,
+    "audit" : 1423,
+    "blocked" : 1662,
+    "duplicate" : 2,
+    "ned" : 2734,
+    "unreadable" : 0,
+    "notExported" : 36,
+    "readyForExport" : 0,
+    "rejected" : 45,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 2468,
     "projectUUID" : "91717981-495C-4D70-B4B1-4D840FEA2058",
     "name" : "Liberia (Quick Batch)—Marriage Records, 1912–2015 [Part F]",
