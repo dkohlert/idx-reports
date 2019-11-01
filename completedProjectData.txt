@@ -31518,6 +31518,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 2098,
+    "projectUUID" : "528FF5FD-1B49-4FCF-86BA-916AD4A8ACA4",
+    "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 4433,
+  "auditBatchCount" : 208,
+  "imageCount" : 21727,
+  "blockedCount" : 623,
+  "iesAuditBatchCount" : 208,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 4224,
+    "images" : 21722,
+    "recordCount" : 79729
+  },
+  "exportStateCounts" : {
+    "accepted" : 19633,
+    "exported" : 210,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1037,
+    "blocked" : 623,
+    "duplicate" : 306,
+    "ned" : 54,
+    "unreadable" : 0,
+    "notExported" : 896,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 1862,
     "projectUUID" : "1B579A81-93D5-469B-AF36-F78855083D4C",
     "name" : "US—Todesanzeigen für Deutsche Einwanderer, 1950–2016 [Teil B]",
