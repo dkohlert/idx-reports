@@ -8024,6 +8024,40 @@
   }
 }, {
   "project" : {
+    "projectId" : 3126,
+    "projectUUID" : "785434D6-5DDC-42FB-8DDE-B3747F85EBC7",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AL]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 22410,
+  "auditBatchCount" : 1062,
+  "imageCount" : 65863,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1062,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 21348,
+    "images" : 65863,
+    "recordCount" : 63574
+  },
+  "exportStateCounts" : {
+    "accepted" : 62754,
+    "exported" : 435,
+    "failed" : 3,
+    "inProgress" : 8,
+    "audit" : 3169,
+    "blocked" : 2146,
+    "duplicate" : 77,
+    "ned" : 123,
+    "unreadable" : 0,
+    "notExported" : 302,
+    "readyForExport" : 0,
+    "rejected" : 15,
+    "published" : 0
+  }
+}, {
+  "project" : {
     "projectId" : 3148,
     "projectUUID" : "D687286C-B650-4266-875C-08F2A360D8B1",
     "name" : "US, North Dakota—Red River Valley Genealogical Society, Pioneer Files, 1880–1953",
