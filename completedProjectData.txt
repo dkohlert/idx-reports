@@ -10101,6 +10101,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3153,
+    "projectUUID" : "7A8BC1DA-E5B3-4359-A887-B86D93B2C127",
+    "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie H]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 393,
+  "auditBatchCount" : 19,
+  "imageCount" : 1204,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 19,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 374,
+    "images" : 1204,
+    "recordCount" : 14
+  },
+  "exportStateCounts" : {
+    "accepted" : 8,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 56,
+    "blocked" : 85,
+    "duplicate" : 0,
+    "ned" : 1111,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 11:36:10",
+  "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie H]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3330,
     "projectUUID" : "E95E8F99-86F6-425E-A853-A0F4F20A8EBD",
     "name" : "US, Alaska—Naturalizations, 1884–1991",
