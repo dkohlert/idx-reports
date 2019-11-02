@@ -26600,6 +26600,41 @@
   "dateTimeFetched" : ""
 }, {
   "project" : {
+    "projectId" : 3402,
+    "projectUUID" : "88791BFC-376E-4C82-8B68-0189424E399A",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BK]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2000,
+  "batchCount" : 157630,
+  "auditBatchCount" : 7448,
+  "imageCount" : 460116,
+  "blockedCount" : 12336,
+  "iesAuditBatchCount" : 2935,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2000,
+    "batchCount" : 124431,
+    "images" : 383333,
+    "recordCount" : 150882
+  },
+  "exportStateCounts" : {
+    "accepted" : 149494,
+    "exported" : 221,
+    "failed" : 1804,
+    "inProgress" : 218240,
+    "audit" : 8739,
+    "blocked" : 12336,
+    "duplicate" : 655,
+    "ned" : 540,
+    "unreadable" : 0,
+    "notExported" : 15,
+    "readyForExport" : 0,
+    "rejected" : 28,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-01 18:52:30"
+}, {
+  "project" : {
     "projectId" : 3173,
     "projectUUID" : "9F47D235-A5C2-4693-877D-E4B511882FE8",
     "name" : "US, Arkansas—Confederate Home Records, 1890–1963 [Part B]",
