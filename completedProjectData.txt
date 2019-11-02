@@ -2812,6 +2812,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3406,
+    "projectUUID" : "25DCF8F3-BF7A-4F90-928F-710C7AB3A779",
+    "name" : "US, California—County Birth Records, 1824–1974 [Part F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 779,
+  "auditBatchCount" : 36,
+  "imageCount" : 6582,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 15,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 6,
+    "batchCount" : 743,
+    "images" : 6582,
+    "recordCount" : 1445
+  },
+  "exportStateCounts" : {
+    "accepted" : 1250,
+    "exported" : 10,
+    "failed" : 71,
+    "inProgress" : 4705,
+    "audit" : 133,
+    "blocked" : 435,
+    "duplicate" : 73,
+    "ned" : 38,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 06:12:53",
+  "name" : "US, California—County Birth Records, 1824–1974 [Part F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1775,
     "projectUUID" : "BC9EB1B5-4E7A-4221-A24A-88FB518A6F50",
     "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part R]",
