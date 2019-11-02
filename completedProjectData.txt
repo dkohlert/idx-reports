@@ -21497,6 +21497,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3151,
+    "projectUUID" : "16A80928-4A84-4E77-92E7-1F89F2CEA101",
+    "name" : "US (Quick Batch), Puerto Rico—World War I Draft Registration Cards, 1917–1918 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 51,
+  "batchCount" : 53984,
+  "auditBatchCount" : 2571,
+  "imageCount" : 260459,
+  "blockedCount" : 3549,
+  "iesAuditBatchCount" : 1850,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 51,
+    "batchCount" : 36988,
+    "images" : 188375,
+    "recordCount" : 60892
+  },
+  "exportStateCounts" : {
+    "accepted" : 60571,
+    "exported" : 234,
+    "failed" : 535,
+    "inProgress" : 121798,
+    "audit" : 9248,
+    "blocked" : 3549,
+    "duplicate" : 1136,
+    "ned" : 408,
+    "unreadable" : 0,
+    "notExported" : 144,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 07:57:25",
+  "name" : "US (Quick Batch), Puerto Rico—World War I Draft Registration Cards, 1917–1918 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2105,
     "projectUUID" : "F7E37B4F-6814-4843-9824-C0555BFF7F3F",
     "name" : "US, Texas, Cooke County—Probate Records, 1849–1982",
