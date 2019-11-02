@@ -37370,6 +37370,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3404,
+    "projectUUID" : "863FD023-B538-4720-B86E-8681CF13B846",
+    "name" : "Colombia, Bogota—Burial Licenses, 1960–1991 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 106,
+  "batchCount" : 22733,
+  "auditBatchCount" : 1080,
+  "imageCount" : 43362,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1071,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 106,
+    "batchCount" : 21653,
+    "images" : 43362,
+    "recordCount" : 41705
+  },
+  "exportStateCounts" : {
+    "accepted" : 13870,
+    "exported" : 33,
+    "failed" : 442,
+    "inProgress" : 28791,
+    "audit" : 2138,
+    "blocked" : 119,
+    "duplicate" : 3,
+    "ned" : 89,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 15,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 02:19:16",
+  "name" : "Colombia, Bogota—Burial Licenses, 1960–1991 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3068,
     "projectUUID" : "1462EF4B-4FC0-42D2-BEB0-AE675DB7316D",
     "name" : "US, New York—World War I Draft Registration Cards, 1917–1918 [Part A]",
