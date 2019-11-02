@@ -2072,6 +2072,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2128,
+    "projectUUID" : "EAC3540C-6589-4DEC-BEEB-041297246E1E",
+    "name" : "UK, England, Devon—Bishop's Transcripts, 1754–1887 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 11,
+  "batchCount" : 559,
+  "auditBatchCount" : 25,
+  "imageCount" : 1712,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 25,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 11,
+    "batchCount" : 534,
+    "images" : 1712,
+    "recordCount" : 1160
+  },
+  "exportStateCounts" : {
+    "accepted" : 87,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 29,
+    "blocked" : 948,
+    "duplicate" : 0,
+    "ned" : 677,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 09:43:59",
+  "name" : "UK, England, Devon—Bishop's Transcripts, 1754–1887 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2609,
     "projectUUID" : "6AADF57F-E601-49CA-929C-4048D4B3860C",
     "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
