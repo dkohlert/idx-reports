@@ -37481,6 +37481,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2638,
+    "projectUUID" : "BF7DBE31-E91C-4EB4-997B-85274E04AB54",
+    "name" : "Danmark, København—Begravelsesregistre, 1805–1968 [Del C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 59,
+  "batchCount" : 33897,
+  "auditBatchCount" : 1612,
+  "imageCount" : 32402,
+  "blockedCount" : 114,
+  "iesAuditBatchCount" : 823,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 58,
+    "batchCount" : 16372,
+    "images" : 16486,
+    "recordCount" : 144086
+  },
+  "exportStateCounts" : {
+    "accepted" : 15102,
+    "exported" : 899,
+    "failed" : 11,
+    "inProgress" : 319,
+    "audit" : 823,
+    "blocked" : 114,
+    "duplicate" : 0,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 30,
+    "readyForExport" : 0,
+    "rejected" : 8,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 05:20:54",
+  "name" : "Danmark, København—Begravelsesregistre, 1805–1968 [Del C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3522,
     "projectUUID" : "0E4611E8-2459-4BBF-AF37-0D0C4FB86037",
     "name" : "US—Obituaries, 1980–2014 [Part 2AT]",
