@@ -23162,6 +23162,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3405,
+    "projectUUID" : "ED56CAC2-A9BA-4EC1-8C17-D763590F5406",
+    "name" : "Chile—Cemetery Records, 1880–2015 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 187,
+  "batchCount" : 18610,
+  "auditBatchCount" : 888,
+  "imageCount" : 44322,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 888,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 187,
+    "batchCount" : 17722,
+    "images" : 44322,
+    "recordCount" : 125941
+  },
+  "exportStateCounts" : {
+    "accepted" : 29059,
+    "exported" : 8227,
+    "failed" : 1,
+    "inProgress" : 3,
+    "audit" : 2208,
+    "blocked" : 272,
+    "duplicate" : 44,
+    "ned" : 6627,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 87,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 04:40:32",
+  "name" : "Chile—Cemetery Records, 1880–2015 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2518,
     "projectUUID" : "AC463F4F-37DA-48F4-AA7A-21C1F78E39AF",
     "name" : "Australia, South Australia—School Admission Registers, 1873–1985 [Part A]",
