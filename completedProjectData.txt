@@ -36519,6 +36519,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3409,
+    "projectUUID" : "BDABA4A3-8185-44A0-A9E3-3E609F66ECA3",
+    "name" : "US, North Carolina, Wake County—Death Records, 1900–1909",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 462,
+  "auditBatchCount" : 23,
+  "imageCount" : 8577,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 23,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 439,
+    "images" : 8577,
+    "recordCount" : 4205
+  },
+  "exportStateCounts" : {
+    "accepted" : 3054,
+    "exported" : 1142,
+    "failed" : 20,
+    "inProgress" : 69,
+    "audit" : 227,
+    "blocked" : 4231,
+    "duplicate" : 6,
+    "ned" : 55,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 11:38:03",
+  "name" : "US, North Carolina, Wake County—Death Records, 1900–1909",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2754,
     "projectUUID" : "759CCAF1-CF09-4A5E-817A-734B2258C8CB",
     "name" : "Polska, Radom—Ksiegi Metrykalne, 1733–1868 [Czesc 7]",
