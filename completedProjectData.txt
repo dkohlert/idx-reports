@@ -22977,6 +22977,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2640,
+    "projectUUID" : "237BE3C9-CF97-4987-86D7-F95F2555B15A",
+    "name" : "Perú, Lima—Registros Civiles, 1917–1995 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 11595,
+  "auditBatchCount" : 546,
+  "imageCount" : 48427,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 546,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 11049,
+    "images" : 48427,
+    "recordCount" : 45457
+  },
+  "exportStateCounts" : {
+    "accepted" : 44653,
+    "exported" : 168,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2261,
+    "blocked" : 3029,
+    "duplicate" : 37,
+    "ned" : 400,
+    "unreadable" : 0,
+    "notExported" : 140,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 10:12:07",
+  "name" : "Perú, Lima—Registros Civiles, 1917–1995 [Parte C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2487,
     "projectUUID" : "D2B4B49F-FFD5-4CD5-A752-720417AD8F00",
     "name" : "Perú, Áncash—Registros Civiles, 1888-2000 [Parte D]",
@@ -28314,7 +28351,7 @@
   "batchCount" : 157630,
   "auditBatchCount" : 7448,
   "imageCount" : 460116,
-  "blockedCount" : 0,
+  "blockedCount" : 12336,
   "iesAuditBatchCount" : 2953,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2000,
