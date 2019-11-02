@@ -7844,6 +7844,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2635,
+    "projectUUID" : "AAC54CCE-EA18-4419-8EF9-F3C3EC19421A",
+    "name" : "Luxembourg—Registres d'état civil, 1796-1923 [Partie E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 2493,
+  "auditBatchCount" : 118,
+  "imageCount" : 8990,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 117,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 6,
+    "batchCount" : 2375,
+    "images" : 8990,
+    "recordCount" : 19612
+  },
+  "exportStateCounts" : {
+    "accepted" : 5281,
+    "exported" : 697,
+    "failed" : 15,
+    "inProgress" : 12,
+    "audit" : 351,
+    "blocked" : 1867,
+    "duplicate" : 235,
+    "ned" : 877,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-01 21:04:14",
+  "name" : "Luxembourg—Registres d'état civil, 1796-1923 [Partie E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2768,
     "projectUUID" : "E61B1020-A0E3-49B5-A688-906EC7D31A84",
     "name" : "Italia (Antenati Italiani) Avellino—Stato Civile, Nati, 1866–1947 [Parte B]",
