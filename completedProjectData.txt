@@ -1147,6 +1147,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2645,
+    "projectUUID" : "F9EDEC79-0327-4228-A8DF-034659AB3002",
+    "name" : "Costa Rica—Registros Civiles, Nacimientos, 1888–1931 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 189,
+  "batchCount" : 23045,
+  "auditBatchCount" : 1086,
+  "imageCount" : 97488,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1086,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 189,
+    "batchCount" : 21959,
+    "images" : 97488,
+    "recordCount" : 175407
+  },
+  "exportStateCounts" : {
+    "accepted" : 40355,
+    "exported" : 3419,
+    "failed" : 5,
+    "inProgress" : 47008,
+    "audit" : 4626,
+    "blocked" : 3935,
+    "duplicate" : 1980,
+    "ned" : 740,
+    "unreadable" : 0,
+    "notExported" : 34,
+    "readyForExport" : 0,
+    "rejected" : 12,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 21:23:38",
+  "name" : "Costa Rica—Registros Civiles, Nacimientos, 1888–1931 [Parte C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 544,
     "projectUUID" : "A794349A-CA50-4C0C-83FB-E5A4B9B47F9C",
     "name" : "US, New Jersey—Obituaries, 1980-2014 [A]",
