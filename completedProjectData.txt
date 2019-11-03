@@ -20350,6 +20350,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3177,
+    "projectUUID" : "DD17FB18-F47F-43A9-B2EB-630004330D54",
+    "name" : "US, Pennsylvania, Wayne County—Naturalization Records, 1799–1906",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 13,
+  "batchCount" : 1566,
+  "auditBatchCount" : 72,
+  "imageCount" : 10948,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 60,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 13,
+    "batchCount" : 1494,
+    "images" : 10948,
+    "recordCount" : 13886
+  },
+  "exportStateCounts" : {
+    "accepted" : 4300,
+    "exported" : 272,
+    "failed" : 62,
+    "inProgress" : 1698,
+    "audit" : 259,
+    "blocked" : 4281,
+    "duplicate" : 206,
+    "ned" : 119,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 10:14:56",
+  "name" : "US, Pennsylvania, Wayne County—Naturalization Records, 1799–1906",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2367,
     "projectUUID" : "A189D8B7-1203-42FE-A5FB-DD07370B1421",
     "name" : "France, Vienne—Recensement de 1836",
