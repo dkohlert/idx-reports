@@ -20979,6 +20979,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3415,
+    "projectUUID" : "446B1FA0-5F2C-48AA-AF42-EC3A98198FE1",
+    "name" : "Peru (Quick Batch), Tacna—Civil Registration, 1907–1998 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 476,
+  "batchCount" : 27608,
+  "auditBatchCount" : 1297,
+  "imageCount" : 86375,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1297,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 476,
+    "batchCount" : 26311,
+    "images" : 86375,
+    "recordCount" : 79256
+  },
+  "exportStateCounts" : {
+    "accepted" : 63167,
+    "exported" : 13993,
+    "failed" : 0,
+    "inProgress" : 3,
+    "audit" : 3836,
+    "blocked" : 8749,
+    "duplicate" : 41,
+    "ned" : 407,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 14,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 22:53:48",
+  "name" : "Peru (Quick Batch), Tacna—Civil Registration, 1907–1998 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2751,
     "projectUUID" : "A3457CF1-C37C-4AA0-9DDC-5B6BB2A2ACD2",
     "name" : "US, Ohio—World War I Service Cards, Marine Corps, 1914–1918",
