@@ -20942,6 +20942,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2406,
+    "projectUUID" : "4C028A42-87F7-41FF-B151-8D53DFB6AB39",
+    "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 17,
+  "batchCount" : 8268,
+  "auditBatchCount" : 394,
+  "imageCount" : 52166,
+  "blockedCount" : 3935,
+  "iesAuditBatchCount" : 369,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 17,
+    "batchCount" : 7488,
+    "images" : 49903,
+    "recordCount" : 73146
+  },
+  "exportStateCounts" : {
+    "accepted" : 13621,
+    "exported" : 801,
+    "failed" : 1487,
+    "inProgress" : 25108,
+    "audit" : 2290,
+    "blocked" : 3935,
+    "duplicate" : 1815,
+    "ned" : 3111,
+    "unreadable" : 0,
+    "notExported" : 18,
+    "readyForExport" : 0,
+    "rejected" : 7,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 06:18:39",
+  "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3031,
     "projectUUID" : "F160BC5E-07EF-4020-877A-7ABC42EF019C",
     "name" : "US, Georgia—World War I Draft Registration Cards, 1917–1918 [Part A]",
