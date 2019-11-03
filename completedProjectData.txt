@@ -20683,6 +20683,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3674,
+    "projectUUID" : "25545A47-32B1-42DB-89FA-3EC94C7EE1E8",
+    "name" : "US, Idaho—Alien Arrivals, 1923–1952",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 1280,
+  "auditBatchCount" : 60,
+  "imageCount" : 42677,
+  "blockedCount" : 21225,
+  "iesAuditBatchCount" : 57,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 6,
+    "batchCount" : 1220,
+    "images" : 29807,
+    "recordCount" : 6509
+  },
+  "exportStateCounts" : {
+    "accepted" : 6416,
+    "exported" : 34,
+    "failed" : 565,
+    "inProgress" : 1475,
+    "audit" : 391,
+    "blocked" : 21225,
+    "duplicate" : 7,
+    "ned" : 80,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 01:23:15",
+  "name" : "US, Idaho—Alien Arrivals, 1923–1952",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3211,
     "projectUUID" : "70AF5C7E-C5A4-4472-9268-82F7EE095C99",
     "name" : "US, Pennsylvania, Pittsburgh—Allegheny Cemetery Records 1845–1960",
