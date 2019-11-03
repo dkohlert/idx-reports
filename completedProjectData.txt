@@ -27750,6 +27750,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3668,
+    "projectUUID" : "D6CF6329-6126-420C-ADFA-6211EDBDE763",
+    "name" : "Chile—Registros de la Iglesia Católica, 1710–1928 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 124,
+  "batchCount" : 40310,
+  "auditBatchCount" : 1917,
+  "imageCount" : 83377,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 145,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 124,
+    "batchCount" : 38393,
+    "images" : 83377,
+    "recordCount" : 11333
+  },
+  "exportStateCounts" : {
+    "accepted" : 1257,
+    "exported" : 6,
+    "failed" : 346,
+    "inProgress" : 74599,
+    "audit" : 290,
+    "blocked" : 6677,
+    "duplicate" : 168,
+    "ned" : 322,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 20:22:06",
+  "name" : "Chile—Registros de la Iglesia Católica, 1710–1928 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2888,
     "projectUUID" : "C1C5F5D2-BB02-4572-81F9-BCA7C9F9392B",
     "name" : "US, New York, Westchester—Index to Land Records, Grantors, 1630-1975 [Part C]",
