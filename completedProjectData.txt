@@ -30747,6 +30747,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3174,
+    "projectUUID" : "B9061914-9EEF-4145-8677-02C44238B455",
+    "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 177,
+  "batchCount" : 4797,
+  "auditBatchCount" : 221,
+  "imageCount" : 14249,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 221,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 177,
+    "batchCount" : 4576,
+    "images" : 14249,
+    "recordCount" : 41320
+  },
+  "exportStateCounts" : {
+    "accepted" : 11794,
+    "exported" : 1445,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 653,
+    "blocked" : 772,
+    "duplicate" : 12,
+    "ned" : 180,
+    "unreadable" : 0,
+    "notExported" : 24,
+    "readyForExport" : 0,
+    "rejected" : 22,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 06:57:08",
+  "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2629,
     "projectUUID" : "5098AA75-BBF6-429E-B404-A046CF661C18",
     "name" : "US, North Carolina—Index to Vital Records, Births, 1800–2000 [Part A]",
