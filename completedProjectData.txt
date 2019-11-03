@@ -33337,6 +33337,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1120,
+    "projectUUID" : "B679E4A4-573E-4914-94FC-57C4EFE9D716",
+    "name" : "Belgium, Namur—Registres Civils, 1901–1910 [Partie B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 76,
+  "batchCount" : 3959,
+  "auditBatchCount" : 184,
+  "imageCount" : 26656,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 184,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 76,
+    "batchCount" : 3775,
+    "images" : 26656,
+    "recordCount" : 26834
+  },
+  "exportStateCounts" : {
+    "accepted" : 14949,
+    "exported" : 623,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 978,
+    "blocked" : 6576,
+    "duplicate" : 14,
+    "ned" : 4494,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 05:00:37",
+  "name" : "Belgium, Namur—Registres Civils, 1901–1910 [Partie B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2824,
     "projectUUID" : "1FD4D9EC-55B2-4738-B022-E75D4F40D6EE",
     "name" : "US—Obituaries, 1980–2014 [Part 2AQ]",
