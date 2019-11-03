@@ -33115,6 +33115,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3178,
+    "projectUUID" : "C6084B9F-9ADA-4E75-9363-E2BC74999682",
+    "name" : "US, Massachusetts, Boston—Voter Registers, 1857-1920",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 367,
+  "batchCount" : 24564,
+  "auditBatchCount" : 1160,
+  "imageCount" : 53770,
+  "blockedCount" : 30363,
+  "iesAuditBatchCount" : 494,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 367,
+    "batchCount" : 10043,
+    "images" : 40409,
+    "recordCount" : 84602
+  },
+  "exportStateCounts" : {
+    "accepted" : 7058,
+    "exported" : 276,
+    "failed" : 5,
+    "inProgress" : 2673,
+    "audit" : 494,
+    "blocked" : 30363,
+    "duplicate" : 0,
+    "ned" : 17,
+    "unreadable" : 0,
+    "notExported" : 15,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 12:11:20",
+  "name" : "US, Massachusetts, Boston—Voter Registers, 1857-1920",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3150,
     "projectUUID" : "5D104E10-BBEB-4CDE-9908-95D66EB97FEE",
     "name" : "US, Michigan—Archives of Michigan, Naturalization Records, 1812–1985 [Part F]",
