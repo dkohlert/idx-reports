@@ -23791,6 +23791,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3422,
+    "projectUUID" : "77EF3544-28AD-47E7-946F-DA4279112529",
+    "name" : "US, Louisiana, New Orleans—Interment Registers, 1836–1972",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 20,
+  "batchCount" : 10176,
+  "auditBatchCount" : 483,
+  "imageCount" : 12212,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 148,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 20,
+    "batchCount" : 9693,
+    "images" : 12212,
+    "recordCount" : 77631
+  },
+  "exportStateCounts" : {
+    "accepted" : 1915,
+    "exported" : 7,
+    "failed" : 101,
+    "inProgress" : 7894,
+    "audit" : 148,
+    "blocked" : 2054,
+    "duplicate" : 0,
+    "ned" : 226,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 14,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 04:13:03",
+  "name" : "US, Louisiana, New Orleans—Interment Registers, 1836–1972",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2574,
     "projectUUID" : "932B920E-48D5-4F67-A872-823EEFBCC546",
     "name" : "US—Veterans Administration Master Index, World War I, 1861–1940 [Part B]",
