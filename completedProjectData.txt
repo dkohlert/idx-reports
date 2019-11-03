@@ -18278,6 +18278,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2647,
+    "projectUUID" : "AEAAF336-507A-4482-A3C3-05D6F7FBA54B",
+    "name" : "Argentina, Salta—Registros de la Iglesia Católica, 1673–1972",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 156,
+  "batchCount" : 30087,
+  "auditBatchCount" : 1423,
+  "imageCount" : 103733,
+  "blockedCount" : 14639,
+  "iesAuditBatchCount" : 1422,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 156,
+    "batchCount" : 28664,
+    "images" : 103060,
+    "recordCount" : 230386
+  },
+  "exportStateCounts" : {
+    "accepted" : 49137,
+    "exported" : 4075,
+    "failed" : 106,
+    "inProgress" : 31164,
+    "audit" : 4382,
+    "blocked" : 14639,
+    "duplicate" : 1097,
+    "ned" : 2728,
+    "unreadable" : 0,
+    "notExported" : 100,
+    "readyForExport" : 0,
+    "rejected" : 14,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 22:44:12",
+  "name" : "Argentina, Salta—Registros de la Iglesia Católica, 1673–1972",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3634,
     "projectUUID" : "894096E3-B5D2-40BA-89AF-EAC453E2FC75",
     "name" : "US, Wisconsin—Out of Wedlock Births, 1964–1993",
