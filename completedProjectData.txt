@@ -17797,6 +17797,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3172,
+    "projectUUID" : "5E7A031E-F86B-4DB4-85D4-F160074A2C64",
+    "name" : "US, Louisiana—Confederate Pensions, 1898–1950",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 133,
+  "batchCount" : 29610,
+  "auditBatchCount" : 1412,
+  "imageCount" : 191474,
+  "blockedCount" : 58981,
+  "iesAuditBatchCount" : 850,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 133,
+    "batchCount" : 17005,
+    "images" : 136077,
+    "recordCount" : 8003
+  },
+  "exportStateCounts" : {
+    "accepted" : 7065,
+    "exported" : 763,
+    "failed" : 195,
+    "inProgress" : 53416,
+    "audit" : 3864,
+    "blocked" : 58981,
+    "duplicate" : 359,
+    "ned" : 15277,
+    "unreadable" : 0,
+    "notExported" : 9,
+    "readyForExport" : 0,
+    "rejected" : 12,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 05:52:23",
+  "name" : "US, Louisiana—Confederate Pensions, 1898–1950",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1699,
     "projectUUID" : "68208348-8FFF-404E-A822-640C0DE80142",
     "name" : "US, Texas, Swisher County—Death Records, 1903–1989",
