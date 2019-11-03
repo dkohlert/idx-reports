@@ -38517,6 +38517,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3672,
+    "projectUUID" : "6E7E5B72-56C5-4BB1-A24A-8146D20474BD",
+    "name" : "US, Oregon—Marriage Records, 1906–1968 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 125,
+  "batchCount" : 102014,
+  "auditBatchCount" : 4857,
+  "imageCount" : 291621,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4834,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 125,
+    "batchCount" : 97157,
+    "images" : 291621,
+    "recordCount" : 161564
+  },
+  "exportStateCounts" : {
+    "accepted" : 161233,
+    "exported" : 186,
+    "failed" : 1935,
+    "inProgress" : 127198,
+    "audit" : 14498,
+    "blocked" : 291,
+    "duplicate" : 531,
+    "ned" : 241,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 00:35:47",
+  "name" : "US, Oregon—Marriage Records, 1906–1968 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2155,
     "projectUUID" : "ADED9E0E-172C-4716-991B-A5277707C9A6",
     "name" : "Honduras—Registro civil, 1841—1966 [Parte D]",
