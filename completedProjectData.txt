@@ -17464,6 +17464,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2138,
+    "projectUUID" : "A8F8FD6F-E47D-42AC-B023-FEC22E8FD7F7",
+    "name" : "Sverige, Västerbotten—Kyrkböcker fram till 1860 [Del B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 56,
+  "batchCount" : 21741,
+  "auditBatchCount" : 1032,
+  "imageCount" : 40811,
+  "blockedCount" : 20102,
+  "iesAuditBatchCount" : 284,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 56,
+    "batchCount" : 5538,
+    "images" : 25640,
+    "recordCount" : 50566
+  },
+  "exportStateCounts" : {
+    "accepted" : 3609,
+    "exported" : 124,
+    "failed" : 262,
+    "inProgress" : 1478,
+    "audit" : 284,
+    "blocked" : 20102,
+    "duplicate" : 0,
+    "ned" : 36,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 24,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 00:49:24",
+  "name" : "Sverige, Västerbotten—Kyrkböcker fram till 1860 [Del B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1127,
     "projectUUID" : "52A238F9-3C10-4B26-8C3C-06BC7DCCC2E4",
     "name" : "UK, England, Devon and Cornwall—Marriages, 1754–1912 [Part C]",
