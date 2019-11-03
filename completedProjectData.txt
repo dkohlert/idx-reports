@@ -9694,6 +9694,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2410,
+    "projectUUID" : "D8110765-1BF8-470E-9F08-830176AFAFBA",
+    "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Parte G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 87,
+  "batchCount" : 38389,
+  "auditBatchCount" : 1822,
+  "imageCount" : 63159,
+  "blockedCount" : 3312,
+  "iesAuditBatchCount" : 1822,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 87,
+    "batchCount" : 36566,
+    "images" : 63158,
+    "recordCount" : 137774
+  },
+  "exportStateCounts" : {
+    "accepted" : 20612,
+    "exported" : 481,
+    "failed" : 4,
+    "inProgress" : 36545,
+    "audit" : 2972,
+    "blocked" : 3312,
+    "duplicate" : 336,
+    "ned" : 1657,
+    "unreadable" : 0,
+    "notExported" : 185,
+    "readyForExport" : 0,
+    "rejected" : 26,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 11:57:44",
+  "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Parte G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1283,
     "projectUUID" : "3DCBF43E-5824-4611-B3FE-DF3ED8943ECD",
     "name" : "South Africa, Pietermaritzburg—Deaths, 1846–1950 [Part B]",
