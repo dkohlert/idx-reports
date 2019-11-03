@@ -25789,6 +25789,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3436,
+    "projectUUID" : "AB9A9EBB-3CE9-4D89-B0E6-E31A5D77A4CA",
+    "name" : "Italy (Italian Ancestors), Vicenza, Bassano del Grappa—Civil Registration, 1871–1943 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 9153,
+  "auditBatchCount" : 418,
+  "imageCount" : 47682,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 418,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 8735,
+    "images" : 47682,
+    "recordCount" : 59967
+  },
+  "exportStateCounts" : {
+    "accepted" : 39538,
+    "exported" : 833,
+    "failed" : 78,
+    "inProgress" : 980,
+    "audit" : 2026,
+    "blocked" : 5495,
+    "duplicate" : 35,
+    "ned" : 635,
+    "unreadable" : 0,
+    "notExported" : 74,
+    "readyForExport" : 0,
+    "rejected" : 15,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 15:31:07",
+  "name" : "Italy (Italian Ancestors), Vicenza, Bassano del Grappa—Civil Registration, 1871–1943 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3492,
     "projectUUID" : "FC495516-25EA-4BA5-948C-FACB53C54F49",
     "name" : "UK, England, Surrey—Parish Registers, 1538–1970 [Part F]",
