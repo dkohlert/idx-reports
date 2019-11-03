@@ -30599,6 +30599,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2133,
+    "projectUUID" : "7BF6D809-D41E-4429-AB37-EA7E8A4C797E",
+    "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 487,
+  "batchCount" : 1033,
+  "auditBatchCount" : 27,
+  "imageCount" : 1301,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 27,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 487,
+    "batchCount" : 1006,
+    "images" : 1301,
+    "recordCount" : 25892
+  },
+  "exportStateCounts" : {
+    "accepted" : 1018,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 27,
+    "blocked" : 266,
+    "duplicate" : 0,
+    "ned" : 17,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 20:25:06",
+  "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2405,
     "projectUUID" : "CBEE72EE-FA7C-44D0-BCAE-B4EAC6F39731",
     "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part J]",
