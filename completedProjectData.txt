@@ -16835,6 +16835,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3669,
+    "projectUUID" : "CEAD5F59-5F85-400C-83CA-FAC1A0B86528",
+    "name" : "Chile—Cemetery Records, 1880–2015 [Part E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 59,
+  "batchCount" : 20635,
+  "auditBatchCount" : 982,
+  "imageCount" : 23747,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 33,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 59,
+    "batchCount" : 19653,
+    "images" : 23747,
+    "recordCount" : 566
+  },
+  "exportStateCounts" : {
+    "accepted" : 43,
+    "exported" : 0,
+    "failed" : 74,
+    "inProgress" : 21977,
+    "audit" : 40,
+    "blocked" : 1477,
+    "duplicate" : 0,
+    "ned" : 176,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 21:52:33",
+  "name" : "Chile—Cemetery Records, 1880–2015 [Part E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2505,
     "projectUUID" : "E64B690F-206A-4BB5-92A1-3E20230788A9",
     "name" : "US, Delaware—Public Archives, World War I Service Records, 1917–1919",
