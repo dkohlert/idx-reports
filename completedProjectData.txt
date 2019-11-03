@@ -29822,6 +29822,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3413,
+    "projectUUID" : "CA8B9AF7-8532-47CE-BD53-119149447B45",
+    "name" : "South Africa, Orange Free State—Master of the Supreme Court Probates, 1832–1989 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 79,
+  "batchCount" : 8450,
+  "auditBatchCount" : 395,
+  "imageCount" : 148100,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 395,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 79,
+    "batchCount" : 8055,
+    "images" : 148100,
+    "recordCount" : 174764
+  },
+  "exportStateCounts" : {
+    "accepted" : 21505,
+    "exported" : 34,
+    "failed" : 12,
+    "inProgress" : 9,
+    "audit" : 1177,
+    "blocked" : 124061,
+    "duplicate" : 561,
+    "ned" : 1885,
+    "unreadable" : 0,
+    "notExported" : 33,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 21:49:32",
+  "name" : "South Africa, Orange Free State—Master of the Supreme Court Probates, 1832–1989 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2852,
     "projectUUID" : "22F64DD0-A71C-47B8-BCD8-63A0A229E1D7",
     "name" : "US, Montana, Deer Lodge County, Anaconda—Cemetery Records, 1878–2005",
