@@ -31487,6 +31487,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2409,
+    "projectUUID" : "0D04748D-68E3-4C24-82EC-F30852EF8028",
+    "name" : "QA Brad -- Another Test of Ingest DAS",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 114,
+  "auditBatchCount" : 5,
+  "imageCount" : 220,
+  "blockedCount" : 2,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 9,
+    "images" : 20,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 18,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 2,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 10:11:10",
+  "name" : "QA Brad -- Another Test of Ingest DAS",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2433,
     "projectUUID" : "42B78A49-C62F-4E56-A270-FD97286829CA",
     "name" : "Italia (Antenati Italiani), Udine—Nati, 1875–1900 [Parte 2H]",
