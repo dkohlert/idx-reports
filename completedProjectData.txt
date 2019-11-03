@@ -1406,6 +1406,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2655,
+    "projectUUID" : "73E9B957-BBAB-4022-9CB2-94E62552EEFA",
+    "name" : "España, Lugo—Registros Parroquiales 1530–1930 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 16,
+  "batchCount" : 3434,
+  "auditBatchCount" : 164,
+  "imageCount" : 18144,
+  "blockedCount" : 2020,
+  "iesAuditBatchCount" : 26,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 16,
+    "batchCount" : 553,
+    "images" : 4714,
+    "recordCount" : 3610
+  },
+  "exportStateCounts" : {
+    "accepted" : 1163,
+    "exported" : 59,
+    "failed" : 125,
+    "inProgress" : 795,
+    "audit" : 124,
+    "blocked" : 2020,
+    "duplicate" : 70,
+    "ned" : 477,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 04:17:25",
+  "name" : "España, Lugo—Registros Parroquiales 1530–1930 [Parte C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2906,
     "projectUUID" : "3D740621-7742-465E-BFF6-CCB5B2F8C06A",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AG]",
