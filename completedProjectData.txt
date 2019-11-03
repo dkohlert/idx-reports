@@ -5143,6 +5143,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2387,
+    "projectUUID" : "0FF7406C-1E16-4E33-AC27-B97FA3190076",
+    "name" : "Portugal, Porto—Registros da Igreja Católica [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 59,
+  "batchCount" : 31045,
+  "auditBatchCount" : 1473,
+  "imageCount" : 67521,
+  "blockedCount" : 2124,
+  "iesAuditBatchCount" : 188,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 59,
+    "batchCount" : 4163,
+    "images" : 11759,
+    "recordCount" : 28433
+  },
+  "exportStateCounts" : {
+    "accepted" : 6351,
+    "exported" : 107,
+    "failed" : 2034,
+    "inProgress" : 531,
+    "audit" : 428,
+    "blocked" : 2124,
+    "duplicate" : 33,
+    "ned" : 505,
+    "unreadable" : 0,
+    "notExported" : 74,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 19:00:31",
+  "name" : "Portugal, Porto—Registros da Igreja Católica [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2588,
     "projectUUID" : "F83C8F8F-9A83-429F-A052-95F1758FEA93",
     "name" : "US, Oregon—Marriage Records, 1750–2014 [Part D]",
