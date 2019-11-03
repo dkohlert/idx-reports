@@ -26418,6 +26418,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2400,
+    "projectUUID" : "5A24F3B4-716A-43CA-BEED-0F449BFAE443",
+    "name" : "Brasil (Lote Rápido) São Paulo—Registro Civil, Nacimientos, 1907–1995 [Parte I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 75,
+  "batchCount" : 19066,
+  "auditBatchCount" : 907,
+  "imageCount" : 18642,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 907,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 75,
+    "batchCount" : 18159,
+    "images" : 18642,
+    "recordCount" : 18336
+  },
+  "exportStateCounts" : {
+    "accepted" : 18114,
+    "exported" : 11,
+    "failed" : 1,
+    "inProgress" : 0,
+    "audit" : 907,
+    "blocked" : 481,
+    "duplicate" : 0,
+    "ned" : 35,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 05:19:07",
+  "name" : "Brasil (Lote Rápido) São Paulo—Registro Civil, Nacimientos, 1907–1995 [Parte I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3346,
     "projectUUID" : "F67E482B-493D-4D27-88ED-D8A4B73C635A",
     "name" : "Peru, Junín—Civil Registration, 1890–1999 [Part B]",
