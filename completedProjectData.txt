@@ -34632,6 +34632,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2401,
+    "projectUUID" : "E6CC68F0-3694-48B8-B6B3-FAB5DB7F8063",
+    "name" : "Sri Lanka, Colombo—Nederlands hervormde dopen en huwelijken, 1677–1990 [deel C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 755,
+  "auditBatchCount" : 36,
+  "imageCount" : 2075,
+  "blockedCount" : 527,
+  "iesAuditBatchCount" : 20,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 453,
+    "images" : 1560,
+    "recordCount" : 4407
+  },
+  "exportStateCounts" : {
+    "accepted" : 854,
+    "exported" : 6,
+    "failed" : 30,
+    "inProgress" : 72,
+    "audit" : 51,
+    "blocked" : 527,
+    "duplicate" : 4,
+    "ned" : 68,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 05:23:06",
+  "name" : "Sri Lanka, Colombo—Nederlands hervormde dopen en huwelijken, 1677–1990 [deel C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2330,
     "projectUUID" : "608BFEBF-F83B-46A6-B270-7C4BACF69B4E",
     "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part L]",
