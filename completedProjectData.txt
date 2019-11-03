@@ -5069,6 +5069,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1898,
+    "projectUUID" : "D5884A84-F1AA-4632-843F-3558BF3EF04B",
+    "name" : "Philippines—National Offices, Civil Registration of Marriages, 1945–1987 [Part E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 28,
+  "batchCount" : 11944,
+  "auditBatchCount" : 568,
+  "imageCount" : 62666,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 568,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 28,
+    "batchCount" : 11376,
+    "images" : 62666,
+    "recordCount" : 59387
+  },
+  "exportStateCounts" : {
+    "accepted" : 58941,
+    "exported" : 13,
+    "failed" : 0,
+    "inProgress" : 5,
+    "audit" : 2978,
+    "blocked" : 3040,
+    "duplicate" : 569,
+    "ned" : 98,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 10:55:48",
+  "name" : "Philippines—National Offices, Civil Registration of Marriages, 1945–1987 [Part E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1799,
     "projectUUID" : "6218B683-8E4F-43FF-92E8-FC56A927520F",
     "name" : "Украина, Запорожье—Ревизские сказки, 1811–1858 [Часть А]",
