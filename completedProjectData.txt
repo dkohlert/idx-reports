@@ -21275,6 +21275,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3165,
+    "projectUUID" : "4341A2F4-E2C0-4DBE-B083-96AD6D576FC2",
+    "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 7985,
+  "auditBatchCount" : 373,
+  "imageCount" : 26139,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 373,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 7612,
+    "images" : 26139,
+    "recordCount" : 22705
+  },
+  "exportStateCounts" : {
+    "accepted" : 21818,
+    "exported" : 355,
+    "failed" : 0,
+    "inProgress" : 3,
+    "audit" : 1094,
+    "blocked" : 3813,
+    "duplicate" : 14,
+    "ned" : 127,
+    "unreadable" : 0,
+    "notExported" : 9,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 03:48:46",
+  "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2270,
     "projectUUID" : "7E4AFEFE-EE41-4CB6-A22C-59DBB37729C4",
     "name" : "Brasil, São Paulo—Registro Civil, Óbitos, 1907–1995 [Parte A]",
