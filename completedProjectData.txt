@@ -10508,6 +10508,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3164,
+    "projectUUID" : "C4EBDB25-C15E-449F-9E93-E4C33CC022EB",
+    "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 301,
+  "batchCount" : 354851,
+  "auditBatchCount" : 16892,
+  "imageCount" : 1686139,
+  "blockedCount" : 6535,
+  "iesAuditBatchCount" : 11481,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 301,
+    "batchCount" : 229713,
+    "images" : 1146519,
+    "recordCount" : 545423
+  },
+  "exportStateCounts" : {
+    "accepted" : 534242,
+    "exported" : 10650,
+    "failed" : 2340,
+    "inProgress" : 590754,
+    "audit" : 56968,
+    "blocked" : 6535,
+    "duplicate" : 740,
+    "ned" : 795,
+    "unreadable" : 0,
+    "notExported" : 461,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 09:09:34",
+  "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2696,
     "projectUUID" : "831FDF3A-3E4A-4768-A799-FD8ABEE2101A",
     "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantors, 1630-1975 [Part B]",
