@@ -26603,6 +26603,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3167,
+    "projectUUID" : "D888C9F1-156C-4B2C-9E32-D5E1B04A179E",
+    "name" : "Canada, Nova Scotia—Marriage Records, 1864–1918",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 34,
+  "batchCount" : 16411,
+  "auditBatchCount" : 779,
+  "imageCount" : 21950,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 779,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 34,
+    "batchCount" : 15632,
+    "images" : 21950,
+    "recordCount" : 176023
+  },
+  "exportStateCounts" : {
+    "accepted" : 15204,
+    "exported" : 339,
+    "failed" : 0,
+    "inProgress" : 1,
+    "audit" : 780,
+    "blocked" : 6313,
+    "duplicate" : 0,
+    "ned" : 89,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 04:52:07",
+  "name" : "Canada, Nova Scotia—Marriage Records, 1864–1918",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2860,
     "projectUUID" : "B0C7FD48-D77B-4076-A95E-A0291006A05F",
     "name" : "US, Montana, Cascade County—Cemetery Records, 1800–1899",
