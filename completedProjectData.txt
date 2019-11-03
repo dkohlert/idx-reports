@@ -17982,6 +17982,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2398,
+    "projectUUID" : "D3E00FAB-C7D5-4AA3-8035-7ED831B9622A",
+    "name" : "Deutschland, Preußen, Sachsen—Volkszählungen, 1770–1934 [Teil A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 35015,
+  "auditBatchCount" : 1668,
+  "imageCount" : 49064,
+  "blockedCount" : 11842,
+  "iesAuditBatchCount" : 179,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 3620,
+    "images" : 15791,
+    "recordCount" : 22008
+  },
+  "exportStateCounts" : {
+    "accepted" : 1266,
+    "exported" : 77,
+    "failed" : 0,
+    "inProgress" : 2045,
+    "audit" : 184,
+    "blocked" : 11842,
+    "duplicate" : 1,
+    "ned" : 558,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 04:07:36",
+  "name" : "Deutschland, Preußen, Sachsen—Volkszählungen, 1770–1934 [Teil A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2402,
     "projectUUID" : "21ED83F4-50E5-4937-91D9-32512A9426B6",
     "name" : "US, Kansas, Gove County—Census Enumerations, 1909–1950",
