@@ -7955,6 +7955,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2397,
+    "projectUUID" : "1EDC51FB-614C-4D57-B476-C01E53DF94D6",
+    "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 299,
+  "batchCount" : 20079,
+  "auditBatchCount" : 935,
+  "imageCount" : 85361,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 935,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 299,
+    "batchCount" : 19144,
+    "images" : 85361,
+    "recordCount" : 207919
+  },
+  "exportStateCounts" : {
+    "accepted" : 70107,
+    "exported" : 515,
+    "failed" : 3,
+    "inProgress" : 10,
+    "audit" : 3514,
+    "blocked" : 12841,
+    "duplicate" : 133,
+    "ned" : 1635,
+    "unreadable" : 0,
+    "notExported" : 116,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 09:25:45",
+  "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2278,
     "projectUUID" : "E93080A8-E9A5-4159-B468-BF78A3108EFB",
     "name" : "UK (Quick Batch), England, Lincolnshire—Parish Registers, 1538–1990 [Part C]",
