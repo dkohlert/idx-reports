@@ -1628,6 +1628,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2650,
+    "projectUUID" : "CD9B01AE-7BCD-4F11-9725-BF77B6A3CF05",
+    "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 201,
+  "batchCount" : 55423,
+  "auditBatchCount" : 2636,
+  "imageCount" : 203883,
+  "blockedCount" : 32739,
+  "iesAuditBatchCount" : 101,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 201,
+    "batchCount" : 1996,
+    "images" : 36717,
+    "recordCount" : 16752
+  },
+  "exportStateCounts" : {
+    "accepted" : 3340,
+    "exported" : 374,
+    "failed" : 41,
+    "inProgress" : 25,
+    "audit" : 205,
+    "blocked" : 32739,
+    "duplicate" : 4,
+    "ned" : 189,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 01:05:47",
+  "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3025,
     "projectUUID" : "8FB18E15-7D4B-4814-AE03-D6290C190D72",
     "name" : "US, Ohio—Tax Records, 1800–1850 [Part C]",
