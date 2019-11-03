@@ -3663,6 +3663,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2389,
+    "projectUUID" : "89EC4932-222B-4BA1-A415-5A674FE30E6E",
+    "name" : "Brasil (Lote Rápido), São Paulo—Matrimonios, 1907–1995 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 69227,
+  "auditBatchCount" : 3288,
+  "imageCount" : 68236,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 3288,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 65939,
+    "images" : 68236,
+    "recordCount" : 67271
+  },
+  "exportStateCounts" : {
+    "accepted" : 65592,
+    "exported" : 38,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3288,
+    "blocked" : 2289,
+    "duplicate" : 0,
+    "ned" : 317,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 21:11:08",
+  "name" : "Brasil (Lote Rápido), São Paulo—Matrimonios, 1907–1995 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2065,
     "projectUUID" : "93085D77-8AFF-4374-B57C-46FF4E3CCC99",
     "name" : "Österreich, Wien—Meldezettel, 1850-1928 [Teil 4]",
