@@ -21719,6 +21719,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2140,
+    "projectUUID" : "D016B6AF-7D6D-4A83-8E5F-1592B3C170C8",
+    "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Part F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 289,
+  "batchCount" : 104506,
+  "auditBatchCount" : 4976,
+  "imageCount" : 208805,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4976,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 289,
+    "batchCount" : 99530,
+    "images" : 208805,
+    "recordCount" : 1268228
+  },
+  "exportStateCounts" : {
+    "accepted" : 172706,
+    "exported" : 7719,
+    "failed" : 26,
+    "inProgress" : 9562,
+    "audit" : 9928,
+    "blocked" : 10198,
+    "duplicate" : 1587,
+    "ned" : 2635,
+    "unreadable" : 0,
+    "notExported" : 4321,
+    "readyForExport" : 0,
+    "rejected" : 51,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 09:08:13",
+  "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Part F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2026,
     "projectUUID" : "3E8B763B-3CC1-400B-A099-A5795B848F74",
     "name" : "US, Kansas—World War II Draft Registration Cards, 1940–1945 [Part B]",
