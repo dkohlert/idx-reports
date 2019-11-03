@@ -2442,6 +2442,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2130,
+    "projectUUID" : "0E56D95B-FBB3-4894-81F4-964671C3F21E",
+    "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 90,
+  "batchCount" : 13906,
+  "auditBatchCount" : 659,
+  "imageCount" : 43591,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 659,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 90,
+    "batchCount" : 13247,
+    "images" : 43591,
+    "recordCount" : 98801
+  },
+  "exportStateCounts" : {
+    "accepted" : 40504,
+    "exported" : 22,
+    "failed" : 2,
+    "inProgress" : 84,
+    "audit" : 2089,
+    "blocked" : 1707,
+    "duplicate" : 292,
+    "ned" : 980,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 18:41:50",
+  "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2854,
     "projectUUID" : "A7054A29-FD47-4740-A510-F082F961DC7C",
     "name" : "US, Pennsylvania, Schuylkill County, Schuylkill Haven—Funeral Home Obituary Cards, 1914–2007",
