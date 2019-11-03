@@ -1162,13 +1162,13 @@
     "imagesetCount" : 189,
     "batchCount" : 21959,
     "images" : 97488,
-    "recordCount" : 175407
+    "recordCount" : 175483
   },
   "exportStateCounts" : {
-    "accepted" : 40355,
+    "accepted" : 40374,
     "exported" : 3419,
     "failed" : 5,
-    "inProgress" : 47008,
+    "inProgress" : 46989,
     "audit" : 4626,
     "blocked" : 3935,
     "duplicate" : 1980,
@@ -1179,7 +1179,7 @@
     "rejected" : 12,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 21:23:38",
+  "dateTimeFetched" : "2019-11-03 08:06:46",
   "name" : "Costa Rica—Registros Civiles, Nacimientos, 1888–1931 [Parte C]",
   "state" : "ACTIVE"
 }, {
@@ -1438,7 +1438,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 04:17:25",
+  "dateTimeFetched" : "2019-11-03 08:36:16",
   "name" : "España, Lugo—Registros Parroquiales 1530–1930 [Parte C]",
   "state" : "ACTIVE"
 }, {
@@ -1678,15 +1678,15 @@
   "iesAuditBatchCount" : 101,
   "iesCountsNoAudit" : {
     "imagesetCount" : 201,
-    "batchCount" : 1996,
-    "images" : 36717,
+    "batchCount" : 1997,
+    "images" : 36722,
     "recordCount" : 16752
   },
   "exportStateCounts" : {
     "accepted" : 3340,
     "exported" : 374,
     "failed" : 41,
-    "inProgress" : 25,
+    "inProgress" : 30,
     "audit" : 205,
     "blocked" : 32739,
     "duplicate" : 4,
@@ -1697,7 +1697,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 01:05:47",
+  "dateTimeFetched" : "2019-11-03 08:25:07",
   "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel G]",
   "state" : "ACTIVE"
 }, {
@@ -2215,7 +2215,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:17:46",
+  "dateTimeFetched" : "2019-11-03 08:01:07",
   "name" : "UK, England, Devon—Bishop's Transcripts, 1754–1887 [Part B]",
   "state" : "ACTIVE"
 }, {
@@ -2585,7 +2585,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:41:50",
+  "dateTimeFetched" : "2019-11-03 08:03:17",
   "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
   "state" : "ACTIVE"
 }, {
@@ -3012,13 +3012,13 @@
     "imagesetCount" : 6,
     "batchCount" : 743,
     "images" : 6582,
-    "recordCount" : 1445
+    "recordCount" : 1474
   },
   "exportStateCounts" : {
-    "accepted" : 1250,
+    "accepted" : 1275,
     "exported" : 10,
     "failed" : 71,
-    "inProgress" : 4705,
+    "inProgress" : 4680,
     "audit" : 133,
     "blocked" : 435,
     "duplicate" : 73,
@@ -3029,7 +3029,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:15:15",
+  "dateTimeFetched" : "2019-11-03 07:58:29",
   "name" : "US, California—County Birth Records, 1824–1974 [Part F]",
   "state" : "ACTIVE"
 }, {
@@ -3340,19 +3340,19 @@
   "auditBatchCount" : 2908,
   "imageCount" : 592837,
   "blockedCount" : 18378,
-  "iesAuditBatchCount" : 2089,
+  "iesAuditBatchCount" : 2092,
   "iesCountsNoAudit" : {
     "imagesetCount" : 198,
-    "batchCount" : 41788,
-    "images" : 429181,
-    "recordCount" : 366840
+    "batchCount" : 41837,
+    "images" : 429645,
+    "recordCount" : 368646
   },
   "exportStateCounts" : {
-    "accepted" : 218506,
+    "accepted" : 219581,
     "exported" : 834,
     "failed" : 694,
-    "inProgress" : 185161,
-    "audit" : 20540,
+    "inProgress" : 184550,
+    "audit" : 20565,
     "blocked" : 18378,
     "duplicate" : 4480,
     "ned" : 680,
@@ -3362,7 +3362,7 @@
     "rejected" : 3,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 22:15:09",
+  "dateTimeFetched" : "2019-11-03 08:07:35",
   "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
   "state" : "ACTIVE"
 }, {
@@ -3843,7 +3843,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 21:11:08",
+  "dateTimeFetched" : "2019-11-03 08:06:32",
   "name" : "Brasil (Lote Rápido), São Paulo—Matrimonios, 1907–1995 [Parte B]",
   "state" : "ACTIVE"
 }, {
@@ -5360,7 +5360,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 19:00:31",
+  "dateTimeFetched" : "2019-11-03 08:03:27",
   "name" : "Portugal, Porto—Registros da Igreja Católica [Parte D]",
   "state" : "ACTIVE"
 }, {
@@ -6507,7 +6507,7 @@
     "rejected" : 5,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 01:24:59",
+  "dateTimeFetched" : "2019-11-03 08:33:49",
   "name" : "Perú, Amazonas—Civil Registration, 1935–1999 [Part 1H]",
   "state" : "ACTIVE"
 }, {
@@ -8246,7 +8246,7 @@
     "rejected" : 3,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:12:07",
+  "dateTimeFetched" : "2019-11-03 07:55:20",
   "name" : "Luxembourg—Registres d'état civil, 1796-1923 [Partie E]",
   "state" : "ACTIVE"
 }, {
@@ -8599,13 +8599,13 @@
     "imagesetCount" : 487,
     "batchCount" : 26049,
     "images" : 119766,
-    "recordCount" : 22757
+    "recordCount" : 22761
   },
   "exportStateCounts" : {
-    "accepted" : 15301,
+    "accepted" : 15304,
     "exported" : 3009,
     "failed" : 23,
-    "inProgress" : 50298,
+    "inProgress" : 50295,
     "audit" : 5164,
     "blocked" : 16360,
     "duplicate" : 1522,
@@ -8616,7 +8616,7 @@
     "rejected" : 46,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 06:34:23",
+  "dateTimeFetched" : "2019-11-03 08:45:58",
   "name" : "Argentina, Corrientes—Registro Civil, 1880–1930 [Parte D]",
   "state" : "ACTIVE"
 }, {
@@ -10466,7 +10466,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:18:06",
+  "dateTimeFetched" : "2019-11-03 08:01:27",
   "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie H]",
   "state" : "ACTIVE"
 }, {
@@ -11653,6 +11653,43 @@
   "dateTimeFetched" : "",
   "name" : "US, New York—Church and Civil Deaths, 1824–1962",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2392,
+    "projectUUID" : "7C654DDE-290B-4F2D-9C5F-D187049C5167",
+    "name" : "Perú (Lote rápido), La Libertad—Registro Civil, 1903–1997 [Parte AC]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 218,
+  "batchCount" : 106304,
+  "auditBatchCount" : 5057,
+  "imageCount" : 103475,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5057,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 218,
+    "batchCount" : 101247,
+    "images" : 103475,
+    "recordCount" : 28094
+  },
+  "exportStateCounts" : {
+    "accepted" : 27524,
+    "exported" : 149,
+    "failed" : 33,
+    "inProgress" : 73623,
+    "audit" : 5130,
+    "blocked" : 850,
+    "duplicate" : 4,
+    "ned" : 198,
+    "unreadable" : 0,
+    "notExported" : 1094,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 09:07:28",
+  "name" : "Perú (Lote rápido), La Libertad—Registro Civil, 1903–1997 [Parte AC]",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 1999,
@@ -15368,15 +15405,15 @@
   "iesAuditBatchCount" : 375,
   "iesCountsNoAudit" : {
     "imagesetCount" : 36,
-    "batchCount" : 20588,
-    "images" : 49491,
-    "recordCount" : 122507
+    "batchCount" : 20595,
+    "images" : 49506,
+    "recordCount" : 122954
   },
   "exportStateCounts" : {
-    "accepted" : 7105,
+    "accepted" : 7202,
     "exported" : 25,
     "failed" : 618,
-    "inProgress" : 31934,
+    "inProgress" : 31852,
     "audit" : 731,
     "blocked" : 8955,
     "duplicate" : 621,
@@ -15387,7 +15424,7 @@
     "rejected" : 55,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 05:34:17",
+  "dateTimeFetched" : "2019-11-03 08:37:52",
   "name" : "UK, England, Cumbria—Parish Records, 1538–1990 [Part B]",
   "state" : "ACTIVE"
 }, {
@@ -17089,7 +17126,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 21:52:33",
+  "dateTimeFetched" : "2019-11-03 08:07:09",
   "name" : "Chile—Cemetery Records, 1880–2015 [Part E]",
   "state" : "ACTIVE"
 }, {
@@ -17662,15 +17699,15 @@
   "iesAuditBatchCount" : 284,
   "iesCountsNoAudit" : {
     "imagesetCount" : 56,
-    "batchCount" : 5538,
-    "images" : 25640,
+    "batchCount" : 5541,
+    "images" : 25643,
     "recordCount" : 50566
   },
   "exportStateCounts" : {
     "accepted" : 3609,
     "exported" : 124,
     "failed" : 262,
-    "inProgress" : 1478,
+    "inProgress" : 1481,
     "audit" : 284,
     "blocked" : 20102,
     "duplicate" : 0,
@@ -17681,7 +17718,7 @@
     "rejected" : 24,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 00:49:24",
+  "dateTimeFetched" : "2019-11-03 08:22:40",
   "name" : "Sverige, Västerbotten—Kyrkböcker fram till 1860 [Del B]",
   "state" : "ACTIVE"
 }, {
@@ -17847,15 +17884,15 @@
   "iesAuditBatchCount" : 850,
   "iesCountsNoAudit" : {
     "imagesetCount" : 133,
-    "batchCount" : 17005,
-    "images" : 136077,
-    "recordCount" : 8003
+    "batchCount" : 17016,
+    "images" : 136132,
+    "recordCount" : 8013
   },
   "exportStateCounts" : {
-    "accepted" : 7065,
+    "accepted" : 7075,
     "exported" : 763,
     "failed" : 195,
-    "inProgress" : 53416,
+    "inProgress" : 53461,
     "audit" : 3864,
     "blocked" : 58981,
     "duplicate" : 359,
@@ -17866,7 +17903,7 @@
     "rejected" : 12,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 05:52:23",
+  "dateTimeFetched" : "2019-11-03 08:39:32",
   "name" : "US, Louisiana—Confederate Pensions, 1898–1950",
   "state" : "ACTIVE"
 }, {
@@ -17977,7 +18014,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:19:28",
+  "dateTimeFetched" : "2019-11-03 07:55:31",
   "name" : "UK, England, Herefordshire—Bishop's Transcripts, 1754–1898",
   "state" : "ACTIVE"
 }, {
@@ -18162,7 +18199,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 04:07:36",
+  "dateTimeFetched" : "2019-11-03 08:34:09",
   "name" : "Deutschland, Preußen, Sachsen—Volkszählungen, 1770–1934 [Teil A]",
   "state" : "ACTIVE"
 }, {
@@ -18365,15 +18402,15 @@
   "iesAuditBatchCount" : 38,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
-    "batchCount" : 13214,
-    "images" : 17524,
+    "batchCount" : 13215,
+    "images" : 17525,
     "recordCount" : 10390
   },
   "exportStateCounts" : {
     "accepted" : 176,
     "exported" : 0,
     "failed" : 4,
-    "inProgress" : 13085,
+    "inProgress" : 13086,
     "audit" : 38,
     "blocked" : 4254,
     "duplicate" : 0,
@@ -18384,7 +18421,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 07:04:49",
+  "dateTimeFetched" : "2019-11-03 09:05:49",
   "name" : "Spain, Gerona—1915–1925 Electoral Census",
   "state" : "ACTIVE"
 }, {
@@ -18626,13 +18663,13 @@
     "imagesetCount" : 156,
     "batchCount" : 28664,
     "images" : 103060,
-    "recordCount" : 230386
+    "recordCount" : 230547
   },
   "exportStateCounts" : {
-    "accepted" : 49137,
+    "accepted" : 49190,
     "exported" : 4075,
     "failed" : 106,
-    "inProgress" : 31164,
+    "inProgress" : 31111,
     "audit" : 4382,
     "blocked" : 14639,
     "duplicate" : 1097,
@@ -18643,7 +18680,7 @@
     "rejected" : 14,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 22:44:12",
+  "dateTimeFetched" : "2019-11-03 08:15:48",
   "name" : "Argentina, Salta—Registros de la Iglesia Católica, 1673–1972",
   "state" : "ACTIVE"
 }, {
@@ -20957,13 +20994,13 @@
     "imagesetCount" : 6,
     "batchCount" : 1220,
     "images" : 29807,
-    "recordCount" : 6509
+    "recordCount" : 6524
   },
   "exportStateCounts" : {
-    "accepted" : 6416,
+    "accepted" : 6431,
     "exported" : 34,
     "failed" : 565,
-    "inProgress" : 1475,
+    "inProgress" : 1460,
     "audit" : 391,
     "blocked" : 21225,
     "duplicate" : 7,
@@ -20974,7 +21011,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 01:23:15",
+  "dateTimeFetched" : "2019-11-03 08:33:23",
   "name" : "US, Idaho—Alien Arrivals, 1923–1952",
   "state" : "ACTIVE"
 }, {
@@ -21031,13 +21068,13 @@
     "imagesetCount" : 17,
     "batchCount" : 7488,
     "images" : 49903,
-    "recordCount" : 73146
+    "recordCount" : 73316
   },
   "exportStateCounts" : {
-    "accepted" : 13621,
+    "accepted" : 13644,
     "exported" : 801,
     "failed" : 1487,
-    "inProgress" : 25108,
+    "inProgress" : 25085,
     "audit" : 2290,
     "blocked" : 3935,
     "duplicate" : 1815,
@@ -21048,7 +21085,7 @@
     "rejected" : 7,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 06:18:39",
+  "dateTimeFetched" : "2019-11-03 08:45:05",
   "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte E]",
   "state" : "ACTIVE"
 }, {
@@ -21401,13 +21438,13 @@
     "imagesetCount" : 476,
     "batchCount" : 26311,
     "images" : 86375,
-    "recordCount" : 79256
+    "recordCount" : 79262
   },
   "exportStateCounts" : {
-    "accepted" : 63167,
+    "accepted" : 63170,
     "exported" : 13993,
     "failed" : 0,
-    "inProgress" : 3,
+    "inProgress" : 0,
     "audit" : 3836,
     "blocked" : 8749,
     "duplicate" : 41,
@@ -21418,7 +21455,7 @@
     "rejected" : 14,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 22:53:48",
+  "dateTimeFetched" : "2019-11-03 08:22:15",
   "name" : "Peru (Quick Batch), Tacna—Civil Registration, 1907–1998 [Part C]",
   "state" : "ACTIVE"
 }, {
@@ -21566,7 +21603,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 03:48:46",
+  "dateTimeFetched" : "2019-11-03 08:33:59",
   "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte B]",
   "state" : "ACTIVE"
 }, {
@@ -22358,19 +22395,19 @@
   "auditBatchCount" : 2571,
   "imageCount" : 260459,
   "blockedCount" : 3549,
-  "iesAuditBatchCount" : 1859,
+  "iesAuditBatchCount" : 1860,
   "iesCountsNoAudit" : {
     "imagesetCount" : 51,
-    "batchCount" : 37203,
-    "images" : 189447,
-    "recordCount" : 61304
+    "batchCount" : 37329,
+    "images" : 190077,
+    "recordCount" : 61582
   },
   "exportStateCounts" : {
-    "accepted" : 60983,
+    "accepted" : 61261,
     "exported" : 234,
     "failed" : 535,
-    "inProgress" : 122458,
-    "audit" : 9293,
+    "inProgress" : 122810,
+    "audit" : 9298,
     "blocked" : 3549,
     "duplicate" : 1136,
     "ned" : 408,
@@ -22380,7 +22417,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:15:29",
+  "dateTimeFetched" : "2019-11-03 07:58:51",
   "name" : "US (Quick Batch), Puerto Rico—World War I Draft Registration Cards, 1917–1918 [Part B]",
   "state" : "ACTIVE"
 }, {
@@ -23120,7 +23157,7 @@
     "rejected" : 5,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 19:04:10",
+  "dateTimeFetched" : "2019-11-03 08:06:00",
   "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog of Newspapers, 1553–2015 [Part J]",
   "state" : "ACTIVE"
 }, {
@@ -23860,7 +23897,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:17:56",
+  "dateTimeFetched" : "2019-11-03 08:01:18",
   "name" : "Perú, Lima—Registros Civiles, 1917–1995 [Parte C]",
   "state" : "ACTIVE"
 }, {
@@ -24028,13 +24065,13 @@
     "imagesetCount" : 20,
     "batchCount" : 9693,
     "images" : 12212,
-    "recordCount" : 77631
+    "recordCount" : 77958
   },
   "exportStateCounts" : {
-    "accepted" : 1915,
+    "accepted" : 1922,
     "exported" : 7,
     "failed" : 101,
-    "inProgress" : 7894,
+    "inProgress" : 7887,
     "audit" : 148,
     "blocked" : 2054,
     "duplicate" : 0,
@@ -24045,7 +24082,7 @@
     "rejected" : 14,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 04:13:03",
+  "dateTimeFetched" : "2019-11-03 08:36:07",
   "name" : "US, Louisiana, New Orleans—Interment Registers, 1836–1972",
   "state" : "ACTIVE"
 }, {
@@ -24230,7 +24267,7 @@
     "rejected" : 87,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:12:28",
+  "dateTimeFetched" : "2019-11-03 07:55:42",
   "name" : "Chile—Cemetery Records, 1880–2015 [Part C]",
   "state" : "ACTIVE"
 }, {
@@ -26174,24 +26211,24 @@
     "imagesetCount" : 11,
     "batchCount" : 31812,
     "images" : 32304,
-    "recordCount" : 897256
+    "recordCount" : 897653
   },
   "exportStateCounts" : {
-    "accepted" : 25535,
+    "accepted" : 25548,
     "exported" : 2093,
-    "failed" : 2094,
-    "inProgress" : 432,
+    "failed" : 2091,
+    "inProgress" : 421,
     "audit" : 1592,
     "blocked" : 477,
     "duplicate" : 0,
-    "ned" : 1566,
+    "ned" : 1567,
     "unreadable" : 0,
     "notExported" : 27,
     "readyForExport" : 0,
     "rejected" : 80,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:27:00",
+  "dateTimeFetched" : "2019-11-03 08:02:37",
   "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte B]",
   "state" : "ACTIVE"
 }, {
@@ -26635,7 +26672,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 05:19:07",
+  "dateTimeFetched" : "2019-11-03 08:37:25",
   "name" : "Brasil (Lote Rápido) São Paulo—Registro Civil, Nacimientos, 1907–1995 [Parte I]",
   "state" : "ACTIVE"
 }, {
@@ -26857,7 +26894,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 04:52:07",
+  "dateTimeFetched" : "2019-11-03 08:37:06",
   "name" : "Canada, Nova Scotia—Marriage Records, 1864–1918",
   "state" : "ACTIVE"
 }, {
@@ -28537,19 +28574,19 @@
   "auditBatchCount" : 1917,
   "imageCount" : 83377,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 145,
+  "iesAuditBatchCount" : 146,
   "iesCountsNoAudit" : {
     "imagesetCount" : 124,
     "batchCount" : 38393,
     "images" : 83377,
-    "recordCount" : 11333
+    "recordCount" : 11623
   },
   "exportStateCounts" : {
-    "accepted" : 1257,
+    "accepted" : 1288,
     "exported" : 6,
     "failed" : 346,
-    "inProgress" : 74599,
-    "audit" : 290,
+    "inProgress" : 74568,
+    "audit" : 292,
     "blocked" : 6677,
     "duplicate" : 168,
     "ned" : 322,
@@ -28559,7 +28596,7 @@
     "rejected" : 2,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 20:22:06",
+  "dateTimeFetched" : "2019-11-03 08:06:11",
   "name" : "Chile—Registros de la Iglesia Católica, 1710–1928 [Parte A]",
   "state" : "ACTIVE"
 }, {
@@ -30557,7 +30594,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 21:49:32",
+  "dateTimeFetched" : "2019-11-03 08:06:59",
   "name" : "South Africa, Orange Free State—Master of the Supreme Court Probates, 1832–1989 [Part C]",
   "state" : "ACTIVE"
 }, {
@@ -30787,7 +30824,7 @@
     "projectId" : 3174,
     "projectUUID" : "B9061914-9EEF-4145-8677-02C44238B455",
     "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie E]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 177,
   "batchCount" : 4797,
@@ -30816,9 +30853,9 @@
     "rejected" : 22,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 06:57:08",
+  "dateTimeFetched" : "2019-11-03 09:05:39",
   "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie E]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2629,
@@ -31482,7 +31519,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 20:25:06",
+  "dateTimeFetched" : "2019-11-03 08:06:21",
   "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part I]",
   "state" : "ACTIVE"
 }, {
@@ -33628,7 +33665,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 05:00:37",
+  "dateTimeFetched" : "2019-11-03 08:37:16",
   "name" : "Belgium, Namur—Registres Civils, 1901–1910 [Partie B]",
   "state" : "ACTIVE"
 }, {
@@ -34886,7 +34923,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 05:23:06",
+  "dateTimeFetched" : "2019-11-03 08:37:35",
   "name" : "Sri Lanka, Colombo—Nederlands hervormde dopen en huwelijken, 1677–1990 [deel C]",
   "state" : "ACTIVE"
 }, {
@@ -37735,7 +37772,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:18:17",
+  "dateTimeFetched" : "2019-11-03 07:55:20",
   "name" : "US, North Carolina, Wake County—Death Records, 1900–1909",
   "state" : "ACTIVE"
 }, {
@@ -38823,29 +38860,29 @@
   "auditBatchCount" : 1080,
   "imageCount" : 43362,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1072,
+  "iesAuditBatchCount" : 1073,
   "iesCountsNoAudit" : {
     "imagesetCount" : 106,
     "batchCount" : 21653,
     "images" : 43362,
-    "recordCount" : 42780
+    "recordCount" : 43431
   },
   "exportStateCounts" : {
-    "accepted" : 14229,
+    "accepted" : 14446,
     "exported" : 33,
-    "failed" : 442,
-    "inProgress" : 28432,
-    "audit" : 2140,
+    "failed" : 440,
+    "inProgress" : 28219,
+    "audit" : 2142,
     "blocked" : 119,
     "duplicate" : 3,
-    "ned" : 89,
+    "ned" : 87,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 15,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:12:18",
+  "dateTimeFetched" : "2019-11-03 07:55:31",
   "name" : "Colombia, Bogota—Burial Licenses, 1960–1991 [Part A]",
   "state" : "ACTIVE"
 }, {
@@ -38919,7 +38956,7 @@
     "rejected" : 8,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-02 18:12:39",
+  "dateTimeFetched" : "2019-11-03 07:55:53",
   "name" : "Danmark, København—Begravelsesregistre, 1805–1968 [Del C]",
   "state" : "ACTIVE"
 }, {
@@ -39198,24 +39235,24 @@
     "imagesetCount" : 125,
     "batchCount" : 97157,
     "images" : 291621,
-    "recordCount" : 161564
+    "recordCount" : 163355
   },
   "exportStateCounts" : {
-    "accepted" : 161233,
-    "exported" : 186,
+    "accepted" : 163017,
+    "exported" : 189,
     "failed" : 1935,
-    "inProgress" : 127198,
+    "inProgress" : 125411,
     "audit" : 14498,
     "blocked" : 291,
-    "duplicate" : 531,
-    "ned" : 241,
+    "duplicate" : 532,
+    "ned" : 240,
     "unreadable" : 0,
     "notExported" : 3,
     "readyForExport" : 0,
     "rejected" : 3,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-03 00:35:47",
+  "dateTimeFetched" : "2019-11-03 08:22:30",
   "name" : "US, Oregon—Marriage Records, 1906–1968 [Part B]",
   "state" : "ACTIVE"
 }, {
