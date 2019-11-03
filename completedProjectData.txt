@@ -22422,6 +22422,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3411,
+    "projectUUID" : "572FD7A1-5321-4B67-9C59-0B4C46F62B75",
+    "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog of Newspapers, 1553–2015 [Part J]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 338,
+  "auditBatchCount" : 16,
+  "imageCount" : 643,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 16,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 322,
+    "images" : 643,
+    "recordCount" : 78
+  },
+  "exportStateCounts" : {
+    "accepted" : 1,
+    "exported" : 70,
+    "failed" : 0,
+    "inProgress" : 2,
+    "audit" : 32,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 525,
+    "unreadable" : 0,
+    "notExported" : 40,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 19:04:10",
+  "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog of Newspapers, 1553–2015 [Part J]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1856,
     "projectUUID" : "01523E22-A79A-4243-8795-0A69B9825D38",
     "name" : "Philippines—National Offices, Civil Registration of Marriages, 1945–1987 [Part D]",
