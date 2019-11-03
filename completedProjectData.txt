@@ -3256,6 +3256,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1879,
+    "projectUUID" : "A25AE7EC-61DC-4751-A138-273FE5802830",
+    "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 198,
+  "batchCount" : 61097,
+  "auditBatchCount" : 2908,
+  "imageCount" : 592837,
+  "blockedCount" : 18378,
+  "iesAuditBatchCount" : 2089,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 198,
+    "batchCount" : 41788,
+    "images" : 429181,
+    "recordCount" : 366840
+  },
+  "exportStateCounts" : {
+    "accepted" : 218506,
+    "exported" : 834,
+    "failed" : 694,
+    "inProgress" : 185161,
+    "audit" : 20540,
+    "blocked" : 18378,
+    "duplicate" : 4480,
+    "ned" : 680,
+    "unreadable" : 0,
+    "notExported" : 445,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 22:15:09",
+  "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3392,
     "projectUUID" : "B751E480-FCF7-4D5A-8088-338A4E7B4D73",
     "name" : "South Africa, Cape Province—Cemetery Records, 1886–2010 [Part D]",
