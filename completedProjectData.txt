@@ -30377,6 +30377,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2408,
+    "projectUUID" : "561A5794-E7D8-459E-A991-3B8D86F57A14",
+    "name" : "Belgique (Lot Rapide)—Registres Civils, 1851–1900 [Partie 2F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 77,
+  "batchCount" : 54097,
+  "auditBatchCount" : 2576,
+  "imageCount" : 65761,
+  "blockedCount" : 5286,
+  "iesAuditBatchCount" : 2142,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 77,
+    "batchCount" : 42899,
+    "images" : 56286,
+    "recordCount" : 110613
+  },
+  "exportStateCounts" : {
+    "accepted" : 30488,
+    "exported" : 2267,
+    "failed" : 54,
+    "inProgress" : 15243,
+    "audit" : 2551,
+    "blocked" : 5286,
+    "duplicate" : 86,
+    "ned" : 2833,
+    "unreadable" : 0,
+    "notExported" : 28,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 09:48:33",
+  "name" : "Belgique (Lot Rapide)—Registres Civils, 1851–1900 [Partie 2F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2608,
     "projectUUID" : "7279DE89-79DF-4DE7-8788-4D86A4F6538B",
     "name" : "Perú, Cusco—Registros Civiles, 1889–1997 [Parte 2U]",
