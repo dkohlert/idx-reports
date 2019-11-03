@@ -18352,6 +18352,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3430,
+    "projectUUID" : "7A536A0D-D492-4139-93B8-F037ECD00274",
+    "name" : "Spain, Gerona—1915–1925 Electoral Census",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 10,
+  "batchCount" : 14525,
+  "auditBatchCount" : 692,
+  "imageCount" : 18143,
+  "blockedCount" : 4254,
+  "iesAuditBatchCount" : 38,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 10,
+    "batchCount" : 13214,
+    "images" : 17524,
+    "recordCount" : 10390
+  },
+  "exportStateCounts" : {
+    "accepted" : 176,
+    "exported" : 0,
+    "failed" : 4,
+    "inProgress" : 13085,
+    "audit" : 38,
+    "blocked" : 4254,
+    "duplicate" : 0,
+    "ned" : 5,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 07:04:49",
+  "name" : "Spain, Gerona—1915–1925 Electoral Census",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1641,
     "projectUUID" : "DEAA81D5-0EF8-4398-B4E3-E7E7C2717150",
     "name" : "UK, England, Northumberland—Parish Registers, 1754–2012",
