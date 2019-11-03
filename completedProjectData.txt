@@ -15318,6 +15318,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3426,
+    "projectUUID" : "953140CD-D456-4154-B7AE-13414A3A4AB5",
+    "name" : "UK, England, Cumbria—Parish Records, 1538–1990 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 36,
+  "batchCount" : 35424,
+  "auditBatchCount" : 1687,
+  "imageCount" : 70611,
+  "blockedCount" : 8955,
+  "iesAuditBatchCount" : 375,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 36,
+    "batchCount" : 20588,
+    "images" : 49491,
+    "recordCount" : 122507
+  },
+  "exportStateCounts" : {
+    "accepted" : 7105,
+    "exported" : 25,
+    "failed" : 618,
+    "inProgress" : 31934,
+    "audit" : 731,
+    "blocked" : 8955,
+    "duplicate" : 621,
+    "ned" : 176,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 55,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 05:34:17",
+  "name" : "UK, England, Cumbria—Parish Records, 1538–1990 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3240,
     "projectUUID" : "0ADA5635-B15C-4682-A8C9-0E3160B51BD5",
     "name" : "US, Hawaii, Honolulu Island—Tax Assessment Rolls, 1847–1903",
