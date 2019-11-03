@@ -8584,6 +8584,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2918,
+    "projectUUID" : "210E5CFC-D88D-4546-A81B-D6611BAB7918",
+    "name" : "Argentina, Corrientes—Registro Civil, 1880–1930 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 487,
+  "batchCount" : 27354,
+  "auditBatchCount" : 1301,
+  "imageCount" : 119782,
+  "blockedCount" : 16360,
+  "iesAuditBatchCount" : 1301,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 487,
+    "batchCount" : 26049,
+    "images" : 119766,
+    "recordCount" : 22757
+  },
+  "exportStateCounts" : {
+    "accepted" : 15301,
+    "exported" : 3009,
+    "failed" : 23,
+    "inProgress" : 50298,
+    "audit" : 5164,
+    "blocked" : 16360,
+    "duplicate" : 1522,
+    "ned" : 33188,
+    "unreadable" : 0,
+    "notExported" : 19,
+    "readyForExport" : 0,
+    "rejected" : 46,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 06:34:23",
+  "name" : "Argentina, Corrientes—Registro Civil, 1880–1930 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2793,
     "projectUUID" : "37337FB8-5195-4B61-97B0-6C15D5D1DBDB",
     "name" : "US (Quick Batch), Ohio, Licking County, Hartford Township—Burial Permits, 1881–1962",
