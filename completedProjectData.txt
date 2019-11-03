@@ -28823,6 +28823,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2157,
+    "projectUUID" : "69BB048A-C153-47A3-B8D7-244E4E3ACE6D",
+    "name" : "Magyarország, Budapest—Polgári anyakönyvek, I–XIII. kerület, 1895–1973 [D rész]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 100,
+  "batchCount" : 38645,
+  "auditBatchCount" : 1833,
+  "imageCount" : 75204,
+  "blockedCount" : 1591,
+  "iesAuditBatchCount" : 1771,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 100,
+    "batchCount" : 35635,
+    "images" : 72853,
+    "recordCount" : 336487
+  },
+  "exportStateCounts" : {
+    "accepted" : 63080,
+    "exported" : 3773,
+    "failed" : 82,
+    "inProgress" : 1898,
+    "audit" : 3540,
+    "blocked" : 1591,
+    "duplicate" : 2118,
+    "ned" : 257,
+    "unreadable" : 0,
+    "notExported" : 41,
+    "readyForExport" : 0,
+    "rejected" : 13,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 16:09:02",
+  "name" : "Magyarország, Budapest—Polgári anyakönyvek, I–XIII. kerület, 1895–1973 [D rész]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2995,
     "projectUUID" : "B2AAB265-CAFC-4F69-8F5D-D8418C2DEC63",
     "name" : "US, Oklahoma—Marriage Records, 1750–1990 [Part B]",
