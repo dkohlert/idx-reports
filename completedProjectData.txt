@@ -8917,6 +8917,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2920,
+    "projectUUID" : "5A6AF227-7E68-4C6C-93CA-E1BF354CD023",
+    "name" : "Perú, Arequipa, Sagrario—Catholic Church Records, 1644–1921 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 7,
+  "batchCount" : 1664,
+  "auditBatchCount" : 80,
+  "imageCount" : 7702,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 80,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 7,
+    "batchCount" : 1584,
+    "images" : 7702,
+    "recordCount" : 41377
+  },
+  "exportStateCounts" : {
+    "accepted" : 6534,
+    "exported" : 209,
+    "failed" : 0,
+    "inProgress" : 3,
+    "audit" : 369,
+    "blocked" : 412,
+    "duplicate" : 110,
+    "ned" : 432,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 10:10:36",
+  "name" : "Perú, Arequipa, Sagrario—Catholic Church Records, 1644–1921 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1722,
     "projectUUID" : "B9DD4CE9-101E-43DC-BF49-AD86715B3348",
     "name" : "UK, Scotland—Presbyterian and Protestant Church Records, 1736–1990 [Part A]",
