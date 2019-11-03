@@ -25345,6 +25345,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1872,
+    "projectUUID" : "1040846F-51CD-4B86-8A2D-6DCF149634D3",
+    "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 11,
+  "batchCount" : 37996,
+  "auditBatchCount" : 1807,
+  "imageCount" : 36683,
+  "blockedCount" : 477,
+  "iesAuditBatchCount" : 1590,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 11,
+    "batchCount" : 31812,
+    "images" : 32304,
+    "recordCount" : 897256
+  },
+  "exportStateCounts" : {
+    "accepted" : 25535,
+    "exported" : 2093,
+    "failed" : 2094,
+    "inProgress" : 432,
+    "audit" : 1592,
+    "blocked" : 477,
+    "duplicate" : 0,
+    "ned" : 1566,
+    "unreadable" : 0,
+    "notExported" : 27,
+    "readyForExport" : 0,
+    "rejected" : 80,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-02 18:27:00",
+  "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2008,
     "projectUUID" : "CEB8D505-95B0-43EB-A1DB-259F35EE9399",
     "name" : "Paraguay, Asunción—Registros Parroquiales, 1915–1973 [Parte B]",
