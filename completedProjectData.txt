@@ -15910,6 +15910,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2684,
+    "projectUUID" : "3151AB83-C91C-4E6E-B31E-150B99FA8685",
+    "name" : "Panama—Registros Parroquiales, 1748–1972 [Parte E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 9167,
+  "auditBatchCount" : 437,
+  "imageCount" : 19096,
+  "blockedCount" : 1478,
+  "iesAuditBatchCount" : 211,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 4226,
+    "images" : 9984,
+    "recordCount" : 5252
+  },
+  "exportStateCounts" : {
+    "accepted" : 1660,
+    "exported" : 53,
+    "failed" : 92,
+    "inProgress" : 5808,
+    "audit" : 425,
+    "blocked" : 1478,
+    "duplicate" : 75,
+    "ned" : 817,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 08:01:19",
+  "name" : "Panama—Registros Parroquiales, 1748–1972 [Parte E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3240,
     "projectUUID" : "0ADA5635-B15C-4682-A8C9-0E3160B51BD5",
     "name" : "US, Hawaii, Honolulu Island—Tax Assessment Rolls, 1847–1903",
