@@ -36038,6 +36038,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3442,
+    "projectUUID" : "9F0DE112-43BF-48F4-A5EB-4678D32DEB92",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part AA]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 21179,
+  "auditBatchCount" : 992,
+  "imageCount" : 85118,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 992,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 20187,
+    "images" : 85118,
+    "recordCount" : 87038
+  },
+  "exportStateCounts" : {
+    "accepted" : 28694,
+    "exported" : 50736,
+    "failed" : 8,
+    "inProgress" : 7,
+    "audit" : 3935,
+    "blocked" : 5125,
+    "duplicate" : 56,
+    "ned" : 487,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 17:42:22",
+  "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part AA]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3619,
     "projectUUID" : "55A3FA0A-C944-4B26-9740-0939571DABA5",
     "name" : "US, California—List of United States Citizens Arriving at San Francisco, 1930—1949",
