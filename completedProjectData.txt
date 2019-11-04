@@ -7252,6 +7252,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3210,
+    "projectUUID" : "B216F876-2F74-45AA-9147-D79163884857",
+    "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 290,
+  "batchCount" : 39044,
+  "auditBatchCount" : 1861,
+  "imageCount" : 112541,
+  "blockedCount" : 6277,
+  "iesAuditBatchCount" : 314,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 290,
+    "batchCount" : 6353,
+    "images" : 25081,
+    "recordCount" : 15821
+  },
+  "exportStateCounts" : {
+    "accepted" : 4737,
+    "exported" : 50,
+    "failed" : 1241,
+    "inProgress" : 12421,
+    "audit" : 927,
+    "blocked" : 6277,
+    "duplicate" : 3,
+    "ned" : 327,
+    "unreadable" : 0,
+    "notExported" : 6,
+    "readyForExport" : 0,
+    "rejected" : 19,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 16:20:46",
+  "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2234,
     "projectUUID" : "C2AAF076-57F5-448C-B468-95F7F9008F7B",
     "name" : "US, Texas, Houston—Hollywood Cemetery, Burial and Disinterment Applications, 1895–2007",
