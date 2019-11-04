@@ -18019,6 +18019,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2441,
+    "projectUUID" : "62A08C6F-425A-4697-8224-F63B6931A1E1",
+    "name" : "Perú, Junín—Registro Civil, Nacimientos, 1890–1999 [Parte J]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 250,
+  "batchCount" : 11471,
+  "auditBatchCount" : 541,
+  "imageCount" : 74870,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 541,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 250,
+    "batchCount" : 10930,
+    "images" : 74870,
+    "recordCount" : 72078
+  },
+  "exportStateCounts" : {
+    "accepted" : 71075,
+    "exported" : 267,
+    "failed" : 10,
+    "inProgress" : 0,
+    "audit" : 3558,
+    "blocked" : 2296,
+    "duplicate" : 158,
+    "ned" : 1035,
+    "unreadable" : 0,
+    "notExported" : 29,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 16:12:40",
+  "name" : "Perú, Junín—Registro Civil, Nacimientos, 1890–1999 [Parte J]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2505,
     "projectUUID" : "E64B690F-206A-4BB5-92A1-3E20230788A9",
     "name" : "US, Delaware—Public Archives, World War I Service Records, 1917–1919",
