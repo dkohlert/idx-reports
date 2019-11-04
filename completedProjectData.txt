@@ -16391,6 +16391,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1927,
+    "projectUUID" : "1B7CFD90-4280-44A6-A9FD-1E5299E33A50",
+    "name" : "QA Internal Test Old Admin WAF fixes",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 9,
+  "auditBatchCount" : 1,
+  "imageCount" : 36,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 8,
+    "images" : 36,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 35,
+    "inProgress" : 0,
+    "audit" : 1,
+    "blocked" : 1,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 15:31:43",
+  "name" : "QA Internal Test Old Admin WAF fixes",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1673,
     "projectUUID" : "DBF70134-2B58-4723-9D26-C7BD3543CCE2",
     "name" : "Guatemala—Civil Registration, 1885–2009 [Part C]",
