@@ -9509,6 +9509,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3212,
+    "projectUUID" : "71C08BE5-EC1F-47F3-B1C4-332F8AED1B02",
+    "name" : "Honduras—Registros de la Iglesia Catolica, 1694–1979 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 877,
+  "auditBatchCount" : 42,
+  "imageCount" : 1736,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 42,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 835,
+    "images" : 1736,
+    "recordCount" : 2647
+  },
+  "exportStateCounts" : {
+    "accepted" : 1467,
+    "exported" : 13,
+    "failed" : 10,
+    "inProgress" : 12,
+    "audit" : 84,
+    "blocked" : 76,
+    "duplicate" : 10,
+    "ned" : 148,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 16:26:54",
+  "name" : "Honduras—Registros de la Iglesia Catolica, 1694–1979 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2064,
     "projectUUID" : "31793D8D-578F-4EC4-802A-0CED0B5FA903",
     "name" : "Portugal, Aveiro—Civil Registration, 1911–1915",
