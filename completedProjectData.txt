@@ -17575,6 +17575,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3207,
+    "projectUUID" : "2E920BC4-2B0A-4169-ABFF-02846F4FA970",
+    "name" : "Canada, Nova Scotia—Death Records, 1864–1877",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 15905,
+  "auditBatchCount" : 758,
+  "imageCount" : 27895,
+  "blockedCount" : 12231,
+  "iesAuditBatchCount" : 200,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 4062,
+    "images" : 16549,
+    "recordCount" : 9613
+  },
+  "exportStateCounts" : {
+    "accepted" : 1989,
+    "exported" : 31,
+    "failed" : 136,
+    "inProgress" : 2117,
+    "audit" : 210,
+    "blocked" : 12231,
+    "duplicate" : 10,
+    "ned" : 29,
+    "unreadable" : 0,
+    "notExported" : 6,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 15:44:03",
+  "name" : "Canada, Nova Scotia—Death Records, 1864–1877",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2731,
     "projectUUID" : "D6348292-DA2C-4F87-A8FB-C52E84F3BAA1",
     "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part D]",
