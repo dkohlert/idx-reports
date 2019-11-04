@@ -40219,6 +40219,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2681,
+    "projectUUID" : "1EBD10F9-3FDB-428E-BF43-80C55E8F0E32",
+    "name" : "Italia (Antenati Italiani), Udine—Nati, 1875–1901 [Parte 2J]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 2215,
+  "auditBatchCount" : 88,
+  "imageCount" : 8929,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 88,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 2127,
+    "images" : 8929,
+    "recordCount" : 13500
+  },
+  "exportStateCounts" : {
+    "accepted" : 4828,
+    "exported" : 2848,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 329,
+    "blocked" : 996,
+    "duplicate" : 26,
+    "ned" : 226,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 23:22:56",
+  "name" : "Italia (Antenati Italiani), Udine—Nati, 1875–1901 [Parte 2J]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2649,
     "projectUUID" : "9339AF5C-D77B-4AFD-9826-97E1081E35D3",
     "name" : "UK, England, Hampshire—Parish Registers, 1538–1986",
