@@ -14393,6 +14393,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3461,
+    "projectUUID" : "BB714439-07ED-4784-9594-34834A20A50F",
+    "name" : "UK, England, Oxfordshire—Bishop's Transcripts, 1754–1904",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 1627,
+  "auditBatchCount" : 79,
+  "imageCount" : 3227,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 77,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 1548,
+    "images" : 3227,
+    "recordCount" : 21462
+  },
+  "exportStateCounts" : {
+    "accepted" : 2145,
+    "exported" : 20,
+    "failed" : 172,
+    "inProgress" : 316,
+    "audit" : 153,
+    "blocked" : 136,
+    "duplicate" : 15,
+    "ned" : 415,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 8,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 14:48:40",
+  "name" : "UK, England, Oxfordshire—Bishop's Transcripts, 1754–1904",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2085,
     "projectUUID" : "83604D82-B4FC-4567-8590-34D0B47A3F53",
     "name" : "España, Provincia de Asturias—registro civil, 1836–1871 [Parte A]",
