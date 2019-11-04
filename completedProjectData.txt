@@ -40404,6 +40404,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2937,
+    "projectUUID" : "DBEF11EA-9B6F-4406-A676-8C67E5FD8561",
+    "name" : "US, Hawaii—Circuit Court Divorce Records, 1849–1915",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 31,
+  "batchCount" : 2932,
+  "auditBatchCount" : 140,
+  "imageCount" : 45361,
+  "blockedCount" : 10457,
+  "iesAuditBatchCount" : 17,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 31,
+    "batchCount" : 2263,
+    "images" : 38831,
+    "recordCount" : 16
+  },
+  "exportStateCounts" : {
+    "accepted" : 9,
+    "exported" : 7,
+    "failed" : 69,
+    "inProgress" : 26359,
+    "audit" : 197,
+    "blocked" : 10457,
+    "duplicate" : 14,
+    "ned" : 1916,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 23:25:30",
+  "name" : "US, Hawaii—Circuit Court Divorce Records, 1849–1915",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2617,
     "projectUUID" : "72116661-C37D-437B-A3A0-268F0EB85A37",
     "name" : "Perú, Lima—Registros Civiles, 1917–1995 [Parte N]",
