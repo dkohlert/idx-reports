@@ -8769,6 +8769,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 1655,
+    "projectUUID" : "DBBD1E00-D5EA-432B-A517-4288A7330EC4",
+    "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 332,
+  "batchCount" : 37378,
+  "auditBatchCount" : 1765,
+  "imageCount" : 195262,
+  "blockedCount" : 20678,
+  "iesAuditBatchCount" : 1765,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 332,
+    "batchCount" : 35613,
+    "images" : 195039,
+    "recordCount" : 444086
+  },
+  "exportStateCounts" : {
+    "accepted" : 161361,
+    "exported" : 396,
+    "failed" : 30,
+    "inProgress" : 5,
+    "audit" : 8629,
+    "blocked" : 20678,
+    "duplicate" : 1614,
+    "ned" : 1539,
+    "unreadable" : 0,
+    "notExported" : 9415,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 07:44:40",
+  "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2653,
     "projectUUID" : "F3275E44-13D5-43CD-A989-503BFCAE5BAD",
     "name" : "Canada—1926 Census",
