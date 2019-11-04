@@ -8288,6 +8288,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2437,
+    "projectUUID" : "D479AE76-881F-4DB3-9E80-802B4EE5807E",
+    "name" : "Suisse, Fribourg — Recensement de 1880 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 60,
+  "batchCount" : 4530,
+  "auditBatchCount" : 215,
+  "imageCount" : 32765,
+  "blockedCount" : 19932,
+  "iesAuditBatchCount" : 86,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 60,
+    "batchCount" : 1788,
+    "images" : 25251,
+    "recordCount" : 8542
+  },
+  "exportStateCounts" : {
+    "accepted" : 1829,
+    "exported" : 3,
+    "failed" : 0,
+    "inProgress" : 3469,
+    "audit" : 253,
+    "blocked" : 19932,
+    "duplicate" : 1,
+    "ned" : 14,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 14:45:52",
+  "name" : "Suisse, Fribourg — Recensement de 1880 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1977,
     "projectUUID" : "AA221F2D-701A-4DF0-8D60-2CA7259A92EE",
     "name" : "US, Indiana—County Marriages, 1700-2005 [Part A]",
