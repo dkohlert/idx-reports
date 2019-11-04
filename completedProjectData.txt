@@ -24531,6 +24531,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3193,
+    "projectUUID" : "2A308D9E-5B3E-40FA-923A-752A05078E8B",
+    "name" : "Peru, Iquitos—Cemetery Records, 1912–2013",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 17,
+  "batchCount" : 3077,
+  "auditBatchCount" : 145,
+  "imageCount" : 4507,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 145,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 17,
+    "batchCount" : 2932,
+    "images" : 4507,
+    "recordCount" : 67747
+  },
+  "exportStateCounts" : {
+    "accepted" : 2157,
+    "exported" : 632,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 193,
+    "blocked" : 611,
+    "duplicate" : 16,
+    "ned" : 1016,
+    "unreadable" : 0,
+    "notExported" : 6,
+    "readyForExport" : 0,
+    "rejected" : 69,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 23:40:41",
+  "name" : "Peru, Iquitos—Cemetery Records, 1912–2013",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1101,
     "projectUUID" : "A3C20EAE-02F1-47AB-9063-AE49BF27B958",
     "name" : "UK, Wales—Probate Abstracts, 1544–1858  [Part D]",
