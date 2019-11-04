@@ -777,6 +777,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1671,
+    "projectUUID" : "52E16DC9-6D7D-42FB-8276-3FB3D33660C4",
+    "name" : "Italia (Antenati Italiani), Pescara—Stato Civile, 1809–1865 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 218,
+  "batchCount" : 46288,
+  "auditBatchCount" : 2194,
+  "imageCount" : 256566,
+  "blockedCount" : 37181,
+  "iesAuditBatchCount" : 537,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 218,
+    "batchCount" : 10632,
+    "images" : 89983,
+    "recordCount" : 13779
+  },
+  "exportStateCounts" : {
+    "accepted" : 8219,
+    "exported" : 154,
+    "failed" : 4045,
+    "inProgress" : 18210,
+    "audit" : 2670,
+    "blocked" : 37181,
+    "duplicate" : 836,
+    "ned" : 21288,
+    "unreadable" : 0,
+    "notExported" : 50,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 15:27:10",
+  "name" : "Italia (Antenati Italiani), Pescara—Stato Civile, 1809–1865 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3209,
     "projectUUID" : "F539DD35-7557-4555-AF64-61E7D4EC9458",
     "name" : "Chile—Registros de cementerios, 1880–2015 [Part B]",
