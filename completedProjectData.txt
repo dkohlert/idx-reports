@@ -30710,6 +30710,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2691,
+    "projectUUID" : "A3CA7381-B8DD-4E08-813B-D21013F82EB9",
+    "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 28,
+  "batchCount" : 7274,
+  "auditBatchCount" : 347,
+  "imageCount" : 21398,
+  "blockedCount" : 3394,
+  "iesAuditBatchCount" : 51,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 28,
+    "batchCount" : 993,
+    "images" : 5758,
+    "recordCount" : 583
+  },
+  "exportStateCounts" : {
+    "accepted" : 148,
+    "exported" : 0,
+    "failed" : 68,
+    "inProgress" : 2089,
+    "audit" : 122,
+    "blocked" : 3394,
+    "duplicate" : 18,
+    "ned" : 41,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 12:40:50",
+  "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2879,
     "projectUUID" : "75189413-F9D2-452B-9D8B-88D28DA0733E",
     "name" : "US, Maryland, Baltimore—Loudon Park Cemetery Records, 1853–1986",
