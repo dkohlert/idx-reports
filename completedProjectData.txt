@@ -13579,6 +13579,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 635,
+    "projectUUID" : "180E49FD-2D50-41CB-89C4-6B89B1D4C68C",
+    "name" : "US, Utah—Birth Certificates, 1903–1910 [Part 1D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 297,
+  "batchCount" : 1579,
+  "auditBatchCount" : 64,
+  "imageCount" : 14090,
+  "blockedCount" : 873,
+  "iesAuditBatchCount" : 64,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 297,
+    "batchCount" : 1515,
+    "images" : 14089,
+    "recordCount" : 13207
+  },
+  "exportStateCounts" : {
+    "accepted" : 13127,
+    "exported" : 4,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 542,
+    "blocked" : 873,
+    "duplicate" : 36,
+    "ned" : 49,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 23:44:36",
+  "name" : "US, Utah—Birth Certificates, 1903–1910 [Part 1D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3342,
     "projectUUID" : "D701F9C5-9F3B-4BCD-A34B-9D9C52174410",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BG]",
