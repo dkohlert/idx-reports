@@ -39368,6 +39368,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3206,
+    "projectUUID" : "2D03A2C3-BDFF-47D1-B4F7-E0103B1D797C",
+    "name" : "Nicaragua—Registro Civil, 1809–2013 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 249,
+  "batchCount" : 10638,
+  "auditBatchCount" : 518,
+  "imageCount" : 42996,
+  "blockedCount" : 3036,
+  "iesAuditBatchCount" : 2,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 249,
+    "batchCount" : 39,
+    "images" : 3190,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 90,
+    "inProgress" : 58,
+    "audit" : 8,
+    "blocked" : 3036,
+    "duplicate" : 3,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 14:51:00",
+  "name" : "Nicaragua—Registro Civil, 1809–2013 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2779,
     "projectUUID" : "8C1571B2-30F5-4401-8D1D-6AD8360EE65B",
     "name" : "US (Quick Batch), New Jersey—Naturalization Records, 1796–1991 [Part M]",
