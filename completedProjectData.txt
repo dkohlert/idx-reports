@@ -8806,6 +8806,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3439,
+    "projectUUID" : "4D02671C-FD10-480F-8558-8B86B41CD15F",
+    "name" : "US, Louisiana—State Penitentiary Records, 1866–1963",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 42,
+  "batchCount" : 17292,
+  "auditBatchCount" : 825,
+  "imageCount" : 21692,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 310,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 42,
+    "batchCount" : 16467,
+    "images" : 21692,
+    "recordCount" : 67168
+  },
+  "exportStateCounts" : {
+    "accepted" : 5908,
+    "exported" : 27,
+    "failed" : 203,
+    "inProgress" : 11615,
+    "audit" : 398,
+    "blocked" : 2689,
+    "duplicate" : 8,
+    "ned" : 1239,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 17:08:07",
+  "name" : "US, Louisiana—State Penitentiary Records, 1866–1963",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2820,
     "projectUUID" : "B55FF040-E799-487D-9FCD-C74C98D5CE65",
     "name" : "Australia—Cemetery Inscriptions and Newspaper Clippings, 1802–2005 [Part J]",
