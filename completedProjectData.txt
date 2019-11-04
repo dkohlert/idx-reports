@@ -20609,6 +20609,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2434,
+    "projectUUID" : "57B94C09-C5FD-4FAA-A7C0-404A8FC6AF47",
+    "name" : "België, (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 100,
+  "batchCount" : 39061,
+  "auditBatchCount" : 1867,
+  "imageCount" : 43832,
+  "blockedCount" : 6635,
+  "iesAuditBatchCount" : 110,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 100,
+    "batchCount" : 2125,
+    "images" : 8760,
+    "recordCount" : 4597
+  },
+  "exportStateCounts" : {
+    "accepted" : 1946,
+    "exported" : 69,
+    "failed" : 27,
+    "inProgress" : 3,
+    "audit" : 110,
+    "blocked" : 6635,
+    "duplicate" : 0,
+    "ned" : 71,
+    "unreadable" : 0,
+    "notExported" : 9,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 12:34:24",
+  "name" : "België, (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1825,
     "projectUUID" : "012C0757-EAD2-4D29-ACA9-C05A9DAAA3E3",
     "name" : "US—Obituaries of German Immigrants, 1950-2016 [Part A]",
