@@ -15540,6 +15540,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3459,
+    "projectUUID" : "FCEA42FD-EBA3-4B7C-8523-F1C00B7C518D",
+    "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 41388,
+  "auditBatchCount" : 1956,
+  "imageCount" : 93072,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1364,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 39432,
+    "images" : 93072,
+    "recordCount" : 4021
+  },
+  "exportStateCounts" : {
+    "accepted" : 3331,
+    "exported" : 29,
+    "failed" : 386,
+    "inProgress" : 67624,
+    "audit" : 2722,
+    "blocked" : 14378,
+    "duplicate" : 137,
+    "ned" : 7174,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 8,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 13:16:37",
+  "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2535,
     "projectUUID" : "D8FACEB2-3118-4611-9E9A-BBE80314DA09",
     "name" : "US, Washington—Marriage Records, 1750–1990 [Part D]",
