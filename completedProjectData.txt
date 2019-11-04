@@ -29933,6 +29933,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2159,
+    "projectUUID" : "D987FA6E-0051-481D-B4BD-17EC5A6AEC36",
+    "name" : "Sri Lanka, District Colombo—Nederlands hervormde doopfeesten en huwelijken, 1677–1810 [deel B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 977,
+  "auditBatchCount" : 47,
+  "imageCount" : 2075,
+  "blockedCount" : 252,
+  "iesAuditBatchCount" : 28,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 503,
+    "images" : 1347,
+    "recordCount" : 3396
+  },
+  "exportStateCounts" : {
+    "accepted" : 609,
+    "exported" : 171,
+    "failed" : 211,
+    "inProgress" : 63,
+    "audit" : 78,
+    "blocked" : 252,
+    "duplicate" : 6,
+    "ned" : 35,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 17:05:49",
+  "name" : "Sri Lanka, District Colombo—Nederlands hervormde doopfeesten en huwelijken, 1677–1810 [deel B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3142,
     "projectUUID" : "E17B57B5-7ED7-4824-8D6B-03662BC477A4",
     "name" : "UK, England, Cumbria—Parish Records, 1754–1990",
