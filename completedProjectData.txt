@@ -34447,6 +34447,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3460,
+    "projectUUID" : "00B176D7-2914-4825-B65D-ED9DE78A8C77",
+    "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 526,
+  "batchCount" : 52392,
+  "auditBatchCount" : 2477,
+  "imageCount" : 298377,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2477,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 526,
+    "batchCount" : 49915,
+    "images" : 298377,
+    "recordCount" : 34915
+  },
+  "exportStateCounts" : {
+    "accepted" : 4468,
+    "exported" : 30228,
+    "failed" : 3,
+    "inProgress" : 199094,
+    "audit" : 11759,
+    "blocked" : 61911,
+    "duplicate" : 1808,
+    "ned" : 860,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 14:38:10",
+  "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2715,
     "projectUUID" : "C7449BDE-3F65-478F-AF72-C7C663832AEA",
     "name" : "Philippines, Albay, Legazpi City—Civil Registration, 1946–1980 [Part C]",
