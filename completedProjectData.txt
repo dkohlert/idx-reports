@@ -481,6 +481,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2940,
+    "projectUUID" : "7BF7D5D4-EF40-4F86-AABD-23E097C13C8C",
+    "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part P]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 20,
+  "batchCount" : 19,
+  "auditBatchCount" : 0,
+  "imageCount" : 35,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 20,
+    "batchCount" : 19,
+    "images" : 35,
+    "recordCount" : 7
+  },
+  "exportStateCounts" : {
+    "accepted" : 4,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 13,
+    "duplicate" : 0,
+    "ned" : 18,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 08:03:45",
+  "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part P]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3017,
     "projectUUID" : "07EC5272-7A97-4C34-878D-AAEC0789A3AA",
     "name" : "US, Rhode Island—World War I Draft Registration Cards, 1917–1918 [Part A]",
