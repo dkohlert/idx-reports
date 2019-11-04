@@ -18611,6 +18611,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3190,
+    "projectUUID" : "73E5E290-14F9-412B-85BE-7EC405440174",
+    "name" : "US, Indiana—County Marriages, 1811–2007 [Part K]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 410,
+  "batchCount" : 104682,
+  "auditBatchCount" : 4974,
+  "imageCount" : 336463,
+  "blockedCount" : 45542,
+  "iesAuditBatchCount" : 1243,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 410,
+    "batchCount" : 25035,
+    "images" : 116398,
+    "recordCount" : 76083
+  },
+  "exportStateCounts" : {
+    "accepted" : 15022,
+    "exported" : 24,
+    "failed" : 1035,
+    "inProgress" : 53578,
+    "audit" : 3515,
+    "blocked" : 45542,
+    "duplicate" : 645,
+    "ned" : 526,
+    "unreadable" : 0,
+    "notExported" : 19,
+    "readyForExport" : 0,
+    "rejected" : 7,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 21:55:21",
+  "name" : "US, Indiana—County Marriages, 1811–2007 [Part K]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2402,
     "projectUUID" : "21ED83F4-50E5-4937-91D9-32512A9426B6",
     "name" : "US, Kansas, Gove County—Census Enumerations, 1909–1950",
