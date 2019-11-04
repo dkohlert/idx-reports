@@ -36223,6 +36223,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2680,
+    "projectUUID" : "E1C97D2B-9ACD-4037-810B-D36E5054319C",
+    "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1Z]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 5714,
+  "auditBatchCount" : 265,
+  "imageCount" : 58077,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 265,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 5449,
+    "images" : 58077,
+    "recordCount" : 51306
+  },
+  "exportStateCounts" : {
+    "accepted" : 50444,
+    "exported" : 277,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2611,
+    "blocked" : 4452,
+    "duplicate" : 222,
+    "ned" : 2676,
+    "unreadable" : 0,
+    "notExported" : 6,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 23:20:36",
+  "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1Z]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2114,
     "projectUUID" : "27FCEC51-9261-4943-B03B-A002E402D652",
     "name" : "Brasil, São Paulo—Registro Civil, Nacimientos, 1907–1995 [Parte F]",
