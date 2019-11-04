@@ -20276,6 +20276,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3699,
+    "projectUUID" : "6AB67C66-58BB-4575-819C-A3AB72169D35",
+    "name" : "UK, England, Yorkshire—Marriage Bonds and Allegations, 1613–1887",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 261,
+  "batchCount" : 14361,
+  "auditBatchCount" : 681,
+  "imageCount" : 344017,
+  "blockedCount" : 36792,
+  "iesAuditBatchCount" : 29,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 261,
+    "batchCount" : 13680,
+    "images" : 172578,
+    "recordCount" : 1118
+  },
+  "exportStateCounts" : {
+    "accepted" : 1118,
+    "exported" : 0,
+    "failed" : 1557,
+    "inProgress" : 132792,
+    "audit" : 290,
+    "blocked" : 36792,
+    "duplicate" : 120,
+    "ned" : 199,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 17:49:17",
+  "name" : "UK, England, Yorkshire—Marriage Bonds and Allegations, 1613–1887",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1825,
     "projectUUID" : "012C0757-EAD2-4D29-ACA9-C05A9DAAA3E3",
     "name" : "US—Obituaries of German Immigrants, 1950-2016 [Part A]",
