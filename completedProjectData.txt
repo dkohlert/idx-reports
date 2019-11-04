@@ -7030,6 +7030,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3440,
+    "projectUUID" : "EF085A6F-EF1E-472C-B1D2-ABED837FD740",
+    "name" : "Argentina, Entre Ríos—Civil Registration, 1860–1965 [Part F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 377,
+  "batchCount" : 13723,
+  "auditBatchCount" : 648,
+  "imageCount" : 62757,
+  "blockedCount" : 12583,
+  "iesAuditBatchCount" : 202,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 376,
+    "batchCount" : 13075,
+    "images" : 62697,
+    "recordCount" : 1388
+  },
+  "exportStateCounts" : {
+    "accepted" : 723,
+    "exported" : 8,
+    "failed" : 965,
+    "inProgress" : 48164,
+    "audit" : 791,
+    "blocked" : 12583,
+    "duplicate" : 6,
+    "ned" : 248,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-03 17:12:05",
+  "name" : "Argentina, Entre Ríos—Civil Registration, 1860–1965 [Part F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2234,
     "projectUUID" : "C2AAF076-57F5-448C-B468-95F7F9008F7B",
     "name" : "US, Texas, Houston—Hollywood Cemetery, Burial and Disinterment Applications, 1895–2007",
