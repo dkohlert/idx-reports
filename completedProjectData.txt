@@ -22015,6 +22015,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2966,
+    "projectUUID" : "BB27DF21-D9DF-492C-AB84-5D8341C9BF76",
+    "name" : "US, Oklahoma—Confederate Pension Applications, 1879–1920",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 21,
+  "batchCount" : 5636,
+  "auditBatchCount" : 267,
+  "imageCount" : 60648,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 267,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 21,
+    "batchCount" : 5369,
+    "images" : 60648,
+    "recordCount" : 13594
+  },
+  "exportStateCounts" : {
+    "accepted" : 12251,
+    "exported" : 1095,
+    "failed" : 0,
+    "inProgress" : 10384,
+    "audit" : 1394,
+    "blocked" : 32211,
+    "duplicate" : 103,
+    "ned" : 4543,
+    "unreadable" : 0,
+    "notExported" : 6,
+    "readyForExport" : 0,
+    "rejected" : 55,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 23:35:39",
+  "name" : "US, Oklahoma—Confederate Pension Applications, 1879–1920",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2009,
     "projectUUID" : "85695A09-CA45-43A8-AA88-1B081DD45853",
     "name" : "Polska, Radom—Ksiegi Metrykalne, 1733–1868 [Czesc 6]",
