@@ -27676,6 +27676,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3473,
+    "projectUUID" : "D675C414-5B46-40B2-ACAF-264FB7C50D83",
+    "name" : "UK, England, Northumberland—Parish Registers, 1538–1753 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 85,
+  "batchCount" : 16940,
+  "auditBatchCount" : 805,
+  "imageCount" : 34724,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 805,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 85,
+    "batchCount" : 16135,
+    "images" : 34724,
+    "recordCount" : 571852
+  },
+  "exportStateCounts" : {
+    "accepted" : 9252,
+    "exported" : 2181,
+    "failed" : 0,
+    "inProgress" : 3,
+    "audit" : 838,
+    "blocked" : 17935,
+    "duplicate" : 5,
+    "ned" : 5082,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 270,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 20:44:00",
+  "name" : "UK, England, Northumberland—Parish Registers, 1538–1753 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2379,
     "projectUUID" : "5210807B-BA22-401D-B988-5D9DAA0AFE44",
     "name" : "US, Illinois—World War II Draft Registrations, 1940–1945 [Part B]",
