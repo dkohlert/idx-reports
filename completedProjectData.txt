@@ -18500,6 +18500,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1720,
+    "projectUUID" : "7D88F4CE-4B7B-4D2F-AA74-2A0DBC6C4B3B",
+    "name" : "Deutschland, Schleswig-Holstein, Kreis Steinburg–Standesamtliche Unterlagen, 1874–1983 [Teil C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 320,
+  "batchCount" : 3535,
+  "auditBatchCount" : 163,
+  "imageCount" : 35276,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 163,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 320,
+    "batchCount" : 3372,
+    "images" : 35276,
+    "recordCount" : 17044
+  },
+  "exportStateCounts" : {
+    "accepted" : 16703,
+    "exported" : 18,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1596,
+    "blocked" : 2903,
+    "duplicate" : 97,
+    "ned" : 15076,
+    "unreadable" : 0,
+    "notExported" : 479,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 16:14:26",
+  "name" : "Deutschland, Schleswig-Holstein, Kreis Steinburg–Standesamtliche Unterlagen, 1874–1983 [Teil C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1959,
     "projectUUID" : "D1FA86E8-3C4D-413D-9123-06CC4C809C7D",
     "name" : "South Africa, Cape Province—Civil Deaths, 1895–1972 [Part D]",
