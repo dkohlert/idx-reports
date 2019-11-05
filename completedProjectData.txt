@@ -3071,6 +3071,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1955,
+    "projectUUID" : "43AE809C-5832-4AFB-9F9E-A56FA9F474CD",
+    "name" : "Panamá—Registros Parroquiales, 1748–1972 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 138,
+  "batchCount" : 22882,
+  "auditBatchCount" : 1092,
+  "imageCount" : 75278,
+  "blockedCount" : 5692,
+  "iesAuditBatchCount" : 546,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 138,
+    "batchCount" : 10832,
+    "images" : 43708,
+    "recordCount" : 43806
+  },
+  "exportStateCounts" : {
+    "accepted" : 8749,
+    "exported" : 542,
+    "failed" : 3397,
+    "inProgress" : 23494,
+    "audit" : 1923,
+    "blocked" : 5692,
+    "duplicate" : 417,
+    "ned" : 1287,
+    "unreadable" : 0,
+    "notExported" : 130,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 03:52:45",
+  "name" : "Panamá—Registros Parroquiales, 1748–1972 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3168,
     "projectUUID" : "299EFEE6-EF42-4C85-A0B8-2414CE4892CF",
     "name" : "South Africa, Cape Province—Cemetery Records, 1886–2010 [Part B]",
