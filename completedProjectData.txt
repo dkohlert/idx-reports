@@ -16243,6 +16243,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2706,
+    "projectUUID" : "FD672C2C-67E3-4F48-BD3E-2D12C067B520",
+    "name" : "US, Missouri—County Marriages, 1806–1969 [Part K]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 290,
+  "batchCount" : 73053,
+  "auditBatchCount" : 3488,
+  "imageCount" : 386965,
+  "blockedCount" : 50403,
+  "iesAuditBatchCount" : 1159,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 290,
+    "batchCount" : 23137,
+    "images" : 165157,
+    "recordCount" : 133990
+  },
+  "exportStateCounts" : {
+    "accepted" : 90338,
+    "exported" : 7016,
+    "failed" : 90,
+    "inProgress" : 16189,
+    "audit" : 5763,
+    "blocked" : 50403,
+    "duplicate" : 586,
+    "ned" : 231,
+    "unreadable" : 0,
+    "notExported" : 298,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 21:34:10",
+  "name" : "US, Missouri—County Marriages, 1806–1969 [Part K]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1798,
     "projectUUID" : "82B63ED5-3DE9-46ED-B712-B6BD608A9CD0",
     "name" : "Liberia—Marriage Records, 1912–2015 [Part B]",
