@@ -15688,6 +15688,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2727,
+    "projectUUID" : "77ED0DBC-3004-4828-8B48-1823BA6889E5",
+    "name" : "Italia (Antenati Italiani), Torino—Stato Civile, 1806–1813 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 49,
+  "batchCount" : 11566,
+  "auditBatchCount" : 550,
+  "imageCount" : 48132,
+  "blockedCount" : 15217,
+  "iesAuditBatchCount" : 52,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 49,
+    "batchCount" : 1097,
+    "images" : 18506,
+    "recordCount" : 2573
+  },
+  "exportStateCounts" : {
+    "accepted" : 749,
+    "exported" : 33,
+    "failed" : 138,
+    "inProgress" : 1579,
+    "audit" : 156,
+    "blocked" : 15217,
+    "duplicate" : 132,
+    "ned" : 658,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 07:18:55",
+  "name" : "Italia (Antenati Italiani), Torino—Stato Civile, 1806–1813 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2177,
     "projectUUID" : "845B2354-C422-41C6-8BF5-6B7F2DCD2374",
     "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte E]",
