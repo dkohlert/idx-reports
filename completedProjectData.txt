@@ -27158,6 +27158,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2198,
+    "projectUUID" : "F1F16137-EDDA-4263-866E-98B4C1D70847",
+    "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part K]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 94,
+  "batchCount" : 157,
+  "auditBatchCount" : 4,
+  "imageCount" : 234,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 94,
+    "batchCount" : 153,
+    "images" : 234,
+    "recordCount" : 4309
+  },
+  "exportStateCounts" : {
+    "accepted" : 173,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 5,
+    "blocked" : 61,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 23:20:45",
+  "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part K]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3226,
     "projectUUID" : "E3BDD7CC-25BE-410B-A64D-3D673C28FBD8",
     "name" : "Brasil, Minas Gerais, Belo Horizonte—Municipal Cemetery Records, 1897–2012 [Part A]",
