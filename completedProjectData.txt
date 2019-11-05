@@ -10212,6 +10212,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2233,
+    "projectUUID" : "7F18C83D-F2DC-4D62-9E4D-23DC4564536D",
+    "name" : "US, Hawaii—Land Grantor and Grantee Index, 1845–1909",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 48,
+  "batchCount" : 19667,
+  "auditBatchCount" : 939,
+  "imageCount" : 22317,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 939,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 48,
+    "batchCount" : 18728,
+    "images" : 22317,
+    "recordCount" : 427532
+  },
+  "exportStateCounts" : {
+    "accepted" : 17437,
+    "exported" : 3569,
+    "failed" : 0,
+    "inProgress" : 497,
+    "audit" : 1083,
+    "blocked" : 689,
+    "duplicate" : 15,
+    "ned" : 41,
+    "unreadable" : 0,
+    "notExported" : 35,
+    "readyForExport" : 0,
+    "rejected" : 34,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 16:49:17",
+  "name" : "US, Hawaii—Land Grantor and Grantee Index, 1845–1909",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2235,
     "projectUUID" : "43752B23-F048-4C22-ACA3-F8190681A057",
     "name" : "South Africa, Transvaal—Death Notices from Probate Files, 1869–1958 [Part C]",
