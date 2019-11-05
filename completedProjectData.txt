@@ -18500,6 +18500,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2222,
+    "projectUUID" : "3F201761-FB0C-4FB5-A3A1-3D2067D94EEB",
+    "name" : "España, Murcia—Catedral de Cartagena, Registros de la Iglesia católica, 1552—1948 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 13,
+  "batchCount" : 8241,
+  "auditBatchCount" : 393,
+  "imageCount" : 29476,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 393,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 13,
+    "batchCount" : 7848,
+    "images" : 29476,
+    "recordCount" : 149023
+  },
+  "exportStateCounts" : {
+    "accepted" : 25576,
+    "exported" : 90,
+    "failed" : 0,
+    "inProgress" : 8,
+    "audit" : 1324,
+    "blocked" : 3043,
+    "duplicate" : 33,
+    "ned" : 299,
+    "unreadable" : 0,
+    "notExported" : 427,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 14:20:57",
+  "name" : "España, Murcia—Catedral de Cartagena, Registros de la Iglesia católica, 1552—1948 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3101,
     "projectUUID" : "E841C49C-1DBC-4A67-9181-58D26BF42F4F",
     "name" : "US (Quick Batch), Alaska—Pioneer Home Discharge Index, 1913–1958",
