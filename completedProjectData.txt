@@ -28786,6 +28786,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1951,
+    "projectUUID" : "3A330E91-801B-4BF3-B3BA-E5EACBB5E289",
+    "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 217,
+  "batchCount" : 21884,
+  "auditBatchCount" : 1034,
+  "imageCount" : 191779,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1034,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 217,
+    "batchCount" : 20850,
+    "images" : 191779,
+    "recordCount" : 115043
+  },
+  "exportStateCounts" : {
+    "accepted" : 69176,
+    "exported" : 4761,
+    "failed" : 37,
+    "inProgress" : 50912,
+    "audit" : 7133,
+    "blocked" : 47297,
+    "duplicate" : 672,
+    "ned" : 18738,
+    "unreadable" : 0,
+    "notExported" : 154,
+    "readyForExport" : 0,
+    "rejected" : 37,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 08:26:36",
+  "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3516,
     "projectUUID" : "2AF6FE72-D795-4320-82E7-C06A4EE02BFC",
     "name" : "US, Wisconsin, Milwaukee—Pilgrim's Rest Cemetery Records, 1880–1979",
