@@ -42291,6 +42291,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3247,
+    "projectUUID" : "8AF7D989-4159-4BD4-BFBF-268DEE6706AC",
+    "name" : "Uruguay—Índice del Registro Civil, 1900–1937 [Parte E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 3395,
+  "auditBatchCount" : 162,
+  "imageCount" : 3273,
+  "blockedCount" : 40,
+  "iesAuditBatchCount" : 41,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 1008,
+    "images" : 1048,
+    "recordCount" : 27
+  },
+  "exportStateCounts" : {
+    "accepted" : 5,
+    "exported" : 0,
+    "failed" : 4,
+    "inProgress" : 999,
+    "audit" : 41,
+    "blocked" : 40,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 12:12:08",
+  "name" : "Uruguay—Índice del Registro Civil, 1900–1937 [Parte E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2733,
     "projectUUID" : "B7441ABC-5637-41CD-965E-5D793E42BC18",
     "name" : "US (Quick Batch)—Rhode Island Naturalization Records, 1907–1991 [Part F]",
