@@ -10952,6 +10952,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3235,
+    "projectUUID" : "F5322B54-E200-41F5-8D4F-F2A43AE8647A",
+    "name" : "Canada, Nova Scotia—Births, 1864–1877 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 47,
+  "batchCount" : 22340,
+  "auditBatchCount" : 1059,
+  "imageCount" : 33766,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1059,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 47,
+    "batchCount" : 21281,
+    "images" : 33766,
+    "recordCount" : 218747
+  },
+  "exportStateCounts" : {
+    "accepted" : 20748,
+    "exported" : 24,
+    "failed" : 1,
+    "inProgress" : 3,
+    "audit" : 1059,
+    "blocked" : 12485,
+    "duplicate" : 0,
+    "ned" : 503,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 08:57:17",
+  "name" : "Canada, Nova Scotia—Births, 1864–1877 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1162,
     "projectUUID" : "A1806E6C-45B3-42AB-A77A-CCAFFB3D136B",
     "name" : "Danmark, København—Begravelsesregistre, 1805–1968 [Del B]",
