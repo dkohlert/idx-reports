@@ -32079,6 +32079,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2475,
+    "projectUUID" : "E05A500C-35BE-41D9-854F-7BBE533582BF",
+    "name" : "US—Newsbank, Death Records, 1815–2011",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 101,
+  "batchCount" : 18658,
+  "auditBatchCount" : 888,
+  "imageCount" : 91514,
+  "blockedCount" : 1282,
+  "iesAuditBatchCount" : 888,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 101,
+    "batchCount" : 17770,
+    "images" : 91512,
+    "recordCount" : 536759
+  },
+  "exportStateCounts" : {
+    "accepted" : 86338,
+    "exported" : 1223,
+    "failed" : 5,
+    "inProgress" : 0,
+    "audit" : 4491,
+    "blocked" : 1282,
+    "duplicate" : 152,
+    "ned" : 2219,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 289,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 10:55:47",
+  "name" : "US—Newsbank, Death Records, 1815–2011",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 2516,
     "projectUUID" : "652A50C0-E063-4DBE-AB55-B0F66D2ED8F7",
     "name" : "US, Kentucky—World War II Draft Registration Cards, 1940–1945 [Part B]",
