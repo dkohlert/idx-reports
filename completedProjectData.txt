@@ -6993,6 +6993,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2729,
+    "projectUUID" : "EE5CD949-FF39-42D7-8C8B-B4BCC68104A8",
+    "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 77,
+  "batchCount" : 24912,
+  "auditBatchCount" : 1186,
+  "imageCount" : 49665,
+  "blockedCount" : 1977,
+  "iesAuditBatchCount" : 357,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 77,
+    "batchCount" : 7242,
+    "images" : 16447,
+    "recordCount" : 36618
+  },
+  "exportStateCounts" : {
+    "accepted" : 4808,
+    "exported" : 546,
+    "failed" : 72,
+    "inProgress" : 8683,
+    "audit" : 712,
+    "blocked" : 1977,
+    "duplicate" : 44,
+    "ned" : 300,
+    "unreadable" : 0,
+    "notExported" : 6,
+    "readyForExport" : 0,
+    "rejected" : 11,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 10:34:13",
+  "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3622,
     "projectUUID" : "DF5EF717-180B-42DA-8107-49DF038FFE7C",
     "name" : "Peru, Prelatura de Yauyos-Cañete-Huarochirí—Catholic Church Records, 1665–2018",
