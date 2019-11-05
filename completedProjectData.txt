@@ -4033,6 +4033,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2728,
+    "projectUUID" : "CF14EA67-E983-4D65-AD45-C7E3302E05DE",
+    "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 2219,
+  "auditBatchCount" : 105,
+  "imageCount" : 22976,
+  "blockedCount" : 4215,
+  "iesAuditBatchCount" : 56,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 1071,
+    "images" : 13830,
+    "recordCount" : 938
+  },
+  "exportStateCounts" : {
+    "accepted" : 712,
+    "exported" : 9,
+    "failed" : 548,
+    "inProgress" : 6884,
+    "audit" : 487,
+    "blocked" : 4215,
+    "duplicate" : 73,
+    "ned" : 1388,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 07:29:30",
+  "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2065,
     "projectUUID" : "93085D77-8AFF-4374-B57C-46FF4E3CCC99",
     "name" : "Österreich, Wien—Meldezettel, 1850-1928 [Teil 4]",
