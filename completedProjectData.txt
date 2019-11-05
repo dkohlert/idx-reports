@@ -36297,6 +36297,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2205,
+    "projectUUID" : "B62682A9-C546-4BFB-B9BC-9626EB8F3ED2",
+    "name" : "France, Quimper et Léon—Registres Paroissiaux, 1772–1909 [Partie 3]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 81,
+  "batchCount" : 5213,
+  "auditBatchCount" : 243,
+  "imageCount" : 25306,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 243,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 81,
+    "batchCount" : 4970,
+    "images" : 25306,
+    "recordCount" : 49559
+  },
+  "exportStateCounts" : {
+    "accepted" : 18223,
+    "exported" : 507,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 965,
+    "blocked" : 5152,
+    "duplicate" : 6,
+    "ned" : 17,
+    "unreadable" : 0,
+    "notExported" : 1401,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 01:35:29",
+  "name" : "France, Quimper et Léon—Registres Paroissiaux, 1772–1909 [Partie 3]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3293,
     "projectUUID" : "365B6EFA-BB86-4737-B301-E51BF400F2C0",
     "name" : "US, California, San Francisco—Registers of Chinese Laborers Returning to the United States, 1882–1888 [Part B]",
