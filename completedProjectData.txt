@@ -5476,6 +5476,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3236,
+    "projectUUID" : "8B4E0918-91B5-4864-8B30-4E5DD4C5510E",
+    "name" : "Philippines—National Offices, Civil Registration of Deaths, 1945–1987 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 23,
+  "batchCount" : 3643,
+  "auditBatchCount" : 172,
+  "imageCount" : 40700,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 172,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 23,
+    "batchCount" : 3471,
+    "images" : 40700,
+    "recordCount" : 33684
+  },
+  "exportStateCounts" : {
+    "accepted" : 29409,
+    "exported" : 4107,
+    "failed" : 0,
+    "inProgress" : 13,
+    "audit" : 1710,
+    "blocked" : 6285,
+    "duplicate" : 273,
+    "ned" : 585,
+    "unreadable" : 0,
+    "notExported" : 18,
+    "readyForExport" : 0,
+    "rejected" : 10,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 04:57:05",
+  "name" : "Philippines—National Offices, Civil Registration of Deaths, 1945–1987 [Part G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2425,
     "projectUUID" : "0CB895FB-2A92-4FB6-B17E-19A56887BFF3",
     "name" : "Colombia, Diócesis de Barranquilla—Registros de la Iglesia Catolica, 1808–1985 [Parte B]",
