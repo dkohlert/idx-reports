@@ -5143,6 +5143,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3512,
+    "projectUUID" : "5F6F095B-D335-41F1-8A63-1AA6B49B1195",
+    "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 1099,
+  "auditBatchCount" : 53,
+  "imageCount" : 1056,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 53,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 1046,
+    "images" : 1056,
+    "recordCount" : 15984
+  },
+  "exportStateCounts" : {
+    "accepted" : 264,
+    "exported" : 767,
+    "failed" : 1,
+    "inProgress" : 9,
+    "audit" : 53,
+    "blocked" : 10,
+    "duplicate" : 0,
+    "ned" : 5,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 16:15:13",
+  "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1831,
     "projectUUID" : "F6E872AE-192B-44AF-BC4A-CFB1344D7A1D",
     "name" : "US—Native American Census Rolls, 1880–1952",
