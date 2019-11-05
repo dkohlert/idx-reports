@@ -31228,6 +31228,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3491,
+    "projectUUID" : "923A742D-DB4F-412D-AFF9-0EED846EFB81",
+    "name" : "US, Texas, Laredo—Index to Manifests of Permanent and Alien Arrivals, 1929–1955",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 24977,
+  "auditBatchCount" : 1188,
+  "imageCount" : 47952,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 697,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 23789,
+    "images" : 47952,
+    "recordCount" : 102321
+  },
+  "exportStateCounts" : {
+    "accepted" : 27318,
+    "exported" : 40,
+    "failed" : 76,
+    "inProgress" : 20032,
+    "audit" : 1394,
+    "blocked" : 378,
+    "duplicate" : 0,
+    "ned" : 22,
+    "unreadable" : 0,
+    "notExported" : 86,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 04:52:19",
+  "name" : "US, Texas, Laredo—Index to Manifests of Permanent and Alien Arrivals, 1929–1955",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1550,
     "projectUUID" : "4104188D-600D-442F-BFF0-64E4E333864B",
     "name" : "US, Iowa—Old Age Assistance Records, 1934–1946 [Part D]",
