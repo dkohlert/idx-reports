@@ -32227,6 +32227,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2225,
+    "projectUUID" : "8059A06F-2F57-459D-9351-1A2B27D083E6",
+    "name" : "Österreich, Wien—Jüdisches Register von Geburten, Trauungen und Sterbefällen, 1784–1940 [Teil B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 60,
+  "batchCount" : 20791,
+  "auditBatchCount" : 984,
+  "imageCount" : 59980,
+  "blockedCount" : 19643,
+  "iesAuditBatchCount" : 146,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 60,
+    "batchCount" : 2987,
+    "images" : 26149,
+    "recordCount" : 17072
+  },
+  "exportStateCounts" : {
+    "accepted" : 3968,
+    "exported" : 40,
+    "failed" : 16,
+    "inProgress" : 2261,
+    "audit" : 317,
+    "blocked" : 19643,
+    "duplicate" : 80,
+    "ned" : 140,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 12:43:45",
+  "name" : "Österreich, Wien—Jüdisches Register von Geburten, Trauungen und Sterbefällen, 1784–1940 [Teil B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2692,
     "projectUUID" : "6A03F7D1-C7D9-46B3-A29C-CEE53C8568D3",
     "name" : "US, Indiana—Indiana State Archives, World War I Enrollment Cards, 1919 [Part B]",
