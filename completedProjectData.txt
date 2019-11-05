@@ -25012,6 +25012,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2718,
+    "projectUUID" : "915C9FE7-F285-4984-AC12-AD7F260931BB",
+    "name" : "Peru, Diocesis de Huacho—Parish Records, 1560–1952 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 150,
+  "batchCount" : 11676,
+  "auditBatchCount" : 549,
+  "imageCount" : 36684,
+  "blockedCount" : 732,
+  "iesAuditBatchCount" : 102,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 150,
+    "batchCount" : 2123,
+    "images" : 7844,
+    "recordCount" : 8101
+  },
+  "exportStateCounts" : {
+    "accepted" : 2385,
+    "exported" : 38,
+    "failed" : 958,
+    "inProgress" : 3174,
+    "audit" : 339,
+    "blocked" : 732,
+    "duplicate" : 23,
+    "ned" : 526,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 8,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 01:39:58",
+  "name" : "Peru, Diocesis de Huacho—Parish Records, 1560–1952 [Part G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2687,
     "projectUUID" : "8747E6BD-E219-427D-8910-6F3D3558761B",
     "name" : "Guatemala (Lote rápido)—Registro Civil, 1800–1900 [Part E]",
