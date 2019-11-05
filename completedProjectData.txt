@@ -7141,6 +7141,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3238,
+    "projectUUID" : "E1665E7D-067D-4D67-8CF7-EA1914624D88",
+    "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte P]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 212,
+  "batchCount" : 4528,
+  "auditBatchCount" : 212,
+  "imageCount" : 20887,
+  "blockedCount" : 3975,
+  "iesAuditBatchCount" : 67,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 212,
+    "batchCount" : 2040,
+    "images" : 11965,
+    "recordCount" : 3375
+  },
+  "exportStateCounts" : {
+    "accepted" : 1765,
+    "exported" : 5,
+    "failed" : 950,
+    "inProgress" : 5192,
+    "audit" : 262,
+    "blocked" : 3997,
+    "duplicate" : 3,
+    "ned" : 74,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 06:56:55",
+  "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte P]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2782,
     "projectUUID" : "406FEE1D-73DD-4127-9ACC-0B4D8F617CB8",
     "name" : "US, West Virginia—Marriage Records, 1750–1990 [Part C]",
