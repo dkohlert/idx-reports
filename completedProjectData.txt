@@ -34706,6 +34706,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2963,
+    "projectUUID" : "EC1129B1-30E5-4E47-BBAB-50AC221FD9FA",
+    "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 94,
+  "batchCount" : 6292,
+  "auditBatchCount" : 296,
+  "imageCount" : 33356,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 296,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 94,
+    "batchCount" : 5996,
+    "images" : 33356,
+    "recordCount" : 18286
+  },
+  "exportStateCounts" : {
+    "accepted" : 11323,
+    "exported" : 1283,
+    "failed" : 10,
+    "inProgress" : 13170,
+    "audit" : 1471,
+    "blocked" : 3600,
+    "duplicate" : 189,
+    "ned" : 3755,
+    "unreadable" : 0,
+    "notExported" : 13,
+    "readyForExport" : 0,
+    "rejected" : 13,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 22:03:48",
+  "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2747,
     "projectUUID" : "2C0B14DB-B474-441F-9676-A2EB0EC6E49E",
     "name" : "Italia (Antenati Italiani), Udine—Nati, 1806–1900 [Parte 2L]",
