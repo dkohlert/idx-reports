@@ -41625,6 +41625,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2708,
+    "projectUUID" : "F871E4B2-0FDF-43FD-B1C7-5863F3D7D390",
+    "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte W]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 24332,
+  "auditBatchCount" : 1152,
+  "imageCount" : 67448,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1152,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 23180,
+    "images" : 67448,
+    "recordCount" : 38003
+  },
+  "exportStateCounts" : {
+    "accepted" : 36426,
+    "exported" : 138,
+    "failed" : 3,
+    "inProgress" : 28913,
+    "audit" : 3275,
+    "blocked" : 1683,
+    "duplicate" : 42,
+    "ned" : 204,
+    "unreadable" : 0,
+    "notExported" : 39,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 22:24:43",
+  "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte W]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2241,
     "projectUUID" : "90984573-B56B-4014-8B87-0006004507E5",
     "name" : "Perú, La Libertad—Registro Civil, 1903–1997 [Parte AB]",
