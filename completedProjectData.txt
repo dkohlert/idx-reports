@@ -13653,6 +13653,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2962,
+    "projectUUID" : "B5B8946E-E9B8-4736-AC8C-FADCBA8CBE84",
+    "name" : "UK, Northern Ireland—Tithe Applotment Books and Indexes, 1822–1837",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 62,
+  "batchCount" : 35634,
+  "auditBatchCount" : 1691,
+  "imageCount" : 174998,
+  "blockedCount" : 4561,
+  "iesAuditBatchCount" : 451,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 62,
+    "batchCount" : 9185,
+    "images" : 53561,
+    "recordCount" : 68819
+  },
+  "exportStateCounts" : {
+    "accepted" : 31252,
+    "exported" : 109,
+    "failed" : 338,
+    "inProgress" : 15791,
+    "audit" : 2412,
+    "blocked" : 4561,
+    "duplicate" : 213,
+    "ned" : 1273,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 17,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 21:56:54",
+  "name" : "UK, Northern Ireland—Tithe Applotment Books and Indexes, 1822–1837",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3089,
     "projectUUID" : "AAA0BEFF-667B-4E45-997D-A3D7735BA0E1",
     "name" : "US, South Carolina—World War I Draft Registration Cards, 1917–1918",
