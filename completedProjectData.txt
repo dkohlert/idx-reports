@@ -17575,6 +17575,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 1945,
+    "projectUUID" : "A6D09E02-3A00-467B-B5CF-67D8C8A7D0C2",
+    "name" : "US, Michigan—Archives of Michigan, Naturalization Records, 1812–1985 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 616,
+  "batchCount" : 25069,
+  "auditBatchCount" : 1175,
+  "imageCount" : 208347,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1175,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 616,
+    "batchCount" : 23894,
+    "images" : 208347,
+    "recordCount" : 165414
+  },
+  "exportStateCounts" : {
+    "accepted" : 129777,
+    "exported" : 4139,
+    "failed" : 10,
+    "inProgress" : 111,
+    "audit" : 6859,
+    "blocked" : 67269,
+    "duplicate" : 1226,
+    "ned" : 5594,
+    "unreadable" : 0,
+    "notExported" : 115,
+    "readyForExport" : 0,
+    "rejected" : 106,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 01:14:05",
+  "name" : "US, Michigan—Archives of Michigan, Naturalization Records, 1812–1985 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3039,
     "projectUUID" : "2C75A2FA-7FD5-45CB-A0BE-F17A35FF745D",
     "name" : "US, Louisiana—Tombstone Inscriptions, 1812–1970",
