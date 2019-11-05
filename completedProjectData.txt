@@ -36001,6 +36001,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3254,
+    "projectUUID" : "C942D022-656F-44EA-B965-FFC01EAC0A67",
+    "name" : "Argentina, Entre Ríos—Registro Civil, 1860–1965 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 217,
+  "batchCount" : 10456,
+  "auditBatchCount" : 495,
+  "imageCount" : 47002,
+  "blockedCount" : 7499,
+  "iesAuditBatchCount" : 495,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 217,
+    "batchCount" : 9960,
+    "images" : 46998,
+    "recordCount" : 68738
+  },
+  "exportStateCounts" : {
+    "accepted" : 35011,
+    "exported" : 2716,
+    "failed" : 40,
+    "inProgress" : 1245,
+    "audit" : 1960,
+    "blocked" : 7499,
+    "duplicate" : 21,
+    "ned" : 408,
+    "unreadable" : 0,
+    "notExported" : 31,
+    "readyForExport" : 0,
+    "rejected" : 27,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 15:56:24",
+  "name" : "Argentina, Entre Ríos—Registro Civil, 1860–1965 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1690,
     "projectUUID" : "E26CFCC6-6B2C-431F-BF26-F8A90AC1EB8C",
     "name" : "US, California—Naturalization Records, 1831–1985 [Part B]",
