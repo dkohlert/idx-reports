@@ -35150,6 +35150,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3503,
+    "projectUUID" : "9F898A41-B9C9-4A0C-B507-4E3A8D9334DF",
+    "name" : "US, New Hampshire—Naturalization Records, 1771–1955",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 105,
+  "batchCount" : 37867,
+  "auditBatchCount" : 1808,
+  "imageCount" : 170832,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 131,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 105,
+    "batchCount" : 36059,
+    "images" : 170832,
+    "recordCount" : 4125
+  },
+  "exportStateCounts" : {
+    "accepted" : 3990,
+    "exported" : 12,
+    "failed" : 292,
+    "inProgress" : 138885,
+    "audit" : 520,
+    "blocked" : 27369,
+    "duplicate" : 138,
+    "ned" : 135,
+    "unreadable" : 0,
+    "notExported" : 11,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 12:17:13",
+  "name" : "US, New Hampshire—Naturalization Records, 1771–1955",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2173,
     "projectUUID" : "6DD14135-1BFC-438E-9118-93E3C513F7B6",
     "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part C]",
