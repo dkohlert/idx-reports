@@ -8177,6 +8177,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3243,
+    "projectUUID" : "3F3F58F5-D005-4901-AA7E-D2FCEF01F817",
+    "name" : "US, Texas—Voters Registration, 1867–1869",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 3685,
+  "auditBatchCount" : 176,
+  "imageCount" : 6102,
+  "blockedCount" : 92,
+  "iesAuditBatchCount" : 56,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 6,
+    "batchCount" : 1115,
+    "images" : 2322,
+    "recordCount" : 31476
+  },
+  "exportStateCounts" : {
+    "accepted" : 799,
+    "exported" : 7,
+    "failed" : 180,
+    "inProgress" : 263,
+    "audit" : 112,
+    "blocked" : 92,
+    "duplicate" : 5,
+    "ned" : 975,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 11:00:51",
+  "name" : "US, Texas—Voters Registration, 1867–1869",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1770,
     "projectUUID" : "5F259720-EB0A-4C4F-877B-3D9A55718275",
     "name" : "US, Utah—Delayed Births, 1900–1960 [Part A]",
