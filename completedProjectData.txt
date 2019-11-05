@@ -26381,6 +26381,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3484,
+    "projectUUID" : "68890D31-A896-47F4-89FB-0A5E529FEA30",
+    "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 1387,
+  "auditBatchCount" : 65,
+  "imageCount" : 1341,
+  "blockedCount" : 19,
+  "iesAuditBatchCount" : 24,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 11,
+    "batchCount" : 1322,
+    "images" : 1351,
+    "recordCount" : 3322
+  },
+  "exportStateCounts" : {
+    "accepted" : 175,
+    "exported" : 35,
+    "failed" : 9,
+    "inProgress" : 1100,
+    "audit" : 24,
+    "blocked" : 29,
+    "duplicate" : 0,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 01:25:08",
+  "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3175,
     "projectUUID" : "27EFB271-7B4A-4BBE-9C74-AB63E6E64E74",
     "name" : "US, Pennsylvania, Huntingdon County—Delayed Birth Records, 1800–1935",
