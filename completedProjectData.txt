@@ -17464,6 +17464,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 1944,
+    "projectUUID" : "1F1AF948-01B1-4B26-9C2D-60E0A1CB2B06",
+    "name" : "US, New York, New York—Marriages, 1866–1938 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 103,
+  "batchCount" : 6962,
+  "auditBatchCount" : 326,
+  "imageCount" : 64580,
+  "blockedCount" : 7967,
+  "iesAuditBatchCount" : 270,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 103,
+    "batchCount" : 5510,
+    "images" : 63017,
+    "recordCount" : 53950
+  },
+  "exportStateCounts" : {
+    "accepted" : 53859,
+    "exported" : 7,
+    "failed" : 10,
+    "inProgress" : 24,
+    "audit" : 2690,
+    "blocked" : 7967,
+    "duplicate" : 321,
+    "ned" : 829,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 23:59:44",
+  "name" : "US, New York, New York—Marriages, 1866–1938 [Part D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3039,
     "projectUUID" : "2C75A2FA-7FD5-45CB-A0BE-F17A35FF745D",
     "name" : "US, Louisiana—Tombstone Inscriptions, 1812–1970",
