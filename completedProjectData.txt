@@ -13579,6 +13579,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2712,
+    "projectUUID" : "D865F6CA-DCE8-4280-9500-3B28FA068F6D",
+    "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 294,
+  "batchCount" : 27963,
+  "auditBatchCount" : 1319,
+  "imageCount" : 115230,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1319,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 294,
+    "batchCount" : 26644,
+    "images" : 115230,
+    "recordCount" : 66845
+  },
+  "exportStateCounts" : {
+    "accepted" : 66091,
+    "exported" : 305,
+    "failed" : 8,
+    "inProgress" : 37680,
+    "audit" : 5257,
+    "blocked" : 9847,
+    "duplicate" : 164,
+    "ned" : 1107,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 21,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 00:37:54",
+  "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3435,
     "projectUUID" : "8FBF9FD8-330C-42B2-8AD7-AC4232791D29",
     "name" : "US, Iowa, Monroe County—Obituaries, 1898–2015 [Part A]",
