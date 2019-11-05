@@ -39294,6 +39294,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2224,
+    "projectUUID" : "E546764D-6932-431B-BAAC-F66C293D3AFD",
+    "name" : "Ukraine—L'viv Greek Catholic Archeparchy Church Books 1607–1945 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 15,
+  "batchCount" : 11938,
+  "auditBatchCount" : 565,
+  "imageCount" : 12718,
+  "blockedCount" : 948,
+  "iesAuditBatchCount" : 157,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 15,
+    "batchCount" : 3175,
+    "images" : 4124,
+    "recordCount" : 12531
+  },
+  "exportStateCounts" : {
+    "accepted" : 982,
+    "exported" : 6,
+    "failed" : 287,
+    "inProgress" : 1847,
+    "audit" : 157,
+    "blocked" : 948,
+    "duplicate" : 0,
+    "ned" : 54,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 12:29:37",
+  "name" : "Ukraine—L'viv Greek Catholic Archeparchy Church Books 1607–1945 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2027,
     "projectUUID" : "A5E45378-9E66-44F9-8FDC-A29A59EF863E",
     "name" : "US, Iowa—World War II Draft Registration Cards, 1940–1945 [Part B]",
