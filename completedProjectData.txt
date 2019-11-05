@@ -14837,6 +14837,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3471,
+    "projectUUID" : "EF53AFCB-766B-4A5F-B92F-DD44ADE1193B",
+    "name" : "US, Washington—County Naturalization Records, 1850–1982 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 196,
+  "batchCount" : 5280,
+  "auditBatchCount" : 240,
+  "imageCount" : 67190,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 130,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 196,
+    "batchCount" : 5040,
+    "images" : 67190,
+    "recordCount" : 11326
+  },
+  "exportStateCounts" : {
+    "accepted" : 10935,
+    "exported" : 70,
+    "failed" : 515,
+    "inProgress" : 33552,
+    "audit" : 1224,
+    "blocked" : 20347,
+    "duplicate" : 322,
+    "ned" : 1521,
+    "unreadable" : 0,
+    "notExported" : 58,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 19:50:32",
+  "name" : "US, Washington—County Naturalization Records, 1850–1982 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1554,
     "projectUUID" : "B7886327-AE40-4B33-AD37-735A0D2F7730",
     "name" : "US, North Carolina—Confederate Soldier's and Widow's Pension Applications, 1885–1953",
