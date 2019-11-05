@@ -7289,6 +7289,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2203,
+    "projectUUID" : "F97FC4A4-C0BC-43D0-B798-6AB6FA1AA456",
+    "name" : "Italia (Antenati Italiani), Brescia—Stato Civile, 1875–1943 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 4875,
+  "auditBatchCount" : 225,
+  "imageCount" : 24248,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 225,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 4650,
+    "images" : 24248,
+    "recordCount" : 49141
+  },
+  "exportStateCounts" : {
+    "accepted" : 22273,
+    "exported" : 16,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1105,
+    "blocked" : 1306,
+    "duplicate" : 11,
+    "ned" : 126,
+    "unreadable" : 0,
+    "notExported" : 516,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 01:22:53",
+  "name" : "Italia (Antenati Italiani), Brescia—Stato Civile, 1875–1943 [Parte C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3210,
     "projectUUID" : "B216F876-2F74-45AA-9147-D79163884857",
     "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte C]",
