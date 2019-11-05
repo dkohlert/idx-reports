@@ -19462,6 +19462,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3224,
+    "projectUUID" : "16ED8CA3-E7A5-4484-A15F-4EA9A61AAD4C",
+    "name" : "Brasil, Paraná—Registro Civil, 1852–1996 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 60031,
+  "auditBatchCount" : 2857,
+  "imageCount" : 243727,
+  "blockedCount" : 23384,
+  "iesAuditBatchCount" : 287,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 5702,
+    "images" : 45859,
+    "recordCount" : 32597
+  },
+  "exportStateCounts" : {
+    "accepted" : 15133,
+    "exported" : 470,
+    "failed" : 2971,
+    "inProgress" : 2458,
+    "audit" : 1133,
+    "blocked" : 23384,
+    "duplicate" : 86,
+    "ned" : 1292,
+    "unreadable" : 0,
+    "notExported" : 14,
+    "readyForExport" : 0,
+    "rejected" : 51,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 00:47:25",
+  "name" : "Brasil, Paraná—Registro Civil, 1852–1996 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1611,
     "projectUUID" : "95748EC9-D499-4BF1-B1A3-6B4C7EC47A1C",
     "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part B]",
