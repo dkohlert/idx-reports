@@ -30266,6 +30266,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2219,
+    "projectUUID" : "F133C8EB-DE65-4457-9E8A-530CC99B77FD",
+    "name" : "Philippines, Camarines Sur, Caceres—Registros Parroquiales, 1716–1977 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 57,
+  "batchCount" : 48905,
+  "auditBatchCount" : 2325,
+  "imageCount" : 66304,
+  "blockedCount" : 2979,
+  "iesAuditBatchCount" : 475,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 57,
+    "batchCount" : 9577,
+    "images" : 21428,
+    "recordCount" : 19078
+  },
+  "exportStateCounts" : {
+    "accepted" : 3540,
+    "exported" : 132,
+    "failed" : 3808,
+    "inProgress" : 8681,
+    "audit" : 919,
+    "blocked" : 2887,
+    "duplicate" : 168,
+    "ned" : 2209,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 14:18:29",
+  "name" : "Philippines, Camarines Sur, Caceres—Registros Parroquiales, 1716–1977 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2855,
     "projectUUID" : "91AB492F-EEF0-4A8C-B8ED-76B423ECE1C2",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AE]",
