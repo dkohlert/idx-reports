@@ -39775,6 +39775,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3489,
+    "projectUUID" : "B0279D77-EF95-434E-89C0-FB1F4EADCB35",
+    "name" : "Peru, Junin—Civil Registration, Marriages, 1890–1999 [Part E]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 336,
+  "auditBatchCount" : 15,
+  "imageCount" : 1516,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 15,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 321,
+    "images" : 1516,
+    "recordCount" : 1266
+  },
+  "exportStateCounts" : {
+    "accepted" : 1240,
+    "exported" : 18,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 60,
+    "blocked" : 241,
+    "duplicate" : 4,
+    "ned" : 11,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 03:38:00",
+  "name" : "Peru, Junin—Civil Registration, Marriages, 1890–1999 [Part E]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 2264,
     "projectUUID" : "A558AE93-789F-41A9-80BC-3E841901FA6A",
     "name" : "Italia (Antenati Italiani), Udine—Nati, 1806–1900 [Parte 2F]",
