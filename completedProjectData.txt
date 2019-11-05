@@ -8769,6 +8769,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3481,
+    "projectUUID" : "7F848DA7-4659-4C4C-894F-29A7785AE879",
+    "name" : "US, South Carolina—Lists of Passengers Arriving at Charleston, 1919–1948 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 780,
+  "auditBatchCount" : 37,
+  "imageCount" : 775,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 37,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 743,
+    "images" : 775,
+    "recordCount" : 3858
+  },
+  "exportStateCounts" : {
+    "accepted" : 709,
+    "exported" : 6,
+    "failed" : 4,
+    "inProgress" : 14,
+    "audit" : 37,
+    "blocked" : 32,
+    "duplicate" : 0,
+    "ned" : 8,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 01:15:10",
+  "name" : "US, South Carolina—Lists of Passengers Arriving at Charleston, 1919–1948 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2519,
     "projectUUID" : "E03724F1-9CDB-4A3E-B3F3-1B1BFD6BDA09",
     "name" : "US, Oregon, Lane County—Marriage Records, 1852–1921",
