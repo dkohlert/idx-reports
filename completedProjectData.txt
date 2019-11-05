@@ -12247,6 +12247,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3498,
+    "projectUUID" : "FF780479-8FEB-4CE1-96A8-8FB7BCE4CC6A",
+    "name" : "US, Virginia—Daughters of the Confederacy, Applications for the Relief of Needy Confederate Women, 1915–1967",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 28,
+  "batchCount" : 854,
+  "auditBatchCount" : 38,
+  "imageCount" : 17652,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 18,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 28,
+    "batchCount" : 816,
+    "images" : 17652,
+    "recordCount" : 346
+  },
+  "exportStateCounts" : {
+    "accepted" : 338,
+    "exported" : 0,
+    "failed" : 19,
+    "inProgress" : 6435,
+    "audit" : 170,
+    "blocked" : 9709,
+    "duplicate" : 25,
+    "ned" : 1126,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 10:38:08",
+  "name" : "US, Virginia—Daughters of the Confederacy, Applications for the Relief of Needy Confederate Women, 1915–1967",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1980,
     "projectUUID" : "B22F82CD-FEED-4752-84D5-288AD5851DCE",
     "name" : "France, Vienne—Première Guerre mondiale, Enregistrements du recrutement, 1867-1921 [Partie A]",
