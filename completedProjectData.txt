@@ -19092,6 +19092,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3508,
+    "projectUUID" : "D75B846B-552C-4B1C-B4DE-1EB329BBE03D",
+    "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 400,
+  "batchCount" : 20239,
+  "auditBatchCount" : 957,
+  "imageCount" : 199211,
+  "blockedCount" : 48137,
+  "iesAuditBatchCount" : 343,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 400,
+    "batchCount" : 19282,
+    "images" : 124826,
+    "recordCount" : 2292
+  },
+  "exportStateCounts" : {
+    "accepted" : 2037,
+    "exported" : 219,
+    "failed" : 20,
+    "inProgress" : 73370,
+    "audit" : 1358,
+    "blocked" : 48137,
+    "duplicate" : 224,
+    "ned" : 812,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 15:19:29",
+  "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2521,
     "projectUUID" : "1B89A268-E678-40BA-8216-4AA754C7654F",
     "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1X]",
