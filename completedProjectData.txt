@@ -6549,6 +6549,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3480,
+    "projectUUID" : "D811C1B9-F3A8-4073-88B5-A4B215F4D381",
+    "name" : "Portugal, Aveiro— Passport Registers, 1861–1965 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 64,
+  "batchCount" : 569,
+  "auditBatchCount" : 27,
+  "imageCount" : 45660,
+  "blockedCount" : 347,
+  "iesAuditBatchCount" : 27,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 64,
+    "batchCount" : 542,
+    "images" : 1971,
+    "recordCount" : 5736
+  },
+  "exportStateCounts" : {
+    "accepted" : 1423,
+    "exported" : 192,
+    "failed" : 0,
+    "inProgress" : 6,
+    "audit" : 81,
+    "blocked" : 347,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 00:54:45",
+  "name" : "Portugal, Aveiro— Passport Registers, 1861–1965 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2204,
     "projectUUID" : "5BBD3B21-C987-44EB-9BBC-8E25AAF2AD07",
     "name" : "Italia (Batch Veloce, Antenati Italiani), Brescia—Stato Civile, 1875–1943 [Parte D]",
