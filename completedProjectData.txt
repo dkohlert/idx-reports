@@ -12987,6 +12987,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1938,
+    "projectUUID" : "86EE852A-309E-47CF-9391-39C9446364CD",
+    "name" : "Austria, Carinthia, Gurk—Church Records, 1527–1986 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 6962,
+  "auditBatchCount" : 332,
+  "imageCount" : 24027,
+  "blockedCount" : 570,
+  "iesAuditBatchCount" : 178,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 3385,
+    "images" : 11673,
+    "recordCount" : 20099
+  },
+  "exportStateCounts" : {
+    "accepted" : 4582,
+    "exported" : 7,
+    "failed" : 1754,
+    "inProgress" : 4466,
+    "audit" : 573,
+    "blocked" : 570,
+    "duplicate" : 15,
+    "ned" : 118,
+    "unreadable" : 0,
+    "notExported" : 161,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 20:51:20",
+  "name" : "Austria, Carinthia, Gurk—Church Records, 1527–1986 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1942,
     "projectUUID" : "A2436A9B-4CEA-4C55-93DA-F3510D497F81",
     "name" : "US, New York, New York—Death Index, 1880–1956",
