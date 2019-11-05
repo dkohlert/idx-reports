@@ -38665,6 +38665,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3239,
+    "projectUUID" : "52429005-ECF8-47E8-87D3-3FC6F3104D8B",
+    "name" : "Italia (Antenati Italiani), Mantova—Nati, 1866–1903 [Parte J]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 252,
+  "auditBatchCount" : 13,
+  "imageCount" : 1007,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 13,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 6,
+    "batchCount" : 239,
+    "images" : 1007,
+    "recordCount" : 1429
+  },
+  "exportStateCounts" : {
+    "accepted" : 902,
+    "exported" : 4,
+    "failed" : 0,
+    "inProgress" : 4,
+    "audit" : 50,
+    "blocked" : 64,
+    "duplicate" : 0,
+    "ned" : 25,
+    "unreadable" : 0,
+    "notExported" : 8,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 07:21:07",
+  "name" : "Italia (Antenati Italiani), Mantova—Nati, 1866–1903 [Parte J]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2606,
     "projectUUID" : "066F317F-DE0C-478D-8816-AFC37285F100",
     "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte K]",
