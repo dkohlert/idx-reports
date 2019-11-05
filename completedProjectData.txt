@@ -11359,6 +11359,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3493,
+    "projectUUID" : "644CB918-B8A0-4869-8811-08A5BDDB72CF",
+    "name" : "US, Texas—Passenger and Crew Lists of Vessels Arriving at Corpus Christi, 1948–1959",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 13,
+  "batchCount" : 4708,
+  "auditBatchCount" : 225,
+  "imageCount" : 11278,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 225,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 13,
+    "batchCount" : 4483,
+    "images" : 11278,
+    "recordCount" : 78684
+  },
+  "exportStateCounts" : {
+    "accepted" : 4279,
+    "exported" : 8,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 226,
+    "blocked" : 6788,
+    "duplicate" : 0,
+    "ned" : 133,
+    "unreadable" : 0,
+    "notExported" : 68,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 04:58:14",
+  "name" : "US, Texas—Passenger and Crew Lists of Vessels Arriving at Corpus Christi, 1948–1959",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 3164,
     "projectUUID" : "C4EBDB25-C15E-449F-9E93-E4C33CC022EB",
     "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part G]",
