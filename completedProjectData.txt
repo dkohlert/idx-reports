@@ -41403,6 +41403,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2223,
+    "projectUUID" : "D68A8A7F-DD80-4AE0-9D1A-2CDB5BB66F9D",
+    "name" : "Liberia (Quick Batch)—Marriage Records, 1912—2015 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 100,
+  "batchCount" : 11848,
+  "auditBatchCount" : 559,
+  "imageCount" : 43500,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 559,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 100,
+    "batchCount" : 11289,
+    "images" : 43500,
+    "recordCount" : 18008
+  },
+  "exportStateCounts" : {
+    "accepted" : 16875,
+    "exported" : 1040,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1155,
+    "blocked" : 20102,
+    "duplicate" : 165,
+    "ned" : 5133,
+    "unreadable" : 0,
+    "notExported" : 185,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 11:59:29",
+  "name" : "Liberia (Quick Batch)—Marriage Records, 1912—2015 [Part D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2779,
     "projectUUID" : "8C1571B2-30F5-4401-8D1D-6AD8360EE65B",
     "name" : "US (Quick Batch), New Jersey—Naturalization Records, 1796–1991 [Part M]",
