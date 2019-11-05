@@ -17538,6 +17538,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3486,
+    "projectUUID" : "8BC97FFE-C496-498F-A9E8-771FCA2853C2",
+    "name" : "Haiti—Civil Registration of Deaths, 1824–2013 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 259,
+  "batchCount" : 3215,
+  "auditBatchCount" : 155,
+  "imageCount" : 15852,
+  "blockedCount" : 1933,
+  "iesAuditBatchCount" : 5,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 261,
+    "batchCount" : 3060,
+    "images" : 15867,
+    "recordCount" : 15
+  },
+  "exportStateCounts" : {
+    "accepted" : 15,
+    "exported" : 0,
+    "failed" : 132,
+    "inProgress" : 13756,
+    "audit" : 20,
+    "blocked" : 1948,
+    "duplicate" : 0,
+    "ned" : 16,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 01:46:08",
+  "name" : "Haiti—Civil Registration of Deaths, 1824–2013 [Part G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2578,
     "projectUUID" : "D718B674-E7BA-48DD-B755-BF89A9E519E1",
     "name" : "Italia (Antenati Italiani), Napoli, Avvocata—Stato Civile, 1809–1845",
