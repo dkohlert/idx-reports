@@ -25049,6 +25049,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2711,
+    "projectUUID" : "26EF71BC-5ABA-48D8-AB9E-129B9691E98F",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 10192,
+  "auditBatchCount" : 474,
+  "imageCount" : 41608,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 474,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 9718,
+    "images" : 41608,
+    "recordCount" : 40085
+  },
+  "exportStateCounts" : {
+    "accepted" : 39316,
+    "exported" : 183,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1955,
+    "blocked" : 1847,
+    "duplicate" : 19,
+    "ned" : 231,
+    "unreadable" : 0,
+    "notExported" : 12,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 23:43:13",
+  "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3223,
     "projectUUID" : "F34E4D12-9724-47B6-8358-422916125413",
     "name" : "Brasil, Bahia—Listas de passageiros, 1855–1965 [Parte A]",
