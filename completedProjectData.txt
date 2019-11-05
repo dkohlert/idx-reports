@@ -34854,6 +34854,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2726,
+    "projectUUID" : "5A15ECDC-C88E-4529-94E3-EDD9D052F57E",
+    "name" : "Argentina Provincia, de Buenos Aires—Registros Parroquiales, 1731–1939 [Parte E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 126,
+  "batchCount" : 13138,
+  "auditBatchCount" : 618,
+  "imageCount" : 67210,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 618,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 126,
+    "batchCount" : 12520,
+    "images" : 67210,
+    "recordCount" : 91010
+  },
+  "exportStateCounts" : {
+    "accepted" : 28312,
+    "exported" : 44,
+    "failed" : 10,
+    "inProgress" : 27940,
+    "audit" : 2898,
+    "blocked" : 8519,
+    "duplicate" : 543,
+    "ned" : 1842,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 06:54:45",
+  "name" : "Argentina Provincia, de Buenos Aires—Registros Parroquiales, 1731–1939 [Parte E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2377,
     "projectUUID" : "83BBC774-DB4D-4C0B-97C3-D02CA4BEC4C2",
     "name" : "Nederland (Snelle batch), Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel E]",
