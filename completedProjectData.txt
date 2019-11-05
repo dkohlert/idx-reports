@@ -18315,6 +18315,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2229,
+    "projectUUID" : "B950A793-D1DD-4406-A5E3-1A14E6695829",
+    "name" : "Italia (Antenati Italiani), Palermo—Morti, 1820–1865 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 121,
+  "batchCount" : 23803,
+  "auditBatchCount" : 1130,
+  "imageCount" : 144791,
+  "blockedCount" : 31680,
+  "iesAuditBatchCount" : 11,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 121,
+    "batchCount" : 298,
+    "images" : 33164,
+    "recordCount" : 205
+  },
+  "exportStateCounts" : {
+    "accepted" : 103,
+    "exported" : 0,
+    "failed" : 320,
+    "inProgress" : 1027,
+    "audit" : 55,
+    "blocked" : 31680,
+    "duplicate" : 22,
+    "ned" : 12,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 15:44:24",
+  "name" : "Italia (Antenati Italiani), Palermo—Morti, 1820–1865 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2000,
     "projectUUID" : "4DD21C7D-4AA7-4CE3-B45C-D32AF5CC7EF2",
     "name" : "Peru, Lima, Registros Civiles— Nacimientos, 1917–1995 [Part 1V]",
