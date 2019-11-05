@@ -1961,6 +1961,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2197,
+    "projectUUID" : "61CDA3DF-1DE4-4793-93B5-5B7E6C6F1361",
+    "name" : "Italia (Antenati Italiani), Chieti—Matrimoni, 1809–1930 [Parte I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 180,
+  "batchCount" : 5253,
+  "auditBatchCount" : 250,
+  "imageCount" : 230004,
+  "blockedCount" : 204461,
+  "iesAuditBatchCount" : 161,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 180,
+    "batchCount" : 3099,
+    "images" : 219695,
+    "recordCount" : 1572
+  },
+  "exportStateCounts" : {
+    "accepted" : 1527,
+    "exported" : 12,
+    "failed" : 3028,
+    "inProgress" : 4343,
+    "audit" : 785,
+    "blocked" : 204461,
+    "duplicate" : 119,
+    "ned" : 6165,
+    "unreadable" : 0,
+    "notExported" : 40,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 23:13:49",
+  "name" : "Italia (Antenati Italiani), Chieti—Matrimoni, 1809–1930 [Parte I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1970,
     "projectUUID" : "83FAA34F-B975-44C1-8132-24B7A5F727AC",
     "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
