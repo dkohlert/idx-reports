@@ -20609,6 +20609,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2211,
+    "projectUUID" : "09299C6D-00AC-4726-9CD0-41C4AD8C8371",
+    "name" : "Slovenija, Ljubljana—Pogrebni dokumenti, 1937—1970 [Del 4]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 80,
+  "batchCount" : 3677,
+  "auditBatchCount" : 171,
+  "imageCount" : 45609,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 171,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 80,
+    "batchCount" : 3506,
+    "images" : 45609,
+    "recordCount" : 2984
+  },
+  "exportStateCounts" : {
+    "accepted" : 2740,
+    "exported" : 197,
+    "failed" : 0,
+    "inProgress" : 17491,
+    "audit" : 1691,
+    "blocked" : 11026,
+    "duplicate" : 266,
+    "ned" : 13879,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 04:06:37",
+  "name" : "Slovenija, Ljubljana—Pogrebni dokumenti, 1937—1970 [Del 4]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2481,
     "projectUUID" : "693B726A-DEC4-4FB3-8A3B-6ACB7029921B",
     "name" : "US, Washington—World War II Draft Registration Cards, 1940–1945",
