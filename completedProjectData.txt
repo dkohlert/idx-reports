@@ -12136,6 +12136,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1960,
+    "projectUUID" : "69BF0E51-DB02-43D6-A4DF-4F65E4F6791C",
+    "name" : "US, Missouri—County Marriages, 1806–1969 [Part I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 29,
+  "batchCount" : 13485,
+  "auditBatchCount" : 643,
+  "imageCount" : 61517,
+  "blockedCount" : 12351,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 29,
+    "batchCount" : 27,
+    "images" : 12486,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 135,
+    "audit" : 0,
+    "blocked" : 12351,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 07:25:46",
+  "name" : "US, Missouri—County Marriages, 1806–1969 [Part I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3170,
     "projectUUID" : "D3931DD8-388E-41DD-A85D-CCAE672F8E7D",
     "name" : "US, Ohio—World War I Index and Return Cards, 1906–1920",
