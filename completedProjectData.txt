@@ -22940,6 +22940,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2456,
+    "projectUUID" : "8654D079-0A32-467F-A7C5-2FFCDD476497",
+    "name" : "US, Ohio—Marriage Records, 1750–1990 [Part J]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 62,
+  "batchCount" : 10248,
+  "auditBatchCount" : 489,
+  "imageCount" : 21899,
+  "blockedCount" : 2680,
+  "iesAuditBatchCount" : 489,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 61,
+    "batchCount" : 9759,
+    "images" : 21822,
+    "recordCount" : 225248
+  },
+  "exportStateCounts" : {
+    "accepted" : 17547,
+    "exported" : 5,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 949,
+    "blocked" : 2680,
+    "duplicate" : 16,
+    "ned" : 1574,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 00:26:37",
+  "name" : "US, Ohio—Marriage Records, 1750–1990 [Part J]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2751,
     "projectUUID" : "A3457CF1-C37C-4AA0-9DDC-5B6BB2A2ACD2",
     "name" : "US, Ohio—World War I Service Cards, Marine Corps, 1914–1918",
