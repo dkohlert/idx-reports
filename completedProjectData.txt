@@ -36001,6 +36001,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2194,
+    "projectUUID" : "A6281CEC-335A-4104-A407-2590B4CF3052",
+    "name" : "Luxembourg—Registres d’état civil, 1796–1923 [Partie D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 17,
+  "batchCount" : 1282,
+  "auditBatchCount" : 58,
+  "imageCount" : 20943,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 58,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 17,
+    "batchCount" : 1224,
+    "images" : 20943,
+    "recordCount" : 11282
+  },
+  "exportStateCounts" : {
+    "accepted" : 3013,
+    "exported" : 9,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 173,
+    "blocked" : 17276,
+    "duplicate" : 33,
+    "ned" : 417,
+    "unreadable" : 0,
+    "notExported" : 195,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-04 21:05:56",
+  "name" : "Luxembourg—Registres d’état civil, 1796–1923 [Partie D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1915,
     "projectUUID" : "4D86F786-264F-4F01-85A6-9821FFDB039C",
     "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part T]",
