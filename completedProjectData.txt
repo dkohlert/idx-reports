@@ -4218,6 +4218,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3494,
+    "projectUUID" : "A4B15C23-0A61-41A5-8909-C8A8BA73521D",
+    "name" : "US, Louisiana, Orleans Parish—Birth Records, 1819–1906",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 87,
+  "batchCount" : 26986,
+  "auditBatchCount" : 1283,
+  "imageCount" : 130003,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1280,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 87,
+    "batchCount" : 25703,
+    "images" : 130003,
+    "recordCount" : 168549
+  },
+  "exportStateCounts" : {
+    "accepted" : 83614,
+    "exported" : 310,
+    "failed" : 890,
+    "inProgress" : 42780,
+    "audit" : 6383,
+    "blocked" : 1728,
+    "duplicate" : 365,
+    "ned" : 212,
+    "unreadable" : 0,
+    "notExported" : 57,
+    "readyForExport" : 0,
+    "rejected" : 47,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 07:12:57",
+  "name" : "US, Louisiana, Orleans Parish—Birth Records, 1819–1906",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2648,
     "projectUUID" : "EC588664-841B-4743-B182-8ADBE2C32393",
     "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007 [Part B]",
