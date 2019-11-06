@@ -4181,6 +4181,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1724,
+    "projectUUID" : "013CC220-74C0-4820-B2F2-25016676B934",
+    "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 298,
+  "batchCount" : 331,
+  "auditBatchCount" : 0,
+  "imageCount" : 660,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 298,
+    "batchCount" : 331,
+    "images" : 660,
+    "recordCount" : 10223
+  },
+  "exportStateCounts" : {
+    "accepted" : 461,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 188,
+    "duplicate" : 8,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:26:00",
+  "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1656,
     "projectUUID" : "95625F3E-DF8F-442D-B3F6-B9735C6FEB44",
     "name" : "Colombia, Archdioceses of Manizales—Parish Records, 1797–2013 [Part F]",
