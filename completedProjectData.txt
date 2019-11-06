@@ -35076,6 +35076,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3537,
+    "projectUUID" : "05C2E7A9-F0BD-4F07-B698-F1AEA3B0989E",
+    "name" : "UK, England and Wales—Prerogative Court of Canterbury, Probate Records, 1640–1660 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 109,
+  "batchCount" : 19200,
+  "auditBatchCount" : 909,
+  "imageCount" : 55995,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 109,
+    "batchCount" : 18291,
+    "images" : 55995,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 3,
+    "inProgress" : 54777,
+    "audit" : 0,
+    "blocked" : 1215,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 14:23:50",
+  "name" : "UK, England and Wales—Prerogative Court of Canterbury, Probate Records, 1640–1660 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1913,
     "projectUUID" : "DBF694AF-61D6-439A-B945-038F3BAD0CFF",
     "name" : "Ireland—Civil Registration, Deaths, 1864–1870 [Part D]",
