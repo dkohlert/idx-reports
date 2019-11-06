@@ -25086,6 +25086,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2492,
+    "projectUUID" : "B009E0FC-C6C2-4C74-A840-7D18590C9C72",
+    "name" : "España, Lugo—Registros de la Iglesia Católica, 1537–1984 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 18,
+  "batchCount" : 3502,
+  "auditBatchCount" : 167,
+  "imageCount" : 20461,
+  "blockedCount" : 646,
+  "iesAuditBatchCount" : 5,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 18,
+    "batchCount" : 81,
+    "images" : 1130,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 179,
+    "inProgress" : 255,
+    "audit" : 30,
+    "blocked" : 646,
+    "duplicate" : 0,
+    "ned" : 50,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:27:00",
+  "name" : "España, Lugo—Registros de la Iglesia Católica, 1537–1984 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1921,
     "projectUUID" : "853AEFCC-5DE0-4F09-B947-A106B528B3BC",
     "name" : "Brazil, São Paulo—Civil Registration, Births, 1907–1995 [Part C]",
