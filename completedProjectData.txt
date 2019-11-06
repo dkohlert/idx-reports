@@ -10582,6 +10582,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3515,
+    "projectUUID" : "C15D1D96-6AFA-42A0-94FB-EA6F52890FA8",
+    "name" : "US, Georgia, Savannah—Jail Registers, 1855–1873",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 798,
+  "auditBatchCount" : 37,
+  "imageCount" : 834,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 37,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 761,
+    "images" : 834,
+    "recordCount" : 28476
+  },
+  "exportStateCounts" : {
+    "accepted" : 749,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 4,
+    "audit" : 37,
+    "blocked" : 73,
+    "duplicate" : 0,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:24:19",
+  "name" : "US, Georgia, Savannah—Jail Registers, 1855–1873",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3003,
     "projectUUID" : "5B4DBC69-4B01-40A3-9699-7FE0A4D85DD3",
     "name" : "Italia (Antenati Italiani), Bergamo—Stato Civil, 1881–1901",
