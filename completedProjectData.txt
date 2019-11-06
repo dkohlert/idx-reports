@@ -21719,6 +21719,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2253,
+    "projectUUID" : "3E1228F2-EFDE-4AF0-88E5-53B8C05100C4",
+    "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 174,
+  "batchCount" : 23412,
+  "auditBatchCount" : 1107,
+  "imageCount" : 109164,
+  "blockedCount" : 11942,
+  "iesAuditBatchCount" : 946,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 174,
+    "batchCount" : 19073,
+    "images" : 94439,
+    "recordCount" : 98302
+  },
+  "exportStateCounts" : {
+    "accepted" : 27955,
+    "exported" : 2561,
+    "failed" : 679,
+    "inProgress" : 46387,
+    "audit" : 4085,
+    "blocked" : 11942,
+    "duplicate" : 1292,
+    "ned" : 3320,
+    "unreadable" : 0,
+    "notExported" : 276,
+    "readyForExport" : 0,
+    "rejected" : 27,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 08:13:45",
+  "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1953,
     "projectUUID" : "39DA3283-0E21-40A1-8330-BD6FFF1754D2",
     "name" : "Argentina, Arquidiócesis de Corrientes—Registros Parroquiales, 1913–1949 [Parte B]",
