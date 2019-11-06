@@ -7363,6 +7363,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3024,
+    "projectUUID" : "44B64BAC-3A14-41D4-A379-12AA7DF09624",
+    "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 2893,
+  "auditBatchCount" : 147,
+  "imageCount" : 10350,
+  "blockedCount" : 848,
+  "iesAuditBatchCount" : 25,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 576,
+    "images" : 2784,
+    "recordCount" : 412
+  },
+  "exportStateCounts" : {
+    "accepted" : 139,
+    "exported" : 1,
+    "failed" : 97,
+    "inProgress" : 1630,
+    "audit" : 80,
+    "blocked" : 848,
+    "duplicate" : 3,
+    "ned" : 66,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 13:11:56",
+  "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2815,
     "projectUUID" : "32F7AE9B-707C-44C1-B2E2-20E181729B88",
     "name" : "Peru, Cusco—Registros Civiles, 1889–1997 [Parte 2X]",
