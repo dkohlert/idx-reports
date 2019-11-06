@@ -43993,6 +43993,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3523,
+    "projectUUID" : "5B8A6A52-4277-4FA7-A1AF-8E471A09973C",
+    "name" : "US, Montana—County Naturalizations, 1867–1957",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 44,
+  "batchCount" : 7541,
+  "auditBatchCount" : 354,
+  "imageCount" : 44810,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 292,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 44,
+    "batchCount" : 7187,
+    "images" : 44810,
+    "recordCount" : 22176
+  },
+  "exportStateCounts" : {
+    "accepted" : 13876,
+    "exported" : 52,
+    "failed" : 341,
+    "inProgress" : 20150,
+    "audit" : 1456,
+    "blocked" : 8958,
+    "duplicate" : 504,
+    "ned" : 910,
+    "unreadable" : 0,
+    "notExported" : 13,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 23:02:31",
+  "name" : "US, Montana—County Naturalizations, 1867–1957",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2155,
     "projectUUID" : "ADED9E0E-172C-4716-991B-A5277707C9A6",
     "name" : "Honduras—Registro civil, 1841—1966 [Parte D]",
