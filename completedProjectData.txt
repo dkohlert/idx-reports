@@ -27639,6 +27639,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3272,
+    "projectUUID" : "FF5FCA8F-6C6C-4913-A815-2C6372608F90",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BB]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 22737,
+  "auditBatchCount" : 1078,
+  "imageCount" : 66342,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1078,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 21659,
+    "images" : 66342,
+    "recordCount" : 65543
+  },
+  "exportStateCounts" : {
+    "accepted" : 44466,
+    "exported" : 19920,
+    "failed" : 3,
+    "inProgress" : 2,
+    "audit" : 3230,
+    "blocked" : 1659,
+    "duplicate" : 110,
+    "ned" : 173,
+    "unreadable" : 0,
+    "notExported" : 6,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 03:32:01",
+  "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BB]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2881,
     "projectUUID" : "2B9EC1B3-AD49-43AA-B273-3680EA87764C",
     "name" : "Italia (Antenati Italiani), Macerata—Stato Civile, 1808–1814 [Parte A]",
