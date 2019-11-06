@@ -12506,6 +12506,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2758,
+    "projectUUID" : "6023064F-115D-4543-A688-6D174EBA5ABF",
+    "name" : "US, Michigan—Overlijdensberichten, 1820–2006 [Deel C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 8081,
+  "auditBatchCount" : 384,
+  "imageCount" : 15517,
+  "blockedCount" : 133,
+  "iesAuditBatchCount" : 252,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 5107,
+    "images" : 10337,
+    "recordCount" : 54753
+  },
+  "exportStateCounts" : {
+    "accepted" : 7558,
+    "exported" : 1133,
+    "failed" : 40,
+    "inProgress" : 62,
+    "audit" : 503,
+    "blocked" : 133,
+    "duplicate" : 814,
+    "ned" : 585,
+    "unreadable" : 0,
+    "notExported" : 12,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 09:41:57",
+  "name" : "US, Michigan—Overlijdensberichten, 1820–2006 [Deel C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1848,
     "projectUUID" : "74166EB7-99C0-4D38-B789-66A8D78F4E82",
     "name" : "US, California, Los Angeles County—County Death Records, 1898–1978 [Part B]",
