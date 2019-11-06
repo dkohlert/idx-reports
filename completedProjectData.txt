@@ -2072,6 +2072,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3015,
+    "projectUUID" : "FC399B1A-A508-49A7-B6F5-B3F25008C1D3",
+    "name" : "US, Massachusetts—Births, Marriages, and Deaths, 1600–1990 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 14,
+  "auditBatchCount" : 1,
+  "imageCount" : 164,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 13,
+    "images" : 164,
+    "recordCount" : 429
+  },
+  "exportStateCounts" : {
+    "accepted" : 15,
+    "exported" : 0,
+    "failed" : 2,
+    "inProgress" : 0,
+    "audit" : 2,
+    "blocked" : 138,
+    "duplicate" : 1,
+    "ned" : 8,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 03:17:45",
+  "name" : "US, Massachusetts—Births, Marriages, and Deaths, 1600–1990 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2861,
     "projectUUID" : "97EA7BBA-5D38-4E27-9D44-D8C9A2103AAE",
     "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
