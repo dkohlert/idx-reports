@@ -19462,6 +19462,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3020,
+    "projectUUID" : "433BE231-3D8C-4221-BE94-EC4474C16EEA",
+    "name" : "Italia (Antenati Italiani), Udine—Stato Civile, 1806–1900 [Parte 2L]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 4075,
+  "auditBatchCount" : 183,
+  "imageCount" : 19335,
+  "blockedCount" : 5078,
+  "iesAuditBatchCount" : 47,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 961,
+    "images" : 7776,
+    "recordCount" : 5233
+  },
+  "exportStateCounts" : {
+    "accepted" : 1815,
+    "exported" : 35,
+    "failed" : 224,
+    "inProgress" : 494,
+    "audit" : 136,
+    "blocked" : 5078,
+    "duplicate" : 0,
+    "ned" : 130,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 07:47:43",
+  "name" : "Italia (Antenati Italiani), Udine—Stato Civile, 1806–1900 [Parte 2L]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2066,
     "projectUUID" : "B139FF3F-DB66-4892-9D47-1A3DD7A37338",
     "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, Geboorten, 1811–1902",
