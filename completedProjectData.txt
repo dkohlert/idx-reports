@@ -43993,6 +43993,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3521,
+    "projectUUID" : "1802D000-790A-4801-81CB-2ABAE8FA8EAB",
+    "name" : "US—Obituaries, 1980–2014 [Part 2AS]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1086,
+  "batchCount" : 13069,
+  "auditBatchCount" : 567,
+  "imageCount" : 399098,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 567,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1086,
+    "batchCount" : 12502,
+    "images" : 399098,
+    "recordCount" : 177630
+  },
+  "exportStateCounts" : {
+    "accepted" : 21275,
+    "exported" : 477,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1123,
+    "blocked" : 374839,
+    "duplicate" : 16,
+    "ned" : 2491,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 21:21:50",
+  "name" : "US—Obituaries, 1980–2014 [Part 2AS]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2187,
     "projectUUID" : "11DF61E9-9771-4452-A0C6-196E2E751B9D",
     "name" : "US, Pennsylvania, Philadelphia, Philadelphia—Birth Returns and Birth Index Cards, 1904–1915 [Part A]",
