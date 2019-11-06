@@ -23347,6 +23347,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3021,
+    "projectUUID" : "0B70DE34-CAF2-4500-B2A3-266396F95B31",
+    "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 321,
+  "batchCount" : 45378,
+  "auditBatchCount" : 2152,
+  "imageCount" : 133104,
+  "blockedCount" : 6266,
+  "iesAuditBatchCount" : 2152,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 321,
+    "batchCount" : 43218,
+    "images" : 133080,
+    "recordCount" : 53571
+  },
+  "exportStateCounts" : {
+    "accepted" : 12095,
+    "exported" : 3385,
+    "failed" : 768,
+    "inProgress" : 106620,
+    "audit" : 6311,
+    "blocked" : 6266,
+    "duplicate" : 88,
+    "ned" : 3823,
+    "unreadable" : 0,
+    "notExported" : 19,
+    "readyForExport" : 0,
+    "rejected" : 16,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 09:56:06",
+  "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3554,
     "projectUUID" : "0D86B115-EF87-4E41-80F6-99B6C986D422",
     "name" : "US, North Carolina—Voter Registration Records, 1868–1898",
