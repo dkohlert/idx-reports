@@ -38961,6 +38961,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3262,
+    "projectUUID" : "7FE4F57E-F7CC-451A-BBC2-4EC223442328",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907–1995 [Parte AZ]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 600,
+  "batchCount" : 45649,
+  "auditBatchCount" : 2163,
+  "imageCount" : 133086,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2163,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 600,
+    "batchCount" : 43486,
+    "images" : 133086,
+    "recordCount" : 130833
+  },
+  "exportStateCounts" : {
+    "accepted" : 108377,
+    "exported" : 21111,
+    "failed" : 0,
+    "inProgress" : 3,
+    "audit" : 6452,
+    "blocked" : 3262,
+    "duplicate" : 87,
+    "ned" : 221,
+    "unreadable" : 0,
+    "notExported" : 18,
+    "readyForExport" : 0,
+    "rejected" : 7,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:47:30",
+  "name" : "Brazil, São Paulo—Civil Registration, 1907–1995 [Parte AZ]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2570,
     "projectUUID" : "D09D6A2D-62A5-45B7-99D7-B71D3B57F82A",
     "name" : "US, Nebraska—Marriage Records, 1750–1990 [Part F]",
