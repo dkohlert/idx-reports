@@ -38184,6 +38184,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3260,
+    "projectUUID" : "DD86B4D0-7CC3-4523-AF2B-5512C2A28E37",
+    "name" : "Colombia, Bogotá—Licencias de Inhumación, 1960–1991",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 189,
+  "batchCount" : 10222,
+  "auditBatchCount" : 482,
+  "imageCount" : 38096,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 482,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 189,
+    "batchCount" : 9740,
+    "images" : 38096,
+    "recordCount" : 27807
+  },
+  "exportStateCounts" : {
+    "accepted" : 27209,
+    "exported" : 52,
+    "failed" : 4,
+    "inProgress" : 10543,
+    "audit" : 1876,
+    "blocked" : 202,
+    "duplicate" : 3,
+    "ned" : 13,
+    "unreadable" : 0,
+    "notExported" : 67,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:30:36",
+  "name" : "Colombia, Bogotá—Licencias de Inhumación, 1960–1991",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1774,
     "projectUUID" : "383B3CB8-0E34-4999-8862-5F0776F622A1",
     "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part P]",
