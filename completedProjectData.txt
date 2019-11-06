@@ -1517,6 +1517,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 1989,
+    "projectUUID" : "F4A7F975-BB43-4025-8326-AFF00B5E13C2",
+    "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 199,
+  "batchCount" : 107894,
+  "auditBatchCount" : 5121,
+  "imageCount" : 1033852,
+  "blockedCount" : 7042,
+  "iesAuditBatchCount" : 135,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 199,
+    "batchCount" : 3060,
+    "images" : 37627,
+    "recordCount" : 6458
+  },
+  "exportStateCounts" : {
+    "accepted" : 6420,
+    "exported" : 9,
+    "failed" : 3538,
+    "inProgress" : 2521,
+    "audit" : 1350,
+    "blocked" : 7042,
+    "duplicate" : 28,
+    "ned" : 18069,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 23:46:41",
+  "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2906,
     "projectUUID" : "3D740621-7742-465E-BFF6-CCB5B2F8C06A",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AG]",
