@@ -24309,6 +24309,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2755,
+    "projectUUID" : "74F78A92-2370-4A79-8CF6-A97285D80CEB",
+    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 238,
+  "batchCount" : 11456,
+  "auditBatchCount" : 541,
+  "imageCount" : 182066,
+  "blockedCount" : 74481,
+  "iesAuditBatchCount" : 21,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 237,
+    "batchCount" : 408,
+    "images" : 78470,
+    "recordCount" : 1997
+  },
+  "exportStateCounts" : {
+    "accepted" : 1995,
+    "exported" : 0,
+    "failed" : 129,
+    "inProgress" : 1857,
+    "audit" : 208,
+    "blocked" : 74481,
+    "duplicate" : 5,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 22:50:36",
+  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2751,
     "projectUUID" : "A3457CF1-C37C-4AA0-9DDC-5B6BB2A2ACD2",
     "name" : "US, Ohio—World War I Service Cards, Marine Corps, 1914–1918",
