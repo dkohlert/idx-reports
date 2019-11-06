@@ -9102,6 +9102,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3514,
+    "projectUUID" : "63E67154-B70D-4046-86EF-3674ECB0420D",
+    "name" : "Canada, Manitoba—Church Records, 1800–1950",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 2281,
+  "auditBatchCount" : 107,
+  "imageCount" : 4924,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 107,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 2174,
+    "images" : 4924,
+    "recordCount" : 10580
+  },
+  "exportStateCounts" : {
+    "accepted" : 2041,
+    "exported" : 0,
+    "failed" : 1,
+    "inProgress" : 1,
+    "audit" : 107,
+    "blocked" : 2750,
+    "duplicate" : 0,
+    "ned" : 127,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:06:34",
+  "name" : "Canada, Manitoba—Church Records, 1800–1950",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2635,
     "projectUUID" : "AAC54CCE-EA18-4419-8EF9-F3C3EC19421A",
     "name" : "Luxembourg—Registres d'état civil, 1796-1923 [Partie E]",
