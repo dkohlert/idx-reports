@@ -42328,6 +42328,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3259,
+    "projectUUID" : "87D956C5-8B02-4804-9454-24462CDDC4C7",
+    "name" : "US, Missouri—State Archives, Pre-World War II Adjutant General Enlistment Contracts, 1900–1941 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 25997,
+  "auditBatchCount" : 1229,
+  "imageCount" : 139805,
+  "blockedCount" : 19358,
+  "iesAuditBatchCount" : 544,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 10956,
+    "images" : 72611,
+    "recordCount" : 5427
+  },
+  "exportStateCounts" : {
+    "accepted" : 4940,
+    "exported" : 432,
+    "failed" : 410,
+    "inProgress" : 24225,
+    "audit" : 2666,
+    "blocked" : 19358,
+    "duplicate" : 349,
+    "ned" : 22861,
+    "unreadable" : 0,
+    "notExported" : 9,
+    "readyForExport" : 0,
+    "rejected" : 27,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:17:18",
+  "name" : "US, Missouri—State Archives, Pre-World War II Adjutant General Enlistment Contracts, 1900–1941 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2201,
     "projectUUID" : "01184538-EFCB-4382-BB0B-79BDECE705F2",
     "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte F]",
