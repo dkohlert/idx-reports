@@ -28823,6 +28823,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3274,
+    "projectUUID" : "BC5F56AD-3C8C-4945-81F8-55CD26190499",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BD]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 3136,
+  "batchCount" : 240265,
+  "auditBatchCount" : 11305,
+  "imageCount" : 700579,
+  "blockedCount" : 17123,
+  "iesAuditBatchCount" : 8985,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3135,
+    "batchCount" : 182067,
+    "images" : 560533,
+    "recordCount" : 170238
+  },
+  "exportStateCounts" : {
+    "accepted" : 152252,
+    "exported" : 15527,
+    "failed" : 1009,
+    "inProgress" : 369712,
+    "audit" : 26845,
+    "blocked" : 17123,
+    "duplicate" : 542,
+    "ned" : 3825,
+    "unreadable" : 0,
+    "notExported" : 478,
+    "readyForExport" : 0,
+    "rejected" : 65,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 05:53:21",
+  "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BD]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3492,
     "projectUUID" : "FC495516-25EA-4BA5-948C-FACB53C54F49",
     "name" : "UK, England, Surrey—Parish Registers, 1538–1970 [Part F]",
