@@ -38147,6 +38147,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 718,
+    "projectUUID" : "C9668B34-A062-48D2-8CF9-3616CC74FC0E",
+    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 273,
+  "batchCount" : 1157,
+  "auditBatchCount" : 47,
+  "imageCount" : 8455,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 47,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 273,
+    "batchCount" : 1110,
+    "images" : 8455,
+    "recordCount" : 5487
+  },
+  "exportStateCounts" : {
+    "accepted" : 5134,
+    "exported" : 351,
+    "failed" : 1,
+    "inProgress" : 0,
+    "audit" : 233,
+    "blocked" : 2941,
+    "duplicate" : 3,
+    "ned" : 26,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 10:07:15",
+  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1553,
     "projectUUID" : "8CE9AF1F-541E-45EE-B659-C3E6CC0E96AC",
     "name" : "US, Michigan—Mortality Schedules, 1850–1880",
