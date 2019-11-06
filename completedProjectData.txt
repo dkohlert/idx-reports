@@ -34188,6 +34188,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2249,
+    "projectUUID" : "E4B3908F-544E-4BD4-B393-2C8006BDDB04",
+    "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 199,
+  "batchCount" : 2844,
+  "auditBatchCount" : 136,
+  "imageCount" : 18661,
+  "blockedCount" : 5542,
+  "iesAuditBatchCount" : 1,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 199,
+    "batchCount" : 0,
+    "images" : 5542,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 5,
+    "blocked" : 5542,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 03:40:26",
+  "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1425,
     "projectUUID" : "71096428-4B83-4104-9560-56E26543BC9F",
     "name" : "US, Pennsylvania—Eastern District Petitions for Naturalizations, 1795–1931 [Part D]",
