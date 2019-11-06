@@ -4477,6 +4477,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3528,
+    "projectUUID" : "B59CB039-0F55-404F-85EE-37C95A1BBB8B",
+    "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part M]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 117,
+  "batchCount" : 19846,
+  "auditBatchCount" : 941,
+  "imageCount" : 205276,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 224,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 117,
+    "batchCount" : 18905,
+    "images" : 205276,
+    "recordCount" : 10207
+  },
+  "exportStateCounts" : {
+    "accepted" : 9921,
+    "exported" : 13,
+    "failed" : 543,
+    "inProgress" : 165786,
+    "audit" : 2212,
+    "blocked" : 19802,
+    "duplicate" : 7411,
+    "ned" : 1792,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 03:36:54",
+  "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part M]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3160,
     "projectUUID" : "96D9E19F-5F06-4C91-843D-4945A821C437",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AR]",
