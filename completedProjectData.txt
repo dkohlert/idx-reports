@@ -31450,6 +31450,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3273,
+    "projectUUID" : "1261FEB0-5A92-47A5-86B8-5A7A32903E51",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BC]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 411,
+  "batchCount" : 31133,
+  "auditBatchCount" : 1482,
+  "imageCount" : 90998,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1482,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 411,
+    "batchCount" : 29651,
+    "images" : 90998,
+    "recordCount" : 88996
+  },
+  "exportStateCounts" : {
+    "accepted" : 78535,
+    "exported" : 9399,
+    "failed" : 0,
+    "inProgress" : 3,
+    "audit" : 4416,
+    "blocked" : 2742,
+    "duplicate" : 43,
+    "ned" : 231,
+    "unreadable" : 0,
+    "notExported" : 39,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 04:01:22",
+  "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BC]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2056,
     "projectUUID" : "9BF99D74-EE9C-4691-B1D2-67FC0E0CB252",
     "name" : "Sverige, Stockholms stad—Index till kyrkböcker, 1546–1927 [Del 5]",
