@@ -34928,6 +34928,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2251,
+    "projectUUID" : "F7A234EC-FB87-4CE5-94C0-1D1C56BE844B",
+    "name" : "Philippines, Camarines Sur, Archdiocese de Caceres—Registros Parroquiales, 1716–1977 [Parte C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 1730,
+  "auditBatchCount" : 83,
+  "imageCount" : 1796,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 83,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 1647,
+    "images" : 1796,
+    "recordCount" : 8430
+  },
+  "exportStateCounts" : {
+    "accepted" : 1254,
+    "exported" : 23,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 83,
+    "blocked" : 146,
+    "duplicate" : 0,
+    "ned" : 371,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 07:45:35",
+  "name" : "Philippines, Camarines Sur, Archdiocese de Caceres—Registros Parroquiales, 1716–1977 [Parte C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2628,
     "projectUUID" : "35433113-BDCC-4E3A-B1B4-37D3203D07E2",
     "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte R]",
