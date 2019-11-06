@@ -36704,6 +36704,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2500,
+    "projectUUID" : "D771DBC1-12A1-4C47-A8F3-9F3C2130A714",
+    "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1V]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 35481,
+  "auditBatchCount" : 1667,
+  "imageCount" : 133106,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1667,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 33814,
+    "images" : 133106,
+    "recordCount" : 122476
+  },
+  "exportStateCounts" : {
+    "accepted" : 119004,
+    "exported" : 2137,
+    "failed" : 0,
+    "inProgress" : 6,
+    "audit" : 6087,
+    "blocked" : 9244,
+    "duplicate" : 649,
+    "ned" : 1779,
+    "unreadable" : 0,
+    "notExported" : 278,
+    "readyForExport" : 0,
+    "rejected" : 9,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 23:34:00",
+  "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1V]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3178,
     "projectUUID" : "C6084B9F-9ADA-4E75-9363-E2BC74999682",
     "name" : "US, Massachusetts, Boston—Voter Registers, 1857-1920",
