@@ -37296,6 +37296,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3529,
+    "projectUUID" : "25037D89-EBDD-4F57-8F78-70DFD6BA062E",
+    "name" : "Chile—Cemetery Records, 1880–2015 [Part D]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 396,
+  "batchCount" : 17190,
+  "auditBatchCount" : 813,
+  "imageCount" : 129358,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 813,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 396,
+    "batchCount" : 16377,
+    "images" : 129358,
+    "recordCount" : 62550
+  },
+  "exportStateCounts" : {
+    "accepted" : 49164,
+    "exported" : 12999,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3146,
+    "blocked" : 65981,
+    "duplicate" : 117,
+    "ned" : 1004,
+    "unreadable" : 0,
+    "notExported" : 8,
+    "readyForExport" : 0,
+    "rejected" : 85,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 04:03:20",
+  "name" : "Chile—Cemetery Records, 1880–2015 [Part D]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 2550,
     "projectUUID" : "89F882C2-DB13-4759-BAC1-F461AF6EEC0A",
     "name" : "South Africa, Transvaal—Death Notices from Probate Files, 1869–1958 [Part E]",
