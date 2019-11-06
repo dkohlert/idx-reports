@@ -11581,6 +11581,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1984,
+    "projectUUID" : "675D40AC-D613-44B1-80DB-20AA14EE93EE",
+    "name" : "España, Provincia de Asturias, Colunga—Registro civil, 1836–1871",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 15,
+  "batchCount" : 441,
+  "auditBatchCount" : 21,
+  "imageCount" : 4817,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 21,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 15,
+    "batchCount" : 420,
+    "images" : 4817,
+    "recordCount" : 7283
+  },
+  "exportStateCounts" : {
+    "accepted" : 3780,
+    "exported" : 64,
+    "failed" : 50,
+    "inProgress" : 130,
+    "audit" : 210,
+    "blocked" : 680,
+    "duplicate" : 15,
+    "ned" : 98,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:50:43",
+  "name" : "España, Provincia de Asturias, Colunga—Registro civil, 1836–1871",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2483,
     "projectUUID" : "451E07EB-FD46-4F8E-A508-FC3BE5CA70BF",
     "name" : "US—Veterans Administration Master Index, World War I, 1861–1940",
