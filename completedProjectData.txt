@@ -25530,6 +25530,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3264,
+    "projectUUID" : "0FF51B12-786A-4E5F-970B-040456574EC3",
+    "name" : "Portugal, Portalegre—Registros da Igreja Católica, 1870–1911 [Parte 1D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 1,
+  "auditBatchCount" : 0,
+  "imageCount" : 10,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 1,
+    "images" : 10,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 6,
+    "audit" : 0,
+    "blocked" : 4,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 21:14:28",
+  "name" : "Portugal, Portalegre—Registros da Igreja Católica, 1870–1911 [Parte 1D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2365,
     "projectUUID" : "69644385-A458-43DB-A4C7-D324C073EA72",
     "name" : "Brasil, São Paulo—Registro Civil, Nascimentos, 1907–1995 [Parte L]",
