@@ -11137,6 +11137,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2242,
+    "projectUUID" : "2D57B297-AB7D-4A81-8E4B-8C17E1C6B237",
+    "name" : "Perú (Lote rápido), Ancash—Registro Civil, Nacimiento, 1888–2000 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 116807,
+  "auditBatchCount" : 5541,
+  "imageCount" : 126273,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5541,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 111266,
+    "images" : 126273,
+    "recordCount" : 79063
+  },
+  "exportStateCounts" : {
+    "accepted" : 77434,
+    "exported" : 135,
+    "failed" : 49,
+    "inProgress" : 43000,
+    "audit" : 6154,
+    "blocked" : 2276,
+    "duplicate" : 7,
+    "ned" : 322,
+    "unreadable" : 0,
+    "notExported" : 3050,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 22:33:36",
+  "name" : "Perú (Lote rápido), Ancash—Registro Civil, Nacimiento, 1888–2000 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1502,
     "projectUUID" : "7053D64B-BBF8-4FD4-B9F5-4D576C805129",
     "name" : "US, Nevada—County Birth Records, 1887–1982",
