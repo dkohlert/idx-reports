@@ -15244,6 +15244,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2769,
+    "projectUUID" : "344FC20B-DB18-4F39-BA89-BB7C81C1B8CC",
+    "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part H]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 140,
+  "batchCount" : 31301,
+  "auditBatchCount" : 1493,
+  "imageCount" : 148486,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1493,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 140,
+    "batchCount" : 29808,
+    "images" : 148486,
+    "recordCount" : 365662
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 80026,
+    "failed" : 0,
+    "inProgress" : 20079,
+    "audit" : 7420,
+    "blocked" : 38,
+    "duplicate" : 324,
+    "ned" : 39847,
+    "unreadable" : 0,
+    "notExported" : 85,
+    "readyForExport" : 0,
+    "rejected" : 8087,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 14:22:07",
+  "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part H]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3342,
     "projectUUID" : "D701F9C5-9F3B-4BCD-A34B-9D9C52174410",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BG]",
