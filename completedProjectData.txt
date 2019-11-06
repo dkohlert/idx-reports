@@ -34262,6 +34262,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3261,
+    "projectUUID" : "196555DD-DE11-4576-B471-9BEA509008E7",
+    "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 445,
+  "auditBatchCount" : 22,
+  "imageCount" : 1731,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 22,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 6,
+    "batchCount" : 423,
+    "images" : 1731,
+    "recordCount" : 5324
+  },
+  "exportStateCounts" : {
+    "accepted" : 790,
+    "exported" : 553,
+    "failed" : 7,
+    "inProgress" : 12,
+    "audit" : 79,
+    "blocked" : 244,
+    "duplicate" : 81,
+    "ned" : 43,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-05 20:32:33",
+  "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1913,
     "projectUUID" : "DBF694AF-61D6-439A-B945-038F3BAD0CFF",
     "name" : "Ireland—Civil Registration, Deaths, 1864–1870 [Part D]",
