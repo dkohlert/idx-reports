@@ -36667,6 +36667,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3538,
+    "projectUUID" : "6DF8064F-027D-4CB0-91A1-D45E926353D0",
+    "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part H]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 230,
+  "batchCount" : 280438,
+  "auditBatchCount" : 13349,
+  "imageCount" : 1340155,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 13349,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 230,
+    "batchCount" : 267089,
+    "images" : 1340155,
+    "recordCount" : 1331293
+  },
+  "exportStateCounts" : {
+    "accepted" : 1328367,
+    "exported" : 1159,
+    "failed" : 15,
+    "inProgress" : 0,
+    "audit" : 66725,
+    "blocked" : 5214,
+    "duplicate" : 823,
+    "ned" : 290,
+    "unreadable" : 0,
+    "notExported" : 4275,
+    "readyForExport" : 0,
+    "rejected" : 12,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 14:40:40",
+  "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part H]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 2173,
     "projectUUID" : "6DD14135-1BFC-438E-9118-93E3C513F7B6",
     "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part C]",
