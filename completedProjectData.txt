@@ -32967,6 +32967,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3569,
+    "projectUUID" : "8EE240CA-C426-4D13-ADED-0AAB6B4CE3F7",
+    "name" : "US, South Carolina—State and Territorial Censuses, 1753–1920",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 13,
+  "batchCount" : 6614,
+  "auditBatchCount" : 314,
+  "imageCount" : 7226,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 138,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 13,
+    "batchCount" : 6300,
+    "images" : 7226,
+    "recordCount" : 69365
+  },
+  "exportStateCounts" : {
+    "accepted" : 2386,
+    "exported" : 8,
+    "failed" : 21,
+    "inProgress" : 3868,
+    "audit" : 138,
+    "blocked" : 925,
+    "duplicate" : 0,
+    "ned" : 18,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:37:27",
+  "name" : "US, South Carolina—State and Territorial Censuses, 1753–1920",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2536,
     "projectUUID" : "9DEF5C01-20E3-4F48-83A5-56D46FC57585",
     "name" : "US, Illinois—Decatur Public Library, World War I Soldiers Card File, Enlistments, 1917–1918",
