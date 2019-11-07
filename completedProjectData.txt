@@ -19240,6 +19240,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2530,
+    "projectUUID" : "670CBA5F-4EDC-42FB-98B1-4772BB2BB550",
+    "name" : "Honduras—Registros de la Iglesia Catolica, 1694–1979",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 126,
+  "batchCount" : 41250,
+  "auditBatchCount" : 1969,
+  "imageCount" : 93219,
+  "blockedCount" : 17915,
+  "iesAuditBatchCount" : 1476,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 126,
+    "batchCount" : 29486,
+    "images" : 72788,
+    "recordCount" : 71734
+  },
+  "exportStateCounts" : {
+    "accepted" : 11471,
+    "exported" : 841,
+    "failed" : 416,
+    "inProgress" : 32808,
+    "audit" : 2744,
+    "blocked" : 17915,
+    "duplicate" : 514,
+    "ned" : 8810,
+    "unreadable" : 0,
+    "notExported" : 12,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 23:12:50",
+  "name" : "Honduras—Registros de la Iglesia Catolica, 1694–1979",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2909,
     "projectUUID" : "5014372B-71DB-49FF-A1C9-8C84EAF6C8C0",
     "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part A]",
