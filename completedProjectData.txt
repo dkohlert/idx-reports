@@ -19647,6 +19647,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2531,
+    "projectUUID" : "9287443E-6234-42E3-ADF3-92450A93E2D1",
+    "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 148,
+  "batchCount" : 49937,
+  "auditBatchCount" : 2381,
+  "imageCount" : 96842,
+  "blockedCount" : 3557,
+  "iesAuditBatchCount" : 1523,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 148,
+    "batchCount" : 30414,
+    "images" : 62193,
+    "recordCount" : 199379
+  },
+  "exportStateCounts" : {
+    "accepted" : 25769,
+    "exported" : 2125,
+    "failed" : 114,
+    "inProgress" : 30052,
+    "audit" : 2934,
+    "blocked" : 3557,
+    "duplicate" : 178,
+    "ned" : 358,
+    "unreadable" : 0,
+    "notExported" : 26,
+    "readyForExport" : 0,
+    "rejected" : 14,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 00:02:37",
+  "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2731,
     "projectUUID" : "D6348292-DA2C-4F87-A8FB-C52E84F3BAA1",
     "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part D]",
