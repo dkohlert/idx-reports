@@ -30044,6 +30044,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3556,
+    "projectUUID" : "AC1AC93C-6E84-4C1A-9A77-6D47CE69A6D2",
+    "name" : "US, New York—World War I Draft Registration Cards, 1917–1918 [Part E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 113,
+  "batchCount" : 137422,
+  "auditBatchCount" : 6543,
+  "imageCount" : 656693,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 6543,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 113,
+    "batchCount" : 130879,
+    "images" : 656693,
+    "recordCount" : 657223
+  },
+  "exportStateCounts" : {
+    "accepted" : 649622,
+    "exported" : 280,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 32696,
+    "blocked" : 2582,
+    "duplicate" : 1421,
+    "ned" : 239,
+    "unreadable" : 0,
+    "notExported" : 2519,
+    "readyForExport" : 0,
+    "rejected" : 30,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 00:27:37",
+  "name" : "US, New York—World War I Draft Registration Cards, 1917–1918 [Part E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2172,
     "projectUUID" : "D0ACC7D4-8E28-4703-A822-CB378DABD490",
     "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte B]",
