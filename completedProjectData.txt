@@ -36223,6 +36223,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2804,
+    "projectUUID" : "CC3230FF-6B68-4E58-84F6-5F215AE908D6",
+    "name" : "Italia (Antenati Italiani), Campobasso, Cercepiccola—Morti, 1809–1910",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 7,
+  "batchCount" : 622,
+  "auditBatchCount" : 30,
+  "imageCount" : 9683,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 30,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 7,
+    "batchCount" : 592,
+    "images" : 9683,
+    "recordCount" : 6122
+  },
+  "exportStateCounts" : {
+    "accepted" : 2588,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 149,
+    "blocked" : 6715,
+    "duplicate" : 155,
+    "ned" : 220,
+    "unreadable" : 0,
+    "notExported" : 5,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 04:28:52",
+  "name" : "Italia (Antenati Italiani), Campobasso, Cercepiccola—Morti, 1809–1910",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3261,
     "projectUUID" : "196555DD-DE11-4576-B471-9BEA509008E7",
     "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil D]",
