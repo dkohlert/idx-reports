@@ -10656,6 +10656,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2032,
+    "projectUUID" : "2FD62716-5598-432E-84D1-4057F224A3E9",
+    "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 9093,
+  "auditBatchCount" : 433,
+  "imageCount" : 15342,
+  "blockedCount" : 1581,
+  "iesAuditBatchCount" : 306,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 6048,
+    "images" : 10794,
+    "recordCount" : 35748
+  },
+  "exportStateCounts" : {
+    "accepted" : 5849,
+    "exported" : 490,
+    "failed" : 267,
+    "inProgress" : 2239,
+    "audit" : 449,
+    "blocked" : 1581,
+    "duplicate" : 295,
+    "ned" : 61,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:33:33",
+  "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2713,
     "projectUUID" : "93F87CC5-EFC0-4D11-94A4-06B0A2E8B72A",
     "name" : "Argentina, Corrientes—Registro Civil, 1880–1930 [Parte B]",
