@@ -27121,6 +27121,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3288,
+    "projectUUID" : "7BCA0ECB-0173-4535-A2C8-991969CB7B7B",
+    "name" : "US, Ohio—County Births, 1849–1985 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 58,
+  "batchCount" : 5467,
+  "auditBatchCount" : 259,
+  "imageCount" : 28233,
+  "blockedCount" : 4537,
+  "iesAuditBatchCount" : 257,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 58,
+    "batchCount" : 5166,
+    "images" : 27812,
+    "recordCount" : 57926
+  },
+  "exportStateCounts" : {
+    "accepted" : 10820,
+    "exported" : 2533,
+    "failed" : 188,
+    "inProgress" : 9,
+    "audit" : 1155,
+    "blocked" : 4537,
+    "duplicate" : 128,
+    "ned" : 9574,
+    "unreadable" : 0,
+    "notExported" : 21,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 20:57:26",
+  "name" : "US, Ohio—County Births, 1849–1985 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3607,
     "projectUUID" : "81FABB6B-F614-4D55-B01C-E8097B18C5F6",
     "name" : "US, American Samoa—Vital Records, 1850–1972",
