@@ -27565,6 +27565,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2795,
+    "projectUUID" : "52E692F1-F281-4515-AAF5-D009972B43FD",
+    "name" : "US, Missouri—1876 State Census [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 23,
+  "batchCount" : 6737,
+  "auditBatchCount" : 318,
+  "imageCount" : 8825,
+  "blockedCount" : 2391,
+  "iesAuditBatchCount" : 130,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 23,
+    "batchCount" : 2555,
+    "images" : 4948,
+    "recordCount" : 70272
+  },
+  "exportStateCounts" : {
+    "accepted" : 1737,
+    "exported" : 82,
+    "failed" : 6,
+    "inProgress" : 43,
+    "audit" : 130,
+    "blocked" : 2391,
+    "duplicate" : 0,
+    "ned" : 685,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 01:51:59",
+  "name" : "US, Missouri—1876 State Census [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2874,
     "projectUUID" : "AA6FC4F7-EFFD-4C7C-A7D5-26B716F581F8",
     "name" : "Italia (Antenati Italiani), Diocesi di Trento—Battesimi in Latino, 1567–1923",
