@@ -21201,6 +21201,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3566,
+    "projectUUID" : "F4C18995-CB37-41BF-9245-5AB506C193E6",
+    "name" : "US, South Carolina—County Voter Registration Records, 1882–1895",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 822,
+  "auditBatchCount" : 39,
+  "imageCount" : 836,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 39,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 783,
+    "images" : 836,
+    "recordCount" : 21809
+  },
+  "exportStateCounts" : {
+    "accepted" : 751,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 1,
+    "audit" : 39,
+    "blocked" : 53,
+    "duplicate" : 0,
+    "ned" : 29,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:26:22",
+  "name" : "US, South Carolina—County Voter Registration Records, 1882–1895",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1815,
     "projectUUID" : "15A0C3C5-0ADF-4A67-A844-745167ED41C9",
     "name" : "US, Illinois, Cook County—Marriages, 1921–1949 [Part I]",
