@@ -28268,6 +28268,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3299,
+    "projectUUID" : "5F20DBF3-E744-4C19-9B87-908038DEB4CB",
+    "name" : "US, New York—County Naturalization Records, 1792–1976 [Part P]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 18709,
+  "auditBatchCount" : 887,
+  "imageCount" : 178982,
+  "blockedCount" : 29021,
+  "iesAuditBatchCount" : 779,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 15655,
+    "images" : 163223,
+    "recordCount" : 151440
+  },
+  "exportStateCounts" : {
+    "accepted" : 104775,
+    "exported" : 4436,
+    "failed" : 468,
+    "inProgress" : 10994,
+    "audit" : 6680,
+    "blocked" : 29021,
+    "duplicate" : 6687,
+    "ned" : 6691,
+    "unreadable" : 0,
+    "notExported" : 141,
+    "readyForExport" : 0,
+    "rejected" : 10,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 00:15:05",
+  "name" : "US, New York—County Naturalization Records, 1792–1976 [Part P]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2181,
     "projectUUID" : "67B32E11-99ED-4A91-B17E-024166B97DEB",
     "name" : "US, Rhode Island—Naturalization Records, 1907–1991 [Part E]",
