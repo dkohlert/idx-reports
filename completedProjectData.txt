@@ -46287,6 +46287,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3570,
+    "projectUUID" : "5148D244-BB6F-42F6-9FEA-1F15D76732E8",
+    "name" : "Philippines—Marriage Records, 1945–1987 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 39939,
+  "auditBatchCount" : 1893,
+  "imageCount" : 418284,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 385,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 38046,
+    "images" : 418284,
+    "recordCount" : 8101
+  },
+  "exportStateCounts" : {
+    "accepted" : 8028,
+    "exported" : 40,
+    "failed" : 6263,
+    "inProgress" : 363613,
+    "audit" : 3842,
+    "blocked" : 39180,
+    "duplicate" : 436,
+    "ned" : 723,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:58:52",
+  "name" : "Philippines—Marriage Records, 1945–1987 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3521,
     "projectUUID" : "1802D000-790A-4801-81CB-2ABAE8FA8EAB",
     "name" : "US—Obituaries, 1980–2014 [Part 2AS]",
