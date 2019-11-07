@@ -24346,6 +24346,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2542,
+    "projectUUID" : "206326A1-5F23-461B-AEA6-BEE84E5F20CF",
+    "name" : "US, New York—Index to Land Records, Grantors, 1630-1975 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 201,
+  "batchCount" : 96984,
+  "auditBatchCount" : 4608,
+  "imageCount" : 105886,
+  "blockedCount" : 12314,
+  "iesAuditBatchCount" : 1802,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 201,
+    "batchCount" : 36069,
+    "images" : 48807,
+    "recordCount" : 1988015
+  },
+  "exportStateCounts" : {
+    "accepted" : 34694,
+    "exported" : 657,
+    "failed" : 267,
+    "inProgress" : 625,
+    "audit" : 1819,
+    "blocked" : 12314,
+    "duplicate" : 4,
+    "ned" : 135,
+    "unreadable" : 0,
+    "notExported" : 111,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 09:36:43",
+  "name" : "US, New York—Index to Land Records, Grantors, 1630-1975 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3021,
     "projectUUID" : "0B70DE34-CAF2-4500-B2A3-266396F95B31",
     "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte B]",
