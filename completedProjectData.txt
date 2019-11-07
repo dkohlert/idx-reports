@@ -36260,6 +36260,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3564,
+    "projectUUID" : "D7D81632-D2C2-4E25-A4E8-EDA39200FECF",
+    "name" : "US, Georgia—County Voter Registrations, 1856–1909",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 55,
+  "batchCount" : 21079,
+  "auditBatchCount" : 1004,
+  "imageCount" : 32003,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 329,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 55,
+    "batchCount" : 20075,
+    "images" : 32003,
+    "recordCount" : 185025
+  },
+  "exportStateCounts" : {
+    "accepted" : 6518,
+    "exported" : 7,
+    "failed" : 19,
+    "inProgress" : 13442,
+    "audit" : 329,
+    "blocked" : 11924,
+    "duplicate" : 0,
+    "ned" : 37,
+    "unreadable" : 0,
+    "notExported" : 53,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 01:57:16",
+  "name" : "US, Georgia—County Voter Registrations, 1856–1909",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2639,
     "projectUUID" : "5073E3A9-DDBE-40B3-8126-B9D1085A2273",
     "name" : "Perú, Lima—Registros Civiles, 1917–1995 [Parte E]",
