@@ -39257,6 +39257,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3327,
+    "projectUUID" : "E484B655-6994-47CD-8548-CBB0DA39255F",
+    "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 417,
+  "batchCount" : 6170,
+  "auditBatchCount" : 283,
+  "imageCount" : 31418,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 283,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 417,
+    "batchCount" : 5887,
+    "images" : 31418,
+    "recordCount" : 9471
+  },
+  "exportStateCounts" : {
+    "accepted" : 6035,
+    "exported" : 102,
+    "failed" : 15,
+    "inProgress" : 21248,
+    "audit" : 1383,
+    "blocked" : 2840,
+    "duplicate" : 28,
+    "ned" : 1150,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 11:02:42",
+  "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3178,
     "projectUUID" : "C6084B9F-9ADA-4E75-9363-E2BC74999682",
     "name" : "US, Massachusetts, Boston—Voter Registers, 1857-1920",
