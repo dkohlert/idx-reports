@@ -18759,6 +18759,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3302,
+    "projectUUID" : "E8E69B79-6582-4DB2-8C9B-50D8131C7AE5",
+    "name" : "US, Kansas—Swedish Church Records, Vitals, 1861–1918",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 11,
+  "batchCount" : 328,
+  "auditBatchCount" : 17,
+  "imageCount" : 561,
+  "blockedCount" : 221,
+  "iesAuditBatchCount" : 17,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 11,
+    "batchCount" : 299,
+    "images" : 548,
+    "recordCount" : 2675
+  },
+  "exportStateCounts" : {
+    "accepted" : 10,
+    "exported" : 35,
+    "failed" : 97,
+    "inProgress" : 77,
+    "audit" : 23,
+    "blocked" : 221,
+    "duplicate" : 0,
+    "ned" : 32,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 76,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 00:36:49",
+  "name" : "US, Kansas—Swedish Church Records, Vitals, 1861–1918",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1221,
     "projectUUID" : "29D56342-EE62-4CCF-B5F1-0412E1B5BA3A",
     "name" : "Perú, Puno—Registros Civiles, Defunciones, 1890–2005 [Parte 1E]",
