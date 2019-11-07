@@ -30081,6 +30081,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3558,
+    "projectUUID" : "3B96211A-D0C3-4249-A78A-9EA86018EB61",
+    "name" : "US (Quick Batch), Louisiana, New Orleans—Passenger Index Cards, 1853–1952",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 54,
+  "batchCount" : 98297,
+  "auditBatchCount" : 4680,
+  "imageCount" : 451955,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 4652,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 54,
+    "batchCount" : 93617,
+    "images" : 451955,
+    "recordCount" : 189106
+  },
+  "exportStateCounts" : {
+    "accepted" : 187035,
+    "exported" : 190,
+    "failed" : 2494,
+    "inProgress" : 245492,
+    "audit" : 22038,
+    "blocked" : 8203,
+    "duplicate" : 395,
+    "ned" : 8103,
+    "unreadable" : 0,
+    "notExported" : 28,
+    "readyForExport" : 0,
+    "rejected" : 15,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 09:36:02",
+  "name" : "US (Quick Batch), Louisiana, New Orleans—Passenger Index Cards, 1853–1952",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3317,
     "projectUUID" : "A56B3DC8-6460-4EBA-A134-3A70B77B6D10",
     "name" : "US, New York, Western Regions—Index to Land Records, Grantee's, 1630-1975 [Part E]",
