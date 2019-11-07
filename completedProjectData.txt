@@ -4403,6 +4403,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3322,
+    "projectUUID" : "17C1D51B-28E3-4000-8C6A-79D06C4E503A",
+    "name" : "España, Archivo General Militar de Guadalajara—Expedientes Personales de Servicio de Soldados, 1835–1940 [Part I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 40,
+  "batchCount" : 40,
+  "auditBatchCount" : 0,
+  "imageCount" : 1183,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 40,
+    "batchCount" : 40,
+    "images" : 1183,
+    "recordCount" : 39
+  },
+  "exportStateCounts" : {
+    "accepted" : 39,
+    "exported" : 0,
+    "failed" : 6,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 945,
+    "duplicate" : 0,
+    "ned" : 193,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:52:08",
+  "name" : "España, Archivo General Militar de Guadalajara—Expedientes Personales de Servicio de Soldados, 1835–1940 [Part I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1656,
     "projectUUID" : "95625F3E-DF8F-442D-B3F6-B9735C6FEB44",
     "name" : "Colombia, Archdioceses of Manizales—Parish Records, 1797–2013 [Part F]",
