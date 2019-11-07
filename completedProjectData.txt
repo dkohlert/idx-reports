@@ -43845,6 +43845,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3576,
+    "projectUUID" : "D2552D14-4B98-4A91-A645-5E95025BC35F",
+    "name" : "US, Minnesota—Minnesota Historical Society, Death Records, 1899–2001 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 273,
+  "batchCount" : 57968,
+  "auditBatchCount" : 2756,
+  "imageCount" : 626978,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1652,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 273,
+    "batchCount" : 55212,
+    "images" : 626978,
+    "recordCount" : 126238
+  },
+  "exportStateCounts" : {
+    "accepted" : 126080,
+    "exported" : 85,
+    "failed" : 2339,
+    "inProgress" : 401533,
+    "audit" : 16254,
+    "blocked" : 81968,
+    "duplicate" : 13526,
+    "ned" : 1076,
+    "unreadable" : 0,
+    "notExported" : 471,
+    "readyForExport" : 0,
+    "rejected" : 7,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:37:28",
+  "name" : "US, Minnesota—Minnesota Historical Society, Death Records, 1899–2001 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1556,
     "projectUUID" : "0B455F4D-C54E-44C8-B272-5573E52AF630",
     "name" : "US, Maine—Naturalization Records, 1918–1991 [Part B]",
