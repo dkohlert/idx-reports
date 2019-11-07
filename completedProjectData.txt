@@ -31931,6 +31931,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3314,
+    "projectUUID" : "057C0AE6-12B5-45F9-8DAD-14AB0DF1529A",
+    "name" : "Italia (Antenati Italiani), Campobasso, Cercepiccola—Matrimoni, 1810–1910 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 8,
+  "batchCount" : 286,
+  "auditBatchCount" : 15,
+  "imageCount" : 13791,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 15,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 8,
+    "batchCount" : 271,
+    "images" : 13791,
+    "recordCount" : 1200
+  },
+  "exportStateCounts" : {
+    "accepted" : 637,
+    "exported" : 115,
+    "failed" : 0,
+    "inProgress" : 43,
+    "audit" : 57,
+    "blocked" : 12732,
+    "duplicate" : 36,
+    "ned" : 228,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:53:00",
+  "name" : "Italia (Antenati Italiani), Campobasso, Cercepiccola—Matrimoni, 1810–1910 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1098,
     "projectUUID" : "5F6141A4-2EA6-4982-A5A0-781C5B65D400",
     "name" : "Australia—Cemetery Inscriptions and Newspaper Clippings, 1802–2005 [Part B]",
