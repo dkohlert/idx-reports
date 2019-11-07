@@ -19277,6 +19277,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3315,
+    "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
+    "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 58,
+  "batchCount" : 30202,
+  "auditBatchCount" : 1435,
+  "imageCount" : 31934,
+  "blockedCount" : 2286,
+  "iesAuditBatchCount" : 432,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 58,
+    "batchCount" : 8636,
+    "images" : 10923,
+    "recordCount" : 342782
+  },
+  "exportStateCounts" : {
+    "accepted" : 6695,
+    "exported" : 6,
+    "failed" : 153,
+    "inProgress" : 1745,
+    "audit" : 432,
+    "blocked" : 2286,
+    "duplicate" : 0,
+    "ned" : 33,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 04:03:25",
+  "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2000,
     "projectUUID" : "4DD21C7D-4AA7-4CE3-B45C-D32AF5CC7EF2",
     "name" : "Peru, Lima, Registros Civiles— Nacimientos, 1917–1995 [Part 1V]",
