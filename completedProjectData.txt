@@ -24198,6 +24198,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2777,
+    "projectUUID" : "B97869D3-3399-4D8F-91C5-D7E0420BE03B",
+    "name" : "Sverige, Örebro—Kyrkoböcker, 1650–1860 [Del 10D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 77,
+  "batchCount" : 39600,
+  "auditBatchCount" : 1881,
+  "imageCount" : 56615,
+  "blockedCount" : 12130,
+  "iesAuditBatchCount" : 77,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 77,
+    "batchCount" : 3525,
+    "images" : 15655,
+    "recordCount" : 9918
+  },
+  "exportStateCounts" : {
+    "accepted" : 1061,
+    "exported" : 6,
+    "failed" : 24,
+    "inProgress" : 2430,
+    "audit" : 77,
+    "blocked" : 12130,
+    "duplicate" : 0,
+    "ned" : 4,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 21:12:23",
+  "name" : "Sverige, Örebro—Kyrkoböcker, 1650–1860 [Del 10D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1885,
     "projectUUID" : "692B07C0-09C9-4D23-A0BD-A66A0DDCC7C4",
     "name" : "US, Illinois—County Marriages 1810–1934 [Part F]",
