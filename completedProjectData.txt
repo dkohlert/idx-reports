@@ -28379,6 +28379,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3292,
+    "projectUUID" : "DE6EDF3C-1382-4CBD-8C3A-F3D506C2C8D0",
+    "name" : "Italy (Antenati Italiani), Genova—Civil Registration, 1866–1947 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 400,
+  "batchCount" : 10113,
+  "auditBatchCount" : 481,
+  "imageCount" : 189024,
+  "blockedCount" : 148850,
+  "iesAuditBatchCount" : 133,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 398,
+    "batchCount" : 9632,
+    "images" : 187063,
+    "recordCount" : 9290
+  },
+  "exportStateCounts" : {
+    "accepted" : 8627,
+    "exported" : 42,
+    "failed" : 64,
+    "inProgress" : 28832,
+    "audit" : 526,
+    "blocked" : 149944,
+    "duplicate" : 3,
+    "ned" : 615,
+    "unreadable" : 0,
+    "notExported" : 26,
+    "readyForExport" : 0,
+    "rejected" : 4,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 21:44:44",
+  "name" : "Italy (Antenati Italiani), Genova—Civil Registration, 1866–1947 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3484,
     "projectUUID" : "68890D31-A896-47F4-89FB-0A5E529FEA30",
     "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part A]",
