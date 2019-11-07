@@ -30451,6 +30451,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2798,
+    "projectUUID" : "62F09EDA-AC6A-48A9-AE83-91E3EF4C9AE0",
+    "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 110,
+  "batchCount" : 5374,
+  "auditBatchCount" : 255,
+  "imageCount" : 32656,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 255,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 110,
+    "batchCount" : 5119,
+    "images" : 32656,
+    "recordCount" : 32364
+  },
+  "exportStateCounts" : {
+    "accepted" : 15113,
+    "exported" : 679,
+    "failed" : 2,
+    "inProgress" : 5,
+    "audit" : 1033,
+    "blocked" : 12142,
+    "duplicate" : 107,
+    "ned" : 4486,
+    "unreadable" : 0,
+    "notExported" : 122,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:25:37",
+  "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3234,
     "projectUUID" : "B9CFF38B-4CB1-4D9D-B77D-AD8C2607DFA8",
     "name" : "US (Quick Batch), Ohio—World War I Index and Return Cards, 1906–1920 [Part B]",
