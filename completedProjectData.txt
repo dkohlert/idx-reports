@@ -29193,6 +29193,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3572,
+    "projectUUID" : "1EA4D6D4-B4A3-42AD-B99C-7CD593AC54C6",
+    "name" : "US, Louisiana—Parish Voter Registration Records, 1867–1905",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 13,
+  "batchCount" : 5973,
+  "auditBatchCount" : 285,
+  "imageCount" : 6722,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 285,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 13,
+    "batchCount" : 5688,
+    "images" : 6722,
+    "recordCount" : 141115
+  },
+  "exportStateCounts" : {
+    "accepted" : 5427,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 313,
+    "blocked" : 450,
+    "duplicate" : 17,
+    "ned" : 803,
+    "unreadable" : 0,
+    "notExported" : 17,
+    "readyForExport" : 0,
+    "rejected" : 8,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 04:30:14",
+  "name" : "US, Louisiana—Parish Voter Registration Records, 1867–1905",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3040,
     "projectUUID" : "23BDFEA8-E1E4-4C3F-B7F1-54AC362B4BAD",
     "name" : "US, Hawaii—Harbin File, Russian Immigrant Laborers Index A–Z, 1909–1910",
