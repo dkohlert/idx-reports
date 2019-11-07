@@ -41403,6 +41403,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2041,
+    "projectUUID" : "E694DCD6-3927-4A5B-BC66-0107012AE9C9",
+    "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part H]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 299,
+  "batchCount" : 861,
+  "auditBatchCount" : 24,
+  "imageCount" : 1014,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 24,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 299,
+    "batchCount" : 837,
+    "images" : 1014,
+    "recordCount" : 24324
+  },
+  "exportStateCounts" : {
+    "accepted" : 856,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 24,
+    "blocked" : 155,
+    "duplicate" : 0,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:40:05",
+  "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part H]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2404,
     "projectUUID" : "799DDBDB-A5A9-4B3A-914D-33D4B94F1EE0",
     "name" : "US, Georgia, Campbell County—Index to Births and Deaths, 1927–1931",
