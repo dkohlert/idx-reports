@@ -45066,6 +45066,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3574,
+    "projectUUID" : "59CB8485-A875-4461-92BD-2DFBACC82363",
+    "name" : "US, Washington—County Naturalization Records, 1850–1982 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 247,
+  "batchCount" : 5503,
+  "auditBatchCount" : 256,
+  "imageCount" : 57322,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 88,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 247,
+    "batchCount" : 5247,
+    "images" : 57322,
+    "recordCount" : 5753
+  },
+  "exportStateCounts" : {
+    "accepted" : 5560,
+    "exported" : 35,
+    "failed" : 545,
+    "inProgress" : 38750,
+    "audit" : 678,
+    "blocked" : 12204,
+    "duplicate" : 18,
+    "ned" : 330,
+    "unreadable" : 0,
+    "notExported" : 14,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:10:37",
+  "name" : "US, Washington—County Naturalization Records, 1850–1982 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1934,
     "projectUUID" : "D47CB283-3FA9-482B-8483-BE9B49561270",
     "name" : "US, Kentucky—Births, Marriages, and Deaths, 1636–1955 [Part A]",
