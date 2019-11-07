@@ -20905,6 +20905,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2037,
+    "projectUUID" : "DD6B7134-29B3-4C5E-BA41-19F975669EC9",
+    "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part U]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 60366,
+  "auditBatchCount" : 2869,
+  "imageCount" : 513157,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2869,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 57497,
+    "images" : 513157,
+    "recordCount" : 476757
+  },
+  "exportStateCounts" : {
+    "accepted" : 476102,
+    "exported" : 23,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 23755,
+    "blocked" : 36545,
+    "duplicate" : 204,
+    "ned" : 283,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 09:46:05",
+  "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part U]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2124,
     "projectUUID" : "1676BB0F-CCFF-4173-8437-6AB28ABB8FD4",
     "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part G]",
