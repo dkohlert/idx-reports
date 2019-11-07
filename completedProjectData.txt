@@ -4218,6 +4218,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3291,
+    "projectUUID" : "F4C3EAC4-161C-4C1D-95C9-8000C7FB5A4A",
+    "name" : "Guatemala (Quick Batch)—Civil Registration, 1885–2009 [Parte G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 42,
+  "batchCount" : 3916,
+  "auditBatchCount" : 190,
+  "imageCount" : 15532,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 190,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 42,
+    "batchCount" : 3726,
+    "images" : 15532,
+    "recordCount" : 3253
+  },
+  "exportStateCounts" : {
+    "accepted" : 2379,
+    "exported" : 48,
+    "failed" : 16,
+    "inProgress" : 9352,
+    "audit" : 759,
+    "blocked" : 690,
+    "duplicate" : 81,
+    "ned" : 2947,
+    "unreadable" : 0,
+    "notExported" : 13,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 21:18:30",
+  "name" : "Guatemala (Quick Batch)—Civil Registration, 1885–2009 [Parte G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2065,
     "projectUUID" : "93085D77-8AFF-4374-B57C-46FF4E3CCC99",
     "name" : "Österreich, Wien—Meldezettel, 1850-1928 [Teil 4]",
