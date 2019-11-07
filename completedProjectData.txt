@@ -777,6 +777,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3542,
+    "projectUUID" : "D08C8E01-B340-4EA6-9B9E-A7C7A1C390B9",
+    "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 15123,
+  "auditBatchCount" : 712,
+  "imageCount" : 216032,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 374,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 14411,
+    "images" : 216032,
+    "recordCount" : 11118
+  },
+  "exportStateCounts" : {
+    "accepted" : 10979,
+    "exported" : 19,
+    "failed" : 523,
+    "inProgress" : 123328,
+    "audit" : 3721,
+    "blocked" : 76675,
+    "duplicate" : 428,
+    "ned" : 4069,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 19:40:30",
+  "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1671,
     "projectUUID" : "52E16DC9-6D7D-42FB-8276-3FB3D33660C4",
     "name" : "Italia (Antenati Italiani), Pescara—Stato Civile, 1809–1865 [Parte D]",
