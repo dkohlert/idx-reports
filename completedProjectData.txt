@@ -40293,6 +40293,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3581,
+    "projectUUID" : "2D26BCFE-FC0A-4F68-BC08-2EA8D42CB081",
+    "name" : "US, Mississippi—County Voter Registration Records, 1912–1967",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 5,
+  "batchCount" : 1257,
+  "auditBatchCount" : 60,
+  "imageCount" : 4347,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 60,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 1197,
+    "images" : 4347,
+    "recordCount" : 37833
+  },
+  "exportStateCounts" : {
+    "accepted" : 1189,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 60,
+    "blocked" : 3150,
+    "duplicate" : 0,
+    "ned" : 5,
+    "unreadable" : 0,
+    "notExported" : 1,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:59:44",
+  "name" : "US, Mississippi—County Voter Registration Records, 1912–1967",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 3103,
     "projectUUID" : "E1FC3E1C-BFCE-4AAE-9BCF-B62449E29F31",
     "name" : "US, Iowa—World War I Draft Registration Cards, 1917–1918 [Part A]",
