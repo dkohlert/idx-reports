@@ -20868,6 +20868,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3027,
+    "projectUUID" : "5E3C7C75-7E83-48C6-A2FF-6FFAD477FCF5",
+    "name" : "Italia (Antenati Italiani), Campobasso—Stato Civile, 1809–1911 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 300,
+  "batchCount" : 85700,
+  "auditBatchCount" : 4082,
+  "imageCount" : 413643,
+  "blockedCount" : 66374,
+  "iesAuditBatchCount" : 199,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 3999,
+    "images" : 85888,
+    "recordCount" : 16040
+  },
+  "exportStateCounts" : {
+    "accepted" : 8094,
+    "exported" : 29,
+    "failed" : 264,
+    "inProgress" : 7990,
+    "audit" : 973,
+    "blocked" : 66374,
+    "duplicate" : 781,
+    "ned" : 2346,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 17:12:50",
+  "name" : "Italia (Antenati Italiani), Campobasso—Stato Civile, 1809–1911 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3149,
     "projectUUID" : "D232F31C-3F11-470B-8E2E-93649CE70A76",
     "name" : "UK, England, Herefordshire—Bishop's Transcripts, 1754–1898",
