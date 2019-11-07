@@ -5550,6 +5550,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2527,
+    "projectUUID" : "9B450489-1ACF-4CFB-908B-0FFBDAE0B9B5",
+    "name" : "US, Pennsylvania—Marriage Records, 1750–1990 [Part G]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 29,
+  "batchCount" : 1344,
+  "auditBatchCount" : 61,
+  "imageCount" : 12489,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 61,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 29,
+    "batchCount" : 1283,
+    "images" : 12489,
+    "recordCount" : 23662
+  },
+  "exportStateCounts" : {
+    "accepted" : 10735,
+    "exported" : 97,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 515,
+    "blocked" : 1472,
+    "duplicate" : 33,
+    "ned" : 152,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 22:27:01",
+  "name" : "US, Pennsylvania—Marriage Records, 1750–1990 [Part G]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 1793,
     "projectUUID" : "8F6C3792-C11C-4C70-B3BB-33D2FA0BA8A5",
     "name" : "US, Virginia, Fluvanna County—Colbert Funeral Home Records, 1929–1976",
