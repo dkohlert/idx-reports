@@ -41736,6 +41736,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2269,
+    "projectUUID" : "33F466D7-628B-4029-8452-536968F7197F",
+    "name" : "Brasil (Lote Rápido), Sao Paulo—Matrimonios, 1907–1995 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 48259,
+  "auditBatchCount" : 2292,
+  "imageCount" : 47962,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2292,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 45967,
+    "images" : 47962,
+    "recordCount" : 45810
+  },
+  "exportStateCounts" : {
+    "accepted" : 45481,
+    "exported" : 55,
+    "failed" : 15,
+    "inProgress" : 0,
+    "audit" : 2292,
+    "blocked" : 1979,
+    "duplicate" : 0,
+    "ned" : 432,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 22:13:54",
+  "name" : "Brasil (Lote Rápido), Sao Paulo—Matrimonios, 1907–1995 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2129,
     "projectUUID" : "447112D0-9044-4D2C-AE1E-33A45315E4F4",
     "name" : "Sverige, Östergötland—Kyrkböcker fram till 1860 [Del B]",
