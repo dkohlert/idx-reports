@@ -30599,6 +30599,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 2546,
+    "projectUUID" : "9549B3C4-19B4-4066-9A47-2391C4100E7D",
+    "name" : "Nicaragua—Registro Civil, Nacimientos, 1809-2013 [Parte I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 10606,
+  "auditBatchCount" : 494,
+  "imageCount" : 51806,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 493,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 10112,
+    "images" : 51806,
+    "recordCount" : 40694
+  },
+  "exportStateCounts" : {
+    "accepted" : 25506,
+    "exported" : 85,
+    "failed" : 45,
+    "inProgress" : 23020,
+    "audit" : 2442,
+    "blocked" : 1600,
+    "duplicate" : 350,
+    "ned" : 1008,
+    "unreadable" : 0,
+    "notExported" : 192,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:50:23",
+  "name" : "Nicaragua—Registro Civil, Nacimientos, 1809-2013 [Parte I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3234,
     "projectUUID" : "B9CFF38B-4CB1-4D9D-B77D-AD8C2607DFA8",
     "name" : "US (Quick Batch), Ohio—World War I Index and Return Cards, 1906–1920 [Part B]",
