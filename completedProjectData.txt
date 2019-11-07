@@ -25715,6 +25715,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3557,
+    "projectUUID" : "E4AAB7AD-3B9E-4CF3-BE7F-0E61D2FB729F",
+    "name" : "Congo—1984 Census [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 253376,
+  "auditBatchCount" : 12063,
+  "imageCount" : 497595,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 41,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 241313,
+    "images" : 497595,
+    "recordCount" : 2445
+  },
+  "exportStateCounts" : {
+    "accepted" : 472,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 481240,
+    "audit" : 82,
+    "blocked" : 15870,
+    "duplicate" : 4,
+    "ned" : 5,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 00:35:50",
+  "name" : "Congo—1984 Census [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2998,
     "projectUUID" : "71B9771A-B346-4203-875B-E700AABACFA4",
     "name" : "Deutschland, Westfalen, Minden—Volkszählungen, 1880–1902 [Teil 3]",
