@@ -39479,6 +39479,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3544,
+    "projectUUID" : "425A2606-18F6-4FAD-9096-40E48714947C",
+    "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part Y]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2799,
+  "batchCount" : 5116,
+  "auditBatchCount" : 107,
+  "imageCount" : 7822,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 107,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2799,
+    "batchCount" : 5009,
+    "images" : 7822,
+    "recordCount" : 144222
+  },
+  "exportStateCounts" : {
+    "accepted" : 5621,
+    "exported" : 9,
+    "failed" : 2,
+    "inProgress" : 11,
+    "audit" : 137,
+    "blocked" : 1035,
+    "duplicate" : 9,
+    "ned" : 1126,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 21:08:57",
+  "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part Y]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1763,
     "projectUUID" : "CC30DF64-3277-4726-960E-2C9254570877",
     "name" : "US, Georgia, Houston County—Probate Court, Probate Records, 1827–1958",
