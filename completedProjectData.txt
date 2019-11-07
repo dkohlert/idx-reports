@@ -24050,6 +24050,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1781,
+    "projectUUID" : "B0381EEE-56AE-472C-BCB1-F27BE9DEEA1C",
+    "name" : "Deutschland, Sachsen – Kirchenbuchverzeichnisse, 1600–1900",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 36,
+  "batchCount" : 34059,
+  "auditBatchCount" : 1622,
+  "imageCount" : 173542,
+  "blockedCount" : 11596,
+  "iesAuditBatchCount" : 450,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 36,
+    "batchCount" : 9522,
+    "images" : 59153,
+    "recordCount" : 22096
+  },
+  "exportStateCounts" : {
+    "accepted" : 12469,
+    "exported" : 300,
+    "failed" : 7426,
+    "inProgress" : 25772,
+    "audit" : 2245,
+    "blocked" : 11596,
+    "duplicate" : 317,
+    "ned" : 1263,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 04:56:11",
+  "name" : "Deutschland, Sachsen – Kirchenbuchverzeichnisse, 1600–1900",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2813,
     "projectUUID" : "30C3E044-EF09-4572-8880-FB2E432E59AC",
     "name" : "UK, Essex—Parish Registers, 1754–1900 [Part C]",
