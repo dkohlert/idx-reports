@@ -17094,6 +17094,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3578,
+    "projectUUID" : "A202C190-4894-44F4-B65D-DBB98BABED14",
+    "name" : "US, Alabama—1947 Deaths",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 242,
+  "auditBatchCount" : 11,
+  "imageCount" : 2308,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 11,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 231,
+    "images" : 2308,
+    "recordCount" : 2301
+  },
+  "exportStateCounts" : {
+    "accepted" : 2289,
+    "exported" : 10,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 110,
+    "blocked" : 7,
+    "duplicate" : 2,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:52:43",
+  "name" : "US, Alabama—1947 Deaths",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 2146,
     "projectUUID" : "A6148C24-A5FF-498F-B9BA-EABDBC995DBF",
     "name" : "Italia (Antenati Italiani), Bergamo—Nati, 1875–1900 [Parte 7J]",
