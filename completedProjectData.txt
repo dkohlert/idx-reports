@@ -38443,6 +38443,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2292,
+    "projectUUID" : "834A940F-1D0C-43C4-9E77-75D11307DA13",
+    "name" : "Italia (Antenati Italiani), Chieti—Stato Civile, 1875–1930 [Parte A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 158,
+  "batchCount" : 24030,
+  "auditBatchCount" : 1141,
+  "imageCount" : 164953,
+  "blockedCount" : 50472,
+  "iesAuditBatchCount" : 219,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 158,
+    "batchCount" : 4522,
+    "images" : 73019,
+    "recordCount" : 1775
+  },
+  "exportStateCounts" : {
+    "accepted" : 1275,
+    "exported" : 78,
+    "failed" : 1286,
+    "inProgress" : 10644,
+    "audit" : 1091,
+    "blocked" : 50472,
+    "duplicate" : 403,
+    "ned" : 8857,
+    "unreadable" : 0,
+    "notExported" : 4,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 04:18:38",
+  "name" : "Italia (Antenati Italiani), Chieti—Stato Civile, 1875–1930 [Parte A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2882,
     "projectUUID" : "71200538-E280-4F50-8D6F-CF1C55AD9794",
     "name" : "US, Ohio, Columbus—Union Cemetery Association, Burial Records, 1878–1980",
