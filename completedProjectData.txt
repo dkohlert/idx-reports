@@ -17242,6 +17242,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3540,
+    "projectUUID" : "E983F22E-F1FF-4796-A4BA-890DE6A17B2A",
+    "name" : "US, Alabama—County Birth Registers, 1881–1930",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 99,
+  "batchCount" : 18660,
+  "auditBatchCount" : 892,
+  "imageCount" : 97564,
+  "blockedCount" : 41509,
+  "iesAuditBatchCount" : 892,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 17768,
+    "images" : 96586,
+    "recordCount" : 341395
+  },
+  "exportStateCounts" : {
+    "accepted" : 47410,
+    "exported" : 94,
+    "failed" : 33,
+    "inProgress" : 175,
+    "audit" : 2784,
+    "blocked" : 41509,
+    "duplicate" : 210,
+    "ned" : 6917,
+    "unreadable" : 0,
+    "notExported" : 174,
+    "readyForExport" : 0,
+    "rejected" : 64,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 17:58:07",
+  "name" : "US, Alabama—County Birth Registers, 1881–1930",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2559,
     "projectUUID" : "7A20808C-B204-41C6-A3A4-AFE0FF8E0956",
     "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1W]",
