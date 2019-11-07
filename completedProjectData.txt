@@ -8806,6 +8806,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3295,
+    "projectUUID" : "70E1A311-7BBC-4D75-B9D3-0C35E857FEBE",
+    "name" : "Peru, Lima—Civil Registration, 1917–1995 [Part J]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 303,
+  "batchCount" : 18723,
+  "auditBatchCount" : 883,
+  "imageCount" : 76974,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 883,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 303,
+    "batchCount" : 17840,
+    "images" : 76974,
+    "recordCount" : 45117
+  },
+  "exportStateCounts" : {
+    "accepted" : 43196,
+    "exported" : 1235,
+    "failed" : 0,
+    "inProgress" : 25211,
+    "audit" : 3505,
+    "blocked" : 6197,
+    "duplicate" : 48,
+    "ned" : 847,
+    "unreadable" : 0,
+    "notExported" : 191,
+    "readyForExport" : 0,
+    "rejected" : 49,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 22:37:12",
+  "name" : "Peru, Lima—Civil Registration, 1917–1995 [Part J]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2207,
     "projectUUID" : "93B81F66-3E82-4286-9DF4-0BDD9604C602",
     "name" : "South Africa—Dutch Reformed Church in Africa, Baptism and Membership Records, 1838–1991 [Part B]",
