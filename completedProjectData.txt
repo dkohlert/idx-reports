@@ -1480,6 +1480,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2297,
+    "projectUUID" : "5D948EB9-20D5-4570-B298-2679CB2D1126",
+    "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 3,
+  "batchCount" : 1659,
+  "auditBatchCount" : 79,
+  "imageCount" : 1628,
+  "blockedCount" : 47,
+  "iesAuditBatchCount" : 22,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3,
+    "batchCount" : 421,
+    "images" : 469,
+    "recordCount" : 6015
+  },
+  "exportStateCounts" : {
+    "accepted" : 280,
+    "exported" : 0,
+    "failed" : 48,
+    "inProgress" : 68,
+    "audit" : 22,
+    "blocked" : 47,
+    "duplicate" : 0,
+    "ned" : 26,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:49:40",
+  "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1989,
     "projectUUID" : "F4A7F975-BB43-4025-8326-AFF00B5E13C2",
     "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
