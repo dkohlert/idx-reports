@@ -26788,6 +26788,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1767,
+    "projectUUID" : "DE999DD7-DC33-42E1-B58B-AEFD985F8DB6",
+    "name" : "Guatemala—Civil Registration, 1885–2009 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 12510,
+  "auditBatchCount" : 591,
+  "imageCount" : 71592,
+  "blockedCount" : 4604,
+  "iesAuditBatchCount" : 591,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 11918,
+    "images" : 71587,
+    "recordCount" : 61727
+  },
+  "exportStateCounts" : {
+    "accepted" : 34140,
+    "exported" : 4707,
+    "failed" : 45,
+    "inProgress" : 20912,
+    "audit" : 3323,
+    "blocked" : 4604,
+    "duplicate" : 362,
+    "ned" : 6700,
+    "unreadable" : 0,
+    "notExported" : 92,
+    "readyForExport" : 0,
+    "rejected" : 25,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 01:32:37",
+  "name" : "Guatemala—Civil Registration, 1885–2009 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2834,
     "projectUUID" : "26F34D99-9913-435B-A2EC-EFC232470153",
     "name" : "US, Hawaii—Passport Records, 1874–1898",
