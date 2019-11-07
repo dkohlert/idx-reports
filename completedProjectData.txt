@@ -25863,6 +25863,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2273,
+    "projectUUID" : "488A502B-3D4D-4B2C-BB65-9B53B23BE6F4",
+    "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 99,
+  "batchCount" : 52107,
+  "auditBatchCount" : 2473,
+  "imageCount" : 62432,
+  "blockedCount" : 10276,
+  "iesAuditBatchCount" : 45,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 1005,
+    "images" : 11293,
+    "recordCount" : 4141
+  },
+  "exportStateCounts" : {
+    "accepted" : 872,
+    "exported" : 23,
+    "failed" : 70,
+    "inProgress" : 20,
+    "audit" : 45,
+    "blocked" : 10276,
+    "duplicate" : 1,
+    "ned" : 24,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 22:48:49",
+  "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1926,
     "projectUUID" : "6103950A-A6A4-4251-8D0B-37FEFACB9FCA",
     "name" : "Chile—Cementerio General de Santiago, Registros de cementerios, 1929–2009 [Parte L]",
