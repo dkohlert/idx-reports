@@ -14578,6 +14578,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3567,
+    "projectUUID" : "F3E20563-1C46-495B-B160-697D0445FFEA",
+    "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 163,
+  "batchCount" : 13468,
+  "auditBatchCount" : 637,
+  "imageCount" : 111359,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 113,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 163,
+    "batchCount" : 12831,
+    "images" : 111359,
+    "recordCount" : 100
+  },
+  "exportStateCounts" : {
+    "accepted" : 100,
+    "exported" : 0,
+    "failed" : 170,
+    "inProgress" : 62805,
+    "audit" : 562,
+    "blocked" : 48049,
+    "duplicate" : 80,
+    "ned" : 155,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 03:28:55",
+  "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1755,
     "projectUUID" : "0C626197-5AB5-42FC-B15E-9B63A2422FAA",
     "name" : "US, Montana, Flathead County—Births, 1881–1942",
