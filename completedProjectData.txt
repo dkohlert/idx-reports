@@ -1924,6 +1924,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2556,
+    "projectUUID" : "25A42F83-78E7-4EEF-BC40-CA8B979BA5C5",
+    "name" : "UK, Scotland—Church of Scotland Synods, Presbyteries, and Kirk Sessions, 1658–1919 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 4,
+  "batchCount" : 112,
+  "auditBatchCount" : 7,
+  "imageCount" : 390,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 7,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 4,
+    "batchCount" : 105,
+    "images" : 390,
+    "recordCount" : 336
+  },
+  "exportStateCounts" : {
+    "accepted" : 37,
+    "exported" : 0,
+    "failed" : 2,
+    "inProgress" : 6,
+    "audit" : 11,
+    "blocked" : 240,
+    "duplicate" : 0,
+    "ned" : 105,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 07:53:43",
+  "name" : "UK, Scotland—Church of Scotland Synods, Presbyteries, and Kirk Sessions, 1658–1919 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3465,
     "projectUUID" : "42C20001-C0C2-4609-9C60-412431FC19B1",
     "name" : "US, Alabama—World War I Draft Registration Cards, 1917–1918 [Part E]",
