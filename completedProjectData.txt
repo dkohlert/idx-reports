@@ -14615,6 +14615,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2282,
+    "projectUUID" : "4FA5B441-A93C-4764-B5EF-E105A84562EC",
+    "name" : "Suisse, Fribourg, Recensement de 1850",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 7,
+  "batchCount" : 2265,
+  "auditBatchCount" : 108,
+  "imageCount" : 2968,
+  "blockedCount" : 809,
+  "iesAuditBatchCount" : 46,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 7,
+    "batchCount" : 944,
+    "images" : 1754,
+    "recordCount" : 8660
+  },
+  "exportStateCounts" : {
+    "accepted" : 305,
+    "exported" : 14,
+    "failed" : 173,
+    "inProgress" : 429,
+    "audit" : 46,
+    "blocked" : 809,
+    "duplicate" : 0,
+    "ned" : 24,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 01:42:34",
+  "name" : "Suisse, Fribourg, Recensement de 1850",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1795,
     "projectUUID" : "578E084A-6E79-4913-8831-EE3495E16960",
     "name" : "US, Nevada—County Marriage Records, 1750–1990 [Part D]",
