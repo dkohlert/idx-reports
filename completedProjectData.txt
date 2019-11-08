@@ -22417,7 +22417,7 @@
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-08 13:33:24",
+  "dateTimeFetched" : "2019-11-08 13:37:37",
   "name" : "US, Massachusetts, Boston—Crew Lists, 1917–1943 [Part B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
