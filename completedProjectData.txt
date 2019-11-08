@@ -42254,6 +42254,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2430,
+    "projectUUID" : "FA6F013D-0E8F-46A5-A6DE-B33780CD0B49",
+    "name" : "Brasil  (Lote Rápido), São Paulo—Registro Civil, Casamentos, 1907–1995 [Parte F]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 842,
+  "batchCount" : 156829,
+  "auditBatchCount" : 7459,
+  "imageCount" : 169560,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 7459,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 842,
+    "batchCount" : 149370,
+    "images" : 169560,
+    "recordCount" : 166730
+  },
+  "exportStateCounts" : {
+    "accepted" : 164255,
+    "exported" : 230,
+    "failed" : 1,
+    "inProgress" : 0,
+    "audit" : 8225,
+    "blocked" : 4326,
+    "duplicate" : 18,
+    "ned" : 381,
+    "unreadable" : 0,
+    "notExported" : 349,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-08 10:43:48",
+  "name" : "Brasil  (Lote Rápido), São Paulo—Registro Civil, Casamentos, 1907–1995 [Parte F]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 2522,
     "projectUUID" : "6648F01E-6771-40C7-B8C9-89D26A74C197",
     "name" : "US—Revolutionary War Rolls, 1775–1783 [Part D]",
