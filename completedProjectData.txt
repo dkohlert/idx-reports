@@ -40922,6 +40922,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1198,
+    "projectUUID" : "B129E7C4-D42B-43DD-96E4-FD69246E1430",
+    "name" : "US, Oklahoma—School Records, 1895–1960 [Part H]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 66,
+  "batchCount" : 33955,
+  "auditBatchCount" : 1618,
+  "imageCount" : 166427,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1618,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 66,
+    "batchCount" : 32337,
+    "images" : 166427,
+    "recordCount" : 492803
+  },
+  "exportStateCounts" : {
+    "accepted" : 121946,
+    "exported" : 1495,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 6327,
+    "blocked" : 51262,
+    "duplicate" : 1985,
+    "ned" : 913,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 18:14:20",
+  "name" : "US, Oklahoma—School Records, 1895–1960 [Part H]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 1778,
     "projectUUID" : "EFFD4586-80FE-4493-A0CA-CE4CB3B119B9",
     "name" : "Australia, South Australia, Passenger Lists, 1849–1940 [Part E]",
