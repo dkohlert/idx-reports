@@ -12987,6 +12987,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3358,
+    "projectUUID" : "045BCD69-5E98-4844-93EF-3614529BBB84",
+    "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 52,
+  "batchCount" : 10461,
+  "auditBatchCount" : 496,
+  "imageCount" : 11110,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 496,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 52,
+    "batchCount" : 9965,
+    "images" : 11110,
+    "recordCount" : 124751
+  },
+  "exportStateCounts" : {
+    "accepted" : 10125,
+    "exported" : 20,
+    "failed" : 4,
+    "inProgress" : 3,
+    "audit" : 514,
+    "blocked" : 810,
+    "duplicate" : 0,
+    "ned" : 137,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 9,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-08 10:48:00",
+  "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3143,
     "projectUUID" : "100C0D29-CDEB-4F9F-8485-16AD862B51F3",
     "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part S]",
