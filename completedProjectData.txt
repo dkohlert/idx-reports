@@ -4699,43 +4699,6 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 3528,
-    "projectUUID" : "B59CB039-0F55-404F-85EE-37C95A1BBB8B",
-    "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part M]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 117,
-  "batchCount" : 19846,
-  "auditBatchCount" : 941,
-  "imageCount" : 205276,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 224,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 117,
-    "batchCount" : 18905,
-    "images" : 205276,
-    "recordCount" : 10207
-  },
-  "exportStateCounts" : {
-    "accepted" : 9921,
-    "exported" : 13,
-    "failed" : 543,
-    "inProgress" : 165786,
-    "audit" : 2212,
-    "blocked" : 19802,
-    "duplicate" : 7411,
-    "ned" : 1792,
-    "unreadable" : 0,
-    "notExported" : 7,
-    "readyForExport" : 0,
-    "rejected" : 1,
-    "published" : 0
-  },
-  "dateTimeFetched" : "2019-11-06 03:36:54",
-  "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part M]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 2648,
     "projectUUID" : "EC588664-841B-4743-B182-8ADBE2C32393",
     "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007 [Part B]",
@@ -4771,6 +4734,43 @@
   "dateTimeFetched" : "",
   "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007 [Part B]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3528,
+    "projectUUID" : "B59CB039-0F55-404F-85EE-37C95A1BBB8B",
+    "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part M]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 117,
+  "batchCount" : 19846,
+  "auditBatchCount" : 941,
+  "imageCount" : 205276,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 224,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 117,
+    "batchCount" : 18905,
+    "images" : 205276,
+    "recordCount" : 10207
+  },
+  "exportStateCounts" : {
+    "accepted" : 9921,
+    "exported" : 13,
+    "failed" : 543,
+    "inProgress" : 165786,
+    "audit" : 2212,
+    "blocked" : 19802,
+    "duplicate" : 7411,
+    "ned" : 1792,
+    "unreadable" : 0,
+    "notExported" : 7,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-06 03:36:54",
+  "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part M]",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3160,
@@ -6805,6 +6805,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part Q]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 542,
+    "projectUUID" : "189CD9E0-1627-47B0-A211-4096680262D5",
+    "name" : "US, Massachusetts Boston—Crew Lists, 1917–1943 [Part 2A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 99,
+  "batchCount" : 52503,
+  "auditBatchCount" : 2499,
+  "imageCount" : 88076,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2499,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 50004,
+    "images" : 88076,
+    "recordCount" : 724738
+  },
+  "exportStateCounts" : {
+    "accepted" : 38376,
+    "exported" : 3990,
+    "failed" : 25,
+    "inProgress" : 0,
+    "audit" : 2502,
+    "blocked" : 38025,
+    "duplicate" : 0,
+    "ned" : 7661,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-08 10:29:15",
+  "name" : "US, Massachusetts Boston—Crew Lists, 1917–1943 [Part 2A]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
