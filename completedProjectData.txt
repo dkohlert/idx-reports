@@ -47064,6 +47064,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3332,
+    "projectUUID" : "F1E538F6-7FFC-4F0E-BEA7-84A922F8CDAF",
+    "name" : "Peru, Diocese of Huaraz—Parish Records, 1641–2016 [Part H]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 186,
+  "batchCount" : 5038,
+  "auditBatchCount" : 231,
+  "imageCount" : 84683,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 231,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 186,
+    "batchCount" : 4807,
+    "images" : 84683,
+    "recordCount" : 23527
+  },
+  "exportStateCounts" : {
+    "accepted" : 15003,
+    "exported" : 773,
+    "failed" : 3,
+    "inProgress" : 25,
+    "audit" : 835,
+    "blocked" : 67071,
+    "duplicate" : 113,
+    "ned" : 1642,
+    "unreadable" : 0,
+    "notExported" : 40,
+    "readyForExport" : 0,
+    "rejected" : 13,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-07 18:16:40",
+  "name" : "Peru, Diocese of Huaraz—Parish Records, 1641–2016 [Part H]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3523,
     "projectUUID" : "5B8A6A52-4277-4FA7-A1AF-8E471A09973C",
     "name" : "US, Montana—County Naturalizations, 1867–1957",
