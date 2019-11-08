@@ -22385,6 +22385,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1670,
+    "projectUUID" : "E0886281-CFDD-47AC-9800-377A43B7620D",
+    "name" : "US, Massachusetts, Boston—Crew Lists, 1917–1943 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 100,
+  "batchCount" : 47154,
+  "auditBatchCount" : 2246,
+  "imageCount" : 89020,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2246,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 100,
+    "batchCount" : 44908,
+    "images" : 89020,
+    "recordCount" : 728463
+  },
+  "exportStateCounts" : {
+    "accepted" : 41731,
+    "exported" : 326,
+    "failed" : 3,
+    "inProgress" : 0,
+    "audit" : 2437,
+    "blocked" : 40364,
+    "duplicate" : 27,
+    "ned" : 6317,
+    "unreadable" : 0,
+    "notExported" : 252,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-08 13:33:24",
+  "name" : "US, Massachusetts, Boston—Crew Lists, 1917–1943 [Part B]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 3430,
     "projectUUID" : "7A536A0D-D492-4139-93B8-F037ECD00274",
     "name" : "Spain, Gerona—1915–1925 Electoral Census",
