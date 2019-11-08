@@ -18722,6 +18722,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3455,
+    "projectUUID" : "D3C46006-1824-46EE-BD17-8A503C1502D6",
+    "name" : "United States—Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 474,
+  "batchCount" : 714307,
+  "auditBatchCount" : 34002,
+  "imageCount" : 848241,
+  "blockedCount" : 167593,
+  "iesAuditBatchCount" : 4889,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 474,
+    "batchCount" : 680305,
+    "images" : 847995,
+    "recordCount" : 1078813
+  },
+  "exportStateCounts" : {
+    "accepted" : 30027,
+    "exported" : 0,
+    "failed" : 551,
+    "inProgress" : 587341,
+    "audit" : 4889,
+    "blocked" : 167593,
+    "duplicate" : 0,
+    "ned" : 1061,
+    "unreadable" : 0,
+    "notExported" : 61388,
+    "readyForExport" : 0,
+    "rejected" : 34,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-08 12:37:18",
+  "name" : "United States—Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1972,
     "projectUUID" : "8A7EFB10-CF0A-4722-B36A-F44BF1F7AE5D",
     "name" : "US, Washington, Pierce County—Marriage Returns, 1891–1938",
