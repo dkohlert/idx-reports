@@ -667,7 +667,7 @@
 }, {
   "project" : {
     "projectId" : 3713,
-    "projectUUID" : "9f3c1910-e253-4a4c-934e-48b588256ee2",
+    "projectUUID" : "9F3C1910-E253-4A4C-934E-48B588256EE2",
     "name" : "US, Georgia, Columbus—Linwood and Porterdale Colored Cemeteries, Interment Records, 1866–2000",
     "state" : "ACTIVE"
   },
@@ -815,7 +815,7 @@
 }, {
   "project" : {
     "projectId" : 3542,
-    "projectUUID" : "d08c8e01-b340-4ea6-9b9e-a7c7a1c390b9",
+    "projectUUID" : "D08C8E01-B340-4EA6-9B9E-A7C7A1C390B9",
     "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part B]",
     "state" : "ACTIVE"
   },
@@ -852,7 +852,7 @@
 }, {
   "project" : {
     "projectId" : 1671,
-    "projectUUID" : "52e16dc9-6d7d-42fb-8276-3fb3d33660c4",
+    "projectUUID" : "52E16DC9-6D7D-42FB-8276-3FB3D33660C4",
     "name" : "Italia (Antenati Italiani), Pescara—Stato Civile, 1809–1865 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -860,7 +860,7 @@
   "batchCount" : 46288,
   "auditBatchCount" : 2194,
   "imageCount" : 256566,
-  "blockedCount" : 0,
+  "blockedCount" : 37181,
   "iesAuditBatchCount" : 543,
   "iesCountsNoAudit" : {
     "imagesetCount" : 218,
@@ -1000,7 +1000,7 @@
 }, {
   "project" : {
     "projectId" : 3633,
-    "projectUUID" : "1b1346d9-0029-4e89-8634-fdc53820ee26",
+    "projectUUID" : "1B1346D9-0029-4E89-8634-FDC53820EE26",
     "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900",
     "state" : "ACTIVE"
   },
@@ -1222,7 +1222,7 @@
 }, {
   "project" : {
     "projectId" : 3287,
-    "projectUUID" : "059bf999-055a-4214-be73-8f173d116839",
+    "projectUUID" : "059BF999-055A-4214-BE73-8F173D116839",
     "name" : "US, Missouri, St. Louis—Military Records, 1916–1939",
     "state" : "ACTIVE"
   },
@@ -1370,7 +1370,7 @@
 }, {
   "project" : {
     "projectId" : 2645,
-    "projectUUID" : "f9edec79-0327-4228-a8df-034659ab3002",
+    "projectUUID" : "F9EDEC79-0327-4228-A8DF-034659AB3002",
     "name" : "Costa Rica—Registros Civiles, Nacimientos, 1888–1931 [Parte C]",
     "state" : "ACTIVE"
   },
@@ -1555,7 +1555,7 @@
 }, {
   "project" : {
     "projectId" : 2297,
-    "projectUUID" : "5d948eb9-20d5-4570-b298-2679cb2d1126",
+    "projectUUID" : "5D948EB9-20D5-4570-B298-2679CB2D1126",
     "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
     "state" : "ACTIVE"
   },
@@ -1563,7 +1563,7 @@
   "batchCount" : 1659,
   "auditBatchCount" : 79,
   "imageCount" : 1628,
-  "blockedCount" : 0,
+  "blockedCount" : 47,
   "iesAuditBatchCount" : 22,
   "iesCountsNoAudit" : {
     "imagesetCount" : 3,
@@ -1629,7 +1629,7 @@
 }, {
   "project" : {
     "projectId" : 2099,
-    "projectUUID" : "bdcaf64d-3cc0-489a-9127-b071e64f5691",
+    "projectUUID" : "BDCAF64D-3CC0-489A-9127-B071E64F5691",
     "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
     "state" : "ACTIVE"
   },
@@ -1666,7 +1666,7 @@
 }, {
   "project" : {
     "projectId" : 2655,
-    "projectUUID" : "73e9b957-bbab-4022-9cb2-94e62552eefa",
+    "projectUUID" : "73E9B957-BBAB-4022-9CB2-94E62552EEFA",
     "name" : "España, Lugo—Registros Parroquiales 1530–1930 [Parte C]",
     "state" : "ACTIVE"
   },
@@ -1674,7 +1674,7 @@
   "batchCount" : 3434,
   "auditBatchCount" : 164,
   "imageCount" : 18144,
-  "blockedCount" : 0,
+  "blockedCount" : 2020,
   "iesAuditBatchCount" : 26,
   "iesCountsNoAudit" : {
     "imagesetCount" : 16,
@@ -1703,7 +1703,7 @@
 }, {
   "project" : {
     "projectId" : 1989,
-    "projectUUID" : "f4a7f975-bb43-4025-8326-aff00b5e13c2",
+    "projectUUID" : "F4A7F975-BB43-4025-8326-AFF00B5E13C2",
     "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
     "state" : "ACTIVE"
   },
@@ -1962,7 +1962,7 @@
 }, {
   "project" : {
     "projectId" : 2650,
-    "projectUUID" : "cd9b01ae-7bcd-4f11-9725-bf77b6a3cf05",
+    "projectUUID" : "CD9B01AE-7BCD-4F11-9725-BF77B6A3CF05",
     "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel G]",
     "state" : "ACTIVE"
   },
@@ -2036,7 +2036,7 @@
 }, {
   "project" : {
     "projectId" : 2556,
-    "projectUUID" : "25a42f83-78e7-4eef-bc40-ca8b979ba5c5",
+    "projectUUID" : "25A42F83-78E7-4EEF-BC40-CA8B979BA5C5",
     "name" : "UK, Scotland—Church of Scotland Synods, Presbyteries, and Kirk Sessions, 1658–1919 [Part B]",
     "state" : "ACTIVE"
   },
@@ -2221,7 +2221,7 @@
 }, {
   "project" : {
     "projectId" : 2197,
-    "projectUUID" : "61cda3df-1de4-4793-93b5-5b7e6c6f1361",
+    "projectUUID" : "61CDA3DF-1DE4-4793-93B5-5B7E6C6F1361",
     "name" : "Italia (Antenati Italiani), Chieti—Matrimoni, 1809–1930 [Parte I]",
     "state" : "ACTIVE"
   },
@@ -2229,7 +2229,7 @@
   "batchCount" : 5253,
   "auditBatchCount" : 250,
   "imageCount" : 230004,
-  "blockedCount" : 0,
+  "blockedCount" : 204461,
   "iesAuditBatchCount" : 161,
   "iesCountsNoAudit" : {
     "imagesetCount" : 180,
@@ -2295,7 +2295,7 @@
 }, {
   "project" : {
     "projectId" : 3015,
-    "projectUUID" : "fc399b1a-a508-49a7-b6f5-b3f25008c1d3",
+    "projectUUID" : "FC399B1A-A508-49A7-B6F5-B3F25008C1D3",
     "name" : "US, Massachusetts—Births, Marriages, and Deaths, 1600–1990 [Part B]",
     "state" : "ACTIVE"
   },
@@ -2924,7 +2924,7 @@
 }, {
   "project" : {
     "projectId" : 2490,
-    "projectUUID" : "30f62c3d-8b73-4e43-89e0-1ef5678ca96a",
+    "projectUUID" : "30F62C3D-8B73-4E43-89E0-1EF5678CA96A",
     "name" : "アメリカ合衆国ハワイ州ホノルル－日本領事館，日本人家族登録カード，1897-1955 [パート B]",
     "state" : "ACTIVE"
   },
@@ -3035,7 +3035,7 @@
 }, {
   "project" : {
     "projectId" : 3535,
-    "projectUUID" : "67c6d0bd-019d-4bc3-bf97-018badfbb875",
+    "projectUUID" : "67C6D0BD-019D-4BC3-BF97-018BADFBB875",
     "name" : "Luxembourg—Civil Registration, 1796–1923 [Part I]",
     "state" : "ACTIVE"
   },
@@ -3331,7 +3331,7 @@
 }, {
   "project" : {
     "projectId" : 1803,
-    "projectUUID" : "3db8e074-8708-47ed-9d96-bdb3ea6d0160",
+    "projectUUID" : "3DB8E074-8708-47ED-9D96-BDB3EA6D0160",
     "name" : "Deutschland, Sachsen—Volkszählungslisten, 1770–1934",
     "state" : "ACTIVE"
   },
@@ -3339,7 +3339,7 @@
   "batchCount" : 32105,
   "auditBatchCount" : 1530,
   "imageCount" : 33173,
-  "blockedCount" : 0,
+  "blockedCount" : 2562,
   "iesAuditBatchCount" : 306,
   "iesCountsNoAudit" : {
     "imagesetCount" : 46,
@@ -3368,7 +3368,7 @@
 }, {
   "project" : {
     "projectId" : 1800,
-    "projectUUID" : "d3824d3c-0c49-437e-90c0-6a7e62ebc070",
+    "projectUUID" : "D3824D3C-0C49-437E-90C0-6A7E62EBC070",
     "name" : "Polska, Diecezja Lubelska — Księgi metrykalne kościoła rzymskokatolickiego, 1901–1950 [Część 5]",
     "state" : "ACTIVE"
   },
@@ -3442,7 +3442,7 @@
 }, {
   "project" : {
     "projectId" : 1955,
-    "projectUUID" : "43ae809c-5832-4afb-9f9e-a56fa9f474cd",
+    "projectUUID" : "43AE809C-5832-4AFB-9F9E-A56FA9F474CD",
     "name" : "Panamá—Registros Parroquiales, 1748–1972 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -3516,7 +3516,7 @@
 }, {
   "project" : {
     "projectId" : 3406,
-    "projectUUID" : "25dcf8f3-bf7a-4f90-928f-710c7ab3a779",
+    "projectUUID" : "25DCF8F3-BF7A-4F90-928F-710C7AB3A779",
     "name" : "US, California—County Birth Records, 1824–1974 [Part F]",
     "state" : "ACTIVE"
   },
@@ -3664,7 +3664,7 @@
 }, {
   "project" : {
     "projectId" : 2836,
-    "projectUUID" : "0321a78c-a5e3-406e-9723-c9f2133d603f",
+    "projectUUID" : "0321A78C-A5E3-406E-9723-C9F2133D603F",
     "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -3849,7 +3849,7 @@
 }, {
   "project" : {
     "projectId" : 1879,
-    "projectUUID" : "a25ae7ec-61dc-4751-a138-273fe5802830",
+    "projectUUID" : "A25AE7EC-61DC-4751-A138-273FE5802830",
     "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
     "state" : "ACTIVE"
   },
@@ -4071,7 +4071,7 @@
 }, {
   "project" : {
     "projectId" : 3710,
-    "projectUUID" : "51c0e90d-3c73-4e79-9f88-c1d8e04e8542",
+    "projectUUID" : "51C0E90D-3C73-4E79-9F88-C1D8E04E8542",
     "name" : "UK—Principal Probate Registry, 1858–1957 [Part O]",
     "state" : "ACTIVE"
   },
@@ -4219,7 +4219,7 @@
 }, {
   "project" : {
     "projectId" : 2889,
-    "projectUUID" : "d5925f5a-5ebb-4077-984e-38575aca5a0e",
+    "projectUUID" : "D5925F5A-5EBB-4077-984E-38575ACA5A0E",
     "name" : "US, New York, New York City—Index to Land Records, Grantors, 1630-1975 [Part D]",
     "state" : "ACTIVE"
   },
@@ -4330,7 +4330,7 @@
 }, {
   "project" : {
     "projectId" : 2728,
-    "projectUUID" : "cf14ea67-e983-4d65-ad45-c7e3302e05de",
+    "projectUUID" : "CF14EA67-E983-4D65-AD45-C7E3302E05DE",
     "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte F]",
     "state" : "ACTIVE"
   },
@@ -4441,7 +4441,7 @@
 }, {
   "project" : {
     "projectId" : 3291,
-    "projectUUID" : "f4c3eac4-161c-4c1d-95c9-8000c7fb5a4a",
+    "projectUUID" : "F4C3EAC4-161C-4C1D-95C9-8000C7FB5A4A",
     "name" : "Guatemala (Quick Batch)—Civil Registration, 1885–2009 [Parte G]",
     "state" : "ACTIVE"
   },
@@ -4589,7 +4589,7 @@
 }, {
   "project" : {
     "projectId" : 3322,
-    "projectUUID" : "17c1d51b-28e3-4000-8c6a-79d06c4e503a",
+    "projectUUID" : "17C1D51B-28E3-4000-8C6A-79D06C4E503A",
     "name" : "España, Archivo General Militar de Guadalajara—Expedientes Personales de Servicio de Soldados, 1835–1940 [Part I]",
     "state" : "ACTIVE"
   },
@@ -4663,7 +4663,7 @@
 }, {
   "project" : {
     "projectId" : 2771,
-    "projectUUID" : "91e02b3f-3f0c-489a-b363-b73f3829c8b5",
+    "projectUUID" : "91E02B3F-3F0C-489A-B363-B73F3829C8B5",
     "name" : "Brasil, São Paulo, Araçatuba—Registro Civil, 1918–1999",
     "state" : "ACTIVE"
   },
@@ -4774,7 +4774,7 @@
 }, {
   "project" : {
     "projectId" : 3494,
-    "projectUUID" : "a4b15c23-0a61-41a5-8909-c8a8ba73521d",
+    "projectUUID" : "A4B15C23-0A61-41A5-8909-C8A8BA73521D",
     "name" : "US, Louisiana, Orleans Parish—Birth Records, 1819–1906",
     "state" : "ACTIVE"
   },
@@ -4848,7 +4848,7 @@
 }, {
   "project" : {
     "projectId" : 3528,
-    "projectUUID" : "b59cb039-0f55-404f-85ee-37c95a1bbb8b",
+    "projectUUID" : "B59CB039-0F55-404F-85EE-37C95A1BBB8B",
     "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part M]",
     "state" : "ACTIVE"
   },
@@ -5292,7 +5292,7 @@
 }, {
   "project" : {
     "projectId" : 3457,
-    "projectUUID" : "55a51079-3019-4468-b537-a1793cd8dd9b",
+    "projectUUID" : "55A51079-3019-4468-B537-A1793CD8DD9B",
     "name" : "Italy (Antenati Italiani), Caserta—Civil Registration, 1809–1865 [Part A]",
     "state" : "ACTIVE"
   },
@@ -5300,7 +5300,7 @@
   "batchCount" : 96315,
   "auditBatchCount" : 4591,
   "imageCount" : 622928,
-  "blockedCount" : 0,
+  "blockedCount" : 68685,
   "iesAuditBatchCount" : 35,
   "iesCountsNoAudit" : {
     "imagesetCount" : 500,
@@ -5329,7 +5329,7 @@
 }, {
   "project" : {
     "projectId" : 3757,
-    "projectUUID" : "db00a6e5-3294-4f96-8c67-acf54f8d8d4d",
+    "projectUUID" : "DB00A6E5-3294-4F96-8C67-ACF54F8D8D4D",
     "name" : "US, Puerto Rico—Civil Registration, 1885–2001 [Part A]",
     "state" : "ACTIVE"
   },
@@ -5403,7 +5403,7 @@
 }, {
   "project" : {
     "projectId" : 3593,
-    "projectUUID" : "373da2df-9df3-4cde-bb34-6e4a30e363d1",
+    "projectUUID" : "373DA2DF-9DF3-4CDE-BB34-6E4A30E363D1",
     "name" : "UK, England, Oxfordshire—Bishop's Transcripts, 1539–1753",
     "state" : "ACTIVE"
   },
@@ -5736,7 +5736,7 @@
 }, {
   "project" : {
     "projectId" : 3512,
-    "projectUUID" : "5f6f095b-d335-41f1-8a63-1aa6b49b1195",
+    "projectUUID" : "5F6F095B-D335-41F1-8A63-1AA6B49B1195",
     "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part C]",
     "state" : "ACTIVE"
   },
@@ -6032,7 +6032,7 @@
 }, {
   "project" : {
     "projectId" : 1898,
-    "projectUUID" : "d5884a84-f1aa-4632-843f-3558bf3ef04b",
+    "projectUUID" : "D5884A84-F1AA-4632-843F-3558BF3EF04B",
     "name" : "Philippines—National Offices, Civil Registration of Marriages, 1945–1987 [Part E]",
     "state" : "ACTIVE"
   },
@@ -6069,7 +6069,7 @@
 }, {
   "project" : {
     "projectId" : 1799,
-    "projectUUID" : "6218b683-8e4f-43ff-92e8-fc56a927520f",
+    "projectUUID" : "6218B683-8E4F-43FF-92E8-FC56A927520F",
     "name" : "Украина, Запорожье—Ревизские сказки, 1811–1858 [Часть А]",
     "state" : "ACTIVE"
   },
@@ -6143,7 +6143,7 @@
 }, {
   "project" : {
     "projectId" : 2867,
-    "projectUUID" : "9acce5f1-ae5a-49c4-8424-08623a43a5f0",
+    "projectUUID" : "9ACCE5F1-AE5A-49C4-8424-08623A43A5F0",
     "name" : "US, Hawaii—Naturalization Records, 1838–1991 [Part B]",
     "state" : "ACTIVE"
   },
@@ -6217,7 +6217,7 @@
 }, {
   "project" : {
     "projectId" : 3236,
-    "projectUUID" : "8b4e0918-91b5-4864-8b30-4e5dd4c5510e",
+    "projectUUID" : "8B4E0918-91B5-4864-8B30-4E5DD4C5510E",
     "name" : "Philippines—National Offices, Civil Registration of Deaths, 1945–1987 [Part G]",
     "state" : "ACTIVE"
   },
@@ -6365,7 +6365,7 @@
 }, {
   "project" : {
     "projectId" : 2387,
-    "projectUUID" : "0ff7406c-1e16-4e33-ac27-b97fa3190076",
+    "projectUUID" : "0FF7406C-1E16-4E33-AC27-B97FA3190076",
     "name" : "Portugal, Porto—Registros da Igreja Católica [Parte D]",
     "state" : "ACTIVE"
   },
@@ -7031,7 +7031,7 @@
 }, {
   "project" : {
     "projectId" : 3376,
-    "projectUUID" : "a343b930-b3e3-4fec-be45-fd38935bfa54",
+    "projectUUID" : "A343B930-B3E3-4FEC-BE45-FD38935BFA54",
     "name" : "Brazil, Paraná—Civil Registration, 1852–1996 [Part A2]",
     "state" : "ACTIVE"
   },
@@ -7142,7 +7142,7 @@
 }, {
   "project" : {
     "projectId" : 2669,
-    "projectUUID" : "1fe76c5f-2413-46d0-8f83-f1b888581951",
+    "projectUUID" : "1FE76C5F-2413-46D0-8F83-F1B888581951",
     "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part I]",
     "state" : "ACTIVE"
   },
@@ -7175,6 +7175,43 @@
   },
   "dateTimeFetched" : "2019-11-22 09:43:11",
   "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3388,
+    "projectUUID" : "3909604b-1bef-4780-8d62-c99a0ccafca3",
+    "name" : "US, South Carolina—World War I Draft Registration Cards, 1917–1918 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 1408,
+  "auditBatchCount" : 67,
+  "imageCount" : 5392,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 89,
+    "images" : 356,
+    "recordCount" : 24
+  },
+  "exportStateCounts" : {
+    "accepted" : 24,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 332,
+    "audit" : 20,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 14:43:36",
+  "name" : "US, South Carolina—World War I Draft Registration Cards, 1917–1918 [Part D]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -7401,7 +7438,7 @@
 }, {
   "project" : {
     "projectId" : 3480,
-    "projectUUID" : "d811c1b9-f3a8-4073-88b5-a4b215f4d381",
+    "projectUUID" : "D811C1B9-F3A8-4073-88B5-A4B215F4D381",
     "name" : "Portugal, Aveiro— Passport Registers, 1861–1965 [Part B]",
     "state" : "ACTIVE"
   },
@@ -7586,7 +7623,7 @@
 }, {
   "project" : {
     "projectId" : 1961,
-    "projectUUID" : "47700494-5076-4222-b225-39438e59f6a1",
+    "projectUUID" : "47700494-5076-4222-B225-39438E59F6A1",
     "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Part C]",
     "state" : "ACTIVE"
   },
@@ -7623,7 +7660,7 @@
 }, {
   "project" : {
     "projectId" : 3637,
-    "projectUUID" : "74d757f2-37b7-46ff-993d-e009cce6d551",
+    "projectUUID" : "74D757F2-37B7-46FF-993D-E009CCE6D551",
     "name" : "UK, England, Herefordshire—Bishop's Transcripts, 1754–1898 [Part B]",
     "state" : "ACTIVE"
   },
@@ -7697,7 +7734,7 @@
 }, {
   "project" : {
     "projectId" : 2729,
-    "projectUUID" : "ee5cd949-ff39-42d7-8c8b-b4bcc68104a8",
+    "projectUUID" : "EE5CD949-FF39-42D7-8C8B-B4BCC68104A8",
     "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte E]",
     "state" : "ACTIVE"
   },
@@ -7734,7 +7771,7 @@
 }, {
   "project" : {
     "projectId" : 3622,
-    "projectUUID" : "df5ef717-180b-42da-8107-49df038ffe7c",
+    "projectUUID" : "DF5EF717-180B-42DA-8107-49DF038FFE7C",
     "name" : "Peru, Prelatura de Yauyos-Cañete-Huarochirí—Catholic Church Records, 1665–2018 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -7845,7 +7882,7 @@
 }, {
   "project" : {
     "projectId" : 3024,
-    "projectUUID" : "44b64bac-3a14-41d4-a379-12aa7df09624",
+    "projectUUID" : "44B64BAC-3A14-41D4-A379-12AA7DF09624",
     "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie D]",
     "state" : "ACTIVE"
   },
@@ -7853,7 +7890,7 @@
   "batchCount" : 2893,
   "auditBatchCount" : 147,
   "imageCount" : 10350,
-  "blockedCount" : 0,
+  "blockedCount" : 848,
   "iesAuditBatchCount" : 25,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -7882,7 +7919,7 @@
 }, {
   "project" : {
     "projectId" : 2528,
-    "projectUUID" : "44b24833-e165-498f-b781-e2e89f2d4b30",
+    "projectUUID" : "44B24833-E165-498F-B781-E2E89F2D4B30",
     "name" : "España, La Coruña, Riveira—Censo municipal, 1862–1960",
     "state" : "ACTIVE"
   },
@@ -7890,7 +7927,7 @@
   "batchCount" : 13919,
   "auditBatchCount" : 660,
   "imageCount" : 13438,
-  "blockedCount" : 0,
+  "blockedCount" : 178,
   "iesAuditBatchCount" : 20,
   "iesCountsNoAudit" : {
     "imagesetCount" : 29,
@@ -8067,7 +8104,7 @@
 }, {
   "project" : {
     "projectId" : 3238,
-    "projectUUID" : "e1665e7d-067d-4d67-8cf7-ea1914624d88",
+    "projectUUID" : "E1665E7D-067D-4D67-8CF7-EA1914624D88",
     "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte P]",
     "state" : "ACTIVE"
   },
@@ -8075,7 +8112,7 @@
   "batchCount" : 4528,
   "auditBatchCount" : 212,
   "imageCount" : 20887,
-  "blockedCount" : 0,
+  "blockedCount" : 3975,
   "iesAuditBatchCount" : 116,
   "iesCountsNoAudit" : {
     "imagesetCount" : 212,
@@ -8215,7 +8252,7 @@
 }, {
   "project" : {
     "projectId" : 1598,
-    "projectUUID" : "5fde4608-a36b-4228-b255-51a0e7ef61e9",
+    "projectUUID" : "5FDE4608-A36B-4228-B255-51A0E7EF61E9",
     "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
     "state" : "ACTIVE"
   },
@@ -8363,7 +8400,7 @@
 }, {
   "project" : {
     "projectId" : 3210,
-    "projectUUID" : "b216f876-2f74-45aa-9147-d79163884857",
+    "projectUUID" : "B216F876-2F74-45AA-9147-D79163884857",
     "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte C]",
     "state" : "ACTIVE"
   },
@@ -8371,7 +8408,7 @@
   "batchCount" : 39044,
   "auditBatchCount" : 1861,
   "imageCount" : 112541,
-  "blockedCount" : 0,
+  "blockedCount" : 6277,
   "iesAuditBatchCount" : 704,
   "iesCountsNoAudit" : {
     "imagesetCount" : 290,
@@ -8400,7 +8437,7 @@
 }, {
   "project" : {
     "projectId" : 3440,
-    "projectUUID" : "ef085a6f-ef1e-472c-b1d2-abed837fd740",
+    "projectUUID" : "EF085A6F-EF1E-472C-B1D2-ABED837FD740",
     "name" : "Argentina, Entre Ríos—Civil Registration, 1860–1965 [Part F]",
     "state" : "ACTIVE"
   },
@@ -8622,7 +8659,7 @@
 }, {
   "project" : {
     "projectId" : 1192,
-    "projectUUID" : "fc0c00b1-4b3a-42d4-8d32-6070c3a64277",
+    "projectUUID" : "FC0C00B1-4B3A-42D4-8D32-6070C3A64277",
     "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2Z]",
     "state" : "ACTIVE"
   },
@@ -8955,7 +8992,7 @@
 }, {
   "project" : {
     "projectId" : 3243,
-    "projectUUID" : "3f3f58f5-d005-4901-aa7e-d2fcef01f817",
+    "projectUUID" : "3F3F58F5-D005-4901-AA7E-D2FCEF01F817",
     "name" : "US, Texas—Voters Registration, 1867–1869",
     "state" : "ACTIVE"
   },
@@ -9214,7 +9251,7 @@
 }, {
   "project" : {
     "projectId" : 3295,
-    "projectUUID" : "70e1a311-7bbc-4d75-b9d3-0c35e857febe",
+    "projectUUID" : "70E1A311-7BBC-4D75-B9D3-0C35E857FEBE",
     "name" : "Peru, Lima—Civil Registration, 1917–1995 [Part J]",
     "state" : "ACTIVE"
   },
@@ -9251,7 +9288,7 @@
 }, {
   "project" : {
     "projectId" : 2207,
-    "projectUUID" : "93b81f66-3e82-4286-9df4-0bdd9604c602",
+    "projectUUID" : "93B81F66-3E82-4286-9DF4-0BDD9604C602",
     "name" : "South Africa—Dutch Reformed Church in Africa, Baptism and Membership Records, 1838–1991 [Part B]",
     "state" : "ACTIVE"
   },
@@ -9547,7 +9584,7 @@
 }, {
   "project" : {
     "projectId" : 2397,
-    "projectUUID" : "1edc51fb-614c-4d57-b476-c01e53df94d6",
+    "projectUUID" : "1EDC51FB-614C-4D57-B476-C01E53DF94D6",
     "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -9658,7 +9695,7 @@
 }, {
   "project" : {
     "projectId" : 2437,
-    "projectUUID" : "d479ae76-881f-4db3-9e80-802b4ee5807e",
+    "projectUUID" : "D479AE76-881F-4DB3-9E80-802B4EE5807E",
     "name" : "Suisse, Fribourg — Recensement de 1880 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -10028,7 +10065,7 @@
 }, {
   "project" : {
     "projectId" : 3481,
-    "projectUUID" : "7f848da7-4659-4c4c-894f-29a7785ae879",
+    "projectUUID" : "7F848DA7-4659-4C4C-894F-29A7785AE879",
     "name" : "US, South Carolina—Lists of Passengers Arriving at Charleston, 1919–1948 [Part A]",
     "state" : "ACTIVE"
   },
@@ -10176,7 +10213,7 @@
 }, {
   "project" : {
     "projectId" : 3368,
-    "projectUUID" : "30723b57-56de-4d30-853a-842c2aa3ae4c",
+    "projectUUID" : "30723B57-56DE-4D30-853A-842C2AA3AE4C",
     "name" : "Peru (Quick Batch), Ancash—Civil Registrations, 1888–2000 [Part Y]",
     "state" : "ACTIVE"
   },
@@ -10324,7 +10361,7 @@
 }, {
   "project" : {
     "projectId" : 2918,
-    "projectUUID" : "210e5cfc-d88d-4546-a81b-d6611bab7918",
+    "projectUUID" : "210E5CFC-D88D-4546-A81B-D6611BAB7918",
     "name" : "Argentina, Corrientes—Registro Civil, 1880–1930 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -10361,7 +10398,7 @@
 }, {
   "project" : {
     "projectId" : 1655,
-    "projectUUID" : "dbbd1e00-d5ea-432b-a517-4288a7330ec4",
+    "projectUUID" : "DBBD1E00-D5EA-432B-A517-4288A7330EC4",
     "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
     "state" : "ACTIVE"
   },
@@ -10398,7 +10435,7 @@
 }, {
   "project" : {
     "projectId" : 2301,
-    "projectUUID" : "814b5f77-37c6-4ad0-a8b1-57446db7bd7b",
+    "projectUUID" : "814B5F77-37C6-4AD0-A8B1-57446DB7BD7B",
     "name" : "Česká Republika, Třeboň—Matriky, 1884–1935 [část C]",
     "state" : "ACTIVE"
   },
@@ -10509,7 +10546,7 @@
 }, {
   "project" : {
     "projectId" : 2900,
-    "projectUUID" : "49b68109-b3ac-4780-b798-11e92bb9e830",
+    "projectUUID" : "49B68109-B3AC-4780-B798-11E92BB9E830",
     "name" : "US, Alabama—Department of Archives and History, Confederate Pension Applications, 1880–1930's",
     "state" : "ACTIVE"
   },
@@ -10546,7 +10583,7 @@
 }, {
   "project" : {
     "projectId" : 3439,
-    "projectUUID" : "4d02671c-fd10-480f-8558-8b86b41cd15f",
+    "projectUUID" : "4D02671C-FD10-480F-8558-8B86B41CD15F",
     "name" : "US, Louisiana—State Penitentiary Records, 1866–1963",
     "state" : "ACTIVE"
   },
@@ -10583,7 +10620,7 @@
 }, {
   "project" : {
     "projectId" : 1278,
-    "projectUUID" : "feada009-07d3-4261-b771-59ecde38c61c",
+    "projectUUID" : "FEADA009-07D3-4261-B771-59ECDE38C61C",
     "name" : "US, Iowa—Old Age Assistance Records, 1934–1946 [Part B]",
     "state" : "ACTIVE"
   },
@@ -10805,7 +10842,7 @@
 }, {
   "project" : {
     "projectId" : 2920,
-    "projectUUID" : "5a6af227-7e68-4c6c-93ca-e1bf354cd023",
+    "projectUUID" : "5A6AF227-7E68-4C6C-93CA-E1BF354CD023",
     "name" : "Perú, Arequipa, Sagrario—Catholic Church Records, 1644–1921 [Part C]",
     "state" : "ACTIVE"
   },
@@ -11101,7 +11138,7 @@
 }, {
   "project" : {
     "projectId" : 2032,
-    "projectUUID" : "2fd62716-5598-432e-84d1-4057f224a3e9",
+    "projectUUID" : "2FD62716-5598-432E-84D1-4057F224A3E9",
     "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil B]",
     "state" : "ACTIVE"
   },
@@ -11109,7 +11146,7 @@
   "batchCount" : 9093,
   "auditBatchCount" : 433,
   "imageCount" : 15342,
-  "blockedCount" : 0,
+  "blockedCount" : 1581,
   "iesAuditBatchCount" : 333,
   "iesCountsNoAudit" : {
     "imagesetCount" : 50,
@@ -11249,7 +11286,7 @@
 }, {
   "project" : {
     "projectId" : 2948,
-    "projectUUID" : "305965b0-e01a-4e0b-9526-a8b425a18c80",
+    "projectUUID" : "305965B0-E01A-4E0B-9526-A8B425A18C80",
     "name" : "US, Arkansas—Confederate Pension Applications, 1901–1929",
     "state" : "ACTIVE"
   },
@@ -11360,7 +11397,7 @@
 }, {
   "project" : {
     "projectId" : 2838,
-    "projectUUID" : "1667c9e1-bb2d-4e9f-ae58-f61e9b48739d",
+    "projectUUID" : "1667C9E1-BB2D-4E9F-AE58-F61E9B48739D",
     "name" : "Italia (Antenati Italiani), Udine—Stato Civile, 1806–1900 [Parte 2K]",
     "state" : "ACTIVE"
   },
@@ -11368,7 +11405,7 @@
   "batchCount" : 2440,
   "auditBatchCount" : 103,
   "imageCount" : 13343,
-  "blockedCount" : 0,
+  "blockedCount" : 2495,
   "iesAuditBatchCount" : 32,
   "iesCountsNoAudit" : {
     "imagesetCount" : 299,
@@ -11471,7 +11508,7 @@
 }, {
   "project" : {
     "projectId" : 3515,
-    "projectUUID" : "c15d1d96-6afa-42a0-94fb-ea6f52890fa8",
+    "projectUUID" : "C15D1D96-6AFA-42A0-94FB-EA6F52890FA8",
     "name" : "US, Georgia, Savannah—Jail Registers, 1855–1873",
     "state" : "ACTIVE"
   },
@@ -11693,7 +11730,7 @@
 }, {
   "project" : {
     "projectId" : 2410,
-    "projectUUID" : "d8110765-1bf8-470e-9f08-830176afafba",
+    "projectUUID" : "D8110765-1BF8-470E-9F08-830176AFAFBA",
     "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Parte G]",
     "state" : "ACTIVE"
   },
@@ -11878,7 +11915,7 @@
 }, {
   "project" : {
     "projectId" : 2048,
-    "projectUUID" : "801beb31-9428-4716-95f4-9465e04c6080",
+    "projectUUID" : "801BEB31-9428-4716-95F4-9465E04C6080",
     "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -11989,7 +12026,7 @@
 }, {
   "project" : {
     "projectId" : 2242,
-    "projectUUID" : "2d57b297-ab7d-4a81-8e4b-8c17e1c6b237",
+    "projectUUID" : "2D57B297-AB7D-4A81-8E4B-8C17E1C6B237",
     "name" : "Perú (Lote rápido), Ancash—Registro Civil, Nacimiento, 1888–2000 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -12285,7 +12322,7 @@
 }, {
   "project" : {
     "projectId" : 3485,
-    "projectUUID" : "24d53e8d-6964-481b-9d37-2f5cb3e0701b",
+    "projectUUID" : "24D53E8D-6964-481B-9D37-2F5CB3E0701B",
     "name" : "Cape Verde—Catholic Church Records, 1834–1946 [Part C]",
     "state" : "ACTIVE"
   },
@@ -12470,7 +12507,7 @@
 }, {
   "project" : {
     "projectId" : 1984,
-    "projectUUID" : "675d40ac-d613-44b1-80db-20aa14ee93ee",
+    "projectUUID" : "675D40AC-D613-44B1-80DB-20AA14EE93EE",
     "name" : "España, Provincia de Asturias, Colunga—Registro civil, 1836–1871",
     "state" : "ACTIVE"
   },
@@ -12803,7 +12840,7 @@
 }, {
   "project" : {
     "projectId" : 3330,
-    "projectUUID" : "e95e8f99-86f6-425e-a853-a0f4f20a8ebd",
+    "projectUUID" : "E95E8F99-86F6-425E-A853-A0F4F20A8EBD",
     "name" : "US, Alaska—Naturalizations, 1884–1991",
     "state" : "ACTIVE"
   },
@@ -12877,7 +12914,7 @@
 }, {
   "project" : {
     "projectId" : 3164,
-    "projectUUID" : "c4ebdb25-c15e-449f-9e93-e4c33cc022eb",
+    "projectUUID" : "C4EBDB25-C15E-449F-9E93-E4C33CC022EB",
     "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part G]",
     "state" : "ACTIVE"
   },
@@ -12951,7 +12988,7 @@
 }, {
   "project" : {
     "projectId" : 3115,
-    "projectUUID" : "2a79ee2a-3e18-40ef-aa05-2dc56c18342d",
+    "projectUUID" : "2A79EE2A-3E18-40EF-AA05-2DC56C18342D",
     "name" : "US, Pennsylvania—Register of Military Volunteers, 1861–1865",
     "state" : "ACTIVE"
   },
@@ -13136,7 +13173,7 @@
 }, {
   "project" : {
     "projectId" : 3358,
-    "projectUUID" : "045bcd69-5e98-4844-93ef-3614529bbb84",
+    "projectUUID" : "045BCD69-5E98-4844-93EF-3614529BBB84",
     "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part A]",
     "state" : "ACTIVE"
   },
@@ -13321,7 +13358,7 @@
 }, {
   "project" : {
     "projectId" : 2758,
-    "projectUUID" : "6023064f-115d-4543-a688-6d174eba5abf",
+    "projectUUID" : "6023064F-115D-4543-A688-6D174EBA5ABF",
     "name" : "US, Michigan—Overlijdensberichten, 1820–2006 [Deel C]",
     "state" : "ACTIVE"
   },
@@ -13432,7 +13469,7 @@
 }, {
   "project" : {
     "projectId" : 3664,
-    "projectUUID" : "fb0ec280-1e5e-4cbd-a7a5-8bdea0af6d28",
+    "projectUUID" : "FB0EC280-1E5E-4CBD-A7A5-8BDEA0AF6D28",
     "name" : "Denmark, Aarhus—1936 Census [Part B]",
     "state" : "ACTIVE"
   },
@@ -13440,7 +13477,7 @@
   "batchCount" : 1800,
   "auditBatchCount" : 85,
   "imageCount" : 12647,
-  "blockedCount" : 0,
+  "blockedCount" : 9096,
   "iesAuditBatchCount" : 10,
   "iesCountsNoAudit" : {
     "imagesetCount" : 57,
@@ -13543,7 +13580,7 @@
 }, {
   "project" : {
     "projectId" : 1609,
-    "projectUUID" : "44d97b95-ff83-4178-a217-42a7b22e7ccf",
+    "projectUUID" : "44D97B95-FF83-4178-A217-42A7B22E7CCF",
     "name" : "Österreich (Austria), Kärnten, Gurk—Kirchenbücher, 1527–1986 [Teil B]",
     "state" : "ACTIVE"
   },
@@ -13576,6 +13613,43 @@
   },
   "dateTimeFetched" : "2019-11-22 09:29:18",
   "name" : "Österreich (Austria), Kärnten, Gurk—Kirchenbücher, 1527–1986 [Teil B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3416,
+    "projectUUID" : "2332e1fb-2409-4725-989b-bd380d3a37af",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BM]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1001,
+  "batchCount" : 84863,
+  "auditBatchCount" : 4013,
+  "imageCount" : 247955,
+  "blockedCount" : 6449,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 956,
+    "batchCount" : 77192,
+    "images" : 236779,
+    "recordCount" : 12
+  },
+  "exportStateCounts" : {
+    "accepted" : 12,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 230559,
+    "audit" : 0,
+    "blocked" : 6208,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 14:43:49",
+  "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BM]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -13654,7 +13728,7 @@
 }, {
   "project" : {
     "projectId" : 3498,
-    "projectUUID" : "ff780479-8feb-4ce1-96a8-8fb7bce4cc6a",
+    "projectUUID" : "FF780479-8FEB-4CE1-96A8-8FB7BCE4CC6A",
     "name" : "US, Virginia—Daughters of the Confederacy, Applications for the Relief of Needy Confederate Women, 1915–1967",
     "state" : "ACTIVE"
   },
@@ -13765,7 +13839,7 @@
 }, {
   "project" : {
     "projectId" : 1960,
-    "projectUUID" : "69bf0e51-db02-43d6-a4df-4f65e4f6791c",
+    "projectUUID" : "69BF0E51-DB02-43D6-A4DF-4F65E4F6791C",
     "name" : "US, Missouri—County Marriages, 1806–1969 [Part I]",
     "state" : "ACTIVE"
   },
@@ -13987,7 +14061,7 @@
 }, {
   "project" : {
     "projectId" : 2411,
-    "projectUUID" : "6b88a789-f2dd-4bee-9cb4-4bf3762c3bcf",
+    "projectUUID" : "6B88A789-F2DD-4BEE-9CB4-4BF3762C3BCF",
     "name" : "Perú (Lote Rápido), Junin—Registros Civiles, Nacimientos, 1890—1999 [Parte M]",
     "state" : "ACTIVE"
   },
@@ -14024,7 +14098,7 @@
 }, {
   "project" : {
     "projectId" : 1832,
-    "projectUUID" : "eb09646e-d569-4578-87c4-1fa02c95da0d",
+    "projectUUID" : "EB09646E-D569-4578-87C4-1FA02C95DA0D",
     "name" : "US—Native American Census Rolls, 1885–1940 [Part B]",
     "state" : "ACTIVE"
   },
@@ -14061,7 +14135,7 @@
 }, {
   "project" : {
     "projectId" : 3608,
-    "projectUUID" : "c8986096-d7ae-4ce3-9af5-e56e8d1a7567",
+    "projectUUID" : "C8986096-D7AE-4CE3-9AF5-E56E8D1A7567",
     "name" : "Germany, Schleswig-Holstein, Kreis Steinburg—Civil Registration, 1874–1983 [Part E]",
     "state" : "ACTIVE"
   },
@@ -14357,7 +14431,7 @@
 }, {
   "project" : {
     "projectId" : 2392,
-    "projectUUID" : "7c654dde-290b-4f2d-9c5f-d187049c5167",
+    "projectUUID" : "7C654DDE-290B-4F2D-9C5F-D187049C5167",
     "name" : "Perú (Lote rápido), La Libertad—Registro Civil, 1903–1997 [Parte AC]",
     "state" : "ACTIVE"
   },
@@ -14430,8 +14504,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3580,
+    "projectUUID" : "0957e2ce-a7b2-42dd-9cd1-6c101ab9c9bd",
+    "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 500,
+  "batchCount" : 43538,
+  "auditBatchCount" : 2059,
+  "imageCount" : 501923,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 500,
+    "batchCount" : 41479,
+    "images" : 501923,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 406746,
+    "audit" : 0,
+    "blocked" : 95177,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 14:44:06",
+  "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3110,
-    "projectUUID" : "df2d859f-c5fc-41f1-b350-17c628541517",
+    "projectUUID" : "DF2D859F-C5FC-41F1-B350-17C628541517",
     "name" : "UK (Quick Batch), England, Derbyshire—Parish Registers, 1538–1753 [Part K]",
     "state" : "ACTIVE"
   },
@@ -14505,7 +14616,7 @@
 }, {
   "project" : {
     "projectId" : 3370,
-    "projectUUID" : "54334dc6-f848-4d5d-922d-d5b58fb74820",
+    "projectUUID" : "54334DC6-F848-4D5D-922D-D5B58FB74820",
     "name" : "France, Marne—Recensement de 1856",
     "state" : "ACTIVE"
   },
@@ -14513,7 +14624,7 @@
   "batchCount" : 6717,
   "auditBatchCount" : 321,
   "imageCount" : 8423,
-  "blockedCount" : 0,
+  "blockedCount" : 2026,
   "iesAuditBatchCount" : 186,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
@@ -14764,7 +14875,7 @@
 }, {
   "project" : {
     "projectId" : 3111,
-    "projectUUID" : "0d4090c4-ebcb-4a3f-81d8-59351e4471af",
+    "projectUUID" : "0D4090C4-EBCB-4A3F-81D8-59351E4471AF",
     "name" : "UK, Wales—National Library of Wales Marriage Bonds, 1564–1754 [Part E]",
     "state" : "ACTIVE"
   },
@@ -14986,7 +15097,7 @@
 }, {
   "project" : {
     "projectId" : 1938,
-    "projectUUID" : "86ee852a-309e-47cf-9391-39c9446364cd",
+    "projectUUID" : "86EE852A-309E-47CF-9391-39C9446364CD",
     "name" : "Austria, Carinthia, Gurk—Church Records, 1527–1986 [Part C]",
     "state" : "ACTIVE"
   },
@@ -15208,7 +15319,7 @@
 }, {
   "project" : {
     "projectId" : 3567,
-    "projectUUID" : "f3e20563-1c46-495b-b160-697d0445ffea",
+    "projectUUID" : "F3E20563-1C46-495B-B160-697D0445FFEA",
     "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part C]",
     "state" : "ACTIVE"
   },
@@ -15282,7 +15393,7 @@
 }, {
   "project" : {
     "projectId" : 2282,
-    "projectUUID" : "4fa5b441-a93c-4764-b5ef-e105a84562ec",
+    "projectUUID" : "4FA5B441-A93C-4764-B5EF-E105A84562EC",
     "name" : "Suisse, Fribourg, Recensement de 1850",
     "state" : "ACTIVE"
   },
@@ -15615,7 +15726,7 @@
 }, {
   "project" : {
     "projectId" : 2712,
-    "projectUUID" : "d865f6ca-dce8-4280-9500-3b28fa068f6d",
+    "projectUUID" : "D865F6CA-DCE8-4280-9500-3B28FA068F6D",
     "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -15763,7 +15874,7 @@
 }, {
   "project" : {
     "projectId" : 2962,
-    "projectUUID" : "b5b8946e-e9b8-4736-ac8c-fadcba8cbe84",
+    "projectUUID" : "B5B8946E-E9B8-4736-AC8C-FADCBA8CBE84",
     "name" : "UK, Northern Ireland—Tithe Applotment Books and Indexes, 1822–1837",
     "state" : "ACTIVE"
   },
@@ -16096,7 +16207,7 @@
 }, {
   "project" : {
     "projectId" : 2563,
-    "projectUUID" : "798325be-70b5-4c53-b8fe-f0961014ad01",
+    "projectUUID" : "798325BE-70B5-4C53-B8FE-F0961014AD01",
     "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1Y]",
     "state" : "ACTIVE"
   },
@@ -16133,7 +16244,7 @@
 }, {
   "project" : {
     "projectId" : 3462,
-    "projectUUID" : "1f07a1d6-6624-409f-8064-437d89b1a1f1",
+    "projectUUID" : "1F07A1D6-6624-409F-8064-437D89B1A1F1",
     "name" : "American Samoa—Passports, 1919–1924",
     "state" : "ACTIVE"
   },
@@ -16207,7 +16318,7 @@
 }, {
   "project" : {
     "projectId" : 2769,
-    "projectUUID" : "344fc20b-db18-4f39-ba89-bb7c81c1b8cc",
+    "projectUUID" : "344FC20B-DB18-4F39-BA89-BB7C81C1B8CC",
     "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part H]",
     "state" : "ACTIVE"
   },
@@ -16244,7 +16355,7 @@
 }, {
   "project" : {
     "projectId" : 3342,
-    "projectUUID" : "d701f9c5-9f3b-4bcd-a34b-9d9c52174410",
+    "projectUUID" : "D701F9C5-9F3B-4BCD-A34B-9D9C52174410",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BG]",
     "state" : "ACTIVE"
   },
@@ -16762,7 +16873,7 @@
 }, {
   "project" : {
     "projectId" : 3461,
-    "projectUUID" : "bb714439-07ed-4784-9594-34834a20a50f",
+    "projectUUID" : "BB714439-07ED-4784-9594-34834A20A50F",
     "name" : "UK, England, Oxfordshire—Bishop's Transcripts, 1754–1904",
     "state" : "ACTIVE"
   },
@@ -16799,7 +16910,7 @@
 }, {
   "project" : {
     "projectId" : 2085,
-    "projectUUID" : "83604d82-b4fc-4567-8590-34d0b47a3f53",
+    "projectUUID" : "83604D82-B4FC-4567-8590-34D0B47A3F53",
     "name" : "España, Provincia de Asturias—registro civil, 1836–1871 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -16807,7 +16918,7 @@
   "batchCount" : 2334,
   "auditBatchCount" : 95,
   "imageCount" : 20434,
-  "blockedCount" : 0,
+  "blockedCount" : 2856,
   "iesAuditBatchCount" : 80,
   "iesCountsNoAudit" : {
     "imagesetCount" : 149,
@@ -17095,7 +17206,7 @@
 }, {
   "project" : {
     "projectId" : 3471,
-    "projectUUID" : "ef53afcb-766b-4a5f-b92f-dd44ade1193b",
+    "projectUUID" : "EF53AFCB-766B-4A5F-B92F-DD44ADE1193B",
     "name" : "US, Washington—County Naturalization Records, 1850–1982 [Part A]",
     "state" : "ACTIVE"
   },
@@ -17132,7 +17243,7 @@
 }, {
   "project" : {
     "projectId" : 3371,
-    "projectUUID" : "aed38986-61de-462d-998d-5c7852f6ee73",
+    "projectUUID" : "AED38986-61DE-462D-998D-5C7852F6EE73",
     "name" : "Norway, Oslo—Census, 1901",
     "state" : "ACTIVE"
   },
@@ -17539,7 +17650,7 @@
 }, {
   "project" : {
     "projectId" : 2727,
-    "projectUUID" : "77ed0dbc-3004-4828-8b48-1823ba6889e5",
+    "projectUUID" : "77ED0DBC-3004-4828-8B48-1823BA6889E5",
     "name" : "Italia (Antenati Italiani), Torino—Stato Civile, 1806–1813 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -17547,7 +17658,7 @@
   "batchCount" : 11566,
   "auditBatchCount" : 550,
   "imageCount" : 48132,
-  "blockedCount" : 0,
+  "blockedCount" : 15217,
   "iesAuditBatchCount" : 56,
   "iesCountsNoAudit" : {
     "imagesetCount" : 49,
@@ -18168,7 +18279,7 @@
 }, {
   "project" : {
     "projectId" : 3459,
-    "projectUUID" : "fcea42fd-eba3-4b7c-8523-f1c00b7c518d",
+    "projectUUID" : "FCEA42FD-EBA3-4B7C-8523-F1C00B7C518D",
     "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part F]",
     "state" : "ACTIVE"
   },
@@ -18242,7 +18353,7 @@
 }, {
   "project" : {
     "projectId" : 3540,
-    "projectUUID" : "e983f22e-f1ff-4796-a4ba-890de6a17b2a",
+    "projectUUID" : "E983F22E-F1FF-4796-A4BA-890DE6A17B2A",
     "name" : "US, Alabama—County Birth Registers, 1881–1930",
     "state" : "ACTIVE"
   },
@@ -18464,7 +18575,7 @@
 }, {
   "project" : {
     "projectId" : 3328,
-    "projectUUID" : "b8ee1665-4bcb-42c5-b9da-479fcb53e835",
+    "projectUUID" : "B8EE1665-4BCB-42C5-B9DA-479FCB53E835",
     "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part V]",
     "state" : "ACTIVE"
   },
@@ -18497,6 +18608,43 @@
   },
   "dateTimeFetched" : "2019-11-22 09:56:39",
   "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part V]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3610,
+    "projectUUID" : "4d5188e1-1fcd-44a5-8fc9-8c0f14491840",
+    "name" : "Peru, Huanuco—Civil Registration, 1888–1998 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1000,
+  "batchCount" : 45625,
+  "auditBatchCount" : 2165,
+  "imageCount" : 183163,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1000,
+    "batchCount" : 43460,
+    "images" : 183163,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 172039,
+    "audit" : 0,
+    "blocked" : 11124,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 14:44:19",
+  "name" : "Peru, Huanuco—Civil Registration, 1888–1998 [Part C]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -18612,7 +18760,7 @@
 }, {
   "project" : {
     "projectId" : 2706,
-    "projectUUID" : "fd672c2c-67e3-4f48-bd3e-2d12c067b520",
+    "projectUUID" : "FD672C2C-67E3-4F48-BD3E-2D12C067B520",
     "name" : "US, Missouri—County Marriages, 1806–1969 [Part K]",
     "state" : "ACTIVE"
   },
@@ -18723,7 +18871,7 @@
 }, {
   "project" : {
     "projectId" : 3426,
-    "projectUUID" : "953140cd-d456-4154-b7ae-13414a3a4ab5",
+    "projectUUID" : "953140CD-D456-4154-B7AE-13414A3A4AB5",
     "name" : "UK, England, Cumbria—Parish Records, 1538–1990 [Part B]",
     "state" : "ACTIVE"
   },
@@ -18760,7 +18908,7 @@
 }, {
   "project" : {
     "projectId" : 2684,
-    "projectUUID" : "3151ab83-c91c-4e6e-b31e-150b99fa8685",
+    "projectUUID" : "3151AB83-C91C-4E6E-B31E-150B99FA8685",
     "name" : "Panama—Registros Parroquiales, 1748–1972 [Parte E]",
     "state" : "ACTIVE"
   },
@@ -18945,7 +19093,7 @@
 }, {
   "project" : {
     "projectId" : 1927,
-    "projectUUID" : "1b7cfd90-4280-44a6-a9fd-1e5299e33a50",
+    "projectUUID" : "1B7CFD90-4280-44A6-A9FD-1E5299E33A50",
     "name" : "QA Internal Test Old Admin WAF fixes",
     "state" : "ACTIVE"
   },
@@ -19019,7 +19167,7 @@
 }, {
   "project" : {
     "projectId" : 3455,
-    "projectUUID" : "d3c46006-1824-46ee-bd17-8a503c1502d6",
+    "projectUUID" : "D3C46006-1824-46EE-BD17-8A503C1502D6",
     "name" : "United States—Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part A]",
     "state" : "ACTIVE"
   },
@@ -19611,7 +19759,7 @@
 }, {
   "project" : {
     "projectId" : 3302,
-    "projectUUID" : "e8e69b79-6582-4db2-8c9b-50d8131c7ae5",
+    "projectUUID" : "E8E69B79-6582-4DB2-8C9B-50D8131C7AE5",
     "name" : "US, Kansas—Swedish Church Records, Vitals, 1861–1918",
     "state" : "ACTIVE"
   },
@@ -19759,7 +19907,7 @@
 }, {
   "project" : {
     "projectId" : 3486,
-    "projectUUID" : "8bc97ffe-c496-498f-a9e8-771fca2853c2",
+    "projectUUID" : "8BC97FFE-C496-498F-A9E8-771FCA2853C2",
     "name" : "Haiti—Civil Registration of Deaths, 1824–2013 [Part G]",
     "state" : "ACTIVE"
   },
@@ -19767,7 +19915,7 @@
   "batchCount" : 3215,
   "auditBatchCount" : 155,
   "imageCount" : 15852,
-  "blockedCount" : 0,
+  "blockedCount" : 1933,
   "iesAuditBatchCount" : 10,
   "iesCountsNoAudit" : {
     "imagesetCount" : 261,
@@ -19870,7 +20018,7 @@
 }, {
   "project" : {
     "projectId" : 1944,
-    "projectUUID" : "1f1af948-01b1-4b26-9c2d-60e0a1cb2b06",
+    "projectUUID" : "1F1AF948-01B1-4B26-9C2D-60E0A1CB2B06",
     "name" : "US, New York, New York—Marriages, 1866–1938 [Part D]",
     "state" : "ACTIVE"
   },
@@ -19907,7 +20055,7 @@
 }, {
   "project" : {
     "projectId" : 1945,
-    "projectUUID" : "a6d09e02-3a00-467b-b5cf-67d8c8a7d0c2",
+    "projectUUID" : "A6D09E02-3A00-467B-B5CF-67D8C8A7D0C2",
     "name" : "US, Michigan—Archives of Michigan, Naturalization Records, 1812–1985 [Part B]",
     "state" : "ACTIVE"
   },
@@ -19981,7 +20129,7 @@
 }, {
   "project" : {
     "projectId" : 2229,
-    "projectUUID" : "b950a793-d1dd-4406-a5e3-1a14e6695829",
+    "projectUUID" : "B950A793-D1DD-4406-A5E3-1A14E6695829",
     "name" : "Italia (Antenati Italiani), Palermo—Morti, 1820–1865 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -19989,7 +20137,7 @@
   "batchCount" : 23803,
   "auditBatchCount" : 1130,
   "imageCount" : 144791,
-  "blockedCount" : 0,
+  "blockedCount" : 31680,
   "iesAuditBatchCount" : 11,
   "iesCountsNoAudit" : {
     "imagesetCount" : 121,
@@ -20018,7 +20166,7 @@
 }, {
   "project" : {
     "projectId" : 3315,
-    "projectUUID" : "f9ae0610-94a1-471b-932d-4ec7aa502232",
+    "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
     "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
     "state" : "ACTIVE"
   },
@@ -20166,7 +20314,7 @@
 }, {
   "project" : {
     "projectId" : 2530,
-    "projectUUID" : "670cba5f-4edc-42fb-98b1-4772bb2bb550",
+    "projectUUID" : "670CBA5F-4EDC-42FB-98B1-4772BB2BB550",
     "name" : "Honduras—Registros de la Iglesia Catolica, 1694–1979",
     "state" : "ACTIVE"
   },
@@ -20174,7 +20322,7 @@
   "batchCount" : 41250,
   "auditBatchCount" : 1969,
   "imageCount" : 93219,
-  "blockedCount" : 0,
+  "blockedCount" : 17915,
   "iesAuditBatchCount" : 1514,
   "iesCountsNoAudit" : {
     "imagesetCount" : 126,
@@ -20314,7 +20462,7 @@
 }, {
   "project" : {
     "projectId" : 2222,
-    "projectUUID" : "3f201761-fb0c-4fb5-a3a1-3d2067d94eeb",
+    "projectUUID" : "3F201761-FB0C-4FB5-A3A1-3D2067D94EEB",
     "name" : "España, Murcia—Catedral de Cartagena, Registros de la Iglesia católica, 1552—1948 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -20499,7 +20647,7 @@
 }, {
   "project" : {
     "projectId" : 3002,
-    "projectUUID" : "0dc69770-e262-4c5b-bf04-f6280e247cae",
+    "projectUUID" : "0DC69770-E262-4C5B-BF04-F6280E247CAE",
     "name" : "US, Pennsylvania—World War I Draft Registration Cards, 1917–1918 [Part B]",
     "state" : "ACTIVE"
   },
@@ -20536,7 +20684,7 @@
 }, {
   "project" : {
     "projectId" : 3207,
-    "projectUUID" : "2e920bc4-2b0a-4169-abff-02846f4fa970",
+    "projectUUID" : "2E920BC4-2B0A-4169-ABFF-02846F4FA970",
     "name" : "Canada, Nova Scotia—Death Records, 1864–1877",
     "state" : "ACTIVE"
   },
@@ -20544,7 +20692,7 @@
   "batchCount" : 15905,
   "auditBatchCount" : 758,
   "imageCount" : 27895,
-  "blockedCount" : 0,
+  "blockedCount" : 12231,
   "iesAuditBatchCount" : 200,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
@@ -20573,7 +20721,7 @@
 }, {
   "project" : {
     "projectId" : 2531,
-    "projectUUID" : "9287443e-6234-42e3-adf3-92450a93e2d1",
+    "projectUUID" : "9287443E-6234-42E3-ADF3-92450A93E2D1",
     "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -20832,7 +20980,7 @@
 }, {
   "project" : {
     "projectId" : 2767,
-    "projectUUID" : "407b9bb6-cec6-47a9-b8ce-e6fbb84e0fd5",
+    "projectUUID" : "407B9BB6-CEC6-47A9-B8CE-E6FBB84E0FD5",
     "name" : "UK, Wales—National Library of Wales Marriage Bonds, 1600–1754 [Part C]",
     "state" : "ACTIVE"
   },
@@ -20869,7 +21017,7 @@
 }, {
   "project" : {
     "projectId" : 3020,
-    "projectUUID" : "433be231-3d8c-4221-be94-ec4474c16eea",
+    "projectUUID" : "433BE231-3D8C-4221-BE94-EC4474C16EEA",
     "name" : "Italia (Antenati Italiani), Udine—Stato Civile, 1806–1900 [Parte 2L]",
     "state" : "ACTIVE"
   },
@@ -20877,7 +21025,7 @@
   "batchCount" : 4075,
   "auditBatchCount" : 183,
   "imageCount" : 19335,
-  "blockedCount" : 0,
+  "blockedCount" : 5078,
   "iesAuditBatchCount" : 48,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
@@ -20906,7 +21054,7 @@
 }, {
   "project" : {
     "projectId" : 2066,
-    "projectUUID" : "b139ff3f-db66-4892-9d47-1a3dd7a37338",
+    "projectUUID" : "B139FF3F-DB66-4892-9D47-1A3DD7A37338",
     "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, Geboorten, 1811–1902",
     "state" : "ACTIVE"
   },
@@ -21054,7 +21202,7 @@
 }, {
   "project" : {
     "projectId" : 3508,
-    "projectUUID" : "d75b846b-552c-4b1c-b4de-1eb329bbe03d",
+    "projectUUID" : "D75B846B-552C-4B1C-B4DE-1EB329BBE03D",
     "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part B]",
     "state" : "ACTIVE"
   },
@@ -21062,7 +21210,7 @@
   "batchCount" : 20239,
   "auditBatchCount" : 957,
   "imageCount" : 199211,
-  "blockedCount" : 0,
+  "blockedCount" : 48137,
   "iesAuditBatchCount" : 402,
   "iesCountsNoAudit" : {
     "imagesetCount" : 400,
@@ -21128,7 +21276,7 @@
 }, {
   "project" : {
     "projectId" : 3669,
-    "projectUUID" : "cead5f59-5f85-400c-83ca-fac1a0b86528",
+    "projectUUID" : "CEAD5F59-5F85-400C-83CA-FAC1A0B86528",
     "name" : "Chile—Cemetery Records, 1880–2015 [Part E]",
     "state" : "ACTIVE"
   },
@@ -21165,7 +21313,7 @@
 }, {
   "project" : {
     "projectId" : 2441,
-    "projectUUID" : "62a08c6f-425a-4697-8224-f63b6931a1e1",
+    "projectUUID" : "62A08C6F-425A-4697-8224-F63B6931A1E1",
     "name" : "Perú, Junín—Registro Civil, Nacimientos, 1890–1999 [Parte J]",
     "state" : "ACTIVE"
   },
@@ -21239,7 +21387,7 @@
 }, {
   "project" : {
     "projectId" : 3596,
-    "projectUUID" : "d4bfd1b6-878b-4fcc-b077-b0bc93618d5a",
+    "projectUUID" : "D4BFD1B6-878B-4FCC-B077-B0BC93618D5A",
     "name" : "US, New York, Adirondacks—Index to Land Records, Grantors, 1630-1975 [Part I]",
     "state" : "ACTIVE"
   },
@@ -21794,7 +21942,7 @@
 }, {
   "project" : {
     "projectId" : 2138,
-    "projectUUID" : "a8f8fd6f-e47d-42ac-b023-fec22e8fd7f7",
+    "projectUUID" : "A8F8FD6F-E47D-42AC-B023-FEC22E8FD7F7",
     "name" : "Sverige, Västerbotten—Kyrkböcker fram till 1860 [Del B]",
     "state" : "ACTIVE"
   },
@@ -21942,7 +22090,7 @@
 }, {
   "project" : {
     "projectId" : 3645,
-    "projectUUID" : "80b62061-e178-4c7a-89f4-5f1b50667205",
+    "projectUUID" : "80B62061-E178-4C7A-89F4-5F1B50667205",
     "name" : "US, Texas, Harrison County—Delayed Birth Records, 1860–1933 [Part B]",
     "state" : "ACTIVE"
   },
@@ -21979,7 +22127,7 @@
 }, {
   "project" : {
     "projectId" : 3172,
-    "projectUUID" : "5e7a031e-f86b-4db4-85d4-f160074a2c64",
+    "projectUUID" : "5E7A031E-F86B-4DB4-85D4-F160074A2C64",
     "name" : "US, Louisiana—Confederate Pensions, 1898–1950",
     "state" : "ACTIVE"
   },
@@ -22053,7 +22201,7 @@
 }, {
   "project" : {
     "projectId" : 3441,
-    "projectUUID" : "ae3ea165-181e-4ab9-ae01-60691d2f3948",
+    "projectUUID" : "AE3EA165-181E-4AB9-AE01-60691D2F3948",
     "name" : "UK, England, Devon—Bishop's Transcripts, 1558–1887 [Part D]",
     "state" : "ACTIVE"
   },
@@ -22090,7 +22238,7 @@
 }, {
   "project" : {
     "projectId" : 3566,
-    "projectUUID" : "f4c18995-cb37-41bf-9245-5ab506c193e6",
+    "projectUUID" : "F4C18995-CB37-41BF-9245-5AB506C193E6",
     "name" : "US, South Carolina—County Voter Registration Records, 1882–1895",
     "state" : "ACTIVE"
   },
@@ -22164,7 +22312,7 @@
 }, {
   "project" : {
     "projectId" : 3027,
-    "projectUUID" : "5e3c7c75-7e83-48c6-a2ff-6ffad477fcf5",
+    "projectUUID" : "5E3C7C75-7E83-48C6-A2FF-6FFAD477FCF5",
     "name" : "Italia (Antenati Italiani), Campobasso—Stato Civile, 1809–1911 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -22172,7 +22320,7 @@
   "batchCount" : 85700,
   "auditBatchCount" : 4082,
   "imageCount" : 413643,
-  "blockedCount" : 0,
+  "blockedCount" : 66374,
   "iesAuditBatchCount" : 209,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
@@ -22201,7 +22349,7 @@
 }, {
   "project" : {
     "projectId" : 3149,
-    "projectUUID" : "d232f31c-3f11-470b-8e2e-93649ce70a76",
+    "projectUUID" : "D232F31C-3F11-470B-8E2E-93649CE70A76",
     "name" : "UK, England, Herefordshire—Bishop's Transcripts, 1754–1898",
     "state" : "ACTIVE"
   },
@@ -22275,7 +22423,7 @@
 }, {
   "project" : {
     "projectId" : 3584,
-    "projectUUID" : "9176e5d7-b714-49b2-95c4-37d8461a11c5",
+    "projectUUID" : "9176E5D7-B714-49B2-95C4-37D8461A11C5",
     "name" : "Peru, Huánuco—Civil Registration, 1888–1998 [Part B]",
     "state" : "ACTIVE"
   },
@@ -22349,7 +22497,7 @@
 }, {
   "project" : {
     "projectId" : 3224,
-    "projectUUID" : "16ed8ca3-e7a5-4484-a15f-4ea9a61aad4c",
+    "projectUUID" : "16ED8CA3-E7A5-4484-A15F-4EA9A61AAD4C",
     "name" : "Brasil, Paraná—Registro Civil, 1852–1996 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -22423,7 +22571,7 @@
 }, {
   "project" : {
     "projectId" : 2398,
-    "projectUUID" : "d3e00fab-c7d5-4aa3-8035-7ed831b9622a",
+    "projectUUID" : "D3E00FAB-C7D5-4AA3-8035-7ED831B9622A",
     "name" : "Deutschland, Preußen, Sachsen—Volkszählungen, 1770–1934 [Teil A]",
     "state" : "ACTIVE"
   },
@@ -22431,7 +22579,7 @@
   "batchCount" : 35015,
   "auditBatchCount" : 1668,
   "imageCount" : 49064,
-  "blockedCount" : 0,
+  "blockedCount" : 11842,
   "iesAuditBatchCount" : 179,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
@@ -22460,7 +22608,7 @@
 }, {
   "project" : {
     "projectId" : 3190,
-    "projectUUID" : "73e5e290-14f9-412b-85be-7ec405440174",
+    "projectUUID" : "73E5E290-14F9-412B-85BE-7EC405440174",
     "name" : "US, Indiana—County Marriages, 1811–2007 [Part K]",
     "state" : "ACTIVE"
   },
@@ -22719,7 +22867,7 @@
 }, {
   "project" : {
     "projectId" : 3430,
-    "projectUUID" : "7a536a0d-d492-4139-93b8-f037ecd00274",
+    "projectUUID" : "7A536A0D-D492-4139-93B8-F037ECD00274",
     "name" : "Spain, Gerona—Electoral Census Part 3",
     "state" : "ACTIVE"
   },
@@ -22978,7 +23126,7 @@
 }, {
   "project" : {
     "projectId" : 2647,
-    "projectUUID" : "aeaaf336-507a-4482-a3c3-05d6f7fba54b",
+    "projectUUID" : "AEAAF336-507A-4482-A3C3-05D6F7FBA54B",
     "name" : "Argentina, Salta—Registros de la Iglesia Católica, 1673–1972",
     "state" : "ACTIVE"
   },
@@ -23015,7 +23163,7 @@
 }, {
   "project" : {
     "projectId" : 3634,
-    "projectUUID" : "894096e3-b5d2-40ba-89af-eac453e2fc75",
+    "projectUUID" : "894096E3-B5D2-40BA-89AF-EAC453E2FC75",
     "name" : "US, Wisconsin—Out of Wedlock Births, 1964–1993",
     "state" : "ACTIVE"
   },
@@ -23200,7 +23348,7 @@
 }, {
   "project" : {
     "projectId" : 2342,
-    "projectUUID" : "510a9ed0-02ac-42c0-b24f-679218d54b24",
+    "projectUUID" : "510A9ED0-02AC-42C0-B24F-679218D54B24",
     "name" : "Italia (Antenati Italiani), Avellino—Nati, 1809–1899",
     "state" : "ACTIVE"
   },
@@ -23208,7 +23356,7 @@
   "batchCount" : 55109,
   "auditBatchCount" : 2623,
   "imageCount" : 352115,
-  "blockedCount" : 0,
+  "blockedCount" : 90088,
   "iesAuditBatchCount" : 2,
   "iesCountsNoAudit" : {
     "imagesetCount" : 121,
@@ -23274,7 +23422,7 @@
 }, {
   "project" : {
     "projectId" : 2253,
-    "projectUUID" : "3e1228f2-efde-4af0-88e5-53b8c05100c4",
+    "projectUUID" : "3E1228F2-EFDE-4AF0-88E5-53B8C05100C4",
     "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte F]",
     "state" : "ACTIVE"
   },
@@ -23282,7 +23430,7 @@
   "batchCount" : 23412,
   "auditBatchCount" : 1107,
   "imageCount" : 109164,
-  "blockedCount" : 0,
+  "blockedCount" : 11942,
   "iesAuditBatchCount" : 968,
   "iesCountsNoAudit" : {
     "imagesetCount" : 174,
@@ -23348,7 +23496,7 @@
 }, {
   "project" : {
     "projectId" : 2211,
-    "projectUUID" : "09299c6d-00ac-4726-9cd0-41c4ad8c8371",
+    "projectUUID" : "09299C6D-00AC-4726-9CD0-41C4AD8C8371",
     "name" : "Slovenija, Ljubljana—Pogrebni dokumenti, 1937—1970 [Del 4]",
     "state" : "ACTIVE"
   },
@@ -23496,7 +23644,7 @@
 }, {
   "project" : {
     "projectId" : 3639,
-    "projectUUID" : "466e2c33-1a63-4967-8c87-74dcfe12aa15",
+    "projectUUID" : "466E2C33-1A63-4967-8C87-74DCFE12AA15",
     "name" : "US, Hawaii—Probate Packet Records, 1814–1917",
     "state" : "ACTIVE"
   },
@@ -23533,7 +23681,7 @@
 }, {
   "project" : {
     "projectId" : 3650,
-    "projectUUID" : "dd9fec05-3c2f-4c2e-a6bd-7f0d21aa8c36",
+    "projectUUID" : "DD9FEC05-3C2F-4C2E-A6BD-7F0D21AA8C36",
     "name" : "US, Mississippi—Voter Registration, 1876–1912",
     "state" : "ACTIVE"
   },
@@ -24014,7 +24162,7 @@
 }, {
   "project" : {
     "projectId" : 2884,
-    "projectUUID" : "d6cf1cfc-8a7e-4e9b-b7d4-17792b321a4d",
+    "projectUUID" : "D6CF1CFC-8A7E-4E9B-B7D4-17792B321A4D",
     "name" : "Bolivia, Departamento de La Paz—Registros de la Iglesia Católica, 1627–1965 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -24347,7 +24495,7 @@
 }, {
   "project" : {
     "projectId" : 3699,
-    "projectUUID" : "6ab67c66-58bb-4575-819c-a3ab72169d35",
+    "projectUUID" : "6AB67C66-58BB-4575-819C-A3AB72169D35",
     "name" : "UK, England, Yorkshire—Marriage Bonds and Allegations, 1613–1887",
     "state" : "ACTIVE"
   },
@@ -24384,7 +24532,7 @@
 }, {
   "project" : {
     "projectId" : 2434,
-    "projectUUID" : "57b94c09-c5fd-4faa-a7c0-404a8fc6af47",
+    "projectUUID" : "57B94C09-C5FD-4FAA-A7C0-404A8FC6AF47",
     "name" : "België, (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel E]",
     "state" : "ACTIVE"
   },
@@ -24495,7 +24643,7 @@
 }, {
   "project" : {
     "projectId" : 2341,
-    "projectUUID" : "86fbf6b6-4e1e-4938-83fe-1933234fd6e5",
+    "projectUUID" : "86FBF6B6-4E1E-4938-83FE-1933234FD6E5",
     "name" : "Guatemala (Lote rápido)—Registros Civiles, 1885–2009 [Parte F]",
     "state" : "ACTIVE"
   },
@@ -24569,7 +24717,7 @@
 }, {
   "project" : {
     "projectId" : 2005,
-    "projectUUID" : "acb80718-5da9-42fe-99ed-08ca3abedfd9",
+    "projectUUID" : "ACB80718-5DA9-42FE-99ED-08CA3ABEDFD9",
     "name" : "Ecuador—Registros de la Iglesia Católica, 1615–1996 [Part A]",
     "state" : "ACTIVE"
   },
@@ -24577,7 +24725,7 @@
   "batchCount" : 337922,
   "auditBatchCount" : 16085,
   "imageCount" : 648662,
-  "blockedCount" : 0,
+  "blockedCount" : 93134,
   "iesAuditBatchCount" : 6420,
   "iesCountsNoAudit" : {
     "imagesetCount" : 317,
@@ -24902,7 +25050,7 @@
 }, {
   "project" : {
     "projectId" : 1781,
-    "projectUUID" : "b0381eee-56ae-472c-bcb1-f27be9deea1c",
+    "projectUUID" : "B0381EEE-56AE-472C-BCB1-F27BE9DEEA1C",
     "name" : "Deutschland, Sachsen – Kirchenbuchverzeichnisse, 1600–1900",
     "state" : "ACTIVE"
   },
@@ -24910,7 +25058,7 @@
   "batchCount" : 34059,
   "auditBatchCount" : 1622,
   "imageCount" : 173542,
-  "blockedCount" : 0,
+  "blockedCount" : 11596,
   "iesAuditBatchCount" : 456,
   "iesCountsNoAudit" : {
     "imagesetCount" : 36,
@@ -24976,7 +25124,7 @@
 }, {
   "project" : {
     "projectId" : 2542,
-    "projectUUID" : "206326a1-5f23-461b-aea6-bee84e5f20cf",
+    "projectUUID" : "206326A1-5F23-461B-AEA6-BEE84E5F20CF",
     "name" : "US, New York—Index to Land Records, Grantors, 1630-1975 [Part A]",
     "state" : "ACTIVE"
   },
@@ -25013,7 +25161,7 @@
 }, {
   "project" : {
     "projectId" : 3021,
-    "projectUUID" : "0b70de34-caf2-4500-b2a3-266396f95b31",
+    "projectUUID" : "0B70DE34-CAF2-4500-B2A3-266396F95B31",
     "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -25021,7 +25169,7 @@
   "batchCount" : 45378,
   "auditBatchCount" : 2152,
   "imageCount" : 133104,
-  "blockedCount" : 0,
+  "blockedCount" : 6266,
   "iesAuditBatchCount" : 2152,
   "iesCountsNoAudit" : {
     "imagesetCount" : 321,
@@ -25235,7 +25383,7 @@
 }, {
   "project" : {
     "projectId" : 3647,
-    "projectUUID" : "6a526ef4-0cd6-4e8c-9bef-ed858067bece",
+    "projectUUID" : "6A526EF4-0CD6-4E8C-9BEF-ED858067BECE",
     "name" : "US, Hawaii—Board of Health, Marriage Record Indexes, 1909–1989",
     "state" : "ACTIVE"
   },
@@ -25309,7 +25457,7 @@
 }, {
   "project" : {
     "projectId" : 2966,
-    "projectUUID" : "bb27df21-d9df-492c-ab84-5d8341c9bf76",
+    "projectUUID" : "BB27DF21-D9DF-492C-AB84-5D8341C9BF76",
     "name" : "US, Oklahoma—Confederate Pension Applications, 1879–1920",
     "state" : "ACTIVE"
   },
@@ -25383,7 +25531,7 @@
 }, {
   "project" : {
     "projectId" : 2863,
-    "projectUUID" : "8e732b56-126f-4b33-acd0-547157cd11ad",
+    "projectUUID" : "8E732B56-126F-4B33-ACD0-547157CD11AD",
     "name" : "Italia (Antenati Italiani), Napoli, Avvocata—Stato Civile, 1809–1845 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -25568,7 +25716,7 @@
 }, {
   "project" : {
     "projectId" : 2777,
-    "projectUUID" : "b97869d3-3399-4d8f-91c5-d7e0420be03b",
+    "projectUUID" : "B97869D3-3399-4D8F-91C5-D7E0420BE03B",
     "name" : "Sverige, Örebro—Kyrkoböcker, 1650–1860 [Del 10D]",
     "state" : "ACTIVE"
   },
@@ -25605,7 +25753,7 @@
 }, {
   "project" : {
     "projectId" : 2275,
-    "projectUUID" : "656fc60f-3628-4d79-b0ad-fc56404ad14e",
+    "projectUUID" : "656FC60F-3628-4D79-B0AD-FC56404AD14E",
     "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel D]",
     "state" : "ACTIVE"
   },
@@ -25716,7 +25864,7 @@
 }, {
   "project" : {
     "projectId" : 3365,
-    "projectUUID" : "20b53411-f311-4de2-9934-708b7633a07b",
+    "projectUUID" : "20B53411-F311-4DE2-9934-708B7633A07B",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BI]",
     "state" : "ACTIVE"
   },
@@ -25790,7 +25938,7 @@
 }, {
   "project" : {
     "projectId" : 3674,
-    "projectUUID" : "25545a47-32b1-42db-89fa-3ec94c7ee1e8",
+    "projectUUID" : "25545A47-32B1-42DB-89FA-3EC94C7EE1E8",
     "name" : "US, Idaho—Alien Arrivals, 1923–1952",
     "state" : "ACTIVE"
   },
@@ -25864,7 +26012,7 @@
 }, {
   "project" : {
     "projectId" : 2406,
-    "projectUUID" : "4c028a42-87f7-41ff-b151-8d53dfb6ab39",
+    "projectUUID" : "4C028A42-87F7-41FF-B151-8D53DFB6AB39",
     "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte E]",
     "state" : "ACTIVE"
   },
@@ -26123,7 +26271,7 @@
 }, {
   "project" : {
     "projectId" : 2569,
-    "projectUUID" : "589df182-666b-428a-b649-659d9f6bc01a",
+    "projectUUID" : "589DF182-666B-428A-B649-659D9F6BC01A",
     "name" : "Suid-Afrika—Nederduitsch Hervormde Kerk Doop en Ledenadministrasie, 1838–1991 [Part C]",
     "state" : "ACTIVE"
   },
@@ -26160,7 +26308,7 @@
 }, {
   "project" : {
     "projectId" : 2582,
-    "projectUUID" : "91cfba02-c94c-45ad-8539-021ab137ce21",
+    "projectUUID" : "91CFBA02-C94C-45AD-8539-021AB137CE21",
     "name" : "Ukraine, L'viv—Roman Catholic Diocese Church Book Duplicates, 1600–1948 [Part 2]",
     "state" : "ACTIVE"
   },
@@ -26308,7 +26456,7 @@
 }, {
   "project" : {
     "projectId" : 2755,
-    "projectUUID" : "74f78a92-2370-4a79-8cf6-a97285d80ceb",
+    "projectUUID" : "74F78A92-2370-4A79-8CF6-A97285D80CEB",
     "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie C]",
     "state" : "ACTIVE"
   },
@@ -26316,7 +26464,7 @@
   "batchCount" : 11456,
   "auditBatchCount" : 541,
   "imageCount" : 182066,
-  "blockedCount" : 0,
+  "blockedCount" : 74481,
   "iesAuditBatchCount" : 24,
   "iesCountsNoAudit" : {
     "imagesetCount" : 237,
@@ -26456,7 +26604,7 @@
 }, {
   "project" : {
     "projectId" : 3165,
-    "projectUUID" : "4341a2f4-e2c0-4dbe-b083-96ad6d576fc2",
+    "projectUUID" : "4341A2F4-E2C0-4DBE-B083-96AD6D576FC2",
     "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -26567,7 +26715,7 @@
 }, {
   "project" : {
     "projectId" : 2075,
-    "projectUUID" : "4e4a55d1-60f3-4713-8bc1-ceaa1c4a7161",
+    "projectUUID" : "4E4A55D1-60F3-4713-8BC1-CEAA1C4A7161",
     "name" : "Suomi, Kuopio—Henkikirjat, 1809–1915 [Osa A]",
     "state" : "ACTIVE"
   },
@@ -26604,7 +26752,7 @@
 }, {
   "project" : {
     "projectId" : 2140,
-    "projectUUID" : "d016b6af-7d6d-4a83-8e5f-1592b3c170c8",
+    "projectUUID" : "D016B6AF-7D6D-4A83-8E5F-1592B3C170C8",
     "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Part F]",
     "state" : "ACTIVE"
   },
@@ -26863,7 +27011,7 @@
 }, {
   "project" : {
     "projectId" : 3557,
-    "projectUUID" : "e4aab7ad-3b9e-4cf3-be7f-0e61d2fb729f",
+    "projectUUID" : "E4AAB7AD-3B9E-4CF3-BE7F-0E61D2FB729F",
     "name" : "Congo—1984 Census [Part A]",
     "state" : "ACTIVE"
   },
@@ -26900,7 +27048,7 @@
 }, {
   "project" : {
     "projectId" : 3635,
-    "projectUUID" : "7ad80983-8049-482b-bada-4548ec2c1def",
+    "projectUUID" : "7AD80983-8049-482B-BADA-4548EC2C1DEF",
     "name" : "United States—Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part D]",
     "state" : "ACTIVE"
   },
@@ -27048,7 +27196,7 @@
 }, {
   "project" : {
     "projectId" : 1990,
-    "projectUUID" : "d8638d8a-ea6e-40da-adf4-9859294c2143",
+    "projectUUID" : "D8638D8A-EA6E-40DA-ADF4-9859294C2143",
     "name" : "US, New York—County Naturalization Records, 1792–1976 [Part H]",
     "state" : "ACTIVE"
   },
@@ -27196,7 +27344,7 @@
 }, {
   "project" : {
     "projectId" : 2273,
-    "projectUUID" : "488a502b-3d4d-4b2c-bb65-9b53b23be6f4",
+    "projectUUID" : "488A502B-3D4D-4B2C-BB65-9B53B23BE6F4",
     "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part D]",
     "state" : "ACTIVE"
   },
@@ -27381,7 +27529,7 @@
 }, {
   "project" : {
     "projectId" : 2492,
-    "projectUUID" : "b009e0fc-c6c2-4c74-a840-7d18590c9c72",
+    "projectUUID" : "B009E0FC-C6C2-4C74-A840-7D18590C9C72",
     "name" : "España, Lugo—Registros de la Iglesia Católica, 1537–1984 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -27389,7 +27537,7 @@
   "batchCount" : 3502,
   "auditBatchCount" : 167,
   "imageCount" : 20461,
-  "blockedCount" : 0,
+  "blockedCount" : 646,
   "iesAuditBatchCount" : 5,
   "iesCountsNoAudit" : {
     "imagesetCount" : 18,
@@ -27492,7 +27640,7 @@
 }, {
   "project" : {
     "projectId" : 3151,
-    "projectUUID" : "16a80928-4a84-4e77-92e7-1f89f2cea101",
+    "projectUUID" : "16A80928-4A84-4E77-92E7-1F89F2CEA101",
     "name" : "US, Puerto Rico—World War I Draft Registration Cards, 1917–1918 [Part B]",
     "state" : "ACTIVE"
   },
@@ -27788,7 +27936,7 @@
 }, {
   "project" : {
     "projectId" : 3264,
-    "projectUUID" : "0ff51b12-786a-4e5f-970b-040456574ec3",
+    "projectUUID" : "0FF51B12-786A-4E5F-970B-040456574EC3",
     "name" : "Portugal, Portalegre—Registros da Igreja Católica, 1870–1911 [Parte 1D]",
     "state" : "ACTIVE"
   },
@@ -27936,7 +28084,7 @@
 }, {
   "project" : {
     "projectId" : 1767,
-    "projectUUID" : "de999dd7-dc33-42e1-b58b-aefd985f8db6",
+    "projectUUID" : "DE999DD7-DC33-42E1-B58B-AEFD985F8DB6",
     "name" : "Guatemala—Civil Registration, 1885–2009 [Part B]",
     "state" : "ACTIVE"
   },
@@ -28306,7 +28454,7 @@
 }, {
   "project" : {
     "projectId" : 3411,
-    "projectUUID" : "572fd7a1-5321-4b67-9c59-0b4c46f62b75",
+    "projectUUID" : "572FD7A1-5321-4B67-9C59-0B4C46F62B75",
     "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog of Newspapers, 1553–2015 [Part J]",
     "state" : "ACTIVE"
   },
@@ -28417,7 +28565,7 @@
 }, {
   "project" : {
     "projectId" : 2718,
-    "projectUUID" : "915c9fe7-f285-4984-ac12-ad7f260931bb",
+    "projectUUID" : "915C9FE7-F285-4984-AC12-AD7F260931BB",
     "name" : "Peru, Diocesis de Huacho—Parish Records, 1560–1952 [Part G]",
     "state" : "ACTIVE"
   },
@@ -28676,7 +28824,7 @@
 }, {
   "project" : {
     "projectId" : 2795,
-    "projectUUID" : "52e692f1-f281-4515-aaf5-d009972b43fd",
+    "projectUUID" : "52E692F1-F281-4515-AAF5-D009972B43FD",
     "name" : "US, Missouri—1876 State Census [Part B]",
     "state" : "ACTIVE"
   },
@@ -28750,7 +28898,7 @@
 }, {
   "project" : {
     "projectId" : 3727,
-    "projectUUID" : "a4f0537f-75eb-44a7-9f9c-685cad9cb41f",
+    "projectUUID" : "A4F0537F-75EB-44A7-9F9C-685CAD9CB41F",
     "name" : "US, Kentucky, Livingston County—Colored School Censuses, 1898–1913 [Part A]",
     "state" : "ACTIVE"
   },
@@ -28787,7 +28935,7 @@
 }, {
   "project" : {
     "projectId" : 3288,
-    "projectUUID" : "7bca0ecb-0173-4535-a2c8-991969cb7b7b",
+    "projectUUID" : "7BCA0ECB-0173-4535-A2C8-991969CB7B7B",
     "name" : "US, Ohio—County Births, 1849–1985 [Part B]",
     "state" : "ACTIVE"
   },
@@ -28824,7 +28972,7 @@
 }, {
   "project" : {
     "projectId" : 3607,
-    "projectUUID" : "81fabb6b-f614-4d55-b01c-e8097b18c5f6",
+    "projectUUID" : "81FABB6B-F614-4D55-B01C-E8097B18C5F6",
     "name" : "US, American Samoa—Vital Records, 1850–1972",
     "state" : "ACTIVE"
   },
@@ -29490,7 +29638,7 @@
 }, {
   "project" : {
     "projectId" : 3422,
-    "projectUUID" : "77ef3544-28ad-47e7-946f-da4279112529",
+    "projectUUID" : "77EF3544-28AD-47E7-946F-DA4279112529",
     "name" : "US, Louisiana, New Orleans—Interment Registers, 1836–1972",
     "state" : "ACTIVE"
   },
@@ -29564,7 +29712,7 @@
 }, {
   "project" : {
     "projectId" : 3396,
-    "projectUUID" : "74413892-9d82-4be0-b022-1dec18e29266",
+    "projectUUID" : "74413892-9D82-4BE0-B022-1DEC18E29266",
     "name" : "French Polynesia (Quick Batch)—Civil Registration, 1780–2002 [Part C]",
     "state" : "ACTIVE"
   },
@@ -29572,7 +29720,7 @@
   "batchCount" : 1737,
   "auditBatchCount" : 83,
   "imageCount" : 419693,
-  "blockedCount" : 0,
+  "blockedCount" : 379518,
   "iesAuditBatchCount" : 74,
   "iesCountsNoAudit" : {
     "imagesetCount" : 258,
@@ -29601,7 +29749,7 @@
 }, {
   "project" : {
     "projectId" : 3299,
-    "projectUUID" : "5f20dbf3-e744-4c19-9b87-908038deb4cb",
+    "projectUUID" : "5F20DBF3-E744-4C19-9B87-908038DEB4CB",
     "name" : "US, New York—County Naturalization Records, 1792–1976 [Part P]",
     "state" : "ACTIVE"
   },
@@ -29712,7 +29860,7 @@
 }, {
   "project" : {
     "projectId" : 3405,
-    "projectUUID" : "ed56cac2-a9ba-4ec1-8c17-d763590f5406",
+    "projectUUID" : "ED56CAC2-A9BA-4EC1-8C17-D763590F5406",
     "name" : "Chile—Cemetery Records, 1880–2015 [Part C]",
     "state" : "ACTIVE"
   },
@@ -29860,7 +30008,7 @@
 }, {
   "project" : {
     "projectId" : 3626,
-    "projectUUID" : "f3c971ae-425e-428b-a128-abeda6263c33",
+    "projectUUID" : "F3C971AE-425E-428B-A128-ABEDA6263C33",
     "name" : "Spain, Gerona—Passports, 1717-1970",
     "state" : "ACTIVE"
   },
@@ -29897,7 +30045,7 @@
 }, {
   "project" : {
     "projectId" : 3272,
-    "projectUUID" : "ff5fca8f-6c6c-4913-a815-2c6372608f90",
+    "projectUUID" : "FF5FCA8F-6C6C-4913-A815-2C6372608F90",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BB]",
     "state" : "ACTIVE"
   },
@@ -30045,7 +30193,7 @@
 }, {
   "project" : {
     "projectId" : 3292,
-    "projectUUID" : "de6edf3c-1382-4cbd-8c3a-f3d506c2c8d0",
+    "projectUUID" : "DE6EDF3C-1382-4CBD-8C3A-F3D506C2C8D0",
     "name" : "Italy (Antenati Italiani), Genova—Civil Registration, 1866–1947 [Part B]",
     "state" : "ACTIVE"
   },
@@ -30082,7 +30230,7 @@
 }, {
   "project" : {
     "projectId" : 3484,
-    "projectUUID" : "68890d31-a896-47f4-89fb-0a5e529fea30",
+    "projectUUID" : "68890D31-A896-47F4-89FB-0A5E529FEA30",
     "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part A]",
     "state" : "ACTIVE"
   },
@@ -30156,7 +30304,7 @@
 }, {
   "project" : {
     "projectId" : 2844,
-    "projectUUID" : "4b9f1790-125d-491c-98a6-aa857b6aa988",
+    "projectUUID" : "4B9F1790-125D-491C-98A6-AA857B6AA988",
     "name" : "USA, I wojna światowa—rekruci do służby wojskowej w Armii Polskiej we Francji, 1917–1919",
     "state" : "ACTIVE"
   },
@@ -30859,7 +31007,7 @@
 }, {
   "project" : {
     "projectId" : 3558,
-    "projectUUID" : "3b96211a-d0c3-4249-a78a-9ea86018eb61",
+    "projectUUID" : "3B96211A-D0C3-4249-A78A-9EA86018EB61",
     "name" : "US (Quick Batch), Louisiana, New Orleans—Passenger Index Cards, 1853–1952",
     "state" : "ACTIVE"
   },
@@ -30896,7 +31044,7 @@
 }, {
   "project" : {
     "projectId" : 3317,
-    "projectUUID" : "a56b3dc8-6460-4eba-a134-3a70b77b6d10",
+    "projectUUID" : "A56B3DC8-6460-4EBA-A134-3A70B77B6D10",
     "name" : "US, New York, Western Regions—Index to Land Records, Grantee's, 1630-1975 [Part E]",
     "state" : "ACTIVE"
   },
@@ -31081,7 +31229,7 @@
 }, {
   "project" : {
     "projectId" : 3063,
-    "projectUUID" : "91745074-49a4-4efd-8e19-4dbef9d861a8",
+    "projectUUID" : "91745074-49A4-4EFD-8E19-4DBEF9D861A8",
     "name" : "US, Georgia—Confederate Pension Rolls, 1879–1920",
     "state" : "ACTIVE"
   },
@@ -31192,7 +31340,7 @@
 }, {
   "project" : {
     "projectId" : 2354,
-    "projectUUID" : "9eb3abc6-e174-4282-986e-2e9beb2a8f21",
+    "projectUUID" : "9EB3ABC6-E174-4282-986E-2E9BEB2A8F21",
     "name" : "Guatemala (Lote rápido)—Registro Civil, 1800–1950 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -31229,7 +31377,7 @@
 }, {
   "project" : {
     "projectId" : 3436,
-    "projectUUID" : "ab9a9ebb-3ce9-4d89-b0e6-e31a5d77a4ca",
+    "projectUUID" : "AB9A9EBB-3CE9-4D89-B0E6-E31A5D77A4CA",
     "name" : "Italy (Italian Ancestors), Vicenza, Bassano del Grappa—Civil Registration, 1871–1943 [Part A]",
     "state" : "ACTIVE"
   },
@@ -31266,7 +31414,7 @@
 }, {
   "project" : {
     "projectId" : 3274,
-    "projectUUID" : "bc5f56ad-3c8c-4945-81f8-55cd26190499",
+    "projectUUID" : "BC5F56AD-3C8C-4945-81F8-55CD26190499",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BD]",
     "state" : "ACTIVE"
   },
@@ -31274,7 +31422,7 @@
   "batchCount" : 240265,
   "auditBatchCount" : 11305,
   "imageCount" : 700579,
-  "blockedCount" : 0,
+  "blockedCount" : 17123,
   "iesAuditBatchCount" : 8985,
   "iesCountsNoAudit" : {
     "imagesetCount" : 3135,
@@ -31451,7 +31599,7 @@
 }, {
   "project" : {
     "projectId" : 2942,
-    "projectUUID" : "6dee09e6-5ab6-44e9-871f-e369e0759f08",
+    "projectUUID" : "6DEE09E6-5AB6-44E9-871F-E369E0759F08",
     "name" : "UK—War Office Registers, Soldier Records, 1772–1935 [Part B]",
     "state" : "ACTIVE"
   },
@@ -31821,7 +31969,7 @@
 }, {
   "project" : {
     "projectId" : 2798,
-    "projectUUID" : "62f09eda-ac6a-48a9-ae83-91e3ef4c9ae0",
+    "projectUUID" : "62F09EDA-AC6A-48A9-AE83-91E3EF4C9AE0",
     "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte F]",
     "state" : "ACTIVE"
   },
@@ -31858,7 +32006,7 @@
 }, {
   "project" : {
     "projectId" : 2546,
-    "projectUUID" : "9549b3c4-19b4-4066-9a47-2391c4100e7d",
+    "projectUUID" : "9549B3C4-19B4-4066-9A47-2391C4100E7D",
     "name" : "Nicaragua—Registro Civil, Nacimientos, 1809-2013 [Parte I]",
     "state" : "ACTIVE"
   },
@@ -32228,7 +32376,7 @@
 }, {
   "project" : {
     "projectId" : 1872,
-    "projectUUID" : "1040846f-51cd-4b86-8a2d-6dcf149634d3",
+    "projectUUID" : "1040846F-51CD-4B86-8A2D-6DCF149634D3",
     "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -32302,7 +32450,7 @@
 }, {
   "project" : {
     "projectId" : 3473,
-    "projectUUID" : "d675c414-5b46-40b2-acaf-264fb7c50d83",
+    "projectUUID" : "D675C414-5B46-40B2-ACAF-264FB7C50D83",
     "name" : "UK, England, Northumberland—Parish Registers, 1538–1753 [Part A]",
     "state" : "ACTIVE"
   },
@@ -32376,7 +32524,7 @@
 }, {
   "project" : {
     "projectId" : 1951,
-    "projectUUID" : "3a330e91-801b-4bf3-b3ba-e5eacbb5e289",
+    "projectUUID" : "3A330E91-801B-4BF3-B3BA-E5EACBB5E289",
     "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -33005,7 +33153,7 @@
 }, {
   "project" : {
     "projectId" : 3167,
-    "projectUUID" : "d888c9f1-156c-4b2c-9e32-d5e1b04a179e",
+    "projectUUID" : "D888C9F1-156C-4B2C-9E32-D5E1B04A179E",
     "name" : "Canada, Nova Scotia—Marriage Records, 1864–1918",
     "state" : "ACTIVE"
   },
@@ -33190,7 +33338,7 @@
 }, {
   "project" : {
     "projectId" : 3314,
-    "projectUUID" : "057c0ae6-12b5-45f9-8dad-14ab0df1529a",
+    "projectUUID" : "057C0AE6-12B5-45F9-8DAD-14AB0DF1529A",
     "name" : "Italia (Antenati Italiani), Campobasso, Cercepiccola—Matrimoni, 1810–1910 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -33449,7 +33597,7 @@
 }, {
   "project" : {
     "projectId" : 2059,
-    "projectUUID" : "aa00d9f0-e501-40dc-acf2-2ff26a05b78a",
+    "projectUUID" : "AA00D9F0-E501-40DC-ACF2-2FF26A05B78A",
     "name" : "Deutschland, Sachsen-Anhalt, Halberstadt—Zivilstandsregister, 1874–1982",
     "state" : "ACTIVE"
   },
@@ -33457,7 +33605,7 @@
   "batchCount" : 21583,
   "auditBatchCount" : 1018,
   "imageCount" : 207372,
-  "blockedCount" : 0,
+  "blockedCount" : 2395,
   "iesAuditBatchCount" : 901,
   "iesCountsNoAudit" : {
     "imagesetCount" : 292,
@@ -33560,7 +33708,7 @@
 }, {
   "project" : {
     "projectId" : 3623,
-    "projectUUID" : "b553916f-a618-487e-8a61-ee89437cd1ef",
+    "projectUUID" : "B553916F-A618-487E-8A61-EE89437CD1EF",
     "name" : "US, New York, Central Regions—Index to Land Records, Grantee's, 1630-1975 [Part F]",
     "state" : "ACTIVE"
   },
@@ -33708,7 +33856,7 @@
 }, {
   "project" : {
     "projectId" : 2219,
-    "projectUUID" : "f133c8eb-de65-4457-9e8a-530cc99b77fd",
+    "projectUUID" : "F133C8EB-DE65-4457-9E8A-530CC99B77FD",
     "name" : "Philippines, Camarines Sur, Caceres—Registros Parroquiales, 1716–1977 [Parte B]",
     "state" : "ACTIVE"
   },
@@ -33893,7 +34041,7 @@
 }, {
   "project" : {
     "projectId" : 2580,
-    "projectUUID" : "690aef5a-d245-49ed-90d0-0e2e3ef099cb",
+    "projectUUID" : "690AEF5A-D245-49ED-90D0-0E2E3EF099CB",
     "name" : "Guatemala—Registros Civiles, 1885–2009 [Part D]",
     "state" : "ACTIVE"
   },
@@ -33930,7 +34078,7 @@
 }, {
   "project" : {
     "projectId" : 3615,
-    "projectUUID" : "46a0d341-e01a-41f0-b1d9-a257f27cbbbb",
+    "projectUUID" : "46A0D341-E01A-41F0-B1D9-A257F27CBBBB",
     "name" : "US, Tennessee, Shelby County, Memphis—Death Records, 1848–1913 [Part A]",
     "state" : "ACTIVE"
   },
@@ -34078,7 +34226,7 @@
 }, {
   "project" : {
     "projectId" : 2579,
-    "projectUUID" : "dcfcfaa8-3f23-45df-8c61-e2a5356ba810",
+    "projectUUID" : "DCFCFAA8-3F23-45DF-8C61-E2A5356BA810",
     "name" : "Puerto Rico—Registros de La Iglesia Católica, 1763–1964 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -34152,7 +34300,7 @@
 }, {
   "project" : {
     "projectId" : 3273,
-    "projectUUID" : "1261feb0-5a92-47a5-86b8-5a7a32903e51",
+    "projectUUID" : "1261FEB0-5A92-47A5-86B8-5A7A32903E51",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BC]",
     "state" : "ACTIVE"
   },
@@ -34189,7 +34337,7 @@
 }, {
   "project" : {
     "projectId" : 2056,
-    "projectUUID" : "9bf99d74-ee9c-4691-b1d2-67fc0e0cb252",
+    "projectUUID" : "9BF99D74-EE9C-4691-B1D2-67FC0E0CB252",
     "name" : "Sverige, Stockholms stad—Index till kyrkböcker, 1546–1927 [Del 5]",
     "state" : "ACTIVE"
   },
@@ -34226,7 +34374,7 @@
 }, {
   "project" : {
     "projectId" : 3630,
-    "projectUUID" : "2654dd2e-4642-4378-8b53-b72cd217ba6a",
+    "projectUUID" : "2654DD2E-4642-4378-8B53-B72CD217BA6A",
     "name" : "US, Tennessee, Shelby County, Memphis—Death Records, 1848–1913 [Part B]",
     "state" : "ACTIVE"
   },
@@ -34337,7 +34485,7 @@
 }, {
   "project" : {
     "projectId" : 3569,
-    "projectUUID" : "8ee240ca-c426-4d13-aded-0aab6b4ce3f7",
+    "projectUUID" : "8EE240CA-C426-4D13-ADED-0AAB6B4CE3F7",
     "name" : "US, South Carolina—State and Territorial Censuses, 1753–1920",
     "state" : "ACTIVE"
   },
@@ -34411,7 +34559,7 @@
 }, {
   "project" : {
     "projectId" : 3560,
-    "projectUUID" : "05c48cb6-6eb0-438f-bcaa-f445e902745d",
+    "projectUUID" : "05C48CB6-6EB0-438F-BCAA-F445E902745D",
     "name" : "US, Maryland, Baltimore—Index to passenger lists of vessels arriving at Baltimore, 1897–1952",
     "state" : "ACTIVE"
   },
@@ -34818,7 +34966,7 @@
 }, {
   "project" : {
     "projectId" : 2157,
-    "projectUUID" : "69bb048a-c153-47a3-b8d7-244e4e3ace6d",
+    "projectUUID" : "69BB048A-C153-47A3-B8D7-244E4E3ACE6D",
     "name" : "Magyarország, Budapest—Polgári anyakönyvek, I–XIII. kerület, 1895–1973 [D rész]",
     "state" : "ACTIVE"
   },
@@ -35003,7 +35151,7 @@
 }, {
   "project" : {
     "projectId" : 3668,
-    "projectUUID" : "d6cf6329-6126-420c-adfa-6211edbde763",
+    "projectUUID" : "D6CF6329-6126-420C-ADFA-6211EDBDE763",
     "name" : "Chile—Registros de la Iglesia Católica, 1710–1928 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -35299,7 +35447,7 @@
 }, {
   "project" : {
     "projectId" : 3308,
-    "projectUUID" : "ea82b6d0-59c7-4266-b2ee-da14da3d0b9d",
+    "projectUUID" : "EA82B6D0-59C7-4266-B2EE-DA14DA3D0B9D",
     "name" : "US, California, San Francisco—Registers of Chinese Laborers Returning to the United States, 1882–1888 [Part A]",
     "state" : "ACTIVE"
   },
@@ -35410,7 +35558,7 @@
 }, {
   "project" : {
     "projectId" : 3491,
-    "projectUUID" : "923a742d-db4f-412d-aff9-0eed846efb81",
+    "projectUUID" : "923A742D-DB4F-412D-AFF9-0EED846EFB81",
     "name" : "US, Texas, Laredo—Index to Manifests of Permanent and Alien Arrivals, 1929–1955",
     "state" : "ACTIVE"
   },
@@ -35891,7 +36039,7 @@
 }, {
   "project" : {
     "projectId" : 2225,
-    "projectUUID" : "8059a06f-2f57-459d-9351-1a2b27d083e6",
+    "projectUUID" : "8059A06F-2F57-459D-9351-1A2B27D083E6",
     "name" : "Österreich, Wien—Jüdisches Register von Geburten, Trauungen und Sterbefällen, 1784–1940 [Teil B]",
     "state" : "ACTIVE"
   },
@@ -36002,7 +36150,7 @@
 }, {
   "project" : {
     "projectId" : 3402,
-    "projectUUID" : "88791bfc-376e-4c82-8b68-0189424e399a",
+    "projectUUID" : "88791BFC-376E-4C82-8B68-0189424E399A",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BK]",
     "state" : "ACTIVE"
   },
@@ -36010,7 +36158,7 @@
   "batchCount" : 157630,
   "auditBatchCount" : 7448,
   "imageCount" : 460116,
-  "blockedCount" : 0,
+  "blockedCount" : 12336,
   "iesAuditBatchCount" : 6261,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2000,
@@ -36076,7 +36224,7 @@
 }, {
   "project" : {
     "projectId" : 2159,
-    "projectUUID" : "d987fa6e-0051-481d-b4bd-17ec5a6aec36",
+    "projectUUID" : "D987FA6E-0051-481D-B4BD-17EC5A6AEC36",
     "name" : "Sri Lanka, District Colombo—Nederlands hervormde doopfeesten en huwelijken, 1677–1810 [deel B]",
     "state" : "ACTIVE"
   },
@@ -36113,7 +36261,7 @@
 }, {
   "project" : {
     "projectId" : 3142,
-    "projectUUID" : "e17b57b5-7ed7-4824-8d6b-03662bc477a4",
+    "projectUUID" : "E17B57B5-7ED7-4824-8D6B-03662BC477A4",
     "name" : "UK, England, Cumbria—Parish Records, 1754–1990",
     "state" : "ACTIVE"
   },
@@ -36187,7 +36335,7 @@
 }, {
   "project" : {
     "projectId" : 2001,
-    "projectUUID" : "15916825-2453-4f65-9d54-91fa7caf8c58",
+    "projectUUID" : "15916825-2453-4F65-9D54-91FA7CAF8C58",
     "name" : "El Salvador, Registros Civiles, 1836–2001 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -36195,7 +36343,7 @@
   "batchCount" : 82201,
   "auditBatchCount" : 3913,
   "imageCount" : 327429,
-  "blockedCount" : 0,
+  "blockedCount" : 25297,
   "iesAuditBatchCount" : 1726,
   "iesCountsNoAudit" : {
     "imagesetCount" : 237,
@@ -36298,7 +36446,7 @@
 }, {
   "project" : {
     "projectId" : 2691,
-    "projectUUID" : "a3ca7381-b8dd-4e08-813b-d21013f82eb9",
+    "projectUUID" : "A3CA7381-B8DD-4E08-813B-D21013F82EB9",
     "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte G]",
     "state" : "ACTIVE"
   },
@@ -36306,7 +36454,7 @@
   "batchCount" : 7274,
   "auditBatchCount" : 347,
   "imageCount" : 21398,
-  "blockedCount" : 0,
+  "blockedCount" : 3394,
   "iesAuditBatchCount" : 79,
   "iesCountsNoAudit" : {
     "imagesetCount" : 28,
@@ -36964,7 +37112,7 @@
 }, {
   "project" : {
     "projectId" : 2408,
-    "projectUUID" : "561a5794-e7d8-459e-a991-3b8d86f57a14",
+    "projectUUID" : "561A5794-E7D8-459E-A991-3B8D86F57A14",
     "name" : "Belgique (Lot Rapide)—Registres Civils, 1851–1900 [Partie 2F]",
     "state" : "ACTIVE"
   },
@@ -37075,7 +37223,7 @@
 }, {
   "project" : {
     "projectId" : 2249,
-    "projectUUID" : "e4b3908f-544e-4bd4-b393-2c8006bddb04",
+    "projectUUID" : "E4B3908F-544E-4BD4-B393-2C8006BDDB04",
     "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte G]",
     "state" : "ACTIVE"
   },
@@ -37083,7 +37231,7 @@
   "batchCount" : 2844,
   "auditBatchCount" : 136,
   "imageCount" : 18661,
-  "blockedCount" : 0,
+  "blockedCount" : 5542,
   "iesAuditBatchCount" : 1,
   "iesCountsNoAudit" : {
     "imagesetCount" : 199,
@@ -37334,7 +37482,7 @@
 }, {
   "project" : {
     "projectId" : 3413,
-    "projectUUID" : "ca8b9af7-8532-47ce-bd53-119149447b45",
+    "projectUUID" : "CA8B9AF7-8532-47CE-BD53-119149447B45",
     "name" : "South Africa, Orange Free State—Master of the Supreme Court Probates, 1832–1989 [Part C]",
     "state" : "ACTIVE"
   },
@@ -37556,7 +37704,7 @@
 }, {
   "project" : {
     "projectId" : 3688,
-    "projectUUID" : "0ce86d45-e862-4827-87d7-26dca458ef73",
+    "projectUUID" : "0CE86D45-E862-4827-87D7-26DCA458EF73",
     "name" : "UK, Wales, Monmouthshire, Gwent—Electoral Registers, 1839–1889",
     "state" : "ACTIVE"
   },
@@ -37593,7 +37741,7 @@
 }, {
   "project" : {
     "projectId" : 3261,
-    "projectUUID" : "196555dd-de11-4576-b471-9bea509008e7",
+    "projectUUID" : "196555DD-DE11-4576-B471-9BEA509008E7",
     "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil D]",
     "state" : "ACTIVE"
   },
@@ -37630,7 +37778,7 @@
 }, {
   "project" : {
     "projectId" : 3537,
-    "projectUUID" : "05c2e7a9-f0bd-4f07-b698-f1aea3b0989e",
+    "projectUUID" : "05C2E7A9-F0BD-4F07-B698-F1AEA3B0989E",
     "name" : "UK, England and Wales—Prerogative Court of Canterbury, Probate Records, 1640–1660 [Part A]",
     "state" : "ACTIVE"
   },
@@ -37926,7 +38074,7 @@
 }, {
   "project" : {
     "projectId" : 3564,
-    "projectUUID" : "d7d81632-d2c2-4e25-a4e8-eda39200fecf",
+    "projectUUID" : "D7D81632-D2C2-4E25-A4E8-EDA39200FECF",
     "name" : "US, Georgia—County Voter Registrations, 1856–1909",
     "state" : "ACTIVE"
   },
@@ -38259,7 +38407,7 @@
 }, {
   "project" : {
     "projectId" : 1714,
-    "projectUUID" : "ec2bd9e4-e217-464d-884f-68657fa69d8d",
+    "projectUUID" : "EC2BD9E4-E217-464D-884F-68657FA69D8D",
     "name" : "US, New York—County Naturalization Records, 1792–1976 [Part B]",
     "state" : "ACTIVE"
   },
@@ -38333,7 +38481,7 @@
 }, {
   "project" : {
     "projectId" : 2409,
-    "projectUUID" : "0d04748d-68e3-4c24-82ec-f30852ef8028",
+    "projectUUID" : "0D04748D-68E3-4C24-82EC-F30852EF8028",
     "name" : "QA Brad -- Another Test of Ingest DAS",
     "state" : "ACTIVE"
   },
@@ -38444,7 +38592,7 @@
 }, {
   "project" : {
     "projectId" : 3548,
-    "projectUUID" : "10acdf3b-a385-4a65-8dc4-eb7e565072a6",
+    "projectUUID" : "10ACDF3B-A385-4A65-8DC4-EB7E565072A6",
     "name" : "France, Haute-Vienne—1891 Census",
     "state" : "ACTIVE"
   },
@@ -38740,7 +38888,7 @@
 }, {
   "project" : {
     "projectId" : 3364,
-    "projectUUID" : "9f8a1cbe-ca04-48fd-9c48-c165c30c8db6",
+    "projectUUID" : "9F8A1CBE-CA04-48FD-9C48-C165C30C8DB6",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BH]",
     "state" : "ACTIVE"
   },
@@ -39220,8 +39368,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3774,
+    "projectUUID" : "6eb14cf9-d934-4db5-806f-0faa2af3b498",
+    "name" : "Venezuela, Caracas—Parish Records, 1578–1947 [Part F]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 1044,
+  "auditBatchCount" : 50,
+  "imageCount" : 3030,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 994,
+    "images" : 3030,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 2978,
+    "audit" : 0,
+    "blocked" : 52,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 14:44:41",
+  "name" : "Venezuela, Caracas—Parish Records, 1578–1947 [Part F]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3400,
-    "projectUUID" : "a29ad4d9-7cd1-4614-ab2b-e77517d1a840",
+    "projectUUID" : "A29AD4D9-7CD1-4614-AB2B-E77517D1A840",
     "name" : "US, South Dakota—Grave Registration Records, 1940–1941",
     "state" : "ACTIVE"
   },
@@ -39258,7 +39443,7 @@
 }, {
   "project" : {
     "projectId" : 3503,
-    "projectUUID" : "9f898a41-b9c9-4a0c-b507-4e3a8d9334df",
+    "projectUUID" : "9F898A41-B9C9-4A0C-B507-4E3A8D9334DF",
     "name" : "US, New Hampshire—Naturalization Records, 1771–1955",
     "state" : "ACTIVE"
   },
@@ -39443,7 +39628,7 @@
 }, {
   "project" : {
     "projectId" : 3137,
-    "projectUUID" : "bd6951ef-8b45-4bc8-a017-4c52ec550743",
+    "projectUUID" : "BD6951EF-8B45-4BC8-A017-4C52EC550743",
     "name" : "US, Hawaii—Hansen's Disease Records, Kalaupapa Census Index, 1839–1970",
     "state" : "ACTIVE"
   },
@@ -39480,7 +39665,7 @@
 }, {
   "project" : {
     "projectId" : 2857,
-    "projectUUID" : "a7477752-a494-4af3-9098-7ddd0ce65670",
+    "projectUUID" : "A7477752-A494-4AF3-9098-7DDD0CE65670",
     "name" : "Peru, Diocesis de Huacho—Parish Records, 1560–2016 [Part H]",
     "state" : "ACTIVE"
   },
@@ -39517,7 +39702,7 @@
 }, {
   "project" : {
     "projectId" : 2726,
-    "projectUUID" : "5a15ecdc-c88e-4529-94e3-edd9d052f57e",
+    "projectUUID" : "5A15ECDC-C88E-4529-94E3-EDD9D052F57E",
     "name" : "Argentina Provincia, de Buenos Aires—Registros Parroquiales, 1731–1939 [Parte E]",
     "state" : "ACTIVE"
   },
@@ -39850,7 +40035,7 @@
 }, {
   "project" : {
     "projectId" : 2292,
-    "projectUUID" : "834a940f-1d0c-43c4-9e77-75d11307da13",
+    "projectUUID" : "834A940F-1D0C-43C4-9E77-75D11307DA13",
     "name" : "Italia (Antenati Italiani), Chieti—Stato Civile, 1875–1930 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -39858,7 +40043,7 @@
   "batchCount" : 24030,
   "auditBatchCount" : 1141,
   "imageCount" : 164953,
-  "blockedCount" : 0,
+  "blockedCount" : 50472,
   "iesAuditBatchCount" : 223,
   "iesCountsNoAudit" : {
     "imagesetCount" : 158,
@@ -39924,7 +40109,7 @@
 }, {
   "project" : {
     "projectId" : 3254,
-    "projectUUID" : "c942d022-656f-44ea-b965-ffc01eac0a67",
+    "projectUUID" : "C942D022-656F-44EA-B965-FFC01EAC0A67",
     "name" : "Argentina, Entre Ríos—Registro Civil, 1860–1965 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -40072,7 +40257,7 @@
 }, {
   "project" : {
     "projectId" : 2500,
-    "projectUUID" : "d771dbc1-12a1-4c47-a8f3-9f3c2130a714",
+    "projectUUID" : "D771DBC1-12A1-4C47-A8F3-9F3C2130A714",
     "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1V]",
     "state" : "ACTIVE"
   },
@@ -40109,7 +40294,7 @@
 }, {
   "project" : {
     "projectId" : 3327,
-    "projectUUID" : "e484b655-6994-47cd-8548-cbb0da39255f",
+    "projectUUID" : "E484B655-6994-47CD-8548-CBB0DA39255F",
     "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie F]",
     "state" : "ACTIVE"
   },
@@ -40146,7 +40331,7 @@
 }, {
   "project" : {
     "projectId" : 3178,
-    "projectUUID" : "c6084b9f-9ada-4e75-9363-e2bc74999682",
+    "projectUUID" : "C6084B9F-9ADA-4E75-9363-E2BC74999682",
     "name" : "US, Massachusetts, Boston—Voter Registers, 1857-1920",
     "state" : "ACTIVE"
   },
@@ -40294,7 +40479,7 @@
 }, {
   "project" : {
     "projectId" : 2963,
-    "projectUUID" : "ec1129b1-30e5-4e47-bbab-50ac221fd9fa",
+    "projectUUID" : "EC1129B1-30E5-4E47-BBAB-50AC221FD9FA",
     "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte G]",
     "state" : "ACTIVE"
   },
@@ -40553,7 +40738,7 @@
 }, {
   "project" : {
     "projectId" : 2192,
-    "projectUUID" : "b95444d8-ee40-421c-8b9d-20a8736930c4",
+    "projectUUID" : "B95444D8-EE40-421C-8B9D-20A8736930C4",
     "name" : "Italia (Antenati Italiani), Palermo—Morti, 1820–1865 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -40561,7 +40746,7 @@
   "batchCount" : 43429,
   "auditBatchCount" : 2059,
   "imageCount" : 235283,
-  "blockedCount" : 0,
+  "blockedCount" : 28780,
   "iesAuditBatchCount" : 146,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -40590,7 +40775,7 @@
 }, {
   "project" : {
     "projectId" : 2772,
-    "projectUUID" : "c87ab108-fc59-464d-b108-c2f4fb8f439b",
+    "projectUUID" : "C87AB108-FC59-464D-B108-C2F4FB8F439B",
     "name" : "Italia, Roma—Stato Civile, 1867–1929 [Parte D]",
     "state" : "ACTIVE"
   },
@@ -40598,7 +40783,7 @@
   "batchCount" : 85322,
   "auditBatchCount" : 4058,
   "imageCount" : 417302,
-  "blockedCount" : 0,
+  "blockedCount" : 94233,
   "iesAuditBatchCount" : 703,
   "iesCountsNoAudit" : {
     "imagesetCount" : 209,
@@ -40701,7 +40886,7 @@
 }, {
   "project" : {
     "projectId" : 3012,
-    "projectUUID" : "90346a5e-b1bc-4fd7-84a8-c2f2c07c852a",
+    "projectUUID" : "90346A5E-B1BC-4FD7-84A8-C2F2C07C852A",
     "name" : "Peru (Quick Batch), Tacna—Civil Registration, 1907–1998",
     "state" : "ACTIVE"
   },
@@ -40738,7 +40923,7 @@
 }, {
   "project" : {
     "projectId" : 3460,
-    "projectUUID" : "00b176d7-2914-4825-b65d-ed9de78a8c77",
+    "projectUUID" : "00B176D7-2914-4825-B65D-ED9DE78A8C77",
     "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part A]",
     "state" : "ACTIVE"
   },
@@ -41256,7 +41441,7 @@
 }, {
   "project" : {
     "projectId" : 3648,
-    "projectUUID" : "c027106b-2f11-4c52-83eb-7e2b6d866e08",
+    "projectUUID" : "C027106B-2F11-4C52-83EB-7E2B6D866E08",
     "name" : "US, Louisiana, New Orleans—Slave Manifests of Coastwise Vessels, 1807–1860",
     "state" : "ACTIVE"
   },
@@ -41663,7 +41848,7 @@
 }, {
   "project" : {
     "projectId" : 3343,
-    "projectUUID" : "8f5c3845-04ae-4e86-b067-f0b35c03d816",
+    "projectUUID" : "8F5C3845-04AE-4E86-B067-F0B35C03D816",
     "name" : "Nicaragua—Civil Registration, 1809–2013 [Part B]",
     "state" : "ACTIVE"
   },
@@ -41959,7 +42144,7 @@
 }, {
   "project" : {
     "projectId" : 2194,
-    "projectUUID" : "a6281cec-335a-4104-a407-2590b4cf3052",
+    "projectUUID" : "A6281CEC-335A-4104-A407-2590B4CF3052",
     "name" : "Luxembourg—Registres d’état civil, 1796–1923 [Partie D]",
     "state" : "ACTIVE"
   },
@@ -42070,7 +42255,7 @@
 }, {
   "project" : {
     "projectId" : 3544,
-    "projectUUID" : "425a2606-18f6-4fad-9096-40e48714947c",
+    "projectUUID" : "425A2606-18F6-4FAD-9096-40E48714947C",
     "name" : "Australia, South Australia—Passenger Lists, 1849–1940 [Part Y]",
     "state" : "ACTIVE"
   },
@@ -42144,7 +42329,7 @@
 }, {
   "project" : {
     "projectId" : 3745,
-    "projectUUID" : "e60d9891-caf4-49cc-a3a9-425a543f749c",
+    "projectUUID" : "E60D9891-CAF4-49CC-A3A9-425A543F749C",
     "name" : "US, Tennessee, Davidson County, Nashville City—Cemetery Records, 1843–1962",
     "state" : "ACTIVE"
   },
@@ -42181,7 +42366,7 @@
 }, {
   "project" : {
     "projectId" : 3260,
-    "projectUUID" : "dd86b4d0-7cc3-4523-af2b-5512c2a28e37",
+    "projectUUID" : "DD86B4D0-7CC3-4523-AF2B-5512C2A28E37",
     "name" : "Colombia, Bogotá—Licencias de Inhumación, 1960–1991",
     "state" : "ACTIVE"
   },
@@ -42255,7 +42440,7 @@
 }, {
   "project" : {
     "projectId" : 2088,
-    "projectUUID" : "a0a28fdd-1bc5-473e-9438-8fd37004a57a",
+    "projectUUID" : "A0A28FDD-1BC5-473E-9438-8FD37004A57A",
     "name" : "Hrvatska, Delnički dekanat—crkvene knjige, 1725–1926 [Dio B]",
     "state" : "ACTIVE"
   },
@@ -42263,7 +42448,7 @@
   "batchCount" : 5393,
   "auditBatchCount" : 256,
   "imageCount" : 5831,
-  "blockedCount" : 0,
+  "blockedCount" : 366,
   "iesAuditBatchCount" : 64,
   "iesCountsNoAudit" : {
     "imagesetCount" : 9,
@@ -42329,7 +42514,7 @@
 }, {
   "project" : {
     "projectId" : 2084,
-    "projectUUID" : "7a308876-a667-4411-a7b0-44c33c600351",
+    "projectUUID" : "7A308876-A667-4411-A7B0-44C33C600351",
     "name" : "Norge—Tinglysningskort, 1640–1903 [Del C]",
     "state" : "ACTIVE"
   },
@@ -42699,7 +42884,7 @@
 }, {
   "project" : {
     "projectId" : 3547,
-    "projectUUID" : "40a42681-54cc-4c26-9708-1fd3b9efd60d",
+    "projectUUID" : "40A42681-54CC-4C26-9708-1FD3B9EFD60D",
     "name" : "Haiti—Civil Registration of Deaths, 1824–2013 [Part H]",
     "state" : "ACTIVE"
   },
@@ -42707,7 +42892,7 @@
   "batchCount" : 92,
   "auditBatchCount" : 6,
   "imageCount" : 10160,
-  "blockedCount" : 0,
+  "blockedCount" : 1461,
   "iesAuditBatchCount" : 6,
   "iesCountsNoAudit" : {
     "imagesetCount" : 6,
@@ -42921,7 +43106,7 @@
 }, {
   "project" : {
     "projectId" : 2401,
-    "projectUUID" : "e6cc68f0-3694-48b8-b6b3-fab5db7f8063",
+    "projectUUID" : "E6CC68F0-3694-48B8-B6B3-FAB5DB7F8063",
     "name" : "Sri Lanka, Colombo—Nederlands hervormde dopen en huwelijken, 1677–1990 [deel C]",
     "state" : "ACTIVE"
   },
@@ -42995,7 +43180,7 @@
 }, {
   "project" : {
     "projectId" : 3262,
-    "projectUUID" : "7fe4f57e-f7cc-451a-bbc2-4ec223442328",
+    "projectUUID" : "7FE4F57E-F7CC-451A-BBC2-4EC223442328",
     "name" : "Brazil, São Paulo—Civil Registration, 1907–1995 [Parte AZ]",
     "state" : "ACTIVE"
   },
@@ -43439,7 +43624,7 @@
 }, {
   "project" : {
     "projectId" : 3442,
-    "projectUUID" : "9f0de112-43bf-48f4-a5eb-4678d32deb92",
+    "projectUUID" : "9F0DE112-43BF-48F4-A5EB-4678D32DEB92",
     "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part AA]",
     "state" : "ACTIVE"
   },
@@ -43772,7 +43957,7 @@
 }, {
   "project" : {
     "projectId" : 2959,
-    "projectUUID" : "1bf47d9e-e11f-4c74-9b9e-730b27609058",
+    "projectUUID" : "1BF47D9E-E11F-4C74-9B9E-730B27609058",
     "name" : "US (Quick Batch), New York—Index to Passenger Lists of Vessels Arriving at New York City, 1897–1902",
     "state" : "ACTIVE"
   },
@@ -43957,7 +44142,7 @@
 }, {
   "project" : {
     "projectId" : 2102,
-    "projectUUID" : "7e8cabd1-c864-4705-9c71-564a7a9b2e5a",
+    "projectUUID" : "7E8CABD1-C864-4705-9C71-564A7A9B2E5A",
     "name" : "Česká Republika (Tschechien), Litoměřice—Matriky, 1552–1905 [část 1D]",
     "state" : "ACTIVE"
   },
@@ -44068,7 +44253,7 @@
 }, {
   "project" : {
     "projectId" : 2224,
-    "projectUUID" : "e546764d-6932-431b-baac-f66c293d3afd",
+    "projectUUID" : "E546764D-6932-431B-BAAC-F66C293D3AFD",
     "name" : "Ukraine—L'viv Greek Catholic Archeparchy Church Books 1607–1945 [Part B]",
     "state" : "ACTIVE"
   },
@@ -44179,7 +44364,7 @@
 }, {
   "project" : {
     "projectId" : 3762,
-    "projectUUID" : "08ccf49f-bf62-4d92-8352-c1fdf51524df",
+    "projectUUID" : "08CCF49F-BF62-4D92-8352-C1FDF51524DF",
     "name" : "US, Kentucky, Jefferson County, Louisville—Children's Home Records, 1866–1938",
     "state" : "ACTIVE"
   },
@@ -44290,7 +44475,7 @@
 }, {
   "project" : {
     "projectId" : 1841,
-    "projectUUID" : "90a08e10-8e37-47b2-a963-4e0e86c955ec",
+    "projectUUID" : "90A08E10-8E37-47B2-A963-4E0E86C955EC",
     "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte C]",
     "state" : "ACTIVE"
   },
@@ -44623,7 +44808,7 @@
 }, {
   "project" : {
     "projectId" : 3525,
-    "projectUUID" : "ed923d3d-b32e-41ad-b100-b30f86b3cbf1",
+    "projectUUID" : "ED923D3D-B32E-41AD-B100-B30F86B3CBF1",
     "name" : "Brazil, Santa Catarina—Civil Registration, 1871–1999 [Part A]",
     "state" : "ACTIVE"
   },
@@ -44919,7 +45104,7 @@
 }, {
   "project" : {
     "projectId" : 3595,
-    "projectUUID" : "df35ecb4-853e-413a-bcc6-9ef806e112d2",
+    "projectUUID" : "DF35ECB4-853E-413A-BCC6-9EF806E112D2",
     "name" : "US, Georgia—County Delayed Birth and Death Records, 1870–1960",
     "state" : "ACTIVE"
   },
@@ -44956,7 +45141,7 @@
 }, {
   "project" : {
     "projectId" : 2373,
-    "projectUUID" : "b572d592-792a-4f50-ba00-ea5e1372c0dd",
+    "projectUUID" : "B572D592-792A-4F50-BA00-EA5E1372C0DD",
     "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte C]",
     "state" : "ACTIVE"
   },
@@ -45104,7 +45289,7 @@
 }, {
   "project" : {
     "projectId" : 2098,
-    "projectUUID" : "528ff5fd-1b49-4fcf-86ba-916ad4a8aca4",
+    "projectUUID" : "528FF5FD-1B49-4FCF-86BA-916AD4A8ACA4",
     "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel C]",
     "state" : "ACTIVE"
   },
@@ -45400,7 +45585,7 @@
 }, {
   "project" : {
     "projectId" : 3576,
-    "projectUUID" : "d2552d14-4b98-4a91-a645-5e95025bc35f",
+    "projectUUID" : "D2552D14-4B98-4A91-A645-5E95025BC35F",
     "name" : "US, Minnesota—Minnesota Historical Society, Death Records, 1899–2001 [Part A]",
     "state" : "ACTIVE"
   },
@@ -45511,7 +45696,7 @@
 }, {
   "project" : {
     "projectId" : 3401,
-    "projectUUID" : "3fd8c214-33a8-4871-b662-ef52ce01a802",
+    "projectUUID" : "3FD8C214-33A8-4871-B662-EF52CE01A802",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BJ]",
     "state" : "ACTIVE"
   },
@@ -45519,7 +45704,7 @@
   "batchCount" : 39333,
   "auditBatchCount" : 1864,
   "imageCount" : 115057,
-  "blockedCount" : 0,
+  "blockedCount" : 3162,
   "iesAuditBatchCount" : 1864,
   "iesCountsNoAudit" : {
     "imagesetCount" : 500,
@@ -45918,7 +46103,7 @@
 }, {
   "project" : {
     "projectId" : 3601,
-    "projectUUID" : "3d77fd23-da96-4fef-a431-ae3160823ba0",
+    "projectUUID" : "3D77FD23-DA96-4FEF-A431-AE3160823BA0",
     "name" : "Guatemala—Civil Registration, 1885–2009 [Part J]",
     "state" : "ACTIVE"
   },
@@ -45992,7 +46177,7 @@
 }, {
   "project" : {
     "projectId" : 2604,
-    "projectUUID" : "d53a242d-f280-4f5b-945e-a50774b9cf2a",
+    "projectUUID" : "D53A242D-F280-4F5B-945E-A50774B9CF2A",
     "name" : "Peru, Lima—Registros Civiles, Matrimonios, 1917–1995 [Parte V]",
     "state" : "ACTIVE"
   },
@@ -46362,7 +46547,7 @@
 }, {
   "project" : {
     "projectId" : 3206,
-    "projectUUID" : "2d03a2c3-bdff-47d1-b4f7-e0103b1d797c",
+    "projectUUID" : "2D03A2C3-BDFF-47D1-B4F7-E0103B1D797C",
     "name" : "Nicaragua—Registro Civil, 1809–2013 [Parte A]",
     "state" : "ACTIVE"
   },
@@ -46399,7 +46584,7 @@
 }, {
   "project" : {
     "projectId" : 3714,
-    "projectUUID" : "5d3cc75f-a1e6-47bf-a894-c57bdd7ba3aa",
+    "projectUUID" : "5D3CC75F-A1E6-47BF-A894-C57BDD7BA3AA",
     "name" : "US, Georgia, Chatham County, Savannah—Laurel Grove Cemetery Records, 1852–1942",
     "state" : "ACTIVE"
   },
@@ -46621,7 +46806,7 @@
 }, {
   "project" : {
     "projectId" : 3437,
-    "projectUUID" : "216fc576-0bac-4e4f-91e0-b9f8cfd6ac4f",
+    "projectUUID" : "216FC576-0BAC-4E4F-91E0-B9F8CFD6AC4F",
     "name" : "UK, Wales—National Library of Wales Marriage Bonds, 1754–1900 [Part G]",
     "state" : "ACTIVE"
   },
@@ -46658,7 +46843,7 @@
 }, {
   "project" : {
     "projectId" : 3606,
-    "projectUUID" : "31a7e339-e187-4ccf-ad6e-301b9ae349f9",
+    "projectUUID" : "31A7E339-E187-4CCF-AD6E-301B9AE349F9",
     "name" : "US, Missouri—Recruitment Lists of Volunteers for the United States Colored Troops, 1863–1865",
     "state" : "ACTIVE"
   },
@@ -46695,7 +46880,7 @@
 }, {
   "project" : {
     "projectId" : 3141,
-    "projectUUID" : "c4084cef-8a80-4c33-a83a-578420abc0a3",
+    "projectUUID" : "C4084CEF-8A80-4C33-A83A-578420ABC0A3",
     "name" : "Philippines—Marriage Records, 1945–1987 [Part A]",
     "state" : "ACTIVE"
   },
@@ -46732,7 +46917,7 @@
 }, {
   "project" : {
     "projectId" : 3574,
-    "projectUUID" : "59cb8485-a875-4461-92bd-2dfbacc82363",
+    "projectUUID" : "59CB8485-A875-4461-92BD-2DFBACC82363",
     "name" : "US, Washington—County Naturalization Records, 1850–1982 [Part C]",
     "state" : "ACTIVE"
   },
@@ -46806,7 +46991,7 @@
 }, {
   "project" : {
     "projectId" : 2843,
-    "projectUUID" : "3460d229-3ce1-417c-a995-cd34d3724988",
+    "projectUUID" : "3460D229-3CE1-417C-A995-CD34D3724988",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AC]",
     "state" : "ACTIVE"
   },
@@ -46843,7 +47028,7 @@
 }, {
   "project" : {
     "projectId" : 3259,
-    "projectUUID" : "87d956c5-8b02-4804-9454-24462cddc4c7",
+    "projectUUID" : "87D956C5-8B02-4804-9454-24462CDDC4C7",
     "name" : "US, Missouri—State Archives, Pre-World War II Adjutant General Enlistment Contracts, 1900–1941 [Part B]",
     "state" : "ACTIVE"
   },
@@ -47176,7 +47361,7 @@
 }, {
   "project" : {
     "projectId" : 2584,
-    "projectUUID" : "d02ca3f5-58fa-4f9d-9a60-a56bab54ae52",
+    "projectUUID" : "D02CA3F5-58FA-4F9D-9A60-A56BAB54AE52",
     "name" : "Slovensko, Prešov— štátny oblastný archív záznamov cirkvi, 1592–1935 [Časť C]",
     "state" : "ACTIVE"
   },
@@ -47398,7 +47583,7 @@
 }, {
   "project" : {
     "projectId" : 3247,
-    "projectUUID" : "8af7d989-4159-4bd4-bfbf-268dee6706ac",
+    "projectUUID" : "8AF7D989-4159-4BD4-BFBF-268DEE6706AC",
     "name" : "Uruguay—Índice del Registro Civil, 1900–1937 [Parte E]",
     "state" : "ACTIVE"
   },
@@ -47620,7 +47805,7 @@
 }, {
   "project" : {
     "projectId" : 3404,
-    "projectUUID" : "863fd023-b538-4720-b86e-8681cf13b846",
+    "projectUUID" : "863FD023-B538-4720-B86E-8681CF13B846",
     "name" : "Colombia, Bogota—Burial Licenses, 1960–1991 [Part A]",
     "state" : "ACTIVE"
   },
@@ -47694,7 +47879,7 @@
 }, {
   "project" : {
     "projectId" : 1922,
-    "projectUUID" : "570257ca-da3e-4675-9beb-aab14d82cd52",
+    "projectUUID" : "570257CA-DA3E-4675-9BEB-AAB14D82CD52",
     "name" : "Liberia—Marriage Records, 1912–2015 [Part C]",
     "state" : "ACTIVE"
   },
@@ -47731,7 +47916,7 @@
 }, {
   "project" : {
     "projectId" : 2638,
-    "projectUUID" : "bf7dbe31-e91c-4eb4-997b-85274e04ab54",
+    "projectUUID" : "BF7DBE31-E91C-4EB4-997B-85274E04AB54",
     "name" : "Danmark, København—Begravelsesregistre, 1805–1968 [Del C]",
     "state" : "ACTIVE"
   },
@@ -47739,7 +47924,7 @@
   "batchCount" : 33897,
   "auditBatchCount" : 1612,
   "imageCount" : 32402,
-  "blockedCount" : 0,
+  "blockedCount" : 114,
   "iesAuditBatchCount" : 823,
   "iesCountsNoAudit" : {
     "imagesetCount" : 58,
@@ -48026,8 +48211,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3612,
+    "projectUUID" : "ac410ba8-639a-4df8-b30f-d44c903edd44",
+    "name" : "Peru, Ayacucho—Civil Registration, 1903–1999 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1000,
+  "batchCount" : 43745,
+  "auditBatchCount" : 2066,
+  "imageCount" : 183135,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 102,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1000,
+    "batchCount" : 41679,
+    "images" : 183135,
+    "recordCount" : 670
+  },
+  "exportStateCounts" : {
+    "accepted" : 669,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 164150,
+    "audit" : 403,
+    "blocked" : 18309,
+    "duplicate" : 0,
+    "ned" : 7,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 14:44:32",
+  "name" : "Peru, Ayacucho—Civil Registration, 1903–1999 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3672,
-    "projectUUID" : "6e7e5b72-56c5-4bb1-a24a-8146d20474bd",
+    "projectUUID" : "6E7E5B72-56C5-4BB1-A24A-8146D20474BD",
     "name" : "US, Oregon—Marriage Records, 1906–1968 [Part B]",
     "state" : "ACTIVE"
   },
@@ -48064,7 +48286,7 @@
 }, {
   "project" : {
     "projectId" : 3332,
-    "projectUUID" : "f1e538f6-7ffc-4f0e-bea7-84a922f8cdaf",
+    "projectUUID" : "F1E538F6-7FFC-4F0E-BEA7-84A922F8CDAF",
     "name" : "Peru, Diocese of Huaraz—Parish Records, 1641–2016 [Part H]",
     "state" : "ACTIVE"
   },
@@ -48101,7 +48323,7 @@
 }, {
   "project" : {
     "projectId" : 3523,
-    "projectUUID" : "5b8a6a52-4277-4fa7-a1af-8e471a09973c",
+    "projectUUID" : "5B8A6A52-4277-4FA7-A1AF-8E471A09973C",
     "name" : "US, Montana—County Naturalizations, 1867–1957",
     "state" : "ACTIVE"
   },
@@ -48249,7 +48471,7 @@
 }, {
   "project" : {
     "projectId" : 3570,
-    "projectUUID" : "5148d244-bb6f-42f6-9fea-1f15d76732e8",
+    "projectUUID" : "5148D244-BB6F-42F6-9FEA-1F15D76732E8",
     "name" : "Philippines—Marriage Records, 1945–1987 [Part C]",
     "state" : "ACTIVE"
   },
@@ -48286,7 +48508,7 @@
 }, {
   "project" : {
     "projectId" : 3521,
-    "projectUUID" : "1802d000-790a-4801-81cb-2abae8fa8eab",
+    "projectUUID" : "1802D000-790A-4801-81CB-2ABAE8FA8EAB",
     "name" : "US—Obituaries, 1980–2014 [Part 2AS]",
     "state" : "ACTIVE"
   },
@@ -48360,7 +48582,7 @@
 }, {
   "project" : {
     "projectId" : 2708,
-    "projectUUID" : "f871e4b2-0fdf-43fd-b1c7-5863f3d7d390",
+    "projectUUID" : "F871E4B2-0FDF-43FD-B1C7-5863F3D7D390",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte W]",
     "state" : "ACTIVE"
   },
@@ -48471,7 +48693,7 @@
 }, {
   "project" : {
     "projectId" : 2937,
-    "projectUUID" : "dbef11ea-9b6f-4406-a676-8c67e5fd8561",
+    "projectUUID" : "DBEF11EA-9B6F-4406-A676-8C67E5FD8561",
     "name" : "US, Hawaii—Circuit Court Divorce Records, 1849–1915",
     "state" : "ACTIVE"
   },
@@ -48693,7 +48915,7 @@
 }, {
   "project" : {
     "projectId" : 2851,
-    "projectUUID" : "59a979ca-ad2f-4b03-a17e-68814b592e0a",
+    "projectUUID" : "59A979CA-AD2F-4B03-A17E-68814B592E0A",
     "name" : "Perú (Lote Rápido), Ancash—Registro Civil, 1888–2000 [Parte P]",
     "state" : "ACTIVE"
   },
