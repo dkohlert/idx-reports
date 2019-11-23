@@ -37,40 +37,40 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2422,
-    "projectUUID" : "C3B5CAE2-E28F-421B-97BC-DF3745C0FFE7",
-    "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
+    "projectId" : 2677,
+    "projectUUID" : "05C649E7-2DD3-428A-87B3-7C122DC4F56E",
+    "name" : "US, California—Pioneer Migration Index, 1849–1935",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 153,
-  "batchCount" : 69773,
-  "auditBatchCount" : 3320,
-  "imageCount" : 70963,
+  "imagesetCount" : 10,
+  "batchCount" : 1761,
+  "auditBatchCount" : 85,
+  "imageCount" : 19362,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 3320,
+  "iesAuditBatchCount" : 85,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 153,
-    "batchCount" : 66453,
-    "images" : 70963,
-    "recordCount" : 970725
+    "imagesetCount" : 10,
+    "batchCount" : 1676,
+    "images" : 19362,
+    "recordCount" : 6747
   },
   "exportStateCounts" : {
-    "accepted" : 66276,
-    "exported" : 206,
+    "accepted" : 6370,
+    "exported" : 35,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 3389,
-    "blocked" : 2872,
-    "duplicate" : 80,
-    "ned" : 392,
+    "audit" : 848,
+    "blocked" : 2643,
+    "duplicate" : 848,
+    "ned" : 9466,
     "unreadable" : 0,
-    "notExported" : 1137,
+    "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
   "dateTimeFetched" : "",
-  "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
+  "name" : "US, California—Pioneer Migration Index, 1849–1935",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -111,40 +111,40 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2677,
-    "projectUUID" : "05C649E7-2DD3-428A-87B3-7C122DC4F56E",
-    "name" : "US, California—Pioneer Migration Index, 1849–1935",
+    "projectId" : 2422,
+    "projectUUID" : "C3B5CAE2-E28F-421B-97BC-DF3745C0FFE7",
+    "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 10,
-  "batchCount" : 1761,
-  "auditBatchCount" : 85,
-  "imageCount" : 19362,
+  "imagesetCount" : 153,
+  "batchCount" : 69773,
+  "auditBatchCount" : 3320,
+  "imageCount" : 70963,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 85,
+  "iesAuditBatchCount" : 3320,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 10,
-    "batchCount" : 1676,
-    "images" : 19362,
-    "recordCount" : 6747
+    "imagesetCount" : 153,
+    "batchCount" : 66453,
+    "images" : 70963,
+    "recordCount" : 970725
   },
   "exportStateCounts" : {
-    "accepted" : 6370,
-    "exported" : 35,
+    "accepted" : 66276,
+    "exported" : 206,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 848,
-    "blocked" : 2643,
-    "duplicate" : 848,
-    "ned" : 9466,
+    "audit" : 3389,
+    "blocked" : 2872,
+    "duplicate" : 80,
+    "ned" : 392,
     "unreadable" : 0,
-    "notExported" : 0,
+    "notExported" : 1137,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
   "dateTimeFetched" : "",
-  "name" : "US, California—Pioneer Migration Index, 1849–1935",
+  "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -962,43 +962,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2970,
-    "projectUUID" : "ACFDDEF7-BD2F-4C36-9F0B-E8C34ECBEA06",
-    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 50,
-  "batchCount" : 436,
-  "auditBatchCount" : 19,
-  "imageCount" : 9624,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 19,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 50,
-    "batchCount" : 417,
-    "images" : 9624,
-    "recordCount" : 1935
-  },
-  "exportStateCounts" : {
-    "accepted" : 1896,
-    "exported" : 2,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 91,
-    "blocked" : 7671,
-    "duplicate" : 4,
-    "ned" : 41,
-    "unreadable" : 0,
-    "notExported" : 10,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3633,
     "projectUUID" : "1B1346D9-0029-4E89-8634-FDC53820EE26",
     "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900",
@@ -1034,6 +997,43 @@
   "dateTimeFetched" : "2019-11-22 10:06:52",
   "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900",
   "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 2970,
+    "projectUUID" : "ACFDDEF7-BD2F-4C36-9F0B-E8C34ECBEA06",
+    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 436,
+  "auditBatchCount" : 19,
+  "imageCount" : 9624,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 19,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 417,
+    "images" : 9624,
+    "recordCount" : 1935
+  },
+  "exportStateCounts" : {
+    "accepted" : 1896,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 91,
+    "blocked" : 7671,
+    "duplicate" : 4,
+    "ned" : 41,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3202,
@@ -1147,43 +1147,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3499,
-    "projectUUID" : "F7B69D2E-ABEC-4C89-B9E6-4AE4202977EC",
-    "name" : "US, Missouri—1880 Census [Part C]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 1,
-  "batchCount" : 13,
-  "auditBatchCount" : 0,
-  "imageCount" : 13,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 0,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 13,
-    "images" : 13,
-    "recordCount" : 633
-  },
-  "exportStateCounts" : {
-    "accepted" : 13,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "US, Missouri—1880 Census [Part C]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 1688,
     "projectUUID" : "C8D58F7A-689C-4F18-AD87-210C9C98E450",
     "name" : "UK, England, Devon—Bishop's Transcripts, 1754–1887 [Part A]",
@@ -1221,6 +1184,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3499,
+    "projectUUID" : "F7B69D2E-ABEC-4C89-B9E6-4AE4202977EC",
+    "name" : "US, Missouri—1880 Census [Part C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 13,
+  "auditBatchCount" : 0,
+  "imageCount" : 13,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 13,
+    "images" : 13,
+    "recordCount" : 633
+  },
+  "exportStateCounts" : {
+    "accepted" : 13,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "US, Missouri—1880 Census [Part C]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 3287,
     "projectUUID" : "059BF999-055A-4214-BE73-8F173D116839",
     "name" : "US, Missouri, St. Louis—Military Records, 1916–1939",
@@ -1230,7 +1230,7 @@
   "batchCount" : 258343,
   "auditBatchCount" : 12293,
   "imageCount" : 322006,
-  "blockedCount" : 0,
+  "blockedCount" : 72682,
   "iesAuditBatchCount" : 8003,
   "iesCountsNoAudit" : {
     "imagesetCount" : 175,
@@ -1554,43 +1554,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2297,
-    "projectUUID" : "5D948EB9-20D5-4570-B298-2679CB2D1126",
-    "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 3,
-  "batchCount" : 1659,
-  "auditBatchCount" : 79,
-  "imageCount" : 1628,
-  "blockedCount" : 47,
-  "iesAuditBatchCount" : 22,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 3,
-    "batchCount" : 421,
-    "images" : 469,
-    "recordCount" : 6015
-  },
-  "exportStateCounts" : {
-    "accepted" : 280,
-    "exported" : 0,
-    "failed" : 48,
-    "inProgress" : 68,
-    "audit" : 22,
-    "blocked" : 47,
-    "duplicate" : 0,
-    "ned" : 26,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "2019-11-22 09:38:30",
-  "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 2714,
     "projectUUID" : "5D7E7D33-A970-4C47-818D-F6C12362B014",
     "name" : "Lesotho—Evangelical Church Records, 1840–1953 [Part C]",
@@ -1628,40 +1591,77 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2099,
-    "projectUUID" : "BDCAF64D-3CC0-489A-9127-B071E64F5691",
-    "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
+    "projectId" : 2297,
+    "projectUUID" : "5D948EB9-20D5-4570-B298-2679CB2D1126",
+    "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
     "state" : "ACTIVE"
   },
-  "imagesetCount" : 50,
-  "batchCount" : 7169,
-  "auditBatchCount" : 337,
-  "imageCount" : 7142,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 131,
+  "imagesetCount" : 3,
+  "batchCount" : 1659,
+  "auditBatchCount" : 79,
+  "imageCount" : 1628,
+  "blockedCount" : 47,
+  "iesAuditBatchCount" : 22,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 50,
-    "batchCount" : 2636,
-    "images" : 2946,
-    "recordCount" : 69137
+    "imagesetCount" : 3,
+    "batchCount" : 421,
+    "images" : 469,
+    "recordCount" : 6015
   },
   "exportStateCounts" : {
-    "accepted" : 1730,
-    "exported" : 2,
-    "failed" : 0,
-    "inProgress" : 849,
-    "audit" : 131,
-    "blocked" : 309,
+    "accepted" : 280,
+    "exported" : 0,
+    "failed" : 48,
+    "inProgress" : 68,
+    "audit" : 22,
+    "blocked" : 47,
     "duplicate" : 0,
-    "ned" : 41,
+    "ned" : 26,
     "unreadable" : 0,
-    "notExported" : 14,
+    "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:35:49",
-  "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
+  "dateTimeFetched" : "2019-11-22 09:38:30",
+  "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 1989,
+    "projectUUID" : "F4A7F975-BB43-4025-8326-AFF00B5E13C2",
+    "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 199,
+  "batchCount" : 107894,
+  "auditBatchCount" : 5121,
+  "imageCount" : 1033852,
+  "blockedCount" : 7042,
+  "iesAuditBatchCount" : 136,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 199,
+    "batchCount" : 3078,
+    "images" : 37807,
+    "recordCount" : 6458
+  },
+  "exportStateCounts" : {
+    "accepted" : 6420,
+    "exported" : 9,
+    "failed" : 3538,
+    "inProgress" : 2701,
+    "audit" : 1360,
+    "blocked" : 7042,
+    "duplicate" : 28,
+    "ned" : 18069,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 09:33:40",
+  "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -1702,40 +1702,40 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 1989,
-    "projectUUID" : "F4A7F975-BB43-4025-8326-AFF00B5E13C2",
-    "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
+    "projectId" : 2099,
+    "projectUUID" : "BDCAF64D-3CC0-489A-9127-B071E64F5691",
+    "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
     "state" : "ACTIVE"
   },
-  "imagesetCount" : 199,
-  "batchCount" : 107894,
-  "auditBatchCount" : 5121,
-  "imageCount" : 1033852,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 136,
+  "imagesetCount" : 50,
+  "batchCount" : 7169,
+  "auditBatchCount" : 337,
+  "imageCount" : 7142,
+  "blockedCount" : 309,
+  "iesAuditBatchCount" : 131,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 199,
-    "batchCount" : 3078,
-    "images" : 37807,
-    "recordCount" : 6458
+    "imagesetCount" : 50,
+    "batchCount" : 2636,
+    "images" : 2946,
+    "recordCount" : 69137
   },
   "exportStateCounts" : {
-    "accepted" : 6420,
-    "exported" : 9,
-    "failed" : 3538,
-    "inProgress" : 2701,
-    "audit" : 1360,
-    "blocked" : 7042,
-    "duplicate" : 28,
-    "ned" : 18069,
+    "accepted" : 1730,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 849,
+    "audit" : 131,
+    "blocked" : 309,
+    "duplicate" : 0,
+    "ned" : 41,
     "unreadable" : 0,
-    "notExported" : 0,
+    "notExported" : 14,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:33:40",
-  "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
+  "dateTimeFetched" : "2019-11-22 09:35:49",
+  "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -2146,43 +2146,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2740,
-    "projectUUID" : "A1FE0B55-458F-4758-940F-23E0903EA3EC",
-    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 170,
-  "batchCount" : 7952,
-  "auditBatchCount" : 376,
-  "imageCount" : 156672,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 376,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 170,
-    "batchCount" : 7576,
-    "images" : 156672,
-    "recordCount" : 75000
-  },
-  "exportStateCounts" : {
-    "accepted" : 74871,
-    "exported" : 6,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 3745,
-    "blocked" : 81730,
-    "duplicate" : 35,
-    "ned" : 30,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 2593,
     "projectUUID" : "7624DB22-3FAF-414F-B388-64D031301BB2",
     "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007",
@@ -2217,6 +2180,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2740,
+    "projectUUID" : "A1FE0B55-458F-4758-940F-23E0903EA3EC",
+    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 170,
+  "batchCount" : 7952,
+  "auditBatchCount" : 376,
+  "imageCount" : 156672,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 376,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 170,
+    "batchCount" : 7576,
+    "images" : 156672,
+    "recordCount" : 75000
+  },
+  "exportStateCounts" : {
+    "accepted" : 74871,
+    "exported" : 6,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3745,
+    "blocked" : 81730,
+    "duplicate" : 35,
+    "ned" : 30,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2257,43 +2257,6 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 1970,
-    "projectUUID" : "83FAA34F-B975-44C1-8132-24B7A5F727AC",
-    "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 74,
-  "batchCount" : 9645,
-  "auditBatchCount" : 459,
-  "imageCount" : 44959,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 459,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 74,
-    "batchCount" : 9186,
-    "images" : 44959,
-    "recordCount" : 96319
-  },
-  "exportStateCounts" : {
-    "accepted" : 39100,
-    "exported" : 1177,
-    "failed" : 0,
-    "inProgress" : 5,
-    "audit" : 2159,
-    "blocked" : 1702,
-    "duplicate" : 572,
-    "ned" : 72,
-    "unreadable" : 0,
-    "notExported" : 2331,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3015,
     "projectUUID" : "FC399B1A-A508-49A7-B6F5-B3F25008C1D3",
     "name" : "US, Massachusetts—Births, Marriages, and Deaths, 1600–1990 [Part B]",
@@ -2331,40 +2294,40 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2861,
-    "projectUUID" : "97EA7BBA-5D38-4E27-9D44-D8C9A2103AAE",
-    "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
+    "projectId" : 1970,
+    "projectUUID" : "83FAA34F-B975-44C1-8132-24B7A5F727AC",
+    "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 27,
-  "batchCount" : 5189,
-  "auditBatchCount" : 242,
-  "imageCount" : 24877,
+  "imagesetCount" : 74,
+  "batchCount" : 9645,
+  "auditBatchCount" : 459,
+  "imageCount" : 44959,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 242,
+  "iesAuditBatchCount" : 459,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 27,
-    "batchCount" : 4947,
-    "images" : 24877,
-    "recordCount" : 24485
+    "imagesetCount" : 74,
+    "batchCount" : 9186,
+    "images" : 44959,
+    "recordCount" : 96319
   },
   "exportStateCounts" : {
-    "accepted" : 24127,
-    "exported" : 25,
+    "accepted" : 39100,
+    "exported" : 1177,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 1210,
-    "blocked" : 187,
-    "duplicate" : 218,
-    "ned" : 320,
+    "inProgress" : 5,
+    "audit" : 2159,
+    "blocked" : 1702,
+    "duplicate" : 572,
+    "ned" : 72,
     "unreadable" : 0,
-    "notExported" : 0,
+    "notExported" : 2331,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
   "dateTimeFetched" : "",
-  "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
+  "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2402,6 +2365,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "UK (Quick Batch), England, Derbyshire—Parish Registers, 1754–2005 [Part D]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2861,
+    "projectUUID" : "97EA7BBA-5D38-4E27-9D44-D8C9A2103AAE",
+    "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 27,
+  "batchCount" : 5189,
+  "auditBatchCount" : 242,
+  "imageCount" : 24877,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 242,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 27,
+    "batchCount" : 4947,
+    "images" : 24877,
+    "recordCount" : 24485
+  },
+  "exportStateCounts" : {
+    "accepted" : 24127,
+    "exported" : 25,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1210,
+    "blocked" : 187,
+    "duplicate" : 218,
+    "ned" : 320,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2627,43 +2627,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2609,
-    "projectUUID" : "6AADF57F-E601-49CA-929C-4048D4B3860C",
-    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 200,
-  "batchCount" : 3634,
-  "auditBatchCount" : 170,
-  "imageCount" : 19563,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 170,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 200,
-    "batchCount" : 3464,
-    "images" : 19563,
-    "recordCount" : 18926
-  },
-  "exportStateCounts" : {
-    "accepted" : 18490,
-    "exported" : 88,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 902,
-    "blocked" : 916,
-    "duplicate" : 7,
-    "ned" : 62,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 1900,
     "projectUUID" : "BF4A07FD-5249-47B3-B0F3-2106B6D321C6",
     "name" : "US, California—Airplane Lists of Passengers from Honolulu, Hawaii, 1947–1948",
@@ -2698,6 +2661,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "US, California—Airplane Lists of Passengers from Honolulu, Hawaii, 1947–1948",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2609,
+    "projectUUID" : "6AADF57F-E601-49CA-929C-4048D4B3860C",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 3634,
+  "auditBatchCount" : 170,
+  "imageCount" : 19563,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 170,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 3464,
+    "images" : 19563,
+    "recordCount" : 18926
+  },
+  "exportStateCounts" : {
+    "accepted" : 18490,
+    "exported" : 88,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 902,
+    "blocked" : 916,
+    "duplicate" : 7,
+    "ned" : 62,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2932,7 +2932,7 @@
   "batchCount" : 38253,
   "auditBatchCount" : 1822,
   "imageCount" : 80946,
-  "blockedCount" : 0,
+  "blockedCount" : 10103,
   "iesAuditBatchCount" : 1194,
   "iesCountsNoAudit" : {
     "imagesetCount" : 19,
@@ -2997,6 +2997,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3535,
+    "projectUUID" : "67C6D0BD-019D-4BC3-BF97-018BADFBB875",
+    "name" : "Luxembourg—Civil Registration, 1796–1923 [Part I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 6,
+  "batchCount" : 3129,
+  "auditBatchCount" : 150,
+  "imageCount" : 8254,
+  "blockedCount" : 662,
+  "iesAuditBatchCount" : 5,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3,
+    "batchCount" : 2979,
+    "images" : 3807,
+    "recordCount" : 168
+  },
+  "exportStateCounts" : {
+    "accepted" : 51,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 3112,
+    "audit" : 7,
+    "blocked" : 631,
+    "duplicate" : 0,
+    "ned" : 13,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-22 10:02:54",
+  "name" : "Luxembourg—Civil Registration, 1796–1923 [Part I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2130,
     "projectUUID" : "0E56D95B-FBB3-4894-81F4-964671C3F21E",
     "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
@@ -3032,43 +3069,6 @@
   "dateTimeFetched" : "2019-11-11 11:46:29",
   "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
   "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
-    "projectId" : 3535,
-    "projectUUID" : "67C6D0BD-019D-4BC3-BF97-018BADFBB875",
-    "name" : "Luxembourg—Civil Registration, 1796–1923 [Part I]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 6,
-  "batchCount" : 3129,
-  "auditBatchCount" : 150,
-  "imageCount" : 8254,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 5,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 3,
-    "batchCount" : 2979,
-    "images" : 3807,
-    "recordCount" : 168
-  },
-  "exportStateCounts" : {
-    "accepted" : 51,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 3112,
-    "audit" : 7,
-    "blocked" : 631,
-    "duplicate" : 0,
-    "ned" : 13,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "2019-11-22 10:02:54",
-  "name" : "Luxembourg—Civil Registration, 1796–1923 [Part I]",
-  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 2854,
@@ -3376,7 +3376,7 @@
   "batchCount" : 2954,
   "auditBatchCount" : 138,
   "imageCount" : 8590,
-  "blockedCount" : 0,
+  "blockedCount" : 183,
   "iesAuditBatchCount" : 73,
   "iesCountsNoAudit" : {
     "imagesetCount" : 28,
@@ -3450,7 +3450,7 @@
   "batchCount" : 22882,
   "auditBatchCount" : 1092,
   "imageCount" : 75278,
-  "blockedCount" : 0,
+  "blockedCount" : 5692,
   "iesAuditBatchCount" : 553,
   "iesCountsNoAudit" : {
     "imagesetCount" : 138,
@@ -3552,43 +3552,6 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2094,
-    "projectUUID" : "90A94243-925D-4412-956D-98C0DA397EC8",
-    "name" : "Deutschland, Schleswig-Holstein, Kreis Steinburg-Standesamtliche Unterlagen, 1874-1983 [Teil D]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 350,
-  "batchCount" : 5294,
-  "auditBatchCount" : 244,
-  "imageCount" : 52494,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 244,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 350,
-    "batchCount" : 5050,
-    "images" : 52494,
-    "recordCount" : 29572
-  },
-  "exportStateCounts" : {
-    "accepted" : 29126,
-    "exported" : 49,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 2379,
-    "blocked" : 3253,
-    "duplicate" : 144,
-    "ned" : 19397,
-    "unreadable" : 0,
-    "notExported" : 525,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "2019-11-11 11:46:18",
-  "name" : "Deutschland, Schleswig-Holstein, Kreis Steinburg-Standesamtliche Unterlagen, 1874-1983 [Teil D]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 1775,
     "projectUUID" : "BC9EB1B5-4E7A-4221-A24A-88FB518A6F50",
     "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part R]",
@@ -3623,6 +3586,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part R]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2094,
+    "projectUUID" : "90A94243-925D-4412-956D-98C0DA397EC8",
+    "name" : "Deutschland, Schleswig-Holstein, Kreis Steinburg-Standesamtliche Unterlagen, 1874-1983 [Teil D]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 350,
+  "batchCount" : 5294,
+  "auditBatchCount" : 244,
+  "imageCount" : 52494,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 244,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 350,
+    "batchCount" : 5050,
+    "images" : 52494,
+    "recordCount" : 29572
+  },
+  "exportStateCounts" : {
+    "accepted" : 29126,
+    "exported" : 49,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2379,
+    "blocked" : 3253,
+    "duplicate" : 144,
+    "ned" : 19397,
+    "unreadable" : 0,
+    "notExported" : 525,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-11 11:46:18",
+  "name" : "Deutschland, Schleswig-Holstein, Kreis Steinburg-Standesamtliche Unterlagen, 1874-1983 [Teil D]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -3774,41 +3774,41 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2470,
-    "projectUUID" : "00E65653-6189-41CA-A003-0762AA05F6DD",
-    "name" : "US, Georgia, Fulton County and De Kalb County—1926 Voter Lists",
-    "state" : "READY_FOR_DELIVERY"
+    "projectId" : 1879,
+    "projectUUID" : "A25AE7EC-61DC-4751-A138-273FE5802830",
+    "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
+    "state" : "ACTIVE"
   },
-  "imagesetCount" : 2,
-  "batchCount" : 45,
-  "auditBatchCount" : 2,
-  "imageCount" : 43,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 2,
+  "imagesetCount" : 198,
+  "batchCount" : 61097,
+  "auditBatchCount" : 2908,
+  "imageCount" : 592837,
+  "blockedCount" : 18378,
+  "iesAuditBatchCount" : 2515,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 2,
-    "batchCount" : 43,
-    "images" : 43,
-    "recordCount" : 1512
+    "imagesetCount" : 198,
+    "batchCount" : 50333,
+    "images" : 514386,
+    "recordCount" : 519594
   },
   "exportStateCounts" : {
-    "accepted" : 43,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 2,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "accepted" : 309258,
+    "exported" : 860,
+    "failed" : 724,
+    "inProgress" : 179358,
+    "audit" : 24791,
+    "blocked" : 18378,
+    "duplicate" : 4849,
+    "ned" : 509,
     "unreadable" : 0,
-    "notExported" : 0,
+    "notExported" : 445,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 5,
     "published" : 0
   },
-  "dateTimeFetched" : "",
-  "name" : "US, Georgia, Fulton County and De Kalb County—1926 Voter Lists",
-  "state" : "READY_FOR_DELIVERY"
+  "dateTimeFetched" : "2019-11-22 09:31:56",
+  "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 2111,
@@ -3848,41 +3848,41 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 1879,
-    "projectUUID" : "A25AE7EC-61DC-4751-A138-273FE5802830",
-    "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
-    "state" : "ACTIVE"
+    "projectId" : 2470,
+    "projectUUID" : "00E65653-6189-41CA-A003-0762AA05F6DD",
+    "name" : "US, Georgia, Fulton County and De Kalb County—1926 Voter Lists",
+    "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 198,
-  "batchCount" : 61097,
-  "auditBatchCount" : 2908,
-  "imageCount" : 592837,
+  "imagesetCount" : 2,
+  "batchCount" : 45,
+  "auditBatchCount" : 2,
+  "imageCount" : 43,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 2515,
+  "iesAuditBatchCount" : 2,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 198,
-    "batchCount" : 50333,
-    "images" : 514386,
-    "recordCount" : 519594
+    "imagesetCount" : 2,
+    "batchCount" : 43,
+    "images" : 43,
+    "recordCount" : 1512
   },
   "exportStateCounts" : {
-    "accepted" : 309258,
-    "exported" : 860,
-    "failed" : 724,
-    "inProgress" : 179358,
-    "audit" : 24791,
-    "blocked" : 18378,
-    "duplicate" : 4849,
-    "ned" : 509,
+    "accepted" : 43,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
-    "notExported" : 445,
+    "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 5,
+    "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:31:56",
-  "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
-  "state" : "ACTIVE"
+  "dateTimeFetched" : "",
+  "name" : "US, Georgia, Fulton County and De Kalb County—1926 Voter Lists",
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3392,
@@ -4033,43 +4033,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 1914,
-    "projectUUID" : "336D1940-16E1-4646-81A6-5DEBB58AE767",
-    "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part S]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 400,
-  "batchCount" : 39106,
-  "auditBatchCount" : 1859,
-  "imageCount" : 398236,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 1859,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 400,
-    "batchCount" : 37247,
-    "images" : 398236,
-    "recordCount" : 371036
-  },
-  "exportStateCounts" : {
-    "accepted" : 370410,
-    "exported" : 19,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 18512,
-    "blocked" : 27489,
-    "duplicate" : 170,
-    "ned" : 148,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part S]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3710,
     "projectUUID" : "51C0E90D-3C73-4E79-9F88-C1D8E04E8542",
     "name" : "UK—Principal Probate Registry, 1858–1957 [Part O]",
@@ -4105,6 +4068,43 @@
   "dateTimeFetched" : "2019-11-22 10:08:51",
   "name" : "UK—Principal Probate Registry, 1858–1957 [Part O]",
   "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 1914,
+    "projectUUID" : "336D1940-16E1-4646-81A6-5DEBB58AE767",
+    "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part S]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 400,
+  "batchCount" : 39106,
+  "auditBatchCount" : 1859,
+  "imageCount" : 398236,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1859,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 400,
+    "batchCount" : 37247,
+    "images" : 398236,
+    "recordCount" : 371036
+  },
+  "exportStateCounts" : {
+    "accepted" : 370410,
+    "exported" : 19,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 18512,
+    "blocked" : 27489,
+    "duplicate" : 170,
+    "ned" : 148,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part S]",
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2993,
@@ -4227,7 +4227,7 @@
   "batchCount" : 32038,
   "auditBatchCount" : 1522,
   "imageCount" : 30922,
-  "blockedCount" : 0,
+  "blockedCount" : 405,
   "iesAuditBatchCount" : 1419,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
@@ -4338,7 +4338,7 @@
   "batchCount" : 2219,
   "auditBatchCount" : 105,
   "imageCount" : 22976,
-  "blockedCount" : 0,
+  "blockedCount" : 4215,
   "iesAuditBatchCount" : 81,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -5337,7 +5337,7 @@
   "batchCount" : 2817,
   "auditBatchCount" : 134,
   "imageCount" : 87373,
-  "blockedCount" : 0,
+  "blockedCount" : 56017,
   "iesAuditBatchCount" : 16,
   "iesCountsNoAudit" : {
     "imagesetCount" : 7,
@@ -6077,7 +6077,7 @@
   "batchCount" : 57688,
   "auditBatchCount" : 2746,
   "imageCount" : 62154,
-  "blockedCount" : 0,
+  "blockedCount" : 7029,
   "iesAuditBatchCount" : 696,
   "iesCountsNoAudit" : {
     "imagesetCount" : 40,
@@ -6373,7 +6373,7 @@
   "batchCount" : 31045,
   "auditBatchCount" : 1473,
   "imageCount" : 67521,
-  "blockedCount" : 0,
+  "blockedCount" : 2124,
   "iesAuditBatchCount" : 188,
   "iesCountsNoAudit" : {
     "imagesetCount" : 59,
@@ -7150,7 +7150,7 @@
   "batchCount" : 21098,
   "auditBatchCount" : 1007,
   "imageCount" : 205276,
-  "blockedCount" : 0,
+  "blockedCount" : 7322,
   "iesAuditBatchCount" : 885,
   "iesCountsNoAudit" : {
     "imagesetCount" : 117,
@@ -7179,7 +7179,7 @@
 }, {
   "project" : {
     "projectId" : 3388,
-    "projectUUID" : "3909604b-1bef-4780-8d62-c99a0ccafca3",
+    "projectUUID" : "3909604B-1BEF-4780-8D62-C99A0CCAFCA3",
     "name" : "US, South Carolina—World War I Draft Registration Cards, 1917–1918 [Part D]",
     "state" : "ACTIVE"
   },
@@ -7187,7 +7187,7 @@
   "batchCount" : 1408,
   "auditBatchCount" : 67,
   "imageCount" : 5392,
-  "blockedCount" : 0,
+  "blockedCount" : 31,
   "iesAuditBatchCount" : 5,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
@@ -7446,7 +7446,7 @@
   "batchCount" : 569,
   "auditBatchCount" : 27,
   "imageCount" : 45660,
-  "blockedCount" : 0,
+  "blockedCount" : 347,
   "iesAuditBatchCount" : 27,
   "iesCountsNoAudit" : {
     "imagesetCount" : 64,
@@ -7631,7 +7631,7 @@
   "batchCount" : 89850,
   "auditBatchCount" : 4265,
   "imageCount" : 296326,
-  "blockedCount" : 0,
+  "blockedCount" : 102739,
   "iesAuditBatchCount" : 4263,
   "iesCountsNoAudit" : {
     "imagesetCount" : 942,
@@ -7742,7 +7742,7 @@
   "batchCount" : 24912,
   "auditBatchCount" : 1186,
   "imageCount" : 49665,
-  "blockedCount" : 0,
+  "blockedCount" : 1977,
   "iesAuditBatchCount" : 385,
   "iesCountsNoAudit" : {
     "imagesetCount" : 77,
@@ -7779,7 +7779,7 @@
   "batchCount" : 54961,
   "auditBatchCount" : 2596,
   "imageCount" : 284064,
-  "blockedCount" : 0,
+  "blockedCount" : 61191,
   "iesAuditBatchCount" : 123,
   "iesCountsNoAudit" : {
     "imagesetCount" : 980,
@@ -9000,7 +9000,7 @@
   "batchCount" : 3685,
   "auditBatchCount" : 176,
   "imageCount" : 6102,
-  "blockedCount" : 0,
+  "blockedCount" : 92,
   "iesAuditBatchCount" : 171,
   "iesCountsNoAudit" : {
     "imagesetCount" : 6,
@@ -9296,7 +9296,7 @@
   "batchCount" : 65999,
   "auditBatchCount" : 3144,
   "imageCount" : 75601,
-  "blockedCount" : 0,
+  "blockedCount" : 11889,
   "iesAuditBatchCount" : 2854,
   "iesCountsNoAudit" : {
     "imagesetCount" : 43,
@@ -9703,7 +9703,7 @@
   "batchCount" : 4530,
   "auditBatchCount" : 215,
   "imageCount" : 32765,
-  "blockedCount" : 0,
+  "blockedCount" : 19932,
   "iesAuditBatchCount" : 91,
   "iesCountsNoAudit" : {
     "imagesetCount" : 60,
@@ -10221,7 +10221,7 @@
   "batchCount" : 7936,
   "auditBatchCount" : 363,
   "imageCount" : 32029,
-  "blockedCount" : 0,
+  "blockedCount" : 2361,
   "iesAuditBatchCount" : 363,
   "iesCountsNoAudit" : {
     "imagesetCount" : 400,
@@ -10443,7 +10443,7 @@
   "batchCount" : 3714,
   "auditBatchCount" : 174,
   "imageCount" : 15017,
-  "blockedCount" : 0,
+  "blockedCount" : 851,
   "iesAuditBatchCount" : 56,
   "iesCountsNoAudit" : {
     "imagesetCount" : 97,
@@ -10554,7 +10554,7 @@
   "batchCount" : 41668,
   "auditBatchCount" : 1974,
   "imageCount" : 503496,
-  "blockedCount" : 0,
+  "blockedCount" : 218413,
   "iesAuditBatchCount" : 1974,
   "iesCountsNoAudit" : {
     "imagesetCount" : 275,
@@ -12848,7 +12848,7 @@
   "batchCount" : 22929,
   "auditBatchCount" : 1090,
   "imageCount" : 152134,
-  "blockedCount" : 0,
+  "blockedCount" : 65773,
   "iesAuditBatchCount" : 145,
   "iesCountsNoAudit" : {
     "imagesetCount" : 217,
@@ -12922,7 +12922,7 @@
   "batchCount" : 354851,
   "auditBatchCount" : 16892,
   "imageCount" : 1686139,
-  "blockedCount" : 0,
+  "blockedCount" : 6535,
   "iesAuditBatchCount" : 16732,
   "iesCountsNoAudit" : {
     "imagesetCount" : 301,
@@ -12996,7 +12996,7 @@
   "batchCount" : 9053,
   "auditBatchCount" : 431,
   "imageCount" : 8802,
-  "blockedCount" : 0,
+  "blockedCount" : 180,
   "iesAuditBatchCount" : 33,
   "iesCountsNoAudit" : {
     "imagesetCount" : 15,
@@ -13366,7 +13366,7 @@
   "batchCount" : 8081,
   "auditBatchCount" : 384,
   "imageCount" : 15517,
-  "blockedCount" : 0,
+  "blockedCount" : 133,
   "iesAuditBatchCount" : 263,
   "iesCountsNoAudit" : {
     "imagesetCount" : 9,
@@ -13588,7 +13588,7 @@
   "batchCount" : 25301,
   "auditBatchCount" : 1198,
   "imageCount" : 24720,
-  "blockedCount" : 0,
+  "blockedCount" : 601,
   "iesAuditBatchCount" : 1109,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -13617,7 +13617,7 @@
 }, {
   "project" : {
     "projectId" : 3416,
-    "projectUUID" : "2332e1fb-2409-4725-989b-bd380d3a37af",
+    "projectUUID" : "2332E1FB-2409-4725-989B-BD380D3A37AF",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BM]",
     "state" : "ACTIVE"
   },
@@ -13847,7 +13847,7 @@
   "batchCount" : 13485,
   "auditBatchCount" : 643,
   "imageCount" : 61517,
-  "blockedCount" : 0,
+  "blockedCount" : 12351,
   "iesAuditBatchCount" : 0,
   "iesCountsNoAudit" : {
     "imagesetCount" : 29,
@@ -14505,7 +14505,7 @@
 }, {
   "project" : {
     "projectId" : 3580,
-    "projectUUID" : "0957e2ce-a7b2-42dd-9cd1-6c101ab9c9bd",
+    "projectUUID" : "0957E2CE-A7B2-42DD-9CD1-6C101AB9C9BD",
     "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part C]",
     "state" : "ACTIVE"
   },
@@ -15401,7 +15401,7 @@
   "batchCount" : 2265,
   "auditBatchCount" : 108,
   "imageCount" : 2968,
-  "blockedCount" : 0,
+  "blockedCount" : 809,
   "iesAuditBatchCount" : 46,
   "iesCountsNoAudit" : {
     "imagesetCount" : 7,
@@ -15882,7 +15882,7 @@
   "batchCount" : 35634,
   "auditBatchCount" : 1691,
   "imageCount" : 174998,
-  "blockedCount" : 0,
+  "blockedCount" : 4561,
   "iesAuditBatchCount" : 969,
   "iesCountsNoAudit" : {
     "imagesetCount" : 62,
@@ -17251,7 +17251,7 @@
   "batchCount" : 4540,
   "auditBatchCount" : 205,
   "imageCount" : 9037,
-  "blockedCount" : 0,
+  "blockedCount" : 4462,
   "iesAuditBatchCount" : 1,
   "iesCountsNoAudit" : {
     "imagesetCount" : 6,
@@ -18612,7 +18612,7 @@
 }, {
   "project" : {
     "projectId" : 3610,
-    "projectUUID" : "4d5188e1-1fcd-44a5-8fc9-8c0f14491840",
+    "projectUUID" : "4D5188E1-1FCD-44A5-8FC9-8C0F14491840",
     "name" : "Peru, Huanuco—Civil Registration, 1888–1998 [Part C]",
     "state" : "ACTIVE"
   },
@@ -18768,7 +18768,7 @@
   "batchCount" : 73053,
   "auditBatchCount" : 3488,
   "imageCount" : 386965,
-  "blockedCount" : 0,
+  "blockedCount" : 50403,
   "iesAuditBatchCount" : 1264,
   "iesCountsNoAudit" : {
     "imagesetCount" : 290,
@@ -18879,7 +18879,7 @@
   "batchCount" : 35424,
   "auditBatchCount" : 1687,
   "imageCount" : 70611,
-  "blockedCount" : 0,
+  "blockedCount" : 8955,
   "iesAuditBatchCount" : 703,
   "iesCountsNoAudit" : {
     "imagesetCount" : 36,
@@ -18916,7 +18916,7 @@
   "batchCount" : 9167,
   "auditBatchCount" : 437,
   "imageCount" : 19096,
-  "blockedCount" : 0,
+  "blockedCount" : 1478,
   "iesAuditBatchCount" : 213,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
@@ -19767,7 +19767,7 @@
   "batchCount" : 328,
   "auditBatchCount" : 17,
   "imageCount" : 561,
-  "blockedCount" : 0,
+  "blockedCount" : 221,
   "iesAuditBatchCount" : 17,
   "iesCountsNoAudit" : {
     "imagesetCount" : 11,
@@ -20174,7 +20174,7 @@
   "batchCount" : 30202,
   "auditBatchCount" : 1435,
   "imageCount" : 31934,
-  "blockedCount" : 0,
+  "blockedCount" : 2286,
   "iesAuditBatchCount" : 432,
   "iesCountsNoAudit" : {
     "imagesetCount" : 58,
@@ -20655,7 +20655,7 @@
   "batchCount" : 441945,
   "auditBatchCount" : 21030,
   "imageCount" : 2113093,
-  "blockedCount" : 0,
+  "blockedCount" : 11203,
   "iesAuditBatchCount" : 21021,
   "iesCountsNoAudit" : {
     "imagesetCount" : 318,
@@ -20729,7 +20729,7 @@
   "batchCount" : 49937,
   "auditBatchCount" : 2381,
   "imageCount" : 96842,
-  "blockedCount" : 0,
+  "blockedCount" : 3557,
   "iesAuditBatchCount" : 1541,
   "iesCountsNoAudit" : {
     "imagesetCount" : 148,
@@ -21062,7 +21062,7 @@
   "batchCount" : 5188,
   "auditBatchCount" : 245,
   "imageCount" : 26501,
-  "blockedCount" : 0,
+  "blockedCount" : 7349,
   "iesAuditBatchCount" : 114,
   "iesCountsNoAudit" : {
     "imagesetCount" : 47,
@@ -21950,7 +21950,7 @@
   "batchCount" : 21741,
   "auditBatchCount" : 1032,
   "imageCount" : 40811,
-  "blockedCount" : 0,
+  "blockedCount" : 20102,
   "iesAuditBatchCount" : 303,
   "iesCountsNoAudit" : {
     "imagesetCount" : 56,
@@ -22135,7 +22135,7 @@
   "batchCount" : 29610,
   "auditBatchCount" : 1412,
   "imageCount" : 191474,
-  "blockedCount" : 0,
+  "blockedCount" : 58981,
   "iesAuditBatchCount" : 943,
   "iesCountsNoAudit" : {
     "imagesetCount" : 133,
@@ -22616,7 +22616,7 @@
   "batchCount" : 104682,
   "auditBatchCount" : 4974,
   "imageCount" : 336463,
-  "blockedCount" : 0,
+  "blockedCount" : 45542,
   "iesAuditBatchCount" : 1941,
   "iesCountsNoAudit" : {
     "imagesetCount" : 410,
@@ -22875,7 +22875,7 @@
   "batchCount" : 14525,
   "auditBatchCount" : 692,
   "imageCount" : 18143,
-  "blockedCount" : 0,
+  "blockedCount" : 29745,
   "iesAuditBatchCount" : 56,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
@@ -23652,7 +23652,7 @@
   "batchCount" : 236,
   "auditBatchCount" : 11,
   "imageCount" : 185579,
-  "blockedCount" : 0,
+  "blockedCount" : 135824,
   "iesAuditBatchCount" : 10,
   "iesCountsNoAudit" : {
     "imagesetCount" : 137,
@@ -24503,7 +24503,7 @@
   "batchCount" : 28852,
   "auditBatchCount" : 1369,
   "imageCount" : 344017,
-  "blockedCount" : 0,
+  "blockedCount" : 16561,
   "iesAuditBatchCount" : 82,
   "iesCountsNoAudit" : {
     "imagesetCount" : 261,
@@ -25132,7 +25132,7 @@
   "batchCount" : 96984,
   "auditBatchCount" : 4608,
   "imageCount" : 105886,
-  "blockedCount" : 0,
+  "blockedCount" : 12314,
   "iesAuditBatchCount" : 1802,
   "iesCountsNoAudit" : {
     "imagesetCount" : 201,
@@ -25724,7 +25724,7 @@
   "batchCount" : 39886,
   "auditBatchCount" : 1894,
   "imageCount" : 56615,
-  "blockedCount" : 0,
+  "blockedCount" : 12130,
   "iesAuditBatchCount" : 100,
   "iesCountsNoAudit" : {
     "imagesetCount" : 77,
@@ -25761,7 +25761,7 @@
   "batchCount" : 40953,
   "auditBatchCount" : 1952,
   "imageCount" : 164714,
-  "blockedCount" : 0,
+  "blockedCount" : 10265,
   "iesAuditBatchCount" : 400,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -26020,7 +26020,7 @@
   "batchCount" : 8268,
   "auditBatchCount" : 394,
   "imageCount" : 52166,
-  "blockedCount" : 0,
+  "blockedCount" : 3935,
   "iesAuditBatchCount" : 379,
   "iesCountsNoAudit" : {
     "imagesetCount" : 17,
@@ -26279,7 +26279,7 @@
   "batchCount" : 61751,
   "auditBatchCount" : 2939,
   "imageCount" : 75737,
-  "blockedCount" : 0,
+  "blockedCount" : 16886,
   "iesAuditBatchCount" : 557,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
@@ -26723,7 +26723,7 @@
   "batchCount" : 44262,
   "auditBatchCount" : 2106,
   "imageCount" : 44506,
-  "blockedCount" : 0,
+  "blockedCount" : 2345,
   "iesAuditBatchCount" : 103,
   "iesCountsNoAudit" : {
     "imagesetCount" : 54,
@@ -27648,7 +27648,7 @@
   "batchCount" : 53984,
   "auditBatchCount" : 2571,
   "imageCount" : 260459,
-  "blockedCount" : 0,
+  "blockedCount" : 3549,
   "iesAuditBatchCount" : 2311,
   "iesCountsNoAudit" : {
     "imagesetCount" : 51,
@@ -28573,7 +28573,7 @@
   "batchCount" : 11676,
   "auditBatchCount" : 549,
   "imageCount" : 36684,
-  "blockedCount" : 0,
+  "blockedCount" : 732,
   "iesAuditBatchCount" : 125,
   "iesCountsNoAudit" : {
     "imagesetCount" : 150,
@@ -28832,7 +28832,7 @@
   "batchCount" : 6737,
   "auditBatchCount" : 318,
   "imageCount" : 8825,
-  "blockedCount" : 0,
+  "blockedCount" : 2391,
   "iesAuditBatchCount" : 133,
   "iesCountsNoAudit" : {
     "imagesetCount" : 23,
@@ -28943,7 +28943,7 @@
   "batchCount" : 5467,
   "auditBatchCount" : 259,
   "imageCount" : 28233,
-  "blockedCount" : 0,
+  "blockedCount" : 4537,
   "iesAuditBatchCount" : 257,
   "iesCountsNoAudit" : {
     "imagesetCount" : 58,
@@ -29757,7 +29757,7 @@
   "batchCount" : 18709,
   "auditBatchCount" : 887,
   "imageCount" : 178982,
-  "blockedCount" : 0,
+  "blockedCount" : 29021,
   "iesAuditBatchCount" : 877,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -30201,7 +30201,7 @@
   "batchCount" : 10113,
   "auditBatchCount" : 481,
   "imageCount" : 189024,
-  "blockedCount" : 0,
+  "blockedCount" : 128315,
   "iesAuditBatchCount" : 135,
   "iesCountsNoAudit" : {
     "imagesetCount" : 398,
@@ -30238,7 +30238,7 @@
   "batchCount" : 1387,
   "auditBatchCount" : 65,
   "imageCount" : 1341,
-  "blockedCount" : 0,
+  "blockedCount" : 19,
   "iesAuditBatchCount" : 46,
   "iesCountsNoAudit" : {
     "imagesetCount" : 11,
@@ -30312,7 +30312,7 @@
   "batchCount" : 2573,
   "auditBatchCount" : 122,
   "imageCount" : 13105,
-  "blockedCount" : 0,
+  "blockedCount" : 890,
   "iesAuditBatchCount" : 98,
   "iesCountsNoAudit" : {
     "imagesetCount" : 11,
@@ -31052,7 +31052,7 @@
   "batchCount" : 36555,
   "auditBatchCount" : 1736,
   "imageCount" : 40347,
-  "blockedCount" : 0,
+  "blockedCount" : 5263,
   "iesAuditBatchCount" : 197,
   "iesCountsNoAudit" : {
     "imagesetCount" : 82,
@@ -31607,7 +31607,7 @@
   "batchCount" : 7871,
   "auditBatchCount" : 374,
   "imageCount" : 19499,
-  "blockedCount" : 0,
+  "blockedCount" : 5331,
   "iesAuditBatchCount" : 12,
   "iesCountsNoAudit" : {
     "imagesetCount" : 3,
@@ -32384,7 +32384,7 @@
   "batchCount" : 37996,
   "auditBatchCount" : 1807,
   "imageCount" : 36683,
-  "blockedCount" : 0,
+  "blockedCount" : 477,
   "iesAuditBatchCount" : 1598,
   "iesCountsNoAudit" : {
     "imagesetCount" : 11,
@@ -33864,7 +33864,7 @@
   "batchCount" : 48905,
   "auditBatchCount" : 2325,
   "imageCount" : 66304,
-  "blockedCount" : 0,
+  "blockedCount" : 2979,
   "iesAuditBatchCount" : 476,
   "iesCountsNoAudit" : {
     "imagesetCount" : 57,
@@ -34234,7 +34234,7 @@
   "batchCount" : 104344,
   "auditBatchCount" : 4969,
   "imageCount" : 114287,
-  "blockedCount" : 0,
+  "blockedCount" : 14911,
   "iesAuditBatchCount" : 2511,
   "iesCountsNoAudit" : {
     "imagesetCount" : 97,
@@ -34345,7 +34345,7 @@
   "batchCount" : 41642,
   "auditBatchCount" : 1982,
   "imageCount" : 39767,
-  "blockedCount" : 0,
+  "blockedCount" : 105,
   "iesAuditBatchCount" : 1191,
   "iesCountsNoAudit" : {
     "imagesetCount" : 101,
@@ -34382,7 +34382,7 @@
   "batchCount" : 791,
   "auditBatchCount" : 38,
   "imageCount" : 1526,
-  "blockedCount" : 0,
+  "blockedCount" : 39,
   "iesAuditBatchCount" : 0,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
@@ -34974,7 +34974,7 @@
   "batchCount" : 38645,
   "auditBatchCount" : 1833,
   "imageCount" : 75204,
-  "blockedCount" : 0,
+  "blockedCount" : 1591,
   "iesAuditBatchCount" : 1833,
   "iesCountsNoAudit" : {
     "imagesetCount" : 100,
@@ -36047,7 +36047,7 @@
   "batchCount" : 20791,
   "auditBatchCount" : 984,
   "imageCount" : 59980,
-  "blockedCount" : 0,
+  "blockedCount" : 19643,
   "iesAuditBatchCount" : 146,
   "iesCountsNoAudit" : {
     "imagesetCount" : 60,
@@ -36232,7 +36232,7 @@
   "batchCount" : 977,
   "auditBatchCount" : 47,
   "imageCount" : 2075,
-  "blockedCount" : 0,
+  "blockedCount" : 252,
   "iesAuditBatchCount" : 28,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
@@ -36269,7 +36269,7 @@
   "batchCount" : 57204,
   "auditBatchCount" : 2724,
   "imageCount" : 70696,
-  "blockedCount" : 0,
+  "blockedCount" : 16201,
   "iesAuditBatchCount" : 2268,
   "iesCountsNoAudit" : {
     "imagesetCount" : 36,
@@ -38489,7 +38489,7 @@
   "batchCount" : 114,
   "auditBatchCount" : 5,
   "imageCount" : 220,
-  "blockedCount" : 0,
+  "blockedCount" : 2,
   "iesAuditBatchCount" : 0,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
@@ -39369,7 +39369,7 @@
 }, {
   "project" : {
     "projectId" : 3774,
-    "projectUUID" : "6eb14cf9-d934-4db5-806f-0faa2af3b498",
+    "projectUUID" : "6EB14CF9-D934-4DB5-806F-0FAA2AF3B498",
     "name" : "Venezuela, Caracas—Parish Records, 1578–1947 [Part F]",
     "state" : "ACTIVE"
   },
@@ -39414,7 +39414,7 @@
   "batchCount" : 18373,
   "auditBatchCount" : 876,
   "imageCount" : 20344,
-  "blockedCount" : 0,
+  "blockedCount" : 2845,
   "iesAuditBatchCount" : 491,
   "iesCountsNoAudit" : {
     "imagesetCount" : 18,
@@ -39673,7 +39673,7 @@
   "batchCount" : 35374,
   "auditBatchCount" : 1676,
   "imageCount" : 171036,
-  "blockedCount" : 0,
+  "blockedCount" : 3681,
   "iesAuditBatchCount" : 1128,
   "iesCountsNoAudit" : {
     "imagesetCount" : 369,
@@ -40339,7 +40339,7 @@
   "batchCount" : 24564,
   "auditBatchCount" : 1160,
   "imageCount" : 53770,
-  "blockedCount" : 0,
+  "blockedCount" : 30363,
   "iesAuditBatchCount" : 494,
   "iesCountsNoAudit" : {
     "imagesetCount" : 367,
@@ -40894,7 +40894,7 @@
   "batchCount" : 4642,
   "auditBatchCount" : 217,
   "imageCount" : 23889,
-  "blockedCount" : 0,
+  "blockedCount" : 3458,
   "iesAuditBatchCount" : 168,
   "iesCountsNoAudit" : {
     "imagesetCount" : 145,
@@ -41856,7 +41856,7 @@
   "batchCount" : 20088,
   "auditBatchCount" : 959,
   "imageCount" : 78315,
-  "blockedCount" : 0,
+  "blockedCount" : 3387,
   "iesAuditBatchCount" : 220,
   "iesCountsNoAudit" : {
     "imagesetCount" : 259,
@@ -42522,7 +42522,7 @@
   "batchCount" : 27488,
   "auditBatchCount" : 1306,
   "imageCount" : 118207,
-  "blockedCount" : 0,
+  "blockedCount" : 641,
   "iesAuditBatchCount" : 137,
   "iesCountsNoAudit" : {
     "imagesetCount" : 52,
@@ -43114,7 +43114,7 @@
   "batchCount" : 755,
   "auditBatchCount" : 36,
   "imageCount" : 2075,
-  "blockedCount" : 0,
+  "blockedCount" : 527,
   "iesAuditBatchCount" : 20,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
@@ -43624,9 +43624,9 @@
 }, {
   "project" : {
     "projectId" : 3442,
-    "projectUUID" : "9F0DE112-43BF-48F4-A5EB-4678D32DEB92",
+    "projectUUID" : "9f0de112-43bf-48f4-a5eb-4678d32deb92",
     "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part AA]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 500,
   "batchCount" : 21179,
@@ -43638,26 +43638,26 @@
     "imagesetCount" : 500,
     "batchCount" : 20187,
     "images" : 85118,
-    "recordCount" : 87049
+    "recordCount" : 87051
   },
   "exportStateCounts" : {
-    "accepted" : 28702,
+    "accepted" : 28704,
     "exported" : 50736,
     "failed" : 4,
-    "inProgress" : 3,
+    "inProgress" : 0,
     "audit" : 3935,
     "blocked" : 5125,
     "duplicate" : 56,
-    "ned" : 487,
+    "ned" : 488,
     "unreadable" : 0,
     "notExported" : 4,
     "readyForExport" : 0,
     "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:59:55",
+  "dateTimeFetched" : "2019-11-23 08:29:55",
   "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part AA]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3619,
@@ -43965,7 +43965,7 @@
   "batchCount" : 636903,
   "auditBatchCount" : 30326,
   "imageCount" : 1793209,
-  "blockedCount" : 0,
+  "blockedCount" : 10435,
   "iesAuditBatchCount" : 2637,
   "iesCountsNoAudit" : {
     "imagesetCount" : 115,
@@ -44150,7 +44150,7 @@
   "batchCount" : 3298,
   "auditBatchCount" : 154,
   "imageCount" : 7221,
-  "blockedCount" : 0,
+  "blockedCount" : 426,
   "iesAuditBatchCount" : 113,
   "iesCountsNoAudit" : {
     "imagesetCount" : 35,
@@ -44261,7 +44261,7 @@
   "batchCount" : 11938,
   "auditBatchCount" : 565,
   "imageCount" : 12718,
-  "blockedCount" : 0,
+  "blockedCount" : 948,
   "iesAuditBatchCount" : 157,
   "iesCountsNoAudit" : {
     "imagesetCount" : 15,
@@ -44372,7 +44372,7 @@
   "batchCount" : 1592,
   "auditBatchCount" : 76,
   "imageCount" : 9700,
-  "blockedCount" : 0,
+  "blockedCount" : 1706,
   "iesAuditBatchCount" : 58,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
@@ -45149,7 +45149,7 @@
   "batchCount" : 38618,
   "auditBatchCount" : 1840,
   "imageCount" : 40137,
-  "blockedCount" : 0,
+  "blockedCount" : 1662,
   "iesAuditBatchCount" : 1558,
   "iesCountsNoAudit" : {
     "imagesetCount" : 13,
@@ -45297,7 +45297,7 @@
   "batchCount" : 4433,
   "auditBatchCount" : 208,
   "imageCount" : 21727,
-  "blockedCount" : 0,
+  "blockedCount" : 623,
   "iesAuditBatchCount" : 208,
   "iesCountsNoAudit" : {
     "imagesetCount" : 50,
@@ -46555,7 +46555,7 @@
   "batchCount" : 10638,
   "auditBatchCount" : 518,
   "imageCount" : 42996,
-  "blockedCount" : 0,
+  "blockedCount" : 3036,
   "iesAuditBatchCount" : 2,
   "iesCountsNoAudit" : {
     "imagesetCount" : 249,
@@ -46888,7 +46888,7 @@
   "batchCount" : 213211,
   "auditBatchCount" : 10148,
   "imageCount" : 666868,
-  "blockedCount" : 0,
+  "blockedCount" : 58515,
   "iesAuditBatchCount" : 8124,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
@@ -47036,7 +47036,7 @@
   "batchCount" : 25997,
   "auditBatchCount" : 1229,
   "imageCount" : 139805,
-  "blockedCount" : 0,
+  "blockedCount" : 19358,
   "iesAuditBatchCount" : 669,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -47369,7 +47369,7 @@
   "batchCount" : 6353,
   "auditBatchCount" : 302,
   "imageCount" : 6527,
-  "blockedCount" : 0,
+  "blockedCount" : 470,
   "iesAuditBatchCount" : 50,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
@@ -47591,7 +47591,7 @@
   "batchCount" : 3395,
   "auditBatchCount" : 162,
   "imageCount" : 3273,
-  "blockedCount" : 0,
+  "blockedCount" : 40,
   "iesAuditBatchCount" : 42,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
@@ -48212,7 +48212,7 @@
 }, {
   "project" : {
     "projectId" : 3612,
-    "projectUUID" : "ac410ba8-639a-4df8-b30f-d44c903edd44",
+    "projectUUID" : "AC410BA8-639A-4DF8-B30F-D44C903EDD44",
     "name" : "Peru, Ayacucho—Civil Registration, 1903–1999 [Part A]",
     "state" : "ACTIVE"
   },
@@ -48701,7 +48701,7 @@
   "batchCount" : 2932,
   "auditBatchCount" : 140,
   "imageCount" : 45361,
-  "blockedCount" : 0,
+  "blockedCount" : 10457,
   "iesAuditBatchCount" : 20,
   "iesCountsNoAudit" : {
     "imagesetCount" : 31,
