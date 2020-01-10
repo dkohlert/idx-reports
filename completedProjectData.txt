@@ -37,40 +37,40 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2422,
-    "projectUUID" : "C3B5CAE2-E28F-421B-97BC-DF3745C0FFE7",
-    "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
+    "projectId" : 2677,
+    "projectUUID" : "05C649E7-2DD3-428A-87B3-7C122DC4F56E",
+    "name" : "US, California—Pioneer Migration Index, 1849–1935",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 153,
-  "batchCount" : 69773,
-  "auditBatchCount" : 3320,
-  "imageCount" : 70963,
+  "imagesetCount" : 10,
+  "batchCount" : 1761,
+  "auditBatchCount" : 85,
+  "imageCount" : 19362,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 3320,
+  "iesAuditBatchCount" : 85,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 153,
-    "batchCount" : 66453,
-    "images" : 70963,
-    "recordCount" : 970725
+    "imagesetCount" : 10,
+    "batchCount" : 1676,
+    "images" : 19362,
+    "recordCount" : 6747
   },
   "exportStateCounts" : {
-    "accepted" : 66276,
-    "exported" : 206,
+    "accepted" : 6370,
+    "exported" : 35,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 3389,
-    "blocked" : 2872,
-    "duplicate" : 80,
-    "ned" : 392,
+    "audit" : 848,
+    "blocked" : 2643,
+    "duplicate" : 848,
+    "ned" : 9466,
     "unreadable" : 0,
-    "notExported" : 1137,
+    "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
   "dateTimeFetched" : "",
-  "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
+  "name" : "US, California—Pioneer Migration Index, 1849–1935",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -111,40 +111,40 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2677,
-    "projectUUID" : "05C649E7-2DD3-428A-87B3-7C122DC4F56E",
-    "name" : "US, California—Pioneer Migration Index, 1849–1935",
+    "projectId" : 2422,
+    "projectUUID" : "C3B5CAE2-E28F-421B-97BC-DF3745C0FFE7",
+    "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 10,
-  "batchCount" : 1761,
-  "auditBatchCount" : 85,
-  "imageCount" : 19362,
+  "imagesetCount" : 153,
+  "batchCount" : 69773,
+  "auditBatchCount" : 3320,
+  "imageCount" : 70963,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 85,
+  "iesAuditBatchCount" : 3320,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 10,
-    "batchCount" : 1676,
-    "images" : 19362,
-    "recordCount" : 6747
+    "imagesetCount" : 153,
+    "batchCount" : 66453,
+    "images" : 70963,
+    "recordCount" : 970725
   },
   "exportStateCounts" : {
-    "accepted" : 6370,
-    "exported" : 35,
+    "accepted" : 66276,
+    "exported" : 206,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 848,
-    "blocked" : 2643,
-    "duplicate" : 848,
-    "ned" : 9466,
+    "audit" : 3389,
+    "blocked" : 2872,
+    "duplicate" : 80,
+    "ned" : 392,
     "unreadable" : 0,
-    "notExported" : 0,
+    "notExported" : 1137,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
   "dateTimeFetched" : "",
-  "name" : "US, California—Pioneer Migration Index, 1849–1935",
+  "name" : "Ireland—Civil Registration, Births, 1864–1913 [Part B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -667,40 +667,40 @@
 }, {
   "project" : {
     "projectId" : 3713,
-    "projectUUID" : "9F3C1910-E253-4A4C-934E-48B588256EE2",
+    "projectUUID" : "9f3c1910-e253-4a4c-934e-48b588256ee2",
     "name" : "US, Georgia, Columbus—Linwood and Porterdale Colored Cemeteries, Interment Records, 1866–2000",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 2,
   "batchCount" : 1502,
   "auditBatchCount" : 72,
   "imageCount" : 1799,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 53,
+  "iesAuditBatchCount" : 72,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
     "batchCount" : 1430,
     "images" : 1799,
-    "recordCount" : 12486
+    "recordCount" : 32253
   },
   "exportStateCounts" : {
-    "accepted" : 567,
+    "accepted" : 1400,
     "exported" : 0,
-    "failed" : 2,
-    "inProgress" : 848,
-    "audit" : 53,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 72,
     "blocked" : 369,
     "duplicate" : 0,
-    "ned" : 2,
+    "ned" : 3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 11,
+    "rejected" : 27,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:08:56",
+  "dateTimeFetched" : "2020-01-10 09:36:48",
   "name" : "US, Georgia, Columbus—Linwood and Porterdale Colored Cemeteries, Interment Records, 1866–2000",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 1796,
@@ -962,43 +962,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2970,
-    "projectUUID" : "ACFDDEF7-BD2F-4C36-9F0B-E8C34ECBEA06",
-    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 50,
-  "batchCount" : 436,
-  "auditBatchCount" : 19,
-  "imageCount" : 9624,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 19,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 50,
-    "batchCount" : 417,
-    "images" : 9624,
-    "recordCount" : 1935
-  },
-  "exportStateCounts" : {
-    "accepted" : 1896,
-    "exported" : 2,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 91,
-    "blocked" : 7671,
-    "duplicate" : 4,
-    "ned" : 41,
-    "unreadable" : 0,
-    "notExported" : 10,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3633,
     "projectUUID" : "1B1346D9-0029-4E89-8634-FDC53820EE26",
     "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900",
@@ -1034,6 +997,43 @@
   "dateTimeFetched" : "2019-11-22 10:06:52",
   "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900",
   "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 2970,
+    "projectUUID" : "ACFDDEF7-BD2F-4C36-9F0B-E8C34ECBEA06",
+    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 50,
+  "batchCount" : 436,
+  "auditBatchCount" : 19,
+  "imageCount" : 9624,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 19,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 417,
+    "images" : 9624,
+    "recordCount" : 1935
+  },
+  "exportStateCounts" : {
+    "accepted" : 1896,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 91,
+    "blocked" : 7671,
+    "duplicate" : 4,
+    "ned" : 41,
+    "unreadable" : 0,
+    "notExported" : 10,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3202,
@@ -1147,43 +1147,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3499,
-    "projectUUID" : "F7B69D2E-ABEC-4C89-B9E6-4AE4202977EC",
-    "name" : "US, Missouri—1880 Census [Part C]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 1,
-  "batchCount" : 13,
-  "auditBatchCount" : 0,
-  "imageCount" : 13,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 0,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 13,
-    "images" : 13,
-    "recordCount" : 633
-  },
-  "exportStateCounts" : {
-    "accepted" : 13,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "US, Missouri—1880 Census [Part C]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 1688,
     "projectUUID" : "C8D58F7A-689C-4F18-AD87-210C9C98E450",
     "name" : "UK, England, Devon—Bishop's Transcripts, 1754–1887 [Part A]",
@@ -1218,6 +1181,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "UK, England, Devon—Bishop's Transcripts, 1754–1887 [Part A]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3499,
+    "projectUUID" : "F7B69D2E-ABEC-4C89-B9E6-4AE4202977EC",
+    "name" : "US, Missouri—1880 Census [Part C]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 13,
+  "auditBatchCount" : 0,
+  "imageCount" : 13,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 13,
+    "images" : 13,
+    "recordCount" : 633
+  },
+  "exportStateCounts" : {
+    "accepted" : 13,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "US, Missouri—1880 Census [Part C]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -1628,40 +1628,40 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2099,
-    "projectUUID" : "BDCAF64D-3CC0-489A-9127-B071E64F5691",
-    "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
+    "projectId" : 1989,
+    "projectUUID" : "F4A7F975-BB43-4025-8326-AFF00B5E13C2",
+    "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
     "state" : "ACTIVE"
   },
-  "imagesetCount" : 50,
-  "batchCount" : 7169,
-  "auditBatchCount" : 337,
-  "imageCount" : 7142,
-  "blockedCount" : 309,
-  "iesAuditBatchCount" : 131,
+  "imagesetCount" : 199,
+  "batchCount" : 107894,
+  "auditBatchCount" : 5121,
+  "imageCount" : 1033852,
+  "blockedCount" : 7042,
+  "iesAuditBatchCount" : 136,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 50,
-    "batchCount" : 2636,
-    "images" : 2946,
-    "recordCount" : 69137
+    "imagesetCount" : 199,
+    "batchCount" : 3078,
+    "images" : 37807,
+    "recordCount" : 6458
   },
   "exportStateCounts" : {
-    "accepted" : 1730,
-    "exported" : 2,
-    "failed" : 0,
-    "inProgress" : 849,
-    "audit" : 131,
-    "blocked" : 309,
-    "duplicate" : 0,
-    "ned" : 41,
+    "accepted" : 6420,
+    "exported" : 9,
+    "failed" : 3538,
+    "inProgress" : 2701,
+    "audit" : 1360,
+    "blocked" : 7042,
+    "duplicate" : 28,
+    "ned" : 18069,
     "unreadable" : 0,
-    "notExported" : 14,
+    "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:35:49",
-  "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
+  "dateTimeFetched" : "2019-11-22 09:33:40",
+  "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -1702,40 +1702,40 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 1989,
-    "projectUUID" : "F4A7F975-BB43-4025-8326-AFF00B5E13C2",
-    "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
+    "projectId" : 2099,
+    "projectUUID" : "BDCAF64D-3CC0-489A-9127-B071E64F5691",
+    "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
     "state" : "ACTIVE"
   },
-  "imagesetCount" : 199,
-  "batchCount" : 107894,
-  "auditBatchCount" : 5121,
-  "imageCount" : 1033852,
-  "blockedCount" : 7042,
-  "iesAuditBatchCount" : 136,
+  "imagesetCount" : 50,
+  "batchCount" : 7169,
+  "auditBatchCount" : 337,
+  "imageCount" : 7142,
+  "blockedCount" : 309,
+  "iesAuditBatchCount" : 131,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 199,
-    "batchCount" : 3078,
-    "images" : 37807,
-    "recordCount" : 6458
+    "imagesetCount" : 50,
+    "batchCount" : 2636,
+    "images" : 2946,
+    "recordCount" : 69137
   },
   "exportStateCounts" : {
-    "accepted" : 6420,
-    "exported" : 9,
-    "failed" : 3538,
-    "inProgress" : 2701,
-    "audit" : 1360,
-    "blocked" : 7042,
-    "duplicate" : 28,
-    "ned" : 18069,
+    "accepted" : 1730,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 849,
+    "audit" : 131,
+    "blocked" : 309,
+    "duplicate" : 0,
+    "ned" : 41,
     "unreadable" : 0,
-    "notExported" : 0,
+    "notExported" : 14,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:33:40",
-  "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
+  "dateTimeFetched" : "2019-11-22 09:35:49",
+  "name" : "Ísland—sóknarmannatal, 1744–1977 [hluti B]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -1811,6 +1811,43 @@
   "dateTimeFetched" : "",
   "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte G]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3559,
+    "projectUUID" : "3784ed58-0818-43cf-89da-c992d3d87b0a",
+    "name" : "US, Georgia, Savannah—Passenger Lists, 1906–1945",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 4,
+  "batchCount" : 379,
+  "auditBatchCount" : 18,
+  "imageCount" : 2618,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 15,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 4,
+    "batchCount" : 361,
+    "images" : 2618,
+    "recordCount" : 3036
+  },
+  "exportStateCounts" : {
+    "accepted" : 534,
+    "exported" : 0,
+    "failed" : 12,
+    "inProgress" : 236,
+    "audit" : 55,
+    "blocked" : 1331,
+    "duplicate" : 0,
+    "ned" : 505,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:37:55",
+  "name" : "US, Georgia, Savannah—Passenger Lists, 1906–1945",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 2063,
@@ -2183,43 +2220,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2740,
-    "projectUUID" : "A1FE0B55-458F-4758-940F-23E0903EA3EC",
-    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 170,
-  "batchCount" : 7952,
-  "auditBatchCount" : 376,
-  "imageCount" : 156672,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 376,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 170,
-    "batchCount" : 7576,
-    "images" : 156672,
-    "recordCount" : 75000
-  },
-  "exportStateCounts" : {
-    "accepted" : 74871,
-    "exported" : 6,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 3745,
-    "blocked" : 81730,
-    "duplicate" : 35,
-    "ned" : 30,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 2593,
     "projectUUID" : "7624DB22-3FAF-414F-B388-64D031301BB2",
     "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007",
@@ -2254,6 +2254,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2740,
+    "projectUUID" : "A1FE0B55-458F-4758-940F-23E0903EA3EC",
+    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 170,
+  "batchCount" : 7952,
+  "auditBatchCount" : 376,
+  "imageCount" : 156672,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 376,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 170,
+    "batchCount" : 7576,
+    "images" : 156672,
+    "recordCount" : 75000
+  },
+  "exportStateCounts" : {
+    "accepted" : 74871,
+    "exported" : 6,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3745,
+    "blocked" : 81730,
+    "duplicate" : 35,
+    "ned" : 30,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2294,43 +2331,6 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 1970,
-    "projectUUID" : "83FAA34F-B975-44C1-8132-24B7A5F727AC",
-    "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 74,
-  "batchCount" : 9645,
-  "auditBatchCount" : 459,
-  "imageCount" : 44959,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 459,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 74,
-    "batchCount" : 9186,
-    "images" : 44959,
-    "recordCount" : 96319
-  },
-  "exportStateCounts" : {
-    "accepted" : 39100,
-    "exported" : 1177,
-    "failed" : 0,
-    "inProgress" : 5,
-    "audit" : 2159,
-    "blocked" : 1702,
-    "duplicate" : 572,
-    "ned" : 72,
-    "unreadable" : 0,
-    "notExported" : 2331,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3015,
     "projectUUID" : "FC399B1A-A508-49A7-B6F5-B3F25008C1D3",
     "name" : "US, Massachusetts—Births, Marriages, and Deaths, 1600–1990 [Part B]",
@@ -2368,40 +2368,40 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2861,
-    "projectUUID" : "97EA7BBA-5D38-4E27-9D44-D8C9A2103AAE",
-    "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
+    "projectId" : 1970,
+    "projectUUID" : "83FAA34F-B975-44C1-8132-24B7A5F727AC",
+    "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 27,
-  "batchCount" : 5189,
-  "auditBatchCount" : 242,
-  "imageCount" : 24877,
+  "imagesetCount" : 74,
+  "batchCount" : 9645,
+  "auditBatchCount" : 459,
+  "imageCount" : 44959,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 242,
+  "iesAuditBatchCount" : 459,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 27,
-    "batchCount" : 4947,
-    "images" : 24877,
-    "recordCount" : 24485
+    "imagesetCount" : 74,
+    "batchCount" : 9186,
+    "images" : 44959,
+    "recordCount" : 96319
   },
   "exportStateCounts" : {
-    "accepted" : 24127,
-    "exported" : 25,
+    "accepted" : 39100,
+    "exported" : 1177,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 1210,
-    "blocked" : 187,
-    "duplicate" : 218,
-    "ned" : 320,
+    "inProgress" : 5,
+    "audit" : 2159,
+    "blocked" : 1702,
+    "duplicate" : 572,
+    "ned" : 72,
     "unreadable" : 0,
-    "notExported" : 0,
+    "notExported" : 2331,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
   "dateTimeFetched" : "",
-  "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
+  "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1731–1939 [Parte D]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2439,6 +2439,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "UK (Quick Batch), England, Derbyshire—Parish Registers, 1754–2005 [Part D]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2861,
+    "projectUUID" : "97EA7BBA-5D38-4E27-9D44-D8C9A2103AAE",
+    "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 27,
+  "batchCount" : 5189,
+  "auditBatchCount" : 242,
+  "imageCount" : 24877,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 242,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 27,
+    "batchCount" : 4947,
+    "images" : 24877,
+    "recordCount" : 24485
+  },
+  "exportStateCounts" : {
+    "accepted" : 24127,
+    "exported" : 25,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1210,
+    "blocked" : 187,
+    "duplicate" : 218,
+    "ned" : 320,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "US, Idaho, Bonneville County, Idaho Falls—Rose Hill Cemetery Records, 1800–2007",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2553,6 +2590,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3783,
+    "projectUUID" : "85e1aa2b-7c64-4a60-bd3e-c8a3d426132b",
+    "name" : "US, Maryland, Baltimore—Locks Funeral Home Records, 1936-2002 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 43,
+  "auditBatchCount" : 2,
+  "imageCount" : 437,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 41,
+    "images" : 437,
+    "recordCount" : 494
+  },
+  "exportStateCounts" : {
+    "accepted" : 390,
+    "exported" : 9,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 20,
+    "blocked" : 27,
+    "duplicate" : 0,
+    "ned" : 10,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 1,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:37:18",
+  "name" : "US, Maryland, Baltimore—Locks Funeral Home Records, 1936-2002 [Part B]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 3324,
     "projectUUID" : "DD1C52E9-1DC4-4D0A-AE07-AE6DFCA0B32B",
     "name" : "US, Montana—Naturalizations, 1868–1999",
@@ -2588,43 +2662,6 @@
   "dateTimeFetched" : "",
   "name" : "US, Montana—Naturalizations, 1868–1999",
   "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
-    "projectId" : 3783,
-    "projectUUID" : "85E1AA2B-7C64-4A60-BD3E-C8A3D426132B",
-    "name" : "US, Maryland, Baltimore—Locks Funeral Home Records, 1936-2002 [Part B]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 1,
-  "batchCount" : 43,
-  "auditBatchCount" : 2,
-  "imageCount" : 437,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 2,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 41,
-    "images" : 437,
-    "recordCount" : 384
-  },
-  "exportStateCounts" : {
-    "accepted" : 310,
-    "exported" : 9,
-    "failed" : 0,
-    "inProgress" : 80,
-    "audit" : 20,
-    "blocked" : 27,
-    "duplicate" : 0,
-    "ned" : 10,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 1,
-    "published" : 0
-  },
-  "dateTimeFetched" : "2019-12-16 13:23:49",
-  "name" : "US, Maryland, Baltimore—Locks Funeral Home Records, 1936-2002 [Part B]",
-  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 2674,
@@ -2701,43 +2738,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2609,
-    "projectUUID" : "6AADF57F-E601-49CA-929C-4048D4B3860C",
-    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 200,
-  "batchCount" : 3634,
-  "auditBatchCount" : 170,
-  "imageCount" : 19563,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 170,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 200,
-    "batchCount" : 3464,
-    "images" : 19563,
-    "recordCount" : 18926
-  },
-  "exportStateCounts" : {
-    "accepted" : 18490,
-    "exported" : 88,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 902,
-    "blocked" : 916,
-    "duplicate" : 7,
-    "ned" : 62,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "",
-  "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 1900,
     "projectUUID" : "BF4A07FD-5249-47B3-B0F3-2106B6D321C6",
     "name" : "US, California—Airplane Lists of Passengers from Honolulu, Hawaii, 1947–1948",
@@ -2772,6 +2772,43 @@
   },
   "dateTimeFetched" : "",
   "name" : "US, California—Airplane Lists of Passengers from Honolulu, Hawaii, 1947–1948",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2609,
+    "projectUUID" : "6AADF57F-E601-49CA-929C-4048D4B3860C",
+    "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 200,
+  "batchCount" : 3634,
+  "auditBatchCount" : 170,
+  "imageCount" : 19563,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 170,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 3464,
+    "images" : 19563,
+    "recordCount" : 18926
+  },
+  "exportStateCounts" : {
+    "accepted" : 18490,
+    "exported" : 88,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 902,
+    "blocked" : 916,
+    "duplicate" : 7,
+    "ned" : 62,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "",
+  "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888—2000 [Part G]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -3108,43 +3145,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2130,
-    "projectUUID" : "0E56D95B-FBB3-4894-81F4-964671C3F21E",
-    "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 89,
-  "batchCount" : 13875,
-  "auditBatchCount" : 658,
-  "imageCount" : 43294,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 658,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 89,
-    "batchCount" : 13217,
-    "images" : 43294,
-    "recordCount" : 98561
-  },
-  "exportStateCounts" : {
-    "accepted" : 40424,
-    "exported" : 22,
-    "failed" : 2,
-    "inProgress" : 0,
-    "audit" : 2079,
-    "blocked" : 1705,
-    "duplicate" : 292,
-    "ned" : 849,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0
-  },
-  "dateTimeFetched" : "2019-11-11 11:46:29",
-  "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3535,
     "projectUUID" : "67C6D0BD-019D-4BC3-BF97-018BADFBB875",
     "name" : "Luxembourg—Civil Registration, 1796–1923 [Part I]",
@@ -3180,6 +3180,43 @@
   "dateTimeFetched" : "2019-11-22 10:02:54",
   "name" : "Luxembourg—Civil Registration, 1796–1923 [Part I]",
   "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 2130,
+    "projectUUID" : "0E56D95B-FBB3-4894-81F4-964671C3F21E",
+    "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 89,
+  "batchCount" : 13875,
+  "auditBatchCount" : 658,
+  "imageCount" : 43294,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 658,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 89,
+    "batchCount" : 13217,
+    "images" : 43294,
+    "recordCount" : 98561
+  },
+  "exportStateCounts" : {
+    "accepted" : 40424,
+    "exported" : 22,
+    "failed" : 2,
+    "inProgress" : 0,
+    "audit" : 2079,
+    "blocked" : 1705,
+    "duplicate" : 292,
+    "ned" : 849,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2019-11-11 11:46:29",
+  "name" : "Perú, Diócesis de Huaraz—Bautismos, 1641–2017 [Parte A]",
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2854,
@@ -3775,7 +3812,7 @@
 }, {
   "project" : {
     "projectId" : 3800,
-    "projectUUID" : "6263ed44-37b0-4e8e-b4a4-97837e34c55c",
+    "projectUUID" : "6263ED44-37B0-4E8E-B4A4-97837E34C55C",
     "name" : "South Africa, KwaZulu Natal—Vital Records,  1868–1976 [Part A]",
     "state" : "ACTIVE"
   },
@@ -3923,7 +3960,7 @@
 }, {
   "project" : {
     "projectId" : 3718,
-    "projectUUID" : "84e24191-a935-4999-88b1-e2739cf476bd",
+    "projectUUID" : "84E24191-A935-4999-88B1-E2739CF476BD",
     "name" : "US, Mississippi—County Marriages, 1858–1965",
     "state" : "ACTIVE"
   },
@@ -4847,6 +4884,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 2808,
+    "projectUUID" : "e9ee4ec7-17b8-49dd-9370-91912d6d02b9",
+    "name" : "Brazil—Civil Registration of Birth, 1852–1914 [Part 2E]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 9,
+  "batchCount" : 2736,
+  "auditBatchCount" : 131,
+  "imageCount" : 8390,
+  "blockedCount" : 582,
+  "iesAuditBatchCount" : 6,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3,
+    "batchCount" : 73,
+    "images" : 217,
+    "recordCount" : 280
+  },
+  "exportStateCounts" : {
+    "accepted" : 135,
+    "exported" : 4,
+    "failed" : 0,
+    "inProgress" : 60,
+    "audit" : 18,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 15,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 3,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:37:25",
+  "name" : "Brazil—Civil Registration of Birth, 1852–1914 [Part 2E]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2771,
     "projectUUID" : "91E02B3F-3F0C-489A-B363-B73F3829C8B5",
     "name" : "Brasil, São Paulo, Araçatuba—Registro Civil, 1918–1999",
@@ -4959,9 +5033,9 @@
 }, {
   "project" : {
     "projectId" : 3494,
-    "projectUUID" : "A4B15C23-0A61-41A5-8909-C8A8BA73521D",
+    "projectUUID" : "a4b15c23-0a61-41a5-8909-c8a8ba73521d",
     "name" : "US, Louisiana, Orleans Parish—Birth Records, 1819–1906",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 87,
   "batchCount" : 26986,
@@ -4973,26 +5047,26 @@
     "imagesetCount" : 87,
     "batchCount" : 25703,
     "images" : 130003,
-    "recordCount" : 266343
+    "recordCount" : 271502
   },
   "exportStateCounts" : {
-    "accepted" : 125844,
+    "accepted" : 127048,
     "exported" : 453,
-    "failed" : 220,
-    "inProgress" : 1028,
+    "failed" : 25,
+    "inProgress" : 5,
     "audit" : 6398,
     "blocked" : 1728,
-    "duplicate" : 397,
-    "ned" : 195,
+    "duplicate" : 400,
+    "ned" : 206,
     "unreadable" : 0,
     "notExported" : 57,
     "readyForExport" : 0,
     "rejected" : 81,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:01:35",
+  "dateTimeFetched" : "2020-01-10 09:35:31",
   "name" : "US, Louisiana, Orleans Parish—Birth Records, 1819–1906",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2648,
@@ -6327,6 +6401,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3671,
+    "projectUUID" : "10024160-18d8-4823-a747-d6949995315e",
+    "name" : "South Africa, Cape Province—Probate Records of the Master of the High Court, 1834–1989",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 22,
+  "batchCount" : 6738,
+  "auditBatchCount" : 320,
+  "imageCount" : 22365,
+  "blockedCount" : 149,
+  "iesAuditBatchCount" : 55,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 5,
+    "batchCount" : 6418,
+    "images" : 6450,
+    "recordCount" : 11206
+  },
+  "exportStateCounts" : {
+    "accepted" : 886,
+    "exported" : 0,
+    "failed" : 8,
+    "inProgress" : 5522,
+    "audit" : 55,
+    "blocked" : 32,
+    "duplicate" : 0,
+    "ned" : 2,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:41",
+  "name" : "South Africa, Cape Province—Probate Records of the Master of the High Court, 1834–1989",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2867,
     "projectUUID" : "9ACCE5F1-AE5A-49C4-8424-08623A43A5F0",
     "name" : "US, Hawaii—Naturalization Records, 1838–1991 [Part B]",
@@ -6402,9 +6513,9 @@
 }, {
   "project" : {
     "projectId" : 3236,
-    "projectUUID" : "8B4E0918-91B5-4864-8B30-4E5DD4C5510E",
+    "projectUUID" : "8b4e0918-91b5-4864-8b30-4e5dd4c5510e",
     "name" : "Philippines—National Offices, Civil Registration of Deaths, 1945–1987 [Part G]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 23,
   "batchCount" : 3643,
@@ -6433,9 +6544,9 @@
     "rejected" : 10,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:53:29",
+  "dateTimeFetched" : "2020-01-10 09:33:48",
   "name" : "Philippines—National Offices, Civil Registration of Deaths, 1945–1987 [Part G]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2425,
@@ -9880,7 +9991,7 @@
 }, {
   "project" : {
     "projectId" : 2397,
-    "projectUUID" : "1edc51fb-614c-4d57-b476-c01e53df94d6",
+    "projectUUID" : "1EDC51FB-614C-4D57-B476-C01E53DF94D6",
     "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte D]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -10062,6 +10173,43 @@
   "dateTimeFetched" : "",
   "name" : "US, Indiana—County Marriages, 1700-2005 [Part A]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3729,
+    "projectUUID" : "ad2cd9b6-9783-4b4c-8bf6-95f8b60ca1c3",
+    "name" : "US, Ohio—World War I Service Cards, Navy, 1914–1918 [Part B]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 307,
+  "auditBatchCount" : 14,
+  "imageCount" : 3418,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 13,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 293,
+    "images" : 3418,
+    "recordCount" : 2448
+  },
+  "exportStateCounts" : {
+    "accepted" : 2448,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 436,
+    "audit" : 130,
+    "blocked" : 507,
+    "duplicate" : 10,
+    "ned" : 17,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:39:11",
+  "name" : "US, Ohio—World War I Service Cards, Navy, 1914–1918 [Part B]",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3066,
@@ -10842,9 +10990,9 @@
 }, {
   "project" : {
     "projectId" : 2900,
-    "projectUUID" : "49B68109-B3AC-4780-B798-11E92BB9E830",
+    "projectUUID" : "49b68109-b3ac-4780-b798-11e92bb9e830",
     "name" : "US, Alabama—Department of Archives and History, Confederate Pension Applications, 1880–1930's",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 275,
   "batchCount" : 41668,
@@ -10856,26 +11004,26 @@
     "imagesetCount" : 275,
     "batchCount" : 39685,
     "images" : 503444,
-    "recordCount" : 242955
+    "recordCount" : 264579
   },
   "exportStateCounts" : {
-    "accepted" : 226273,
-    "exported" : 13673,
+    "accepted" : 247393,
+    "exported" : 13870,
     "failed" : 0,
-    "inProgress" : 19138,
+    "inProgress" : 0,
     "audit" : 14184,
     "blocked" : 218413,
-    "duplicate" : 1599,
-    "ned" : 23936,
+    "duplicate" : 1587,
+    "ned" : 21738,
     "unreadable" : 0,
     "notExported" : 268,
     "readyForExport" : 0,
-    "rejected" : 144,
+    "rejected" : 175,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:46:58",
+  "dateTimeFetched" : "2020-01-10 09:29:35",
   "name" : "US, Alabama—Department of Archives and History, Confederate Pension Applications, 1880–1930's",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3439,
@@ -11138,9 +11286,9 @@
 }, {
   "project" : {
     "projectId" : 2920,
-    "projectUUID" : "5A6AF227-7E68-4C6C-93CA-E1BF354CD023",
+    "projectUUID" : "5a6af227-7e68-4c6c-93ca-e1bf354cd023",
     "name" : "Perú, Arequipa, Sagrario—Catholic Church Records, 1644–1921 [Part C]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 7,
   "batchCount" : 1664,
@@ -11169,9 +11317,9 @@
     "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:47:13",
+  "dateTimeFetched" : "2020-01-10 09:29:43",
   "name" : "Perú, Arequipa, Sagrario—Catholic Church Records, 1644–1921 [Part C]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 1722,
@@ -11841,9 +11989,9 @@
 }, {
   "project" : {
     "projectId" : 3515,
-    "projectUUID" : "C15D1D96-6AFA-42A0-94FB-EA6F52890FA8",
+    "projectUUID" : "c15d1d96-6afa-42a0-94fb-ea6f52890fa8",
     "name" : "US, Georgia, Savannah—Jail Registers, 1855–1873",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 2,
   "batchCount" : 798,
@@ -11855,13 +12003,13 @@
     "imagesetCount" : 2,
     "batchCount" : 761,
     "images" : 834,
-    "recordCount" : 28604
+    "recordCount" : 28647
   },
   "exportStateCounts" : {
-    "accepted" : 752,
+    "accepted" : 753,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1,
+    "inProgress" : 0,
     "audit" : 37,
     "blocked" : 73,
     "duplicate" : 0,
@@ -11872,8 +12020,45 @@
     "rejected" : 6,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:02:04",
+  "dateTimeFetched" : "2020-01-10 09:35:38",
   "name" : "US, Georgia, Savannah—Jail Registers, 1855–1873",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3728,
+    "projectUUID" : "964d4773-cc74-43e1-9feb-e1ffc12c77a7",
+    "name" : "UK, England, Shropshire—Parish Registers, 1683–1727",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 51,
+  "auditBatchCount" : 2,
+  "imageCount" : 187,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 49,
+    "images" : 187,
+    "recordCount" : 857
+  },
+  "exportStateCounts" : {
+    "accepted" : 18,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 31,
+    "audit" : 2,
+    "blocked" : 138,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:39:03",
+  "name" : "UK, England, Shropshire—Parish Registers, 1683–1727",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -13321,40 +13506,40 @@
 }, {
   "project" : {
     "projectId" : 3164,
-    "projectUUID" : "C4EBDB25-C15E-449F-9E93-E4C33CC022EB",
+    "projectUUID" : "c4ebdb25-c15e-449f-9e93-e4c33cc022eb",
     "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part G]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 301,
   "batchCount" : 354851,
   "auditBatchCount" : 16892,
   "imageCount" : 1686139,
-  "blockedCount" : 6535,
-  "iesAuditBatchCount" : 16732,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 16892,
   "iesCountsNoAudit" : {
     "imagesetCount" : 301,
-    "batchCount" : 335422,
-    "images" : 1673552,
-    "recordCount" : 853546
+    "batchCount" : 337959,
+    "images" : 1686139,
+    "recordCount" : 1678858
   },
   "exportStateCounts" : {
-    "accepted" : 842093,
-    "exported" : 10674,
-    "failed" : 2350,
-    "inProgress" : 810200,
-    "audit" : 83146,
+    "accepted" : 1666635,
+    "exported" : 10746,
+    "failed" : 15,
+    "inProgress" : 5,
+    "audit" : 83939,
     "blocked" : 6535,
-    "duplicate" : 818,
-    "ned" : 418,
+    "duplicate" : 1341,
+    "ned" : 391,
     "unreadable" : 0,
     "notExported" : 461,
     "readyForExport" : 0,
-    "rejected" : 3,
+    "rejected" : 10,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:52:24",
+  "dateTimeFetched" : "2020-01-10 09:33:39",
   "name" : "US—World War I Draft Registration Cards, 1917–1918 [Part G]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2696,
@@ -13580,9 +13765,9 @@
 }, {
   "project" : {
     "projectId" : 3358,
-    "projectUUID" : "045BCD69-5E98-4844-93EF-3614529BBB84",
+    "projectUUID" : "045bcd69-5e98-4844-93ef-3614529bbb84",
     "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part A]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 52,
   "batchCount" : 10461,
@@ -13611,9 +13796,9 @@
     "rejected" : 9,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:57:10",
+  "dateTimeFetched" : "2020-01-10 09:34:29",
   "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part A]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3143,
@@ -14505,7 +14690,7 @@
 }, {
   "project" : {
     "projectId" : 1832,
-    "projectUUID" : "eb09646e-d569-4578-87c4-1fa02c95da0d",
+    "projectUUID" : "EB09646E-D569-4578-87C4-1FA02C95DA0D",
     "name" : "US—Native American Census Rolls, 1885–1940 [Part B]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -14539,6 +14724,43 @@
   "dateTimeFetched" : "2019-12-27 09:11:25",
   "name" : "US—Native American Census Rolls, 1885–1940 [Part B]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3649,
+    "projectUUID" : "f35c2718-af3b-47b0-8874-eb8e08653d09",
+    "name" : "US, Indiana—Naturalizations, 1877—1993",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 173,
+  "batchCount" : 7831,
+  "auditBatchCount" : 372,
+  "imageCount" : 95443,
+  "blockedCount" : 36771,
+  "iesAuditBatchCount" : 49,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 172,
+    "batchCount" : 7459,
+    "images" : 95391,
+    "recordCount" : 7157
+  },
+  "exportStateCounts" : {
+    "accepted" : 6649,
+    "exported" : 152,
+    "failed" : 0,
+    "inProgress" : 50821,
+    "audit" : 378,
+    "blocked" : 36771,
+    "duplicate" : 117,
+    "ned" : 862,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 19,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:34",
+  "name" : "US, Indiana—Naturalizations, 1877—1993",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3608,
@@ -16207,9 +16429,9 @@
 }, {
   "project" : {
     "projectId" : 2712,
-    "projectUUID" : "D865F6CA-DCE8-4280-9500-3B28FA068F6D",
+    "projectUUID" : "d865f6ca-dce8-4280-9500-3b28fa068f6d",
     "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte A]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 294,
   "batchCount" : 27963,
@@ -16221,26 +16443,26 @@
     "imagesetCount" : 294,
     "batchCount" : 26644,
     "images" : 115230,
-    "recordCount" : 104764
+    "recordCount" : 105188
   },
   "exportStateCounts" : {
-    "accepted" : 103760,
+    "accepted" : 104178,
     "exported" : 358,
     "failed" : 16,
-    "inProgress" : 383,
+    "inProgress" : 0,
     "audit" : 5257,
     "blocked" : 9847,
     "duplicate" : 188,
-    "ned" : 639,
+    "ned" : 604,
     "unreadable" : 0,
     "notExported" : 7,
     "readyForExport" : 0,
     "rejected" : 32,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:43:51",
+  "dateTimeFetched" : "2020-01-10 09:28:11",
   "name" : "Perú (Lote Rápido), Tacna—Registro Civil, 1907–1998 [Parte A]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3435,
@@ -16500,6 +16722,43 @@
   "dateTimeFetched" : "",
   "name" : "US, Mississippi, World War II Draft Registration Cards, 1940-1945 [Part A]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3782,
+    "projectUUID" : "4f331cb6-1af4-4190-b198-977bf6b870fb",
+    "name" : "Guatemala (Quick Batch)—Civil Registration, 1800–1900 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 185,
+  "auditBatchCount" : 9,
+  "imageCount" : 740,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 0,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 176,
+    "images" : 740,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 702,
+    "audit" : 0,
+    "blocked" : 38,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:39:35",
+  "name" : "Guatemala (Quick Batch)—Civil Registration, 1800–1900 [Part G]",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 510,
@@ -16799,9 +17058,9 @@
 }, {
   "project" : {
     "projectId" : 2769,
-    "projectUUID" : "344FC20B-DB18-4F39-BA89-BB7C81C1B8CC",
+    "projectUUID" : "344fc20b-db18-4f39-ba89-bb7c81c1b8cc",
     "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part H]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 140,
   "batchCount" : 31301,
@@ -16813,26 +17072,26 @@
     "imagesetCount" : 140,
     "batchCount" : 29808,
     "images" : 148486,
-    "recordCount" : 416592
+    "recordCount" : 452117
   },
   "exportStateCounts" : {
     "accepted" : 0,
-    "exported" : 89756,
-    "failed" : 10,
-    "inProgress" : 8047,
+    "exported" : 90731,
+    "failed" : 0,
+    "inProgress" : 0,
     "audit" : 7420,
     "blocked" : 38,
-    "duplicate" : 327,
-    "ned" : 39887,
+    "duplicate" : 335,
+    "ned" : 39897,
     "unreadable" : 0,
-    "notExported" : 85,
+    "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 10336,
+    "rejected" : 17485,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:44:49",
+  "dateTimeFetched" : "2020-01-10 09:28:32",
   "name" : "US, Pennsylvania—Historical Society of Pennsylvania, Card Catalog, 1553–2015 [Part H]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3342,
@@ -17465,40 +17724,40 @@
 }, {
   "project" : {
     "projectId" : 3587,
-    "projectUUID" : "6D8EC9B1-EAB6-4003-BEE9-E3A11A375FF4",
+    "projectUUID" : "6d8ec9b1-eab6-4003-bee9-e3a11a375ff4",
     "name" : "US, Alabama—WWI Draft Registration Cards, 1917–1918 [Part B]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 7,
   "batchCount" : 8062,
   "auditBatchCount" : 384,
   "imageCount" : 38511,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 373,
+  "iesAuditBatchCount" : 384,
   "iesCountsNoAudit" : {
     "imagesetCount" : 7,
     "batchCount" : 7678,
     "images" : 38511,
-    "recordCount" : 8518
+    "recordCount" : 38383
   },
   "exportStateCounts" : {
-    "accepted" : 8515,
+    "accepted" : 38347,
     "exported" : 0,
-    "failed" : 25,
-    "inProgress" : 29839,
-    "audit" : 1865,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1920,
     "blocked" : 131,
-    "duplicate" : 1,
-    "ned" : 0,
+    "duplicate" : 13,
+    "ned" : 20,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-12-02 09:32:39",
+  "dateTimeFetched" : "2020-01-10 09:36:09",
   "name" : "US, Alabama—WWI Draft Registration Cards, 1917–1918 [Part B]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2077,
@@ -18759,6 +19018,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3850,
+    "projectUUID" : "feacc4b6-200e-462e-bdfa-27e8ffd75154",
+    "name" : "UK—War Office Registers, Enlistment Rolls 1772–1935 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 112,
+  "batchCount" : 24180,
+  "auditBatchCount" : 1148,
+  "imageCount" : 57596,
+  "blockedCount" : 16571,
+  "iesAuditBatchCount" : 73,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 69,
+    "batchCount" : 23032,
+    "images" : 34761,
+    "recordCount" : 2226
+  },
+  "exportStateCounts" : {
+    "accepted" : 462,
+    "exported" : 0,
+    "failed" : 2,
+    "inProgress" : 22458,
+    "audit" : 73,
+    "blocked" : 11722,
+    "duplicate" : 0,
+    "ned" : 117,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:39:44",
+  "name" : "UK—War Office Registers, Enlistment Rolls 1772–1935 [Part D]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1920,
     "projectUUID" : "2D88EE76-76A0-4C12-BA27-1163AA1D1699",
     "name" : "Italia (Antenati Italiani), Benevento—Nati, 1810–1942 [Parte K]",
@@ -19130,9 +19426,9 @@
 }, {
   "project" : {
     "projectId" : 3328,
-    "projectUUID" : "B8EE1665-4BCB-42C5-B9DA-479FCB53E835",
+    "projectUUID" : "b8ee1665-4bcb-42c5-b9da-479fcb53e835",
     "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part V]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 300,
   "batchCount" : 11178,
@@ -19161,9 +19457,9 @@
     "rejected" : 77,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:56:39",
+  "dateTimeFetched" : "2020-01-10 09:34:20",
   "name" : "Peru (Quick Batch), Ancash—Civil Registration, 1888–2000 [Part V]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3610,
@@ -19537,7 +19833,7 @@
 }, {
   "project" : {
     "projectId" : 3768,
-    "projectUUID" : "1a7267f3-09a2-49f3-a048-5ba2eece9f89",
+    "projectUUID" : "1A7267F3-09A2-49F3-A048-5BA2EECE9F89",
     "name" : "Colombia, Bogota—Burial Licenses, 1960-1991 [Part B]",
     "state" : "ACTIVE"
   },
@@ -19907,7 +20203,7 @@
 }, {
   "project" : {
     "projectId" : 3752,
-    "projectUUID" : "a970e8e8-0e0f-42f5-8af1-baa0be6d69dd",
+    "projectUUID" : "A970E8E8-0E0F-42F5-8AF1-BAA0BE6D69DD",
     "name" : "US, Michigan—Civil War Grave Registration, Burial Records, 1861–1930 [Part B]",
     "state" : "ACTIVE"
   },
@@ -20684,7 +20980,7 @@
 }, {
   "project" : {
     "projectId" : 3747,
-    "projectUUID" : "19c6b00d-1012-46bf-bae9-06f923499254",
+    "projectUUID" : "19C6B00D-1012-46BF-BAE9-06F923499254",
     "name" : "US, Arizona—Alien Arrivals, 1905–1955",
     "state" : "ACTIVE"
   },
@@ -20902,6 +21198,43 @@
   },
   "dateTimeFetched" : "2019-11-22 09:56:16",
   "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3644,
+    "projectUUID" : "30594b56-10c1-4574-9420-894c5d237cbd",
+    "name" : "US, Alabama—Marriages, 1750–1980 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 1,
+  "batchCount" : 494,
+  "auditBatchCount" : 24,
+  "imageCount" : 486,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 470,
+    "images" : 486,
+    "recordCount" : 4059
+  },
+  "exportStateCounts" : {
+    "accepted" : 48,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 422,
+    "audit" : 2,
+    "blocked" : 16,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:25",
+  "name" : "US, Alabama—Marriages, 1750–1980 [Part D]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -21165,7 +21498,7 @@
 }, {
   "project" : {
     "projectId" : 2222,
-    "projectUUID" : "3f201761-fb0c-4fb5-a3a1-3d2067d94eeb",
+    "projectUUID" : "3F201761-FB0C-4FB5-A3A1-3D2067D94EEB",
     "name" : "España, Murcia—Catedral de Cartagena, Registros de la Iglesia católica, 1552—1948 [Parte D]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -21349,41 +21682,78 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3002,
-    "projectUUID" : "0DC69770-E262-4C5B-BF04-F6280E247CAE",
-    "name" : "US, Pennsylvania—World War I Draft Registration Cards, 1917–1918 [Part B]",
+    "projectId" : 3860,
+    "projectUUID" : "a7bff08d-230a-4aa4-88f0-0a8353f02584",
+    "name" : "Jamaica—Church of England, Church Records, 1669–1880",
     "state" : "ACTIVE"
+  },
+  "imagesetCount" : 33,
+  "batchCount" : 12479,
+  "auditBatchCount" : 596,
+  "imageCount" : 14845,
+  "blockedCount" : 2795,
+  "iesAuditBatchCount" : 1,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 32,
+    "batchCount" : 11883,
+    "images" : 14425,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 11883,
+    "audit" : 1,
+    "blocked" : 2542,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:39:52",
+  "name" : "Jamaica—Church of England, Church Records, 1669–1880",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3002,
+    "projectUUID" : "0dc69770-e262-4c5b-bf04-f6280e247cae",
+    "name" : "US, Pennsylvania—World War I Draft Registration Cards, 1917–1918 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 318,
   "batchCount" : 441945,
   "auditBatchCount" : 21030,
   "imageCount" : 2113093,
-  "blockedCount" : 11203,
-  "iesAuditBatchCount" : 21021,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 21030,
   "iesCountsNoAudit" : {
     "imagesetCount" : 318,
-    "batchCount" : 420795,
-    "images" : 2112493,
-    "recordCount" : 1653412
+    "batchCount" : 420915,
+    "images" : 2113093,
+    "recordCount" : 2092306
   },
   "exportStateCounts" : {
-    "accepted" : 1639062,
-    "exported" : 12688,
-    "failed" : 3550,
-    "inProgress" : 436576,
-    "audit" : 104958,
+    "accepted" : 2077501,
+    "exported" : 12708,
+    "failed" : 30,
+    "inProgress" : 50,
+    "audit" : 105003,
     "blocked" : 11203,
-    "duplicate" : 5052,
-    "ned" : 3891,
+    "duplicate" : 6047,
+    "ned" : 5081,
     "unreadable" : 0,
     "notExported" : 465,
     "readyForExport" : 0,
-    "rejected" : 6,
+    "rejected" : 8,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:49:30",
+  "dateTimeFetched" : "2020-01-10 09:32:05",
   "name" : "US, Pennsylvania—World War I Draft Registration Cards, 1917–1918 [Part B]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3207,
@@ -22275,9 +22645,9 @@
 }, {
   "project" : {
     "projectId" : 3532,
-    "projectUUID" : "E5E906A8-C444-471F-89B1-7E86F46BA4CD",
+    "projectUUID" : "e5e906a8-c444-471f-89b1-7e86f46ba4cd",
     "name" : "South Africa, Pietermaritzburg—Death Notices, 1846–1950 [Part F]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 2,
   "batchCount" : 68,
@@ -22289,26 +22659,26 @@
     "imagesetCount" : 2,
     "batchCount" : 65,
     "images" : 2683,
-    "recordCount" : 1422
+    "recordCount" : 1572
   },
   "exportStateCounts" : {
-    "accepted" : 237,
+    "accepted" : 257,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 22,
+    "inProgress" : 0,
     "audit" : 12,
     "blocked" : 2406,
-    "duplicate" : 11,
-    "ned" : 7,
+    "duplicate" : 12,
+    "ned" : 8,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-12-02 09:32:33",
+  "dateTimeFetched" : "2020-01-10 09:35:54",
   "name" : "South Africa, Pietermaritzburg—Death Notices, 1846–1950 [Part F]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2037,
@@ -23015,9 +23385,9 @@
 }, {
   "project" : {
     "projectId" : 3566,
-    "projectUUID" : "F4C18995-CB37-41BF-9245-5AB506C193E6",
+    "projectUUID" : "f4c18995-cb37-41bf-9245-5ab506c193e6",
     "name" : "US, South Carolina—County Voter Registration Records, 1882–1895",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 2,
   "batchCount" : 822,
@@ -23046,9 +23416,9 @@
     "rejected" : 2,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:04:32",
+  "dateTimeFetched" : "2020-01-10 09:36:01",
   "name" : "US, South Carolina—County Voter Registration Records, 1882–1895",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 1815,
@@ -23126,7 +23496,7 @@
 }, {
   "project" : {
     "projectId" : 3149,
-    "projectUUID" : "d232f31c-3f11-470b-8e2e-93649ce70a76",
+    "projectUUID" : "D232F31C-3F11-470B-8E2E-93649CE70A76",
     "name" : "UK, England, Herefordshire—Bishop's Transcripts, 1754–1898",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -24458,40 +24828,40 @@
 }, {
   "project" : {
     "projectId" : 3650,
-    "projectUUID" : "DD9FEC05-3C2F-4C2E-A6BD-7F0D21AA8C36",
+    "projectUUID" : "dd9fec05-3c2f-4c2e-a6bd-7f0d21aa8c36",
     "name" : "US, Mississippi—Voter Registration, 1876–1912",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 8,
   "batchCount" : 3405,
   "auditBatchCount" : 160,
   "imageCount" : 5785,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 153,
+  "iesAuditBatchCount" : 160,
   "iesCountsNoAudit" : {
     "imagesetCount" : 8,
     "batchCount" : 3245,
     "images" : 5785,
-    "recordCount" : 90313
+    "recordCount" : 101124
   },
   "exportStateCounts" : {
-    "accepted" : 2898,
+    "accepted" : 3223,
     "exported" : 0,
     "failed" : 5,
-    "inProgress" : 330,
-    "audit" : 153,
+    "inProgress" : 0,
+    "audit" : 160,
     "blocked" : 2540,
     "duplicate" : 0,
-    "ned" : 11,
+    "ned" : 16,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:07:57",
+  "dateTimeFetched" : "2020-01-10 09:36:32",
   "name" : "US, Mississippi—Voter Registration, 1876–1912",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3113,
@@ -25789,6 +26159,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3552,
+    "projectUUID" : "8176a9dd-0a0d-4e4e-b105-e6ff3fef8d37",
+    "name" : "US, South Dakota—Veteran Graves Registration Records, 1940–1941 [Part A]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 10,
+  "batchCount" : 1232,
+  "auditBatchCount" : 60,
+  "imageCount" : 12972,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 9,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 10,
+    "batchCount" : 1172,
+    "images" : 12972,
+    "recordCount" : 749
+  },
+  "exportStateCounts" : {
+    "accepted" : 739,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 10895,
+    "audit" : 90,
+    "blocked" : 1304,
+    "duplicate" : 26,
+    "ned" : 8,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:37:47",
+  "name" : "US, South Dakota—Veteran Graves Registration Records, 1940–1941 [Part A]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2654,
     "projectUUID" : "AD9BDA17-C722-4EC8-8C3E-D317B3A8D12E",
     "name" : "Italia (Antenati Italiani), Campobasso, Cercepiccola—Nati, 1809–1910",
@@ -25864,7 +26271,7 @@
 }, {
   "project" : {
     "projectId" : 3779,
-    "projectUUID" : "5f7ff675-bd87-458d-bb01-df5f0473162a",
+    "projectUUID" : "5F7FF675-BD87-458D-BB01-DF5F0473162A",
     "name" : "US, California—County Cemetery Records, 1800–1994",
     "state" : "ACTIVE"
   },
@@ -26159,6 +26566,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3736,
+    "projectUUID" : "5e70eb7b-942d-403b-81e6-2604cfdc8875",
+    "name" : "US, Virginia—County Marriage Registers, 1853–1935",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 21,
+  "batchCount" : 14540,
+  "auditBatchCount" : 692,
+  "imageCount" : 14742,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 1,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 21,
+    "batchCount" : 13848,
+    "images" : 14742,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 13848,
+    "audit" : 1,
+    "blocked" : 894,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:39:19",
+  "name" : "US, Virginia—County Marriage Registers, 1853–1935",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1757,
     "projectUUID" : "AB120A8A-238D-4DD0-AD69-665B42A2ED86",
     "name" : "US, Ohio, Crawford County—Obituaries, 2004–2014",
@@ -26271,9 +26715,9 @@
 }, {
   "project" : {
     "projectId" : 2966,
-    "projectUUID" : "BB27DF21-D9DF-492C-AB84-5D8341C9BF76",
+    "projectUUID" : "bb27df21-d9df-492c-ab84-5d8341c9bf76",
     "name" : "US, Oklahoma—Confederate Pension Applications, 1879–1920",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 21,
   "batchCount" : 5636,
@@ -26285,26 +26729,26 @@
     "imagesetCount" : 21,
     "batchCount" : 5369,
     "images" : 60648,
-    "recordCount" : 15702
+    "recordCount" : 24075
   },
   "exportStateCounts" : {
-    "accepted" : 14281,
-    "exported" : 1156,
+    "accepted" : 22467,
+    "exported" : 1292,
     "failed" : 0,
-    "inProgress" : 8182,
+    "inProgress" : 0,
     "audit" : 1394,
     "blocked" : 32211,
-    "duplicate" : 97,
-    "ned" : 4654,
+    "duplicate" : 68,
+    "ned" : 4512,
     "unreadable" : 0,
     "notExported" : 6,
     "readyForExport" : 0,
-    "rejected" : 61,
+    "rejected" : 92,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:48:07",
+  "dateTimeFetched" : "2020-01-10 09:29:53",
   "name" : "US, Oklahoma—Confederate Pension Applications, 1879–1920",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2009,
@@ -26345,9 +26789,9 @@
 }, {
   "project" : {
     "projectId" : 2863,
-    "projectUUID" : "8E732B56-126F-4B33-ACD0-547157CD11AD",
+    "projectUUID" : "8e732b56-126f-4b33-acd0-547157cd11ad",
     "name" : "Italia (Antenati Italiani), Napoli, Avvocata—Stato Civile, 1809–1845 [Parte B]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 62,
   "batchCount" : 19628,
@@ -26359,13 +26803,13 @@
     "imagesetCount" : 62,
     "batchCount" : 18699,
     "images" : 99168,
-    "recordCount" : 116883
+    "recordCount" : 116888
   },
   "exportStateCounts" : {
-    "accepted" : 80701,
+    "accepted" : 80706,
     "exported" : 6177,
     "failed" : 0,
-    "inProgress" : 5,
+    "inProgress" : 0,
     "audit" : 4531,
     "blocked" : 7998,
     "duplicate" : 3574,
@@ -26376,9 +26820,9 @@
     "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:46:15",
+  "dateTimeFetched" : "2020-01-10 09:29:08",
   "name" : "Italia (Antenati Italiani), Napoli, Avvocata—Stato Civile, 1809–1845 [Parte B]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2216,
@@ -26678,9 +27122,9 @@
 }, {
   "project" : {
     "projectId" : 3365,
-    "projectUUID" : "20B53411-F311-4DE2-9934-708B7633A07B",
+    "projectUUID" : "20b53411-f311-4de2-9934-708b7633a07b",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BI]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 500,
   "batchCount" : 40000,
@@ -26692,12 +27136,12 @@
     "imagesetCount" : 500,
     "batchCount" : 38095,
     "images" : 116406,
-    "recordCount" : 114083
+    "recordCount" : 114086
   },
   "exportStateCounts" : {
-    "accepted" : 112440,
+    "accepted" : 112443,
     "exported" : 642,
-    "failed" : 3,
+    "failed" : 0,
     "inProgress" : 0,
     "audit" : 5689,
     "blocked" : 2643,
@@ -26709,9 +27153,9 @@
     "rejected" : 29,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:57:29",
+  "dateTimeFetched" : "2020-01-10 09:35:02",
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BI]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3255,
@@ -26752,40 +27196,40 @@
 }, {
   "project" : {
     "projectId" : 3674,
-    "projectUUID" : "25545A47-32B1-42DB-89FA-3EC94C7EE1E8",
+    "projectUUID" : "25545a47-32b1-42db-89fa-3ec94c7ee1e8",
     "name" : "US, Idaho—Alien Arrivals, 1923–1952",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 6,
   "batchCount" : 2632,
   "auditBatchCount" : 125,
   "imageCount" : 42677,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 119,
+  "iesAuditBatchCount" : 125,
   "iesCountsNoAudit" : {
     "imagesetCount" : 6,
     "batchCount" : 2507,
     "images" : 42677,
-    "recordCount" : 20734
+    "recordCount" : 21601
   },
   "exportStateCounts" : {
-    "accepted" : 20218,
+    "accepted" : 21056,
     "exported" : 52,
-    "failed" : 155,
-    "inProgress" : 804,
-    "audit" : 1010,
+    "failed" : 110,
+    "inProgress" : 0,
+    "audit" : 1070,
     "blocked" : 21233,
     "duplicate" : 11,
-    "ned" : 197,
+    "ned" : 208,
     "unreadable" : 0,
     "notExported" : 5,
     "readyForExport" : 0,
     "rejected" : 2,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:08:31",
+  "dateTimeFetched" : "2020-01-10 09:36:40",
   "name" : "US, Idaho—Alien Arrivals, 1923–1952",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3662,
@@ -27603,9 +28047,9 @@
 }, {
   "project" : {
     "projectId" : 2140,
-    "projectUUID" : "D016B6AF-7D6D-4A83-8E5F-1592B3C170C8",
+    "projectUUID" : "d016b6af-7d6d-4a83-8e5f-1592b3c170c8",
     "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Part F]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 289,
   "batchCount" : 104506,
@@ -27617,26 +28061,26 @@
     "imagesetCount" : 289,
     "batchCount" : 99530,
     "images" : 208805,
-    "recordCount" : 1322701
+    "recordCount" : 1333214
   },
   "exportStateCounts" : {
-    "accepted" : 180695,
-    "exported" : 7725,
-    "failed" : 10,
-    "inProgress" : 1615,
+    "accepted" : 182336,
+    "exported" : 7727,
+    "failed" : 8,
+    "inProgress" : 0,
     "audit" : 9928,
     "blocked" : 10198,
-    "duplicate" : 1618,
-    "ned" : 2566,
+    "duplicate" : 1628,
+    "ned" : 2528,
     "unreadable" : 0,
     "notExported" : 4321,
     "readyForExport" : 0,
-    "rejected" : 57,
+    "rejected" : 59,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:36:17",
+  "dateTimeFetched" : "2020-01-10 09:27:40",
   "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Part F]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2026,
@@ -27898,6 +28342,43 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
+    "projectId" : 3640,
+    "projectUUID" : "03a53c6b-d992-4b19-ae24-d3465e2de9e7",
+    "name" : "US, Louisiana, New Orleans—Quarterly abstracts of passenger lists of vessels, 1820–1875",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 17,
+  "batchCount" : 11336,
+  "auditBatchCount" : 540,
+  "imageCount" : 11510,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 13,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 17,
+    "batchCount" : 10796,
+    "images" : 11510,
+    "recordCount" : 3857
+  },
+  "exportStateCounts" : {
+    "accepted" : 75,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 10691,
+    "audit" : 13,
+    "blocked" : 714,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 30,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:17",
+  "name" : "US, Louisiana, New Orleans—Quarterly abstracts of passenger lists of vessels, 1820–1875",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 3635,
     "projectUUID" : "7AD80983-8049-482B-BADA-4548EC2C1DEF",
     "name" : "United States—Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part D]",
@@ -27973,7 +28454,7 @@
 }, {
   "project" : {
     "projectId" : 3708,
-    "projectUUID" : "36f50f39-ee79-4f3e-a7d8-395eb10f08a9",
+    "projectUUID" : "36F50F39-EE79-4F3E-A7D8-395EB10F08A9",
     "name" : "Argentina, Entre Ríos—Registro Civil, 1860–1965 [Parte H]",
     "state" : "ACTIVE"
   },
@@ -29786,40 +30267,40 @@
 }, {
   "project" : {
     "projectId" : 3727,
-    "projectUUID" : "A4F0537F-75EB-44A7-9F9C-685CAD9CB41F",
+    "projectUUID" : "a4f0537f-75eb-44a7-9f9c-685cad9cb41f",
     "name" : "US, Kentucky, Livingston County—Colored School Censuses, 1898–1913 [Part A]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 2,
   "batchCount" : 1786,
   "auditBatchCount" : 86,
   "imageCount" : 1788,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 3,
+  "iesAuditBatchCount" : 86,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
     "batchCount" : 1700,
     "images" : 1788,
-    "recordCount" : 1067
+    "recordCount" : 56945
   },
   "exportStateCounts" : {
-    "accepted" : 0,
-    "exported" : 7,
+    "accepted" : 1684,
+    "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1666,
-    "audit" : 3,
+    "inProgress" : 0,
+    "audit" : 86,
     "blocked" : 88,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 9,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 27,
+    "rejected" : 7,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:09:06",
+  "dateTimeFetched" : "2020-01-10 09:37:03",
   "name" : "US, Kentucky, Livingston County—Colored School Censuses, 1898–1913 [Part A]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3288,
@@ -30045,40 +30526,40 @@
 }, {
   "project" : {
     "projectId" : 3310,
-    "projectUUID" : "9D6CDA05-8B2A-4DF0-9466-F26B3E098EE6",
+    "projectUUID" : "9d6cda05-8b2a-4df0-9466-f26b3e098ee6",
     "name" : "US, Illinois, Cook County—Death Registers, 1923–1994 [Part F]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 1,
   "batchCount" : 1143,
   "auditBatchCount" : 54,
   "imageCount" : 4355,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1,
+  "iesAuditBatchCount" : 54,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
-    "batchCount" : 31,
-    "images" : 124,
-    "recordCount" : 56
+    "batchCount" : 1089,
+    "images" : 4355,
+    "recordCount" : 4350
   },
   "exportStateCounts" : {
-    "accepted" : 56,
+    "accepted" : 4349,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 68,
-    "audit" : 4,
+    "inProgress" : 0,
+    "audit" : 216,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 5,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-12-16 13:22:32",
+  "dateTimeFetched" : "2020-01-10 09:34:10",
   "name" : "US, Illinois, Cook County—Death Registers, 1923–1994 [Part F]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3114,
@@ -30674,40 +31155,40 @@
 }, {
   "project" : {
     "projectId" : 3299,
-    "projectUUID" : "5F20DBF3-E744-4C19-9B87-908038DEB4CB",
+    "projectUUID" : "5f20dbf3-e744-4c19-9b87-908038deb4cb",
     "name" : "US, New York—County Naturalization Records, 1792–1976 [Part P]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 200,
   "batchCount" : 18709,
   "auditBatchCount" : 887,
   "imageCount" : 178982,
-  "blockedCount" : 29021,
-  "iesAuditBatchCount" : 877,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 887,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
-    "batchCount" : 17670,
-    "images" : 177661,
-    "recordCount" : 183666
+    "batchCount" : 17822,
+    "images" : 178982,
+    "recordCount" : 186395
   },
   "exportStateCounts" : {
-    "accepted" : 129037,
+    "accepted" : 131118,
     "exported" : 4447,
-    "failed" : 75,
-    "inProgress" : 910,
-    "audit" : 7386,
+    "failed" : 65,
+    "inProgress" : 0,
+    "audit" : 7474,
     "blocked" : 29021,
-    "duplicate" : 7238,
-    "ned" : 6781,
+    "duplicate" : 7356,
+    "ned" : 6823,
     "unreadable" : 0,
     "notExported" : 141,
     "readyForExport" : 0,
     "rejected" : 11,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:55:54",
+  "dateTimeFetched" : "2020-01-10 09:34:02",
   "name" : "US, New York—County Naturalization Records, 1792–1976 [Part P]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2181,
@@ -32154,9 +32635,9 @@
 }, {
   "project" : {
     "projectId" : 3063,
-    "projectUUID" : "91745074-49A4-4EFD-8E19-4DBEF9D861A8",
+    "projectUUID" : "91745074-49a4-4efd-8e19-4dbef9d861a8",
     "name" : "US, Georgia—Confederate Pension Rolls, 1879–1920",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 41,
   "batchCount" : 4678,
@@ -32168,26 +32649,26 @@
     "imagesetCount" : 41,
     "batchCount" : 4460,
     "images" : 36530,
-    "recordCount" : 33237
+    "recordCount" : 36472
   },
   "exportStateCounts" : {
-    "accepted" : 26030,
-    "exported" : 1530,
+    "accepted" : 28788,
+    "exported" : 1549,
     "failed" : 20,
-    "inProgress" : 2768,
+    "inProgress" : 0,
     "audit" : 1555,
     "blocked" : 4761,
-    "duplicate" : 534,
-    "ned" : 850,
+    "duplicate" : 538,
+    "ned" : 836,
     "unreadable" : 0,
     "notExported" : 25,
     "readyForExport" : 0,
-    "rejected" : 12,
+    "rejected" : 13,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:50:17",
+  "dateTimeFetched" : "2020-01-10 09:32:14",
   "name" : "US, Georgia—Confederate Pension Rolls, 1879–1920",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2796,
@@ -32557,6 +33038,43 @@
   },
   "dateTimeFetched" : "2019-11-22 09:47:23",
   "name" : "UK—War Office Registers, Soldier Records, 1772–1935 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3603,
+    "projectUUID" : "7c7b28a2-bd41-4623-8a4d-64a2c77ee612",
+    "name" : "US, South Carolina, Charleston City—Capitation Tax Books, 1811–1860",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 1273,
+  "auditBatchCount" : 60,
+  "imageCount" : 1368,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 35,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 1213,
+    "images" : 1368,
+    "recordCount" : 10219
+  },
+  "exportStateCounts" : {
+    "accepted" : 424,
+    "exported" : 0,
+    "failed" : 1,
+    "inProgress" : 787,
+    "audit" : 35,
+    "blocked" : 155,
+    "duplicate" : 0,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:10",
+  "name" : "US, South Carolina, Charleston City—Capitation Tax Books, 1811–1860",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -32931,9 +33449,9 @@
 }, {
   "project" : {
     "projectId" : 2798,
-    "projectUUID" : "62F09EDA-AC6A-48A9-AE83-91E3EF4C9AE0",
+    "projectUUID" : "62f09eda-ac6a-48a9-ae83-91e3ef4c9ae0",
     "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte F]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 110,
   "batchCount" : 5374,
@@ -32962,9 +33480,9 @@
     "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:45:20",
+  "dateTimeFetched" : "2020-01-10 09:28:41",
   "name" : "Perú, Diócesis de Huaraz—Registros Parroquiales, 1641–2016 [Parte F]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2546,
@@ -33005,7 +33523,7 @@
 }, {
   "project" : {
     "projectId" : 3849,
-    "projectUUID" : "da4114e5-03f5-4968-9f20-f0b1db260820",
+    "projectUUID" : "DA4114E5-03F5-4968-9F20-F0B1DB260820",
     "name" : "US, North Dakota, Williams County—Marriages, 1882–2018 [Part B]",
     "state" : "ACTIVE"
   },
@@ -35447,40 +35965,40 @@
 }, {
   "project" : {
     "projectId" : 3630,
-    "projectUUID" : "2654DD2E-4642-4378-8B53-B72CD217BA6A",
+    "projectUUID" : "2654dd2e-4642-4378-8b53-b72cd217ba6a",
     "name" : "US, Tennessee, Shelby County, Memphis—Death Records, 1848–1913 [Part B]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 2,
-  "batchCount" : 791,
-  "auditBatchCount" : 38,
+  "batchCount" : 1559,
+  "auditBatchCount" : 75,
   "imageCount" : 1526,
-  "blockedCount" : 39,
-  "iesAuditBatchCount" : 0,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 75,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
-    "batchCount" : 753,
-    "images" : 792,
-    "recordCount" : 0
+    "batchCount" : 1484,
+    "images" : 1526,
+    "recordCount" : 62278
   },
   "exportStateCounts" : {
-    "accepted" : 0,
-    "exported" : 0,
+    "accepted" : 1400,
+    "exported" : 1,
     "failed" : 0,
-    "inProgress" : 753,
-    "audit" : 0,
-    "blocked" : 39,
+    "inProgress" : 0,
+    "audit" : 75,
+    "blocked" : 42,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 55,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 28,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:06:43",
+  "dateTimeFetched" : "2020-01-10 09:36:17",
   "name" : "US, Tennessee, Shelby County, Memphis—Death Records, 1848–1913 [Part B]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2509,
@@ -36039,7 +36557,7 @@
 }, {
   "project" : {
     "projectId" : 2157,
-    "projectUUID" : "69bb048a-c153-47a3-b8d7-244e4e3ace6d",
+    "projectUUID" : "69BB048A-C153-47A3-B8D7-244E4E3ACE6D",
     "name" : "Magyarország, Budapest—Polgári anyakönyvek, I–XIII. kerület, 1895–1973 [D rész]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -36110,6 +36628,43 @@
   "dateTimeFetched" : "",
   "name" : "US, Oklahoma—Marriage Records, 1750–1990 [Part B]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3719,
+    "projectUUID" : "e37b82f1-3c35-49bf-808c-35fb8fdab854",
+    "name" : "US, California—County Delayed Birth Certificates, 1800–1994",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 2,
+  "batchCount" : 285,
+  "auditBatchCount" : 13,
+  "imageCount" : 2778,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 8,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 272,
+    "images" : 2778,
+    "recordCount" : 1245
+  },
+  "exportStateCounts" : {
+    "accepted" : 1245,
+    "exported" : 0,
+    "failed" : 10,
+    "inProgress" : 1441,
+    "audit" : 80,
+    "blocked" : 71,
+    "duplicate" : 11,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:56",
+  "name" : "US, California—County Delayed Birth Certificates, 1800–1994",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3421,
@@ -36705,40 +37260,40 @@
 }, {
   "project" : {
     "projectId" : 3491,
-    "projectUUID" : "923A742D-DB4F-412D-AFF9-0EED846EFB81",
+    "projectUUID" : "923a742d-db4f-412d-aff9-0eed846efb81",
     "name" : "US, Texas, Laredo—Index to Manifests of Permanent and Alien Arrivals, 1929–1955",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 9,
   "batchCount" : 24977,
   "auditBatchCount" : 1188,
   "imageCount" : 47952,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1002,
+  "iesAuditBatchCount" : 1188,
   "iesCountsNoAudit" : {
     "imagesetCount" : 9,
     "batchCount" : 23789,
     "images" : 47952,
-    "recordCount" : 137246
+    "recordCount" : 162620
   },
   "exportStateCounts" : {
-    "accepted" : 38814,
-    "exported" : 46,
-    "failed" : 14,
-    "inProgress" : 8588,
-    "audit" : 2004,
+    "accepted" : 47387,
+    "exported" : 50,
+    "failed" : 12,
+    "inProgress" : 0,
+    "audit" : 2376,
     "blocked" : 378,
     "duplicate" : 0,
-    "ned" : 26,
+    "ned" : 37,
     "unreadable" : 0,
     "notExported" : 86,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 2,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:01:28",
+  "dateTimeFetched" : "2020-01-10 09:35:21",
   "name" : "US, Texas, Laredo—Index to Manifests of Permanent and Alien Arrivals, 1929–1955",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 1550,
@@ -37219,6 +37774,43 @@
   },
   "dateTimeFetched" : "2019-11-22 09:37:31",
   "name" : "Österreich, Wien—Jüdisches Register von Geburten, Trauungen und Sterbefällen, 1784–1940 [Teil B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3589,
+    "projectUUID" : "dc996b52-c9fe-424c-9052-7ec9fb225f5e",
+    "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 68,
+  "batchCount" : 10372,
+  "auditBatchCount" : 488,
+  "imageCount" : 10663,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 137,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 68,
+    "batchCount" : 9884,
+    "images" : 10663,
+    "recordCount" : 23865
+  },
+  "exportStateCounts" : {
+    "accepted" : 1979,
+    "exported" : 0,
+    "failed" : 1,
+    "inProgress" : 7650,
+    "audit" : 137,
+    "blocked" : 778,
+    "duplicate" : 0,
+    "ned" : 249,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:02",
+  "name" : "US, Iowa, Tama County—Tax Lists, 1865–1939 [Part D]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -38518,7 +39110,7 @@
 }, {
   "project" : {
     "projectId" : 3100,
-    "projectUUID" : "ccf10f29-2c0b-40a5-9979-a264edb86e3e",
+    "projectUUID" : "CCF10F29-2C0B-40A5-9979-A264EDB86E3E",
     "name" : "Australia, Victoria—Wills and Probates, 1865–1925 [Part A]",
     "state" : "ACTIVE"
   },
@@ -38777,9 +39369,9 @@
 }, {
   "project" : {
     "projectId" : 3413,
-    "projectUUID" : "CA8B9AF7-8532-47CE-BD53-119149447B45",
+    "projectUUID" : "ca8b9af7-8532-47ce-bd53-119149447b45",
     "name" : "South Africa, Orange Free State—Master of the Supreme Court Probates, 1832–1989 [Part C]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 79,
   "batchCount" : 8450,
@@ -38791,26 +39383,26 @@
     "imagesetCount" : 79,
     "batchCount" : 8055,
     "images" : 148100,
-    "recordCount" : 174918
+    "recordCount" : 174938
   },
   "exportStateCounts" : {
-    "accepted" : 21513,
+    "accepted" : 21515,
     "exported" : 34,
     "failed" : 0,
-    "inProgress" : 3,
+    "inProgress" : 0,
     "audit" : 1177,
     "blocked" : 124061,
     "duplicate" : 562,
-    "ned" : 1894,
+    "ned" : 1895,
     "unreadable" : 0,
     "notExported" : 33,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:59:04",
+  "dateTimeFetched" : "2020-01-10 09:35:13",
   "name" : "South Africa, Orange Free State—Master of the Supreme Court Probates, 1832–1989 [Part C]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2852,
@@ -40220,9 +40812,9 @@
 }, {
   "project" : {
     "projectId" : 3364,
-    "projectUUID" : "9F8A1CBE-CA04-48FD-9C48-C165C30C8DB6",
+    "projectUUID" : "9f8a1cbe-ca04-48fd-9c48-c165c30c8db6",
     "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BH]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 500,
   "batchCount" : 37824,
@@ -40234,13 +40826,13 @@
     "imagesetCount" : 500,
     "batchCount" : 36036,
     "images" : 110529,
-    "recordCount" : 107434
+    "recordCount" : 107437
   },
   "exportStateCounts" : {
-    "accepted" : 101970,
+    "accepted" : 101973,
     "exported" : 4552,
     "failed" : 0,
-    "inProgress" : 3,
+    "inProgress" : 0,
     "audit" : 5344,
     "blocked" : 2914,
     "duplicate" : 108,
@@ -40251,9 +40843,9 @@
     "rejected" : 39,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:57:19",
+  "dateTimeFetched" : "2020-01-10 09:34:45",
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BH]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2630,
@@ -40960,9 +41552,9 @@
 }, {
   "project" : {
     "projectId" : 3137,
-    "projectUUID" : "BD6951EF-8B45-4BC8-A017-4C52EC550743",
+    "projectUUID" : "bd6951ef-8b45-4bc8-a017-4c52ec550743",
     "name" : "US, Hawaii—Hansen's Disease Records, Kalaupapa Census Index, 1839–1970",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 7,
   "batchCount" : 1527,
@@ -40991,9 +41583,9 @@
     "rejected" : 1,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:50:37",
+  "dateTimeFetched" : "2020-01-10 09:32:22",
   "name" : "US, Hawaii—Hansen's Disease Records, Kalaupapa Census Index, 1839–1970",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2857,
@@ -41958,6 +42550,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3686,
+    "projectUUID" : "a4c294ed-6bf7-43d2-8725-e251ebbdfc9a",
+    "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part I]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 51,
+  "batchCount" : 3440,
+  "auditBatchCount" : 161,
+  "imageCount" : 11629,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 28,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 51,
+    "batchCount" : 3279,
+    "images" : 11629,
+    "recordCount" : 64
+  },
+  "exportStateCounts" : {
+    "accepted" : 63,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 9722,
+    "audit" : 86,
+    "blocked" : 1844,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:38:49",
+  "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part I]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 1968,
     "projectUUID" : "C7B93000-95F7-4868-A037-0CE0077DB3AE",
     "name" : "US, Montana, Sanders County—Birth Records, 1919–1930",
@@ -42773,40 +43402,40 @@
 }, {
   "project" : {
     "projectId" : 3648,
-    "projectUUID" : "C027106B-2F11-4C52-83EB-7E2B6D866E08",
+    "projectUUID" : "c027106b-2f11-4c52-83eb-7e2b6d866e08",
     "name" : "US, Louisiana, New Orleans—Slave Manifests of Coastwise Vessels, 1807–1860",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 30,
   "batchCount" : 15580,
   "auditBatchCount" : 743,
   "imageCount" : 30324,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 722,
+  "iesAuditBatchCount" : 743,
   "iesCountsNoAudit" : {
     "imagesetCount" : 30,
     "batchCount" : 14837,
     "images" : 30324,
-    "recordCount" : 83381
+    "recordCount" : 115269
   },
   "exportStateCounts" : {
-    "accepted" : 11199,
+    "accepted" : 14717,
     "exported" : 4,
-    "failed" : 22,
-    "inProgress" : 3526,
-    "audit" : 722,
+    "failed" : 20,
+    "inProgress" : 0,
+    "audit" : 743,
     "blocked" : 18034,
     "duplicate" : 0,
-    "ned" : 83,
+    "ned" : 90,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 4,
+    "rejected" : 7,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:07:52",
+  "dateTimeFetched" : "2020-01-10 09:36:25",
   "name" : "US, Louisiana, New Orleans—Slave Manifests of Coastwise Vessels, 1807–1860",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2876,
@@ -43735,40 +44364,40 @@
 }, {
   "project" : {
     "projectId" : 3745,
-    "projectUUID" : "E60D9891-CAF4-49CC-A3A9-425A543F749C",
+    "projectUUID" : "e60d9891-caf4-49cc-a3a9-425a543f749c",
     "name" : "US, Tennessee, Davidson County, Nashville City—Cemetery Records, 1843–1962",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 1,
   "batchCount" : 654,
   "auditBatchCount" : 31,
   "imageCount" : 644,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 24,
+  "iesAuditBatchCount" : 31,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
     "batchCount" : 623,
     "images" : 644,
-    "recordCount" : 5536
+    "recordCount" : 19780
   },
   "exportStateCounts" : {
-    "accepted" : 171,
+    "accepted" : 605,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 449,
-    "audit" : 24,
+    "inProgress" : 0,
+    "audit" : 31,
     "blocked" : 21,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 3,
+    "rejected" : 15,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:09:11",
+  "dateTimeFetched" : "2020-01-10 09:37:10",
   "name" : "US, Tennessee, Davidson County, Nashville City—Cemetery Records, 1843–1962",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3260,
@@ -43883,7 +44512,7 @@
 }, {
   "project" : {
     "projectId" : 3716,
-    "projectUUID" : "4e1ae11e-88d3-49b3-be87-341f81250fdc",
+    "projectUUID" : "4E1AE11E-88D3-49B3-BE87-341F81250FDC",
     "name" : "Canada, Nova Scotia—Church Records, 1864–1877 [Part B]",
     "state" : "ACTIVE"
   },
@@ -46029,9 +46658,9 @@
 }, {
   "project" : {
     "projectId" : 1841,
-    "projectUUID" : "90A08E10-8E37-47B2-A963-4E0E86C955EC",
+    "projectUUID" : "90a08e10-8e37-47b2-a963-4e0e86c955ec",
     "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte C]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 12,
   "batchCount" : 17882,
@@ -46043,26 +46672,26 @@
     "imagesetCount" : 12,
     "batchCount" : 17032,
     "images" : 36259,
-    "recordCount" : 179646
+    "recordCount" : 179775
   },
   "exportStateCounts" : {
-    "accepted" : 27816,
+    "accepted" : 27822,
     "exported" : 2853,
-    "failed" : 8,
-    "inProgress" : 4,
+    "failed" : 4,
+    "inProgress" : 0,
     "audit" : 1700,
     "blocked" : 2189,
     "duplicate" : 323,
-    "ned" : 2588,
+    "ned" : 2590,
     "unreadable" : 0,
     "notExported" : 458,
     "readyForExport" : 0,
     "rejected" : 20,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:31:08",
+  "dateTimeFetched" : "2020-01-10 09:27:13",
   "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte C]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3294,
@@ -46658,7 +47287,7 @@
 }, {
   "project" : {
     "projectId" : 3595,
-    "projectUUID" : "df35ecb4-853e-413a-bcc6-9ef806e112d2",
+    "projectUUID" : "DF35ECB4-853E-413A-BCC6-9EF806E112D2",
     "name" : "US, Georgia—County Delayed Birth and Death Records, 1870–1960",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -46843,7 +47472,7 @@
 }, {
   "project" : {
     "projectId" : 2098,
-    "projectUUID" : "528ff5fd-1b49-4fcf-86ba-916ad4a8aca4",
+    "projectUUID" : "528FF5FD-1B49-4FCF-86BA-916AD4A8ACA4",
     "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel C]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -48175,40 +48804,40 @@
 }, {
   "project" : {
     "projectId" : 3714,
-    "projectUUID" : "5D3CC75F-A1E6-47BF-A894-C57BDD7BA3AA",
+    "projectUUID" : "5d3cc75f-a1e6-47bf-a894-c57bdd7ba3aa",
     "name" : "US, Georgia, Chatham County, Savannah—Laurel Grove Cemetery Records, 1852–1942",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 2,
   "batchCount" : 772,
   "auditBatchCount" : 37,
   "imageCount" : 772,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 22,
+  "iesAuditBatchCount" : 37,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
     "batchCount" : 735,
     "images" : 772,
-    "recordCount" : 13881
+    "recordCount" : 29546
   },
   "exportStateCounts" : {
-    "accepted" : 344,
+    "accepted" : 706,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 376,
-    "audit" : 22,
+    "inProgress" : 0,
+    "audit" : 37,
     "blocked" : 37,
     "duplicate" : 0,
     "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 14,
+    "rejected" : 28,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:09:01",
+  "dateTimeFetched" : "2020-01-10 09:36:55",
   "name" : "US, Georgia, Chatham County, Savannah—Laurel Grove Cemetery Records, 1852–1942",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2223,
@@ -48359,6 +48988,43 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 3487,
+    "projectUUID" : "c7ca6da6-99a0-4728-8178-2997f667ca61",
+    "name" : "United States, Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part C]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 100,
+  "batchCount" : 148114,
+  "auditBatchCount" : 7046,
+  "imageCount" : 185458,
+  "blockedCount" : 32717,
+  "iesAuditBatchCount" : 582,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 141068,
+    "images" : 170561,
+    "recordCount" : 157565
+  },
+  "exportStateCounts" : {
+    "accepted" : 4762,
+    "exported" : 1,
+    "failed" : 2,
+    "inProgress" : 135876,
+    "audit" : 582,
+    "blocked" : 29490,
+    "duplicate" : 0,
+    "ned" : 424,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 6,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:37:39",
+  "name" : "United States, Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
     "projectId" : 2816,
     "projectUUID" : "C440C0CB-8319-4577-AB5B-190EB4528538",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AB]",
@@ -48397,7 +49063,7 @@
 }, {
   "project" : {
     "projectId" : 3437,
-    "projectUUID" : "216fc576-0bac-4e4f-91e0-b9f8cfd6ac4f",
+    "projectUUID" : "216FC576-0BAC-4E4F-91E0-B9F8CFD6AC4F",
     "name" : "UK, Wales—National Library of Wales Marriage Bonds, 1754–1900 [Part G]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -49951,40 +50617,40 @@
 }, {
   "project" : {
     "projectId" : 3523,
-    "projectUUID" : "5B8A6A52-4277-4FA7-A1AF-8E471A09973C",
+    "projectUUID" : "5b8a6a52-4277-4fa7-a1af-8e471a09973c",
     "name" : "US, Montana—County Naturalizations, 1867–1957",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 44,
   "batchCount" : 7541,
   "auditBatchCount" : 354,
   "imageCount" : 44810,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 349,
+  "iesAuditBatchCount" : 354,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
     "batchCount" : 7187,
     "images" : 44810,
-    "recordCount" : 31485
+    "recordCount" : 52089
   },
   "exportStateCounts" : {
-    "accepted" : 19006,
-    "exported" : 67,
-    "failed" : 346,
-    "inProgress" : 15095,
-    "audit" : 1741,
+    "accepted" : 34299,
+    "exported" : 89,
+    "failed" : 5,
+    "inProgress" : 0,
+    "audit" : 1766,
     "blocked" : 8958,
-    "duplicate" : 485,
-    "ned" : 830,
+    "duplicate" : 607,
+    "ned" : 824,
     "unreadable" : 0,
     "notExported" : 13,
     "readyForExport" : 0,
-    "rejected" : 10,
+    "rejected" : 15,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 10:02:20",
+  "dateTimeFetched" : "2020-01-10 09:35:46",
   "name" : "US, Montana—County Naturalizations, 1867–1957",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2155,
@@ -50210,9 +50876,9 @@
 }, {
   "project" : {
     "projectId" : 2708,
-    "projectUUID" : "F871E4B2-0FDF-43FD-B1C7-5863F3D7D390",
+    "projectUUID" : "f871e4b2-0fdf-43fd-b1c7-5863f3d7d390",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte W]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 300,
   "batchCount" : 24332,
@@ -50224,26 +50890,26 @@
     "imagesetCount" : 300,
     "batchCount" : 23180,
     "images" : 67448,
-    "recordCount" : 52036
+    "recordCount" : 67111
   },
   "exportStateCounts" : {
-    "accepted" : 50359,
-    "exported" : 153,
-    "failed" : 12,
-    "inProgress" : 14967,
+    "accepted" : 65351,
+    "exported" : 163,
+    "failed" : 3,
+    "inProgress" : 0,
     "audit" : 3275,
     "blocked" : 1683,
-    "duplicate" : 48,
-    "ned" : 181,
+    "duplicate" : 59,
+    "ned" : 139,
     "unreadable" : 0,
     "notExported" : 39,
     "readyForExport" : 0,
-    "rejected" : 6,
+    "rejected" : 11,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:43:40",
+  "dateTimeFetched" : "2020-01-10 09:27:51",
   "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte W]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2241,
@@ -50354,6 +51020,43 @@
   },
   "dateTimeFetched" : "2019-11-22 09:47:18",
   "name" : "US, Hawaii—Circuit Court Divorce Records, 1849–1915",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3756,
+    "projectUUID" : "f29ee7df-3649-4946-bb60-fe203be3f2a1",
+    "name" : "Bolivia, Chuquisaca—Catholic Church Records, 1566–1970",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 133,
+  "batchCount" : 50940,
+  "auditBatchCount" : 2416,
+  "imageCount" : 100119,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 41,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 133,
+    "batchCount" : 48524,
+    "images" : 100119,
+    "recordCount" : 1563
+  },
+  "exportStateCounts" : {
+    "accepted" : 197,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 96237,
+    "audit" : 64,
+    "blocked" : 3685,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-01-10 09:39:28",
+  "name" : "Bolivia, Chuquisaca—Catholic Church Records, 1566–1970",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -50543,9 +51246,9 @@
 }, {
   "project" : {
     "projectId" : 2851,
-    "projectUUID" : "59A979CA-AD2F-4B03-A17E-68814B592E0A",
+    "projectUUID" : "59a979ca-ad2f-4b03-a17e-68814b592e0a",
     "name" : "Perú (Lote Rápido), Ancash—Registro Civil, 1888–2000 [Parte P]",
-    "state" : "ACTIVE"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 300,
   "batchCount" : 11011,
@@ -50557,24 +51260,24 @@
     "imagesetCount" : 300,
     "batchCount" : 10499,
     "images" : 44872,
-    "recordCount" : 41746
+    "recordCount" : 41748
   },
   "exportStateCounts" : {
-    "accepted" : 40944,
+    "accepted" : 40946,
     "exported" : 139,
     "failed" : 0,
-    "inProgress" : 4,
+    "inProgress" : 0,
     "audit" : 2030,
     "blocked" : 3289,
     "duplicate" : 20,
-    "ned" : 200,
+    "ned" : 202,
     "unreadable" : 0,
     "notExported" : 258,
     "readyForExport" : 0,
     "rejected" : 18,
     "published" : 0
   },
-  "dateTimeFetched" : "2019-11-22 09:45:56",
+  "dateTimeFetched" : "2020-01-10 09:28:54",
   "name" : "Perú (Lote Rápido), Ancash—Registro Civil, 1888–2000 [Parte P]",
-  "state" : "ACTIVE"
+  "state" : "READY_FOR_DELIVERY"
 } ]
