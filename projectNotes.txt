@@ -1,0 +1,28 @@
+2C401FC1-902B-436D-98E2-CFD27EFC063E:500 indexing batches without workflows
+7CAAE2D6-7CBD-40F0-9BE0-841D7B7D4FD7:3496 indexing batches without workflows
+DAA0FAD2-D330-4708-93F9-095721623C1A:imageset 104239245, id(99113) does not have a workflow
+43752B23-F048-4C22-ACA3-F8190681A057:96 images are not blocked and do not have an indexing batch associated
+C9272102-A61E-48AD-9122-2C3704AE584F:846 images are not blocked and do not have an indexing batch associated
+7DF5BA49-7CBA-439D-912A-21214A116D61:batch EC828A1C-68D7-426C-AB82-3389CA312ED7 does not have a workflow, 4828 images are not blocked and not associated to an indexing batch
+8F2C05E9-BE9F-4CB8-BE33-D6A0656FF6DD:1 image E6FF3FC9-C65D-44FB-A8D5-651F7C88DBB4 is not blocked and has no indexing batch, looks like an NA_NED image
+80DE64CC-380E-4426-B2EC-EDAF6BA3AC3D:1086 non blocked images do not have an indexing batch
+624CC290-5A21-4CFA-9781-F54B720CAE4F:the first and last image in batchingbatch 28C5BBD6-4E30-4ADA-8EC7-CA90F4DBFA6A are not blocked and are not associated with an indexing batch
+AC16A959-2BC3-4E47-9B30-96EE68A08DC7:57FD5C4A-136A-4228-86C7-A5C9301D969E is an audit batch that was indexed with all blank values
+0E0DFABF-6EAB-4EAA-BAA7-0C702CE16CF1:imageset 102644174 has 58 images and is not associated with either a batchingbatch or indexing batch
+8C1571B2-30F5-4401-8D1D-6AD8360EE65B:92 images are not associated with a batchingbatch or indexing batch
+98D490FA-2E58-4732-AD89-714D68562CA7:looks like 20K+ batches do not have workflows
+74166EB7-99C0-4D38-B789-66A8D78F4E82:294 images are not associated with batches
+06660EB2-3409-4817-8124-84FA2CCFB5DE:batch B9D51CF7-8882-4F8A-A48C-14B2B186F360 does not have a workflow,20104 non-blocked imagges are not associated with an indexing batch
+62BB214E-B0A5-489C-BA43-3058A190C46F:image 16160094-F214-413E-8C25-E6EA579960C3 should be blocked and  it is not, it is blocked in : 35E2230E-F3B4-426B-BB6E-BED3510511F2 but not blocked inBBBF7178-18E5-4AC4-8ACE-B36DC73A4FA9
+33651B1F-8E0B-439E-B84C-E7CCA17B562E:1050 images are not blocked and are not associated with an indexing batch
+A21328DF-DA70-4950-91AA-8E68B749FFBC:4 images are not associated with indexing batches, they are not blocked, but look like there is no extractable data
+1FD4D9EC-55B2-4738-B022-E75D4F40D6EE:it looks like there might be 207 batches that have empty keying.resources, not sure about the blocked images
+831FDF3A-3E4A-4768-A799-FD8ABEE2101A:I didn't not valid them all but 31991 batches do not have workflows
+9B4EABA8-CC2B-4C97-B0BE-62C016C690B2:there are 20 non-blocked images not associated with an indexing batch
+9D174D87-DC52-4621-B5DA-5A978D0F00CC:there are 529 non-blocked images not associated with an indexing batch
+7838FF6D-99FE-44D5-9FCC-7724B57A72E6:there are 5 images that have 2 batching batches, in one they are blocked, in the other they are not, they all are not associated with an indexing batch
+5098AA75-BBF6-429E-B404-A046CF661C18:it appears that there are 346 batches (including audit batches) that have empty keying.resources
+451E07EB-FD46-4F8E-A508-FC3BE5CA70BF:there are 417 batches (including audit) that do not have workflows
+2705E06C-2199-4862-B607-338B184A1673:it appears that there are 20 batches that have empty keying.resources
+BBAAD840-13AA-4D2A-A481-583F595F2ECB:there are 1346 batches (including audit) that do not have workflows
+27FCEC51-9261-4943-B03B-A002E402D652:there are 84 batches (including audit) that do not have workflows
