@@ -26,3 +26,4 @@ A21328DF-DA70-4950-91AA-8E68B749FFBC:4 images are not associated with indexing b
 2705E06C-2199-4862-B607-338B184A1673:it appears that there are 20 batches that have empty keying.resources
 BBAAD840-13AA-4D2A-A481-583F595F2ECB:there are 1346 batches (including audit) that do not have workflows
 27FCEC51-9261-4943-B03B-A002E402D652:there are 84 batches (including audit) that do not have workflows
+39DA3283-0E21-40A1-8330-BD6FFF1754D2:the fields of the 'EXPORTED' batch's records are marked <blank>
