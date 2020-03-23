@@ -38404,7 +38404,7 @@
   "batchCount" : 158411,
   "auditBatchCount" : 7536,
   "imageCount" : 185458,
-  "blockedCount" : 0,
+  "blockedCount" : 32717,
   "iesAuditBatchCount" : 7536,
   "iesCountsNoAudit" : {
     "imagesetCount" : 99,
