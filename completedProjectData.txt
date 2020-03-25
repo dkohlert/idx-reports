@@ -13322,7 +13322,7 @@
 }, {
   "project" : {
     "projectId" : 635,
-    "projectUUID" : "180E49FD-2D50-41CB-89C4-6B89B1D4C68C",
+    "projectUUID" : "180e49fd-2d50-41cb-89c4-6b89b1d4c68c",
     "name" : "US, Utah—Birth Certificates, 1903–1910 [Part 1D]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -13330,7 +13330,7 @@
   "batchCount" : 1579,
   "auditBatchCount" : 64,
   "imageCount" : 14090,
-  "blockedCount" : 873,
+  "blockedCount" : 0,
   "iesAuditBatchCount" : 64,
   "iesCountsNoAudit" : {
     "imagesetCount" : 297,
@@ -13353,9 +13353,23 @@
     "rejected" : 0,
     "published" : 0
   },
-  "exportStateDiffs" : null,
-  "dateTimeFetched" : "2019-11-11 11:45:42",
-  "batchesWithTooManyImages" : null,
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-03-24 20:41:40",
+  "batchesWithTooManyImages" : { },
   "name" : "US, Utah—Birth Certificates, 1903–1910 [Part 1D]",
   "state" : "READY_FOR_DELIVERY"
 }, {
