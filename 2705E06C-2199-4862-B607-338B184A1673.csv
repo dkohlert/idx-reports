@@ -1,41 +1,21 @@
 Item;Item Type;Note
-2CCD2FD4-0FA6-438D-BFA6-41875648E642;BATCH;Not in ImageExportTable
-3EDD81EE-475A-4FD5-B6ED-EA524A575D01;BATCH;Not in ImageExportTable
-A14B5FA2-3DA6-441E-B6FB-2377C434EC82;BATCH;Not in ImageExportTable
-AA26826B-017D-4652-92CA-C4FC91F3E2D1;BATCH;Not in ImageExportTable
-3E9F1DB7-62CD-46C4-B59B-BDDEB196293C;BATCH;Not in ImageExportTable
-1B828A3E-C86C-4E89-BCC9-D9D6D3E52854;BATCH;Not in ImageExportTable
-3BE2241E-BF55-441E-8620-C756086A8287;BATCH;Not in ImageExportTable
-95743773-71EA-4372-8DB1-9B7068D52358;BATCH;Not in ImageExportTable
-A0909F05-C092-4241-8E1F-2F525CB0F601;BATCH;Not in ImageExportTable
-A5501117-8FAB-4F1C-98B6-F601D9FA017A;BATCH;Not in ImageExportTable
-26A20C8C-C3E1-40E2-BE29-B68FEA652116;BATCH;Not in ImageExportTable
-88C3658B-389C-4C81-8935-8D66F02F4654;BATCH;Not in ImageExportTable
-49508201-1742-4041-B280-83F4F2F5FCA2;BATCH;Not in ImageExportTable
-48A93034-39AB-4D51-B6C8-9ACF58310B70;BATCH;Not in ImageExportTable
-0CE30B45-E24C-4D8C-9624-6C622956D01D;BATCH;Not in ImageExportTable
-4115A2D7-2013-40A8-91BD-1372EAF107AC;BATCH;Not in ImageExportTable
-B551B525-0D0C-443F-917F-D88DF0E9B5CA;BATCH;Not in ImageExportTable
-793A9E92-6A42-4F0C-8B08-32024B32DB8D;BATCH;Not in ImageExportTable
-8C858B25-0CE0-4896-A339-95093257719E;BATCH;Not in ImageExportTable
-3CC2F7AC-2CFD-45B5-8771-3AEB9B880DDA;BATCH;Not in ImageExportTable
-2CCD2FD4-0FA6-438D-BFA6-41875648E642;BATCH;Does not have a workflow state
-3EDD81EE-475A-4FD5-B6ED-EA524A575D01;BATCH;Does not have a workflow state
-A14B5FA2-3DA6-441E-B6FB-2377C434EC82;BATCH;Does not have a workflow state
-AA26826B-017D-4652-92CA-C4FC91F3E2D1;BATCH;Does not have a workflow state
-3E9F1DB7-62CD-46C4-B59B-BDDEB196293C;BATCH;Does not have a workflow state
-1B828A3E-C86C-4E89-BCC9-D9D6D3E52854;BATCH;Does not have a workflow state
-3BE2241E-BF55-441E-8620-C756086A8287;BATCH;Does not have a workflow state
-95743773-71EA-4372-8DB1-9B7068D52358;BATCH;Does not have a workflow state
-A0909F05-C092-4241-8E1F-2F525CB0F601;BATCH;Does not have a workflow state
-A5501117-8FAB-4F1C-98B6-F601D9FA017A;BATCH;Does not have a workflow state
-26A20C8C-C3E1-40E2-BE29-B68FEA652116;BATCH;Does not have a workflow state
-88C3658B-389C-4C81-8935-8D66F02F4654;BATCH;Does not have a workflow state
-49508201-1742-4041-B280-83F4F2F5FCA2;BATCH;Does not have a workflow state
-48A93034-39AB-4D51-B6C8-9ACF58310B70;BATCH;Does not have a workflow state
-0CE30B45-E24C-4D8C-9624-6C622956D01D;BATCH;Does not have a workflow state
-4115A2D7-2013-40A8-91BD-1372EAF107AC;BATCH;Does not have a workflow state
-B551B525-0D0C-443F-917F-D88DF0E9B5CA;BATCH;Does not have a workflow state
-793A9E92-6A42-4F0C-8B08-32024B32DB8D;BATCH;Does not have a workflow state
-8C858B25-0CE0-4896-A339-95093257719E;BATCH;Does not have a workflow state
-3CC2F7AC-2CFD-45B5-8771-3AEB9B880DDA;BATCH;Does not have a workflow state
+2CCD2FD4-0FA6-438D-BFA6-41875648E642;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+3EDD81EE-475A-4FD5-B6ED-EA524A575D01;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+3E9F1DB7-62CD-46C4-B59B-BDDEB196293C;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+AA26826B-017D-4652-92CA-C4FC91F3E2D1;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+A14B5FA2-3DA6-441E-B6FB-2377C434EC82;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+1B828A3E-C86C-4E89-BCC9-D9D6D3E52854;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+3BE2241E-BF55-441E-8620-C756086A8287;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+95743773-71EA-4372-8DB1-9B7068D52358;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+A5501117-8FAB-4F1C-98B6-F601D9FA017A;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+A0909F05-C092-4241-8E1F-2F525CB0F601;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+26A20C8C-C3E1-40E2-BE29-B68FEA652116;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+49508201-1742-4041-B280-83F4F2F5FCA2;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+88C3658B-389C-4C81-8935-8D66F02F4654;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+48A93034-39AB-4D51-B6C8-9ACF58310B70;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+0CE30B45-E24C-4D8C-9624-6C622956D01D;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+4115A2D7-2013-40A8-91BD-1372EAF107AC;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+B551B525-0D0C-443F-917F-D88DF0E9B5CA;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+793A9E92-6A42-4F0C-8B08-32024B32DB8D;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+8C858B25-0CE0-4896-A339-95093257719E;BATCH;Not in ImageExportTable\\ Does not have a workflow state
+3CC2F7AC-2CFD-45B5-8771-3AEB9B880DDA;BATCH;Not in ImageExportTable\\ Does not have a workflow state
