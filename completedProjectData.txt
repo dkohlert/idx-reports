@@ -16201,7 +16201,7 @@
 }, {
   "project" : {
     "projectId" : 1798,
-    "projectUUID" : "82B63ED5-3DE9-46ED-B712-B6BD608A9CD0",
+    "projectUUID" : "82b63ed5-3de9-46ed-b712-b6bd608a9cd0",
     "name" : "Liberia—Marriage Records, 1912–2015 [Part B]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -16215,11 +16215,11 @@
     "imagesetCount" : 198,
     "batchCount" : 3389,
     "images" : 48182,
-    "recordCount" : 24019
+    "recordCount" : 25009
   },
   "exportStateCounts" : {
-    "accepted" : 22781,
-    "exported" : 685,
+    "accepted" : 23765,
+    "exported" : 686,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 1509,
@@ -16227,14 +16227,28 @@
     "duplicate" : 124,
     "ned" : 8207,
     "unreadable" : 0,
-    "notExported" : 985,
+    "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
-  "exportStateDiffs" : null,
-  "dateTimeFetched" : "2019-11-15 12:56:08",
-  "batchesWithTooManyImages" : null,
+  "exportStateDiffs" : {
+    "accepted" : 984,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : -985,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-03-28 22:43:23",
+  "batchesWithTooManyImages" : { },
   "name" : "Liberia—Marriage Records, 1912–2015 [Part B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
@@ -33224,7 +33238,7 @@
 }, {
   "project" : {
     "projectId" : 2240,
-    "projectUUID" : "E15BA926-AE71-4059-AA82-447E60DAA2C7",
+    "projectUUID" : "e15ba926-ae71-4059-aa82-447e60daa2c7",
     "name" : "UK (Quick Batch), England, Derbyshire—Parish Registers, 1754—2005 [Part H]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -33238,10 +33252,10 @@
     "imagesetCount" : 327,
     "batchCount" : 27640,
     "images" : 29435,
-    "recordCount" : 152600
+    "recordCount" : 158957
   },
   "exportStateCounts" : {
-    "accepted" : 27574,
+    "accepted" : 28739,
     "exported" : 321,
     "failed" : 0,
     "inProgress" : 0,
@@ -33250,14 +33264,28 @@
     "duplicate" : 0,
     "ned" : 6,
     "unreadable" : 0,
-    "notExported" : 1165,
+    "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
-  "exportStateDiffs" : null,
-  "dateTimeFetched" : "2019-11-15 12:56:13",
-  "batchesWithTooManyImages" : null,
+  "exportStateDiffs" : {
+    "accepted" : 1165,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : -1165,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-03-28 22:43:56",
+  "batchesWithTooManyImages" : { },
   "name" : "UK (Quick Batch), England, Derbyshire—Parish Registers, 1754—2005 [Part H]",
   "state" : "READY_FOR_DELIVERY"
 }, {
@@ -34959,8 +34987,8 @@
 }, {
   "project" : {
     "projectId" : 718,
-    "projectUUID" : "C9668B34-A062-48D2-8CF9-3616CC74FC0E",
-    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part A]",
+    "projectUUID" : "c9668b34-a062-48d2-8cf9-3616cc74fc0e",
+    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part A]",
     "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 273,
@@ -34978,22 +35006,36 @@
   "exportStateCounts" : {
     "accepted" : 5134,
     "exported" : 351,
-    "failed" : 1,
+    "failed" : 0,
     "inProgress" : 0,
     "audit" : 233,
     "blocked" : 2941,
     "duplicate" : 3,
-    "ned" : 26,
+    "ned" : 27,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0
   },
-  "exportStateDiffs" : null,
-  "dateTimeFetched" : "2019-11-15 12:55:59",
-  "batchesWithTooManyImages" : null,
-  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part A]",
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : -1,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-03-28 22:43:06",
+  "batchesWithTooManyImages" : { },
+  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part A]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -60208,7 +60250,7 @@
 }, {
   "project" : {
     "projectId" : 2037,
-    "projectUUID" : "DD6B7134-29B3-4C5E-BA41-19F975669EC9",
+    "projectUUID" : "dd6b7134-29b3-4c5e-ba41-19f975669ec9",
     "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part U]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -60239,9 +60281,23 @@
     "rejected" : 0,
     "published" : 0
   },
-  "exportStateDiffs" : null,
-  "dateTimeFetched" : "2019-11-14 09:23:12",
-  "batchesWithTooManyImages" : null,
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-03-28 22:43:47",
+  "batchesWithTooManyImages" : { },
   "name" : "US, Pennsylvania—World War II Draft Registrations, 1940–1945 [Part U]",
   "state" : "READY_FOR_DELIVERY"
 }, {
@@ -77472,7 +77528,7 @@
 }, {
   "project" : {
     "projectId" : 1120,
-    "projectUUID" : "B679E4A4-573E-4914-94FC-57C4EFE9D716",
+    "projectUUID" : "b679e4a4-573e-4914-94fc-57c4efe9d716",
     "name" : "Belgium, Namur—Registres Civils, 1901–1910 [Partie B]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -77503,9 +77559,23 @@
     "rejected" : 0,
     "published" : 0
   },
-  "exportStateDiffs" : null,
-  "dateTimeFetched" : "2019-11-15 12:56:03",
-  "batchesWithTooManyImages" : null,
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0
+  },
+  "dateTimeFetched" : "2020-03-28 22:43:15",
+  "batchesWithTooManyImages" : { },
   "name" : "Belgium, Namur—Registres Civils, 1901–1910 [Partie B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
