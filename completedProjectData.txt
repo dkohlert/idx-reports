@@ -1,62 +1,5 @@
 [ {
   "project" : {
-    "projectId" : 1598,
-    "projectUUID" : "5FDE4608-A36B-4228-B255-51A0E7EF61E9",
-    "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 200,
-  "batchCount" : 33409,
-  "auditBatchCount" : 1587,
-  "imageCount" : 111932,
-  "blockedCount" : 26213,
-  "iesAuditBatchCount" : 806,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 200,
-    "batchCount" : 16211,
-    "images" : 67346,
-    "recordCount" : 124783
-  },
-  "exportStateCounts" : {
-    "accepted" : 32058,
-    "exported" : 1282,
-    "failed" : 0,
-    "inProgress" : 3262,
-    "audit" : 2046,
-    "blocked" : 26213,
-    "duplicate" : 316,
-    "ned" : 4212,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 3,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 101,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 180,
-    "audit" : 4,
-    "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : -8,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2020-03-31 02:52:27",
-  "batchesWithTooManyImages" : { },
-  "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 3315,
     "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
     "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
@@ -114,49 +57,49 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2763,
-    "projectUUID" : "FF5D7124-C4AC-4FB3-BDD7-DF12D2778A38",
-    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie D]",
+    "projectId" : 1598,
+    "projectUUID" : "5FDE4608-A36B-4228-B255-51A0E7EF61E9",
+    "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
     "state" : "ACTIVE"
   },
-  "imagesetCount" : 214,
-  "batchCount" : 10570,
-  "auditBatchCount" : 495,
-  "imageCount" : 143120,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 18,
+  "imagesetCount" : 200,
+  "batchCount" : 33409,
+  "auditBatchCount" : 1587,
+  "imageCount" : 111932,
+  "blockedCount" : 26213,
+  "iesAuditBatchCount" : 806,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 133,
-    "batchCount" : 6082,
-    "images" : 84894,
-    "recordCount" : 438
+    "imagesetCount" : 200,
+    "batchCount" : 16211,
+    "images" : 67346,
+    "recordCount" : 124783
   },
   "exportStateCounts" : {
-    "accepted" : 438,
-    "exported" : 0,
+    "accepted" : 32058,
+    "exported" : 1282,
     "failed" : 0,
-    "inProgress" : 59661,
-    "audit" : 180,
-    "blocked" : 24795,
-    "duplicate" : 0,
-    "ned" : 0,
+    "inProgress" : 3262,
+    "audit" : 2046,
+    "blocked" : 26213,
+    "duplicate" : 316,
+    "ned" : 4212,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 3,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 368,
+    "accepted" : 101,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1737,
-    "audit" : 80,
+    "inProgress" : 180,
+    "audit" : 4,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 1,
+    "ned" : -8,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -165,9 +108,9 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-03-31 03:06:43",
+  "dateTimeFetched" : "2020-03-31 02:52:27",
   "batchesWithTooManyImages" : { },
-  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie D]",
+  "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -225,6 +168,63 @@
   "dateTimeFetched" : "2020-03-31 03:13:32",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BD]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 2763,
+    "projectUUID" : "FF5D7124-C4AC-4FB3-BDD7-DF12D2778A38",
+    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie D]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 214,
+  "batchCount" : 10570,
+  "auditBatchCount" : 495,
+  "imageCount" : 143120,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 18,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 133,
+    "batchCount" : 6082,
+    "images" : 84894,
+    "recordCount" : 438
+  },
+  "exportStateCounts" : {
+    "accepted" : 438,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 59661,
+    "audit" : 180,
+    "blocked" : 24795,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 368,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 1737,
+    "audit" : 80,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2020-03-31 03:06:43",
+  "batchesWithTooManyImages" : { },
+  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie D]",
   "state" : "ACTIVE"
 }, {
   "project" : {
