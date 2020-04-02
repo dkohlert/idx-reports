@@ -1,62 +1,5 @@
 [ {
   "project" : {
-    "projectId" : 3315,
-    "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
-    "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 58,
-  "batchCount" : 30202,
-  "auditBatchCount" : 1435,
-  "imageCount" : 31934,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 432,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 58,
-    "batchCount" : 8636,
-    "images" : 10923,
-    "recordCount" : 342782
-  },
-  "exportStateCounts" : {
-    "accepted" : 6695,
-    "exported" : 6,
-    "failed" : 0,
-    "inProgress" : 1745,
-    "audit" : 432,
-    "blocked" : 2286,
-    "duplicate" : 0,
-    "ned" : 186,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 5,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2020-03-31 03:14:47",
-  "batchesWithTooManyImages" : { },
-  "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 1598,
     "projectUUID" : "5FDE4608-A36B-4228-B255-51A0E7EF61E9",
     "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
@@ -111,6 +54,63 @@
   "dateTimeFetched" : "2020-03-31 02:52:27",
   "batchesWithTooManyImages" : { },
   "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3315,
+    "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
+    "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 58,
+  "batchCount" : 30202,
+  "auditBatchCount" : 1435,
+  "imageCount" : 31934,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 432,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 58,
+    "batchCount" : 8636,
+    "images" : 10923,
+    "recordCount" : 342782
+  },
+  "exportStateCounts" : {
+    "accepted" : 6695,
+    "exported" : 6,
+    "failed" : 0,
+    "inProgress" : 1745,
+    "audit" : 432,
+    "blocked" : 2286,
+    "duplicate" : 0,
+    "ned" : 186,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2020-03-31 03:14:47",
+  "batchesWithTooManyImages" : { },
+  "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -171,63 +171,6 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2763,
-    "projectUUID" : "FF5D7124-C4AC-4FB3-BDD7-DF12D2778A38",
-    "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie D]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 214,
-  "batchCount" : 10570,
-  "auditBatchCount" : 495,
-  "imageCount" : 143120,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 18,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 133,
-    "batchCount" : 6082,
-    "images" : 84894,
-    "recordCount" : 438
-  },
-  "exportStateCounts" : {
-    "accepted" : 438,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 59661,
-    "audit" : 180,
-    "blocked" : 24795,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 368,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 1737,
-    "audit" : 80,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2020-03-31 03:06:43",
-  "batchesWithTooManyImages" : { },
-  "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie D]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 2808,
     "projectUUID" : "E9EE4EC7-17B8-49DD-9370-91912D6D02B9",
     "name" : "Brazil—Civil Registration of Birth, 1852–1914 [Part 2E]",
@@ -283,118 +226,4 @@
   "batchesWithTooManyImages" : { },
   "name" : "Brazil—Civil Registration of Birth, 1852–1914 [Part 2E]",
   "state" : "ACTIVE"
-}, {
-  "project" : {
-    "projectId" : 2334,
-    "projectUUID" : "BBAAD840-13AA-4D2A-A481-583F595F2ECB",
-    "name" : "US, Wisconsin—Birth Records, 1964–1980",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 485,
-  "batchCount" : 640135,
-  "auditBatchCount" : 30474,
-  "imageCount" : 1241699,
-  "blockedCount" : 14105,
-  "iesAuditBatchCount" : 30410,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 485,
-    "batchCount" : 608379,
-    "images" : 1241499,
-    "recordCount" : 1227199
-  },
-  "exportStateCounts" : {
-    "accepted" : 1221226,
-    "exported" : 504,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 61344,
-    "blocked" : 14105,
-    "duplicate" : 170,
-    "ned" : 5494,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2020-03-31 01:14:58",
-  "batchesWithTooManyImages" : { },
-  "name" : "US, Wisconsin—Birth Records, 1964–1980",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
-    "projectId" : 3484,
-    "projectUUID" : "68890D31-A896-47F4-89FB-0A5E529FEA30",
-    "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part A]",
-    "state" : "READY_FOR_DELIVERY"
-  },
-  "imagesetCount" : 6,
-  "batchCount" : 1387,
-  "auditBatchCount" : 65,
-  "imageCount" : 1341,
-  "blockedCount" : 19,
-  "iesAuditBatchCount" : 65,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 11,
-    "batchCount" : 1322,
-    "images" : 1351,
-    "recordCount" : 20524
-  },
-  "exportStateCounts" : {
-    "accepted" : 1297,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 65,
-    "blocked" : 29,
-    "duplicate" : 0,
-    "ned" : 2,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 23,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 15,
-    "exported" : -35,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 20,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2020-03-31 02:42:34",
-  "batchesWithTooManyImages" : { },
-  "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part A]",
-  "state" : "READY_FOR_DELIVERY"
 } ]
