@@ -226,4 +226,61 @@
   "batchesWithTooManyImages" : { },
   "name" : "Brazil—Civil Registration of Birth, 1852–1914 [Part 2E]",
   "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3356,
+    "projectUUID" : "C2943C34-B85E-4F28-88FA-76DE46CA94A8",
+    "name" : "Sierra Leone—Birth Registration, 1802–2016",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 122,
+  "batchCount" : 47302,
+  "auditBatchCount" : 2243,
+  "imageCount" : 142422,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2243,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 122,
+    "batchCount" : 45059,
+    "images" : 141324,
+    "recordCount" : 306705
+  },
+  "exportStateCounts" : {
+    "accepted" : 140866,
+    "exported" : 140,
+    "failed" : 0,
+    "inProgress" : 4,
+    "audit" : 7035,
+    "blocked" : 0,
+    "duplicate" : 83,
+    "ned" : 145,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 86,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2020-03-24 20:57:27",
+  "batchesWithTooManyImages" : { },
+  "name" : "Sierra Leone—Birth Registration, 1802–2016",
+  "state" : "READY_FOR_DELIVERY"
 } ]
