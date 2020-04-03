@@ -14,7 +14,7 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 122,
     "batchCount" : 45059,
-    "images" : 141373,
+    "images" : 142422,
     "recordCount" : 306705
   },
   "exportStateCounts" : {
@@ -23,7 +23,7 @@
     "failed" : 0,
     "inProgress" : 4,
     "audit" : 7035,
-    "blocked" : 49,
+    "blocked" : 1098,
     "duplicate" : 83,
     "ned" : 145,
     "unreadable" : 0,
@@ -40,7 +40,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 0,
+    "blocked" : 1049,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -51,7 +51,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-03 17:17:52",
+  "dateTimeFetched" : "2020-04-03 17:37:31",
   "batchesWithTooManyImages" : { },
   "name" : "Sierra Leone—Birth Registration, 1802–2016",
   "state" : "READY_FOR_DELIVERY"
