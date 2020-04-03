@@ -1,1 +1,2 @@
-Problem;Count;Counts: Projects
+Problem;Description;Project Count
+[IMAGESET - Not in ImageExportTable];Imagesets that are in the Project but are not in the ImageExportTable;1
