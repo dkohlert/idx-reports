@@ -1,62 +1,5 @@
 [ {
   "project" : {
-    "projectId" : 3315,
-    "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
-    "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
-    "state" : "ACTIVE"
-  },
-  "imagesetCount" : 58,
-  "batchCount" : 30202,
-  "auditBatchCount" : 1435,
-  "imageCount" : 31934,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 432,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 58,
-    "batchCount" : 8636,
-    "images" : 10923,
-    "recordCount" : 342782
-  },
-  "exportStateCounts" : {
-    "accepted" : 6695,
-    "exported" : 6,
-    "failed" : 0,
-    "inProgress" : 1745,
-    "audit" : 432,
-    "blocked" : 2286,
-    "duplicate" : 0,
-    "ned" : 186,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 5,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2020-03-31 03:14:47",
-  "batchesWithTooManyImages" : { },
-  "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 1598,
     "projectUUID" : "5FDE4608-A36B-4228-B255-51A0E7EF61E9",
     "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
@@ -111,6 +54,63 @@
   "dateTimeFetched" : "2020-03-31 02:52:27",
   "batchesWithTooManyImages" : { },
   "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3315,
+    "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
+    "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 58,
+  "batchCount" : 30202,
+  "auditBatchCount" : 1435,
+  "imageCount" : 31934,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 432,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 58,
+    "batchCount" : 8636,
+    "images" : 10923,
+    "recordCount" : 342782
+  },
+  "exportStateCounts" : {
+    "accepted" : 6695,
+    "exported" : 6,
+    "failed" : 0,
+    "inProgress" : 1745,
+    "audit" : 432,
+    "blocked" : 2286,
+    "duplicate" : 0,
+    "ned" : 186,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 5,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2020-03-31 03:14:47",
+  "batchesWithTooManyImages" : { },
+  "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
   "state" : "ACTIVE"
 }, {
   "project" : {
