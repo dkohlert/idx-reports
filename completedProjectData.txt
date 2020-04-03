@@ -1,7 +1,7 @@
 [ {
   "project" : {
     "projectId" : 562,
-    "projectUUID" : "32c134ca-332f-4611-9e44-27fece231d19",
+    "projectUUID" : "32C134CA-332F-4611-9E44-27FECE231D19",
     "name" : "US, Montana, Teton County—Birth Records, 1897–1930",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -58,7 +58,7 @@
 }, {
   "project" : {
     "projectId" : 654,
-    "projectUUID" : "05cce9dd-12d8-4169-ac3e-e39373648122",
+    "projectUUID" : "05CCE9DD-12D8-4169-AC3E-E39373648122",
     "name" : "US, Montana, Meagher County—Death Records, 1866–2012",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -111,6 +111,63 @@
   "dateTimeFetched" : "2020-04-03 16:54:30",
   "batchesWithTooManyImages" : { },
   "name" : "US, Montana, Meagher County—Death Records, 1866–2012",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 745,
+    "projectUUID" : "2dd88a0a-779a-4de6-86a7-e2e03deed409",
+    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 212,
+  "batchCount" : 508,
+  "auditBatchCount" : 18,
+  "imageCount" : 4214,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 18,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 212,
+    "batchCount" : 490,
+    "images" : 4214,
+    "recordCount" : 3223
+  },
+  "exportStateCounts" : {
+    "accepted" : 2892,
+    "exported" : 8,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 104,
+    "blocked" : 1240,
+    "duplicate" : 0,
+    "ned" : 74,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2020-04-03 16:58:37",
+  "batchesWithTooManyImages" : { },
+  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -229,7 +286,7 @@
 }, {
   "project" : {
     "projectId" : 635,
-    "projectUUID" : "180e49fd-2d50-41cb-89c4-6b89b1d4c68c",
+    "projectUUID" : "180E49FD-2D50-41CB-89C4-6B89B1D4C68C",
     "name" : "US, Utah—Birth Certificates, 1903–1910 [Part 1D]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -343,7 +400,7 @@
 }, {
   "project" : {
     "projectId" : 564,
-    "projectUUID" : "4f02b9d9-1261-4c3e-ae4a-d6f57446986d",
+    "projectUUID" : "4F02B9D9-1261-4C3E-AE4A-D6F57446986D",
     "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2J]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -401,8 +458,65 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 743,
+    "projectUUID" : "9e5b55cb-3924-4388-8f0e-36c64081624a",
+    "name" : "Perú, Amazonas—Registros Civiles, Matrimonios, 1935-1999 [Parte B]",
+    "state" : "READY_FOR_DELIVERY"
+  },
+  "imagesetCount" : 209,
+  "batchCount" : 1215,
+  "auditBatchCount" : 49,
+  "imageCount" : 3435,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 49,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 209,
+    "batchCount" : 1166,
+    "images" : 3435,
+    "recordCount" : 2301
+  },
+  "exportStateCounts" : {
+    "accepted" : 2092,
+    "exported" : 129,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 95,
+    "blocked" : 1190,
+    "duplicate" : 0,
+    "ned" : 27,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2020-04-03 16:58:30",
+  "batchesWithTooManyImages" : { },
+  "name" : "Perú, Amazonas—Registros Civiles, Matrimonios, 1935-1999 [Parte B]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 545,
-    "projectUUID" : "734d6390-f1cb-4b03-ae35-546550ebe80d",
+    "projectUUID" : "734D6390-F1CB-4B03-AE35-546550EBE80D",
     "name" : "US, Oklahoma—Obituaries, 1980-2014 [Part A]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -459,7 +573,7 @@
 }, {
   "project" : {
     "projectId" : 542,
-    "projectUUID" : "189cd9e0-1627-47b0-a211-4096680262d5",
+    "projectUUID" : "189CD9E0-1627-47B0-A211-4096680262D5",
     "name" : "US, Massachusetts Boston—Crew Lists, 1917–1943 [Part 2A]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -516,7 +630,7 @@
 }, {
   "project" : {
     "projectId" : 718,
-    "projectUUID" : "c9668b34-a062-48d2-8cf9-3616cc74fc0e",
+    "projectUUID" : "C9668B34-A062-48D2-8CF9-3616CC74FC0E",
     "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Part A]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -573,7 +687,7 @@
 }, {
   "project" : {
     "projectId" : 529,
-    "projectUUID" : "88188a81-ec92-4330-9359-d2b852babe4f",
+    "projectUUID" : "88188A81-EC92-4330-9359-D2B852BABE4F",
     "name" : "Brasil, Pernambuco—Óbitos, 1900–2011 (Parte 2B)",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -630,7 +744,7 @@
 }, {
   "project" : {
     "projectId" : 510,
-    "projectUUID" : "a9bdffaf-48b4-4531-ad63-965c50e53f5f",
+    "projectUUID" : "A9BDFFAF-48B4-4531-AD63-965C50E53F5F",
     "name" : "Italia, Pesaro e Urbino—Morti, 1875–1903, Part 1A",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -687,7 +801,7 @@
 }, {
   "project" : {
     "projectId" : 717,
-    "projectUUID" : "21d6c036-7a95-4c4d-9333-d755cb4bb171",
+    "projectUUID" : "21D6C036-7A95-4C4D-9333-D755CB4BB171",
     "name" : "Perú, Amazonas—Registros Civiles, Matrimonios,  1935–1999 [Parte A]",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -744,7 +858,7 @@
 }, {
   "project" : {
     "projectId" : 736,
-    "projectUUID" : "09ab2e67-f774-4086-9649-9bf547d914e4",
+    "projectUUID" : "09AB2E67-F774-4086-9649-9BF547D914E4",
     "name" : "US, Texas, El Paso—Alien Arrivals, 1909–1924",
     "state" : "READY_FOR_DELIVERY"
   },
@@ -858,7 +972,7 @@
 }, {
   "project" : {
     "projectId" : 544,
-    "projectUUID" : "a794349a-ca50-4c0c-83fb-e5a4b9b47f9c",
+    "projectUUID" : "A794349A-CA50-4C0C-83FB-E5A4B9B47F9C",
     "name" : "US, New Jersey—Obituaries, 1980-2014 [A]",
     "state" : "READY_FOR_DELIVERY"
   },
