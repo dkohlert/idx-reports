@@ -1,5 +1,2 @@
-Problem;Count;Counts: Projects
-PROJECT:BLOCKED_IMAGE_COUNTS_ARE_NOT_EQUAL;1;1: [Sierra Leone—Birth Registration, 1802–2016|(TEST) C2943C34-B85E-4F28-88FA-76DE46CA94A8]
-PROJECT:IMAGE_COUNTS_ARE_NOT_EQUAL;1;1: [Sierra Leone—Birth Registration, 1802–2016|(TEST) C2943C34-B85E-4F28-88FA-76DE46CA94A8]
-IMAGE:NOT_IN_IMAGE_EXPORT_TABLE;1000;1000: [Sierra Leone—Birth Registration, 1802–2016|(TEST) C2943C34-B85E-4F28-88FA-76DE46CA94A8]
-IMAGE:NO_INDEXING_BATCH;1000;1000: [Sierra Leone—Birth Registration, 1802–2016|(TEST) C2943C34-B85E-4F28-88FA-76DE46CA94A8]
+Problem;Description;Project Count
+[IMAGESET - Not in ImageExportTable];Imagesets that are in the Project but are not in the ImageExportTable;1
