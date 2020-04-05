@@ -1,38 +1,38 @@
 [ {
   "project" : {
-    "projectId" : 3356,
-    "projectUUID" : "C2943C34-B85E-4F28-88FA-76DE46CA94A8",
-    "name" : "Sierra Leone—Birth Registration, 1802–2016",
-    "state" : "READY_FOR_DELIVERY"
+    "projectId" : 3315,
+    "projectUUID" : "F9AE0610-94A1-471B-932D-4EC7AA502232",
+    "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
+    "state" : "ACTIVE"
   },
-  "imagesetCount" : 122,
-  "batchCount" : 47302,
-  "auditBatchCount" : 2243,
-  "imageCount" : 142422,
-  "blockedCount" : 1098,
-  "iesAuditBatchCount" : 2243,
+  "imagesetCount" : 58,
+  "batchCount" : 30202,
+  "auditBatchCount" : 1435,
+  "imageCount" : 31934,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 432,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 122,
-    "batchCount" : 45059,
-    "images" : 142422,
-    "recordCount" : 306705
+    "imagesetCount" : 58,
+    "batchCount" : 8636,
+    "images" : 10923,
+    "recordCount" : 342782
   },
   "exportStateCounts" : {
-    "accepted" : 140993,
-    "exported" : 3,
+    "accepted" : 6695,
+    "exported" : 6,
     "failed" : 0,
-    "inProgress" : 4,
-    "audit" : 7035,
-    "blocked" : 1098,
-    "duplicate" : 83,
-    "ned" : 145,
+    "inProgress" : 1745,
+    "audit" : 432,
+    "blocked" : 2286,
+    "duplicate" : 0,
+    "ned" : 186,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 80,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 16
+    "noPersonas" : 5
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -40,7 +40,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 1049,
+    "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -51,8 +51,65 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-03 17:37:31",
+  "dateTimeFetched" : "2020-04-04 18:52:52",
   "batchesWithTooManyImages" : { },
-  "name" : "Sierra Leone—Birth Registration, 1802–2016",
-  "state" : "READY_FOR_DELIVERY"
+  "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 3274,
+    "projectUUID" : "BC5F56AD-3C8C-4945-81F8-55CD26190499",
+    "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BD]",
+    "state" : "ACTIVE"
+  },
+  "imagesetCount" : 3129,
+  "batchCount" : 239875,
+  "auditBatchCount" : 11287,
+  "imageCount" : 699426,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 11280,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 3129,
+    "batchCount" : 228350,
+    "images" : 698715,
+    "recordCount" : 682433
+  },
+  "exportStateCounts" : {
+    "accepted" : 659832,
+    "exported" : 15478,
+    "failed" : 0,
+    "inProgress" : 195,
+    "audit" : 33691,
+    "blocked" : 17078,
+    "duplicate" : 812,
+    "ned" : 4023,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 38,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1259
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2020-04-04 18:50:33",
+  "batchesWithTooManyImages" : { },
+  "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BD]",
+  "state" : "ACTIVE"
 } ]
