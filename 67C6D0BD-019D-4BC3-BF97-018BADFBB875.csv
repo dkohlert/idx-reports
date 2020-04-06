@@ -1,3 +1,3 @@
 Item;Item Type;Note;Item Link
-ReportItem instance counts;;PROJECT:AUDIT_BATCH_COUNTS_ARE_NOT_EQUAL: 1;
-67c6d0bd-019d-4bc3-bf97-018badfbb875;PROJECT;AUDIT_BATCH_COUNTS_ARE_NOT_EQUAL;[PROJECT|https://www.familysearch.org/indexing/admin-new/#/projects/67c6d0bd-019d-4bc3-bf97-018badfbb875/overview]
+ReportItem instance counts;;PROJECT_AUDIT_BATCH_COUNTS_ARE_NOT_EQUAL: 1;
+67c6d0bd-019d-4bc3-bf97-018badfbb875;PROJECT;PROJECT_AUDIT_BATCH_COUNTS_ARE_NOT_EQUAL;[PROJECT|https://www.familysearch.org/indexing/admin-new/#/projects/67c6d0bd-019d-4bc3-bf97-018badfbb875/overview]
