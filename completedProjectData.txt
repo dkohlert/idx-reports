@@ -9933,7 +9933,7 @@
   "batchCount" : 37378,
   "auditBatchCount" : 1765,
   "imageCount" : 195262,
-  "blockedCount" : 0,
+  "blockedCount" : 20678,
   "iesAuditBatchCount" : 1765,
   "iesCountsNoAudit" : {
     "imagesetCount" : 332,
@@ -56238,15 +56238,15 @@
   "iesAuditBatchCount" : 31,
   "iesCountsNoAudit" : {
     "imagesetCount" : 159,
-    "batchCount" : 646,
-    "images" : 18181,
+    "batchCount" : 655,
+    "images" : 18221,
     "recordCount" : 231
   },
   "exportStateCounts" : {
     "accepted" : 122,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 3047,
+    "inProgress" : 3087,
     "audit" : 149,
     "blocked" : 15007,
     "duplicate" : 0,
@@ -56260,12 +56260,12 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 10,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 283,
-    "audit" : 10,
-    "blocked" : 15007,
+    "inProgress" : 17,
+    "audit" : 0,
+    "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -56276,7 +56276,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-06 11:30:11",
+  "dateTimeFetched" : "2020-04-06 13:49:27",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Entre Rios—Civil Registration, 1860–1965 [Part B]",
   "state" : "ACTIVE"
