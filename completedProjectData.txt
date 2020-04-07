@@ -15215,7 +15215,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 36,
+    "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -15226,7 +15226,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-07 16:41:24",
+  "dateTimeFetched" : "2020-04-07 17:16:17",
   "batchesWithTooManyImages" : { },
   "name" : "US, South Dakota, South Lead City Cemetery—Card Index of Deaths, 1912–1966",
   "state" : "READY_FOR_DELIVERY"
@@ -31462,7 +31462,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 51326,
+    "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -31473,7 +31473,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-07 16:41:07",
+  "dateTimeFetched" : "2020-04-07 17:12:01",
   "batchesWithTooManyImages" : { },
   "name" : "US, Alabama, Jefferson County—Circuit Court Files, 1870–1916 [Part A]",
   "state" : "READY_FOR_DELIVERY"
@@ -52799,7 +52799,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-07 14:13:27",
+  "dateTimeFetched" : "2020-04-07 17:17:42",
   "batchesWithTooManyImages" : { },
   "name" : "US, South Carolina—World War I Draft Registration Cards, 1917–1918 [Part D]",
   "state" : "READY_FOR_DELIVERY"
@@ -53426,7 +53426,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-07 14:12:01",
+  "dateTimeFetched" : "2020-04-07 17:20:03",
   "batchesWithTooManyImages" : { },
   "name" : "US, Nebraska—Naturalizations, 1855–1989",
   "state" : "READY_FOR_DELIVERY"
