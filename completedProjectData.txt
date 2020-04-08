@@ -1662,7 +1662,7 @@
   "batchCount" : 107894,
   "auditBatchCount" : 5121,
   "imageCount" : 1033852,
-  "blockedCount" : 0,
+  "blockedCount" : 7042,
   "iesAuditBatchCount" : 140,
   "iesCountsNoAudit" : {
     "imagesetCount" : 199,
@@ -1719,7 +1719,7 @@
   "batchCount" : 7169,
   "auditBatchCount" : 337,
   "imageCount" : 7142,
-  "blockedCount" : 0,
+  "blockedCount" : 309,
   "iesAuditBatchCount" : 151,
   "iesCountsNoAudit" : {
     "imagesetCount" : 50,
@@ -2918,7 +2918,7 @@
   "batchCount" : 133672,
   "auditBatchCount" : 6362,
   "imageCount" : 133345,
-  "blockedCount" : 0,
+  "blockedCount" : 5002,
   "iesAuditBatchCount" : 1285,
   "iesCountsNoAudit" : {
     "imagesetCount" : 212,
@@ -7480,7 +7480,7 @@
   "batchCount" : 2893,
   "auditBatchCount" : 147,
   "imageCount" : 10350,
-  "blockedCount" : 0,
+  "blockedCount" : 848,
   "iesAuditBatchCount" : 25,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -13925,7 +13925,7 @@
   "batchCount" : 6717,
   "auditBatchCount" : 321,
   "imageCount" : 8423,
-  "blockedCount" : 0,
+  "blockedCount" : 2026,
   "iesAuditBatchCount" : 285,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
@@ -14096,7 +14096,7 @@
   "batchCount" : 35692,
   "auditBatchCount" : 1691,
   "imageCount" : 147245,
-  "blockedCount" : 0,
+  "blockedCount" : 11946,
   "iesAuditBatchCount" : 1614,
   "iesCountsNoAudit" : {
     "imagesetCount" : 399,
@@ -18148,7 +18148,7 @@
   "batchCount" : 9167,
   "auditBatchCount" : 437,
   "imageCount" : 19096,
-  "blockedCount" : 0,
+  "blockedCount" : 1478,
   "iesAuditBatchCount" : 399,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
@@ -19288,7 +19288,7 @@
   "batchCount" : 23803,
   "auditBatchCount" : 1130,
   "imageCount" : 144791,
-  "blockedCount" : 0,
+  "blockedCount" : 31680,
   "iesAuditBatchCount" : 11,
   "iesCountsNoAudit" : {
     "imagesetCount" : 121,
@@ -19518,7 +19518,7 @@
   "batchCount" : 41250,
   "auditBatchCount" : 1969,
   "imageCount" : 93219,
-  "blockedCount" : 0,
+  "blockedCount" : 17915,
   "iesAuditBatchCount" : 1941,
   "iesCountsNoAudit" : {
     "imagesetCount" : 126,
@@ -19803,7 +19803,7 @@
   "batchCount" : 49937,
   "auditBatchCount" : 2381,
   "imageCount" : 96842,
-  "blockedCount" : 0,
+  "blockedCount" : 3557,
   "iesAuditBatchCount" : 2040,
   "iesCountsNoAudit" : {
     "imagesetCount" : 148,
@@ -24021,7 +24021,7 @@
   "batchCount" : 40953,
   "auditBatchCount" : 1952,
   "imageCount" : 164714,
-  "blockedCount" : 0,
+  "blockedCount" : 10265,
   "iesAuditBatchCount" : 604,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -24648,7 +24648,7 @@
   "batchCount" : 11456,
   "auditBatchCount" : 541,
   "imageCount" : 182066,
-  "blockedCount" : 0,
+  "blockedCount" : 74481,
   "iesAuditBatchCount" : 147,
   "iesCountsNoAudit" : {
     "imagesetCount" : 237,
@@ -27840,7 +27840,7 @@
   "batchCount" : 14099,
   "auditBatchCount" : 672,
   "imageCount" : 419693,
-  "blockedCount" : 0,
+  "blockedCount" : 11517,
   "iesAuditBatchCount" : 159,
   "iesCountsNoAudit" : {
     "imagesetCount" : 258,
@@ -28923,7 +28923,7 @@
   "batchCount" : 133,
   "auditBatchCount" : 8,
   "imageCount" : 859,
-  "blockedCount" : 0,
+  "blockedCount" : 304,
   "iesAuditBatchCount" : 8,
   "iesCountsNoAudit" : {
     "imagesetCount" : 26,
@@ -31602,7 +31602,7 @@
   "batchCount" : 27185,
   "auditBatchCount" : 1289,
   "imageCount" : 80472,
-  "blockedCount" : 0,
+  "blockedCount" : 2963,
   "iesAuditBatchCount" : 9,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
@@ -34226,7 +34226,7 @@
   "batchCount" : 4632,
   "auditBatchCount" : 228,
   "imageCount" : 21256,
-  "blockedCount" : 0,
+  "blockedCount" : 4094,
   "iesAuditBatchCount" : 167,
   "iesCountsNoAudit" : {
     "imagesetCount" : 251,
@@ -34454,7 +34454,7 @@
   "batchCount" : 2844,
   "auditBatchCount" : 136,
   "imageCount" : 18661,
-  "blockedCount" : 0,
+  "blockedCount" : 5519,
   "iesAuditBatchCount" : 1,
   "iesCountsNoAudit" : {
     "imagesetCount" : 199,
@@ -37988,7 +37988,7 @@
   "batchCount" : 85322,
   "auditBatchCount" : 4058,
   "imageCount" : 417302,
-  "blockedCount" : 0,
+  "blockedCount" : 94233,
   "iesAuditBatchCount" : 1124,
   "iesCountsNoAudit" : {
     "imagesetCount" : 209,
@@ -38558,7 +38558,7 @@
   "batchCount" : 10570,
   "auditBatchCount" : 495,
   "imageCount" : 143120,
-  "blockedCount" : 0,
+  "blockedCount" : 43780,
   "iesAuditBatchCount" : 37,
   "iesCountsNoAudit" : {
     "imagesetCount" : 140,
@@ -39584,7 +39584,7 @@
   "batchCount" : 27488,
   "auditBatchCount" : 1306,
   "imageCount" : 118207,
-  "blockedCount" : 0,
+  "blockedCount" : 641,
   "iesAuditBatchCount" : 137,
   "iesCountsNoAudit" : {
     "imagesetCount" : 52,
@@ -45630,7 +45630,7 @@
   "batchCount" : 15383,
   "auditBatchCount" : 719,
   "imageCount" : 69287,
-  "blockedCount" : 0,
+  "blockedCount" : 2907,
   "iesAuditBatchCount" : 40,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
@@ -47967,7 +47967,7 @@
   "batchCount" : 5253,
   "auditBatchCount" : 250,
   "imageCount" : 230004,
-  "blockedCount" : 0,
+  "blockedCount" : 203303,
   "iesAuditBatchCount" : 161,
   "iesCountsNoAudit" : {
     "imagesetCount" : 180,
@@ -49166,7 +49166,7 @@
   "batchCount" : 22882,
   "auditBatchCount" : 1092,
   "imageCount" : 75278,
-  "blockedCount" : 0,
+  "blockedCount" : 5692,
   "iesAuditBatchCount" : 637,
   "iesCountsNoAudit" : {
     "imagesetCount" : 138,
@@ -56519,7 +56519,7 @@
   "batchCount" : 2440,
   "auditBatchCount" : 103,
   "imageCount" : 13343,
-  "blockedCount" : 0,
+  "blockedCount" : 2493,
   "iesAuditBatchCount" : 57,
   "iesCountsNoAudit" : {
     "imagesetCount" : 299,
@@ -61649,7 +61649,7 @@
   "batchCount" : 2334,
   "auditBatchCount" : 95,
   "imageCount" : 20434,
-  "blockedCount" : 0,
+  "blockedCount" : 2856,
   "iesAuditBatchCount" : 80,
   "iesCountsNoAudit" : {
     "imagesetCount" : 149,
@@ -62561,7 +62561,7 @@
   "batchCount" : 11566,
   "auditBatchCount" : 550,
   "imageCount" : 48132,
-  "blockedCount" : 0,
+  "blockedCount" : 15217,
   "iesAuditBatchCount" : 69,
   "iesCountsNoAudit" : {
     "imagesetCount" : 49,
@@ -64786,7 +64786,7 @@
   "batchCount" : 3215,
   "auditBatchCount" : 155,
   "imageCount" : 15852,
-  "blockedCount" : 0,
+  "blockedCount" : 1933,
   "iesAuditBatchCount" : 141,
   "iesCountsNoAudit" : {
     "imagesetCount" : 261,
@@ -66040,7 +66040,7 @@
   "batchCount" : 4075,
   "auditBatchCount" : 183,
   "imageCount" : 19335,
-  "blockedCount" : 0,
+  "blockedCount" : 5078,
   "iesAuditBatchCount" : 75,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
@@ -66154,7 +66154,7 @@
   "batchCount" : 5188,
   "auditBatchCount" : 245,
   "imageCount" : 26501,
-  "blockedCount" : 0,
+  "blockedCount" : 7349,
   "iesAuditBatchCount" : 115,
   "iesCountsNoAudit" : {
     "imagesetCount" : 47,
@@ -67294,7 +67294,7 @@
   "batchCount" : 85700,
   "auditBatchCount" : 4082,
   "imageCount" : 413643,
-  "blockedCount" : 0,
+  "blockedCount" : 66374,
   "iesAuditBatchCount" : 431,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
@@ -72371,7 +72371,7 @@
   "batchCount" : 41668,
   "auditBatchCount" : 1984,
   "imageCount" : 81014,
-  "blockedCount" : 0,
+  "blockedCount" : 1703,
   "iesAuditBatchCount" : 1984,
   "iesCountsNoAudit" : {
     "imagesetCount" : 100,
@@ -74425,7 +74425,7 @@
   "batchCount" : 20542,
   "auditBatchCount" : 975,
   "imageCount" : 80012,
-  "blockedCount" : 0,
+  "blockedCount" : 1613,
   "iesAuditBatchCount" : 161,
   "iesCountsNoAudit" : {
     "imagesetCount" : 102,
@@ -75793,7 +75793,7 @@
   "batchCount" : 9915,
   "auditBatchCount" : 468,
   "imageCount" : 50985,
-  "blockedCount" : 0,
+  "blockedCount" : 4981,
   "iesAuditBatchCount" : 451,
   "iesCountsNoAudit" : {
     "imagesetCount" : 129,
@@ -78930,7 +78930,7 @@
   "batchCount" : 19043,
   "auditBatchCount" : 901,
   "imageCount" : 330442,
-  "blockedCount" : 0,
+  "blockedCount" : 43965,
   "iesAuditBatchCount" : 810,
   "iesCountsNoAudit" : {
     "imagesetCount" : 57,
@@ -79671,7 +79671,7 @@
   "batchCount" : 3646,
   "auditBatchCount" : 159,
   "imageCount" : 20655,
-  "blockedCount" : 0,
+  "blockedCount" : 3654,
   "iesAuditBatchCount" : 2,
   "iesCountsNoAudit" : {
     "imagesetCount" : 213,
@@ -84233,7 +84233,7 @@
   "batchCount" : 24030,
   "auditBatchCount" : 1141,
   "imageCount" : 164953,
-  "blockedCount" : 0,
+  "blockedCount" : 50472,
   "iesAuditBatchCount" : 268,
   "iesCountsNoAudit" : {
     "imagesetCount" : 158,
@@ -84974,7 +84974,7 @@
   "batchCount" : 43429,
   "auditBatchCount" : 2059,
   "imageCount" : 235283,
-  "blockedCount" : 0,
+  "blockedCount" : 28780,
   "iesAuditBatchCount" : 146,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
@@ -85943,7 +85943,7 @@
   "batchCount" : 20088,
   "auditBatchCount" : 959,
   "imageCount" : 78315,
-  "blockedCount" : 0,
+  "blockedCount" : 3363,
   "iesAuditBatchCount" : 944,
   "iesCountsNoAudit" : {
     "imagesetCount" : 261,
@@ -86342,7 +86342,7 @@
   "batchCount" : 5393,
   "auditBatchCount" : 256,
   "imageCount" : 5831,
-  "blockedCount" : 0,
+  "blockedCount" : 366,
   "iesAuditBatchCount" : 70,
   "iesCountsNoAudit" : {
     "imagesetCount" : 9,
@@ -87653,7 +87653,7 @@
   "batchCount" : 7566,
   "auditBatchCount" : 363,
   "imageCount" : 157391,
-  "blockedCount" : 0,
+  "blockedCount" : 8623,
   "iesAuditBatchCount" : 79,
   "iesCountsNoAudit" : {
     "imagesetCount" : 26,
