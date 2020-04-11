@@ -1321,22 +1321,22 @@
   "auditBatchCount" : 12293,
   "imageCount" : 322006,
   "blockedCount" : 72682,
-  "iesAuditBatchCount" : 8597,
+  "iesAuditBatchCount" : 8601,
   "iesCountsNoAudit" : {
     "imagesetCount" : 175,
-    "batchCount" : 172249,
-    "images" : 246027,
-    "recordCount" : 5239697
+    "batchCount" : 172371,
+    "images" : 246149,
+    "recordCount" : 5239890
   },
   "exportStateCounts" : {
-    "accepted" : 154911,
+    "accepted" : 154915,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 16463,
-    "audit" : 8649,
+    "inProgress" : 16585,
+    "audit" : 8653,
     "blocked" : 72682,
     "duplicate" : 23,
-    "ned" : 1906,
+    "ned" : 1902,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -1346,14 +1346,14 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 1,
+    "accepted" : 4,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 72,
-    "audit" : 3,
+    "inProgress" : 122,
+    "audit" : 4,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -1,
+    "ned" : -4,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -1362,7 +1362,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:00:47",
+  "dateTimeFetched" : "2020-04-11 11:02:18",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri, St. Louis—Military Records, 1916–1939",
   "state" : "ACTIVE"
@@ -1533,7 +1533,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:42:26",
+  "dateTimeFetched" : "2020-04-11 10:42:36",
   "batchesWithTooManyImages" : { },
   "name" : "Costa Rica—Registros Civiles, Nacimientos, 1888–1931 [Parte C]",
   "state" : "ACTIVE"
@@ -1723,15 +1723,15 @@
   "iesAuditBatchCount" : 140,
   "iesCountsNoAudit" : {
     "imagesetCount" : 199,
-    "batchCount" : 3189,
-    "images" : 38917,
+    "batchCount" : 3195,
+    "images" : 38977,
     "recordCount" : 6472
   },
   "exportStateCounts" : {
     "accepted" : 6434,
     "exported" : 9,
     "failed" : 0,
-    "inProgress" : 3802,
+    "inProgress" : 3862,
     "audit" : 1400,
     "blocked" : 7042,
     "duplicate" : 28,
@@ -1748,7 +1748,7 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 60,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -1761,7 +1761,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:25:50",
+  "dateTimeFetched" : "2020-04-11 10:23:53",
   "batchesWithTooManyImages" : { },
   "name" : "Netherlands, Bibliothéque Wallonne—Indexkaarten, 1500–1858",
   "state" : "ACTIVE"
@@ -1780,15 +1780,15 @@
   "iesAuditBatchCount" : 152,
   "iesCountsNoAudit" : {
     "imagesetCount" : 50,
-    "batchCount" : 3261,
-    "images" : 3571,
+    "batchCount" : 3275,
+    "images" : 3585,
     "recordCount" : 81302
   },
   "exportStateCounts" : {
     "accepted" : 1908,
     "exported" : 5,
     "failed" : 0,
-    "inProgress" : 1307,
+    "inProgress" : 1321,
     "audit" : 152,
     "blocked" : 309,
     "duplicate" : 0,
@@ -1802,10 +1802,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 7,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -4,
+    "inProgress" : 14,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -1818,7 +1818,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:30:12",
+  "dateTimeFetched" : "2020-04-11 10:28:30",
   "batchesWithTooManyImages" : { },
   "name" : "Iceland—Church Census, 1744–1977 [Part B]",
   "state" : "ACTIVE"
@@ -1875,7 +1875,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:43:05",
+  "dateTimeFetched" : "2020-04-11 10:43:19",
   "batchesWithTooManyImages" : { },
   "name" : "España, Lugo—Registros Parroquiales 1530–1930 [Parte C]",
   "state" : "ACTIVE"
@@ -2577,22 +2577,22 @@
   "auditBatchCount" : 104,
   "imageCount" : 8646,
   "blockedCount" : 312,
-  "iesAuditBatchCount" : 4,
+  "iesAuditBatchCount" : 9,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 87,
-    "images" : 348,
-    "recordCount" : 70
+    "imagesetCount" : 2,
+    "batchCount" : 241,
+    "images" : 964,
+    "recordCount" : 156
   },
   "exportStateCounts" : {
-    "accepted" : 70,
+    "accepted" : 156,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 208,
-    "audit" : 16,
+    "inProgress" : 652,
+    "audit" : 36,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 70,
+    "ned" : 156,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -2602,14 +2602,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 86,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
+    "inProgress" : 444,
+    "audit" : 20,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 86,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -2618,7 +2618,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:55:37",
+  "dateTimeFetched" : "2020-04-11 10:56:55",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Napoli, Porto e Vicaria—Nati, 1809–1865 [Parte E]",
   "state" : "ACTIVE"
@@ -3147,26 +3147,26 @@
   "auditBatchCount" : 1822,
   "imageCount" : 80946,
   "blockedCount" : 10103,
-  "iesAuditBatchCount" : 1659,
+  "iesAuditBatchCount" : 1662,
   "iesCountsNoAudit" : {
     "imagesetCount" : 19,
-    "batchCount" : 33091,
-    "images" : 74267,
-    "recordCount" : 185354
+    "batchCount" : 33218,
+    "images" : 74521,
+    "recordCount" : 186438
   },
   "exportStateCounts" : {
     "accepted" : 31,
     "exported" : 37029,
     "failed" : 0,
-    "inProgress" : 5552,
-    "audit" : 3222,
+    "inProgress" : 5474,
+    "audit" : 3228,
     "blocked" : 10103,
     "duplicate" : 86,
-    "ned" : 154,
+    "ned" : 152,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 21311,
+    "rejected" : 21645,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 1
@@ -3175,20 +3175,20 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 2,
-    "audit" : 12,
+    "inProgress" : -78,
+    "audit" : 6,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 154,
+    "rejected" : 334,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:39:24",
+  "dateTimeFetched" : "2020-04-11 10:39:09",
   "batchesWithTooManyImages" : { },
   "name" : "US, Hawaii, Honolulu—Japanese Consulate, Japanese Family Registration Cards, 1897–1955 [Part A]",
   "state" : "ACTIVE"
@@ -3375,19 +3375,19 @@
   "auditBatchCount" : 1530,
   "imageCount" : 33173,
   "blockedCount" : 2562,
-  "iesAuditBatchCount" : 616,
+  "iesAuditBatchCount" : 621,
   "iesCountsNoAudit" : {
     "imagesetCount" : 46,
-    "batchCount" : 12241,
-    "images" : 14821,
-    "recordCount" : 180299
+    "batchCount" : 12302,
+    "images" : 14882,
+    "recordCount" : 182146
   },
   "exportStateCounts" : {
-    "accepted" : 6123,
+    "accepted" : 6222,
     "exported" : 240,
     "failed" : 0,
-    "inProgress" : 5879,
-    "audit" : 617,
+    "inProgress" : 5841,
+    "audit" : 622,
     "blocked" : 2562,
     "duplicate" : 0,
     "ned" : 14,
@@ -3400,11 +3400,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 33,
+    "accepted" : 4,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 17,
-    "audit" : 3,
+    "inProgress" : 1,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -3416,7 +3416,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:22:15",
+  "dateTimeFetched" : "2020-04-11 11:19:28",
   "batchesWithTooManyImages" : { },
   "name" : "Deutschland, Sachsen—Volkszählungslisten, 1770–1934",
   "state" : "ACTIVE"
@@ -3489,19 +3489,19 @@
   "auditBatchCount" : 138,
   "imageCount" : 8590,
   "blockedCount" : 183,
-  "iesAuditBatchCount" : 100,
+  "iesAuditBatchCount" : 101,
   "iesCountsNoAudit" : {
     "imagesetCount" : 28,
-    "batchCount" : 2061,
-    "images" : 6332,
-    "recordCount" : 11478
+    "batchCount" : 2062,
+    "images" : 6335,
+    "recordCount" : 11490
   },
   "exportStateCounts" : {
-    "accepted" : 3760,
+    "accepted" : 3763,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 1920,
-    "audit" : 300,
+    "audit" : 303,
     "blocked" : 183,
     "duplicate" : 0,
     "ned" : 468,
@@ -3517,7 +3517,7 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 12,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -3530,7 +3530,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:22:00",
+  "dateTimeFetched" : "2020-04-11 11:19:18",
   "batchesWithTooManyImages" : { },
   "name" : "Polska, Diecezja Lubelska — Księgi metrykalne kościoła rzymskokatolickiego, 1901–1950 [Część 5]",
   "state" : "ACTIVE"
@@ -4520,43 +4520,43 @@
     "imagesetCount" : 200,
     "batchCount" : 2114,
     "images" : 22976,
-    "recordCount" : 15742
+    "recordCount" : 16278
   },
   "exportStateCounts" : {
-    "accepted" : 12335,
+    "accepted" : 12738,
     "exported" : 3,
     "failed" : 0,
-    "inProgress" : 3893,
+    "inProgress" : 3397,
     "audit" : 905,
     "blocked" : 4215,
     "duplicate" : 57,
-    "ned" : 2462,
+    "ned" : 2553,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 11
+    "noPersonas" : 12
   },
   "exportStateDiffs" : {
-    "accepted" : 269,
+    "accepted" : 403,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -348,
+    "inProgress" : -496,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 3,
-    "ned" : 76,
+    "duplicate" : 0,
+    "ned" : 91,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 1
   },
-  "dateTimeFetched" : "2020-04-09 20:44:53",
+  "dateTimeFetched" : "2020-04-11 10:45:21",
   "batchesWithTooManyImages" : { },
   "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte F]",
   "state" : "ACTIVE"
@@ -5258,21 +5258,21 @@
   "auditBatchCount" : 5757,
   "imageCount" : 622928,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 128,
+  "iesAuditBatchCount" : 131,
   "iesCountsNoAudit" : {
     "imagesetCount" : 500,
     "batchCount" : 115055,
     "images" : 622928,
-    "recordCount" : 9483
+    "recordCount" : 9606
   },
   "exportStateCounts" : {
-    "accepted" : 7724,
+    "accepted" : 7817,
     "exported" : 9,
     "failed" : 0,
-    "inProgress" : 546146,
-    "audit" : 635,
+    "inProgress" : 546051,
+    "audit" : 650,
     "blocked" : 455837,
-    "duplicate" : 96,
+    "duplicate" : 98,
     "ned" : 124,
     "unreadable" : 0,
     "notExported" : 0,
@@ -5283,14 +5283,14 @@
     "noPersonas" : 5
   },
   "exportStateDiffs" : {
-    "accepted" : 66,
+    "accepted" : 93,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -70,
-    "audit" : 5,
+    "inProgress" : -95,
+    "audit" : 15,
     "blocked" : 0,
-    "duplicate" : 3,
-    "ned" : 1,
+    "duplicate" : 2,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -5299,7 +5299,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:11:52",
+  "dateTimeFetched" : "2020-04-11 11:14:54",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Antenati Italiani), Caserta—Civil Registration, 1809–1865 [Part A]",
   "state" : "ACTIVE"
@@ -5714,19 +5714,19 @@
   "auditBatchCount" : 472,
   "imageCount" : 10911,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 227,
+  "iesAuditBatchCount" : 234,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
     "batchCount" : 9469,
     "images" : 10911,
-    "recordCount" : 168983
+    "recordCount" : 173763
   },
   "exportStateCounts" : {
-    "accepted" : 4225,
+    "accepted" : 4350,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 5243,
-    "audit" : 227,
+    "inProgress" : 5118,
+    "audit" : 234,
     "blocked" : 1442,
     "duplicate" : 0,
     "ned" : 1,
@@ -5743,7 +5743,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : -125,
-    "audit" : 3,
+    "audit" : 7,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -5755,7 +5755,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:35:31",
+  "dateTimeFetched" : "2020-04-11 10:34:44",
   "batchesWithTooManyImages" : { },
   "name" : "US, Oregon—Marriage Records, 1750–1990 [Part D]",
   "state" : "ACTIVE"
@@ -6341,19 +6341,19 @@
   "auditBatchCount" : 2746,
   "imageCount" : 62154,
   "blockedCount" : 7029,
-  "iesAuditBatchCount" : 1122,
+  "iesAuditBatchCount" : 1137,
   "iesCountsNoAudit" : {
     "imagesetCount" : 40,
-    "batchCount" : 22475,
-    "images" : 29518,
-    "recordCount" : 171399
+    "batchCount" : 22824,
+    "images" : 29868,
+    "recordCount" : 171844
   },
   "exportStateCounts" : {
-    "accepted" : 14106,
+    "accepted" : 14149,
     "exported" : 11,
     "failed" : 0,
-    "inProgress" : 8072,
-    "audit" : 1124,
+    "inProgress" : 8379,
+    "audit" : 1139,
     "blocked" : 7029,
     "duplicate" : 0,
     "ned" : 300,
@@ -6366,14 +6366,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 23,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 235,
-    "audit" : 18,
+    "inProgress" : 3,
+    "audit" : 2,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 1,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -6382,7 +6382,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:21:51",
+  "dateTimeFetched" : "2020-04-11 11:19:10",
   "batchesWithTooManyImages" : { },
   "name" : "Украина, Запорожье—Ревизские сказки, 1811–1858 [Часть А]",
   "state" : "ACTIVE"
@@ -6667,7 +6667,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:36:36",
+  "dateTimeFetched" : "2020-04-11 10:35:55",
   "batchesWithTooManyImages" : { },
   "name" : "Portugal, Porto—Registros da Igreja Católica [Parte D]",
   "state" : "ACTIVE"
@@ -7196,48 +7196,48 @@
   "auditBatchCount" : 2439,
   "imageCount" : 220125,
   "blockedCount" : 19486,
-  "iesAuditBatchCount" : 820,
+  "iesAuditBatchCount" : 829,
   "iesCountsNoAudit" : {
     "imagesetCount" : 199,
-    "batchCount" : 16781,
-    "images" : 92210,
-    "recordCount" : 175204
+    "batchCount" : 16889,
+    "images" : 92700,
+    "recordCount" : 176454
   },
   "exportStateCounts" : {
-    "accepted" : 58965,
+    "accepted" : 59431,
     "exported" : 4316,
     "failed" : 0,
-    "inProgress" : 2838,
-    "audit" : 3438,
+    "inProgress" : 2871,
+    "audit" : 3478,
     "blocked" : 21769,
-    "duplicate" : 303,
-    "ned" : 3266,
+    "duplicate" : 306,
+    "ned" : 3250,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 376,
+    "rejected" : 384,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 377
+    "noPersonas" : 373
   },
   "exportStateDiffs" : {
-    "accepted" : 365,
+    "accepted" : 466,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -98,
-    "audit" : 10,
+    "inProgress" : 33,
+    "audit" : 40,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : -9,
+    "duplicate" : 3,
+    "ned" : -16,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 3,
+    "rejected" : 8,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 2
+    "noPersonas" : -4
   },
-  "dateTimeFetched" : "2020-04-09 21:04:13",
+  "dateTimeFetched" : "2020-04-11 11:06:27",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, Paraná—Civil Registration, 1852–1996 [Part A2]",
   "state" : "ACTIVE"
@@ -7351,7 +7351,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:43:28",
+  "dateTimeFetched" : "2020-04-11 10:43:44",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York—U.S. District Court Naturalization Records, Southern District, 1824–1946 [Part I]",
   "state" : "ACTIVE"
@@ -7737,8 +7737,8 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 7566,
-    "audit" : 423,
+    "inProgress" : 0,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -7750,7 +7750,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:51:11",
+  "dateTimeFetched" : "2020-04-11 10:52:15",
   "batchesWithTooManyImages" : { },
   "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie D]",
   "state" : "ACTIVE"
@@ -8054,18 +8054,18 @@
   "iesAuditBatchCount" : 107,
   "iesCountsNoAudit" : {
     "imagesetCount" : 8,
-    "batchCount" : 2170,
-    "images" : 4773,
-    "recordCount" : 49172
+    "batchCount" : 2174,
+    "images" : 4781,
+    "recordCount" : 49294
   },
   "exportStateCounts" : {
-    "accepted" : 3461,
+    "accepted" : 3468,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 183,
     "blocked" : 1067,
-    "duplicate" : 33,
+    "duplicate" : 34,
     "ned" : 160,
     "unreadable" : 0,
     "notExported" : 0,
@@ -8076,13 +8076,13 @@
     "noPersonas" : 4
   },
   "exportStateDiffs" : {
-    "accepted" : 6,
+    "accepted" : 7,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -4,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
+    "duplicate" : 1,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -8092,7 +8092,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:53:58",
+  "dateTimeFetched" : "2020-04-11 10:55:07",
   "batchesWithTooManyImages" : { },
   "name" : "US, Hawaii—Island Census Records, 1878–1896",
   "state" : "ACTIVE"
@@ -8284,43 +8284,43 @@
     "imagesetCount" : 376,
     "batchCount" : 13075,
     "images" : 62697,
-    "recordCount" : 81448
+    "recordCount" : 84367
   },
   "exportStateCounts" : {
-    "accepted" : 41525,
+    "accepted" : 43150,
     "exported" : 11,
     "failed" : 0,
-    "inProgress" : 7771,
+    "inProgress" : 6108,
     "audit" : 2490,
     "blocked" : 12583,
-    "duplicate" : 23,
-    "ned" : 636,
+    "duplicate" : 24,
+    "ned" : 656,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 101,
+    "rejected" : 110,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 47
+    "noPersonas" : 55
   },
   "exportStateDiffs" : {
-    "accepted" : 848,
+    "accepted" : 1625,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -863,
+    "inProgress" : -1663,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 9,
+    "duplicate" : 1,
+    "ned" : 20,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 6,
+    "rejected" : 9,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 8
   },
-  "dateTimeFetched" : "2020-04-09 21:10:57",
+  "dateTimeFetched" : "2020-04-11 11:13:51",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Entre Ríos—Civil Registration, 1860–1965 [Part F]",
   "state" : "ACTIVE"
@@ -9405,7 +9405,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:32:12",
+  "dateTimeFetched" : "2020-04-11 10:30:42",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa—Dutch Reformed Church in Africa, Baptism and Membership Records, 1838–1991 [Part B]",
   "state" : "ACTIVE"
@@ -10167,17 +10167,17 @@
     "imagesetCount" : 487,
     "batchCount" : 26053,
     "images" : 119782,
-    "recordCount" : 34077
+    "recordCount" : 34197
   },
   "exportStateCounts" : {
-    "accepted" : 24272,
+    "accepted" : 24344,
     "exported" : 2921,
     "failed" : 0,
-    "inProgress" : 40362,
+    "inProgress" : 40293,
     "audit" : 5164,
     "blocked" : 16360,
     "duplicate" : 1371,
-    "ned" : 34408,
+    "ned" : 34405,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -10187,14 +10187,14 @@
     "noPersonas" : 76
   },
   "exportStateDiffs" : {
-    "accepted" : 71,
+    "accepted" : 72,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -71,
+    "inProgress" : -69,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : -1,
-    "ned" : 1,
+    "duplicate" : 0,
+    "ned" : -3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -10203,7 +10203,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:48:11",
+  "dateTimeFetched" : "2020-04-11 10:48:56",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Corrientes—Registro Civil, 1880–1930 [Parte D]",
   "state" : "ACTIVE"
@@ -10276,19 +10276,19 @@
   "auditBatchCount" : 174,
   "imageCount" : 15017,
   "blockedCount" : 851,
-  "iesAuditBatchCount" : 87,
+  "iesAuditBatchCount" : 88,
   "iesCountsNoAudit" : {
     "imagesetCount" : 97,
-    "batchCount" : 1758,
-    "images" : 7924,
-    "recordCount" : 1232
+    "batchCount" : 1764,
+    "images" : 7948,
+    "recordCount" : 1255
   },
   "exportStateCounts" : {
-    "accepted" : 427,
+    "accepted" : 435,
     "exported" : 15,
     "failed" : 0,
-    "inProgress" : 6585,
-    "audit" : 357,
+    "inProgress" : 6601,
+    "audit" : 361,
     "blocked" : 851,
     "duplicate" : 39,
     "ned" : 6,
@@ -10301,11 +10301,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 8,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 16,
-    "audit" : 0,
+    "audit" : 4,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -10317,7 +10317,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:35:22",
+  "dateTimeFetched" : "2020-04-11 10:34:32",
   "batchesWithTooManyImages" : { },
   "name" : "Česká Republika, Třeboň—Matriky, 1884–1935 [část C]",
   "state" : "ACTIVE"
@@ -11480,17 +11480,17 @@
     "imagesetCount" : 87,
     "batchCount" : 36567,
     "images" : 63159,
-    "recordCount" : 372900
+    "recordCount" : 372925
   },
   "exportStateCounts" : {
-    "accepted" : 57733,
+    "accepted" : 57741,
     "exported" : 473,
     "failed" : 0,
-    "inProgress" : 44,
+    "inProgress" : 38,
     "audit" : 2972,
     "blocked" : 3312,
     "duplicate" : 452,
-    "ned" : 963,
+    "ned" : 961,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -11500,23 +11500,23 @@
     "noPersonas" : 43
   },
   "exportStateDiffs" : {
-    "accepted" : 23,
+    "accepted" : 8,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -20,
+    "inProgress" : -6,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : -5,
+    "duplicate" : 0,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:38:08",
+  "dateTimeFetched" : "2020-04-11 10:37:39",
   "batchesWithTooManyImages" : { },
   "name" : "Bolivia, Diócesis de Cochabamba—Registros Parroquiales, 1609–1957 [Parte G]",
   "state" : "ACTIVE"
@@ -12159,19 +12159,19 @@
   "auditBatchCount" : 132,
   "imageCount" : 14896,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 92,
+  "iesAuditBatchCount" : 94,
   "iesCountsNoAudit" : {
     "imagesetCount" : 164,
     "batchCount" : 2804,
     "images" : 14896,
-    "recordCount" : 10277
+    "recordCount" : 10300
   },
   "exportStateCounts" : {
-    "accepted" : 4119,
+    "accepted" : 4142,
     "exported" : 1974,
     "failed" : 0,
-    "inProgress" : 7209,
-    "audit" : 468,
+    "inProgress" : 7186,
+    "audit" : 475,
     "blocked" : 653,
     "duplicate" : 1,
     "ned" : 934,
@@ -12184,11 +12184,11 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 6,
+    "accepted" : 23,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -6,
-    "audit" : 0,
+    "inProgress" : -23,
+    "audit" : 7,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -12200,7 +12200,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:12:45",
+  "dateTimeFetched" : "2020-04-11 11:15:56",
   "batchesWithTooManyImages" : { },
   "name" : "Cape Verde—Catholic Church Records, 1834–1946 [Part C]",
   "state" : "ACTIVE"
@@ -12611,52 +12611,52 @@
     "state" : "ACTIVE"
   },
   "imagesetCount" : 217,
-  "batchCount" : 22929,
+  "batchCount" : 22920,
   "auditBatchCount" : 1090,
   "imageCount" : 150504,
   "blockedCount" : 64144,
   "iesAuditBatchCount" : 1057,
   "iesCountsNoAudit" : {
     "imagesetCount" : 217,
-    "batchCount" : 21147,
-    "images" : 149256,
-    "recordCount" : 49639
+    "batchCount" : 21169,
+    "images" : 149340,
+    "recordCount" : 57575
   },
   "exportStateCounts" : {
-    "accepted" : 43277,
+    "accepted" : 51000,
     "exported" : 37,
     "failed" : 0,
-    "inProgress" : 30093,
+    "inProgress" : 21665,
     "audit" : 4162,
     "blocked" : 65773,
-    "duplicate" : 250,
-    "ned" : 9644,
+    "duplicate" : 271,
+    "ned" : 10386,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 11,
+    "rejected" : 12,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 171
+    "noPersonas" : 196
   },
   "exportStateDiffs" : {
-    "accepted" : 4856,
+    "accepted" : 7723,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -5386,
-    "audit" : 12,
+    "inProgress" : -8428,
+    "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 17,
-    "ned" : 639,
+    "duplicate" : 21,
+    "ned" : 742,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 33
+    "noPersonas" : 25
   },
-  "dateTimeFetched" : "2020-04-09 21:02:33",
+  "dateTimeFetched" : "2020-04-11 11:04:36",
   "batchesWithTooManyImages" : { },
   "name" : "US, Alaska—Naturalizations, 1884–1991",
   "state" : "ACTIVE"
@@ -13014,20 +13014,37 @@
   "auditBatchCount" : 99,
   "imageCount" : 2452,
   "blockedCount" : 481,
-  "iesAuditBatchCount" : 30,
+  "iesAuditBatchCount" : 42,
   "iesCountsNoAudit" : {
     "imagesetCount" : 5,
-    "batchCount" : 1955,
-    "images" : 2307,
-    "recordCount" : 3066
+    "batchCount" : 1958,
+    "images" : 2310,
+    "recordCount" : 3722
   },
   "exportStateCounts" : {
-    "accepted" : 237,
+    "accepted" : 330,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1714,
-    "audit" : 30,
+    "inProgress" : 1620,
+    "audit" : 42,
     "blocked" : 352,
+    "duplicate" : 0,
+    "ned" : 6,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 2,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 93,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : -94,
+    "audit" : 12,
+    "blocked" : 0,
     "duplicate" : 0,
     "ned" : 3,
     "unreadable" : 0,
@@ -13038,24 +13055,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "exportStateDiffs" : {
-    "accepted" : 52,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : -48,
-    "audit" : 11,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 1,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2020-04-09 21:09:34",
+  "dateTimeFetched" : "2020-04-11 11:12:16",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Gerona—Burial Records, 1864–1958",
   "state" : "ACTIVE"
@@ -14211,19 +14211,19 @@
   "auditBatchCount" : 321,
   "imageCount" : 8423,
   "blockedCount" : 2026,
-  "iesAuditBatchCount" : 288,
+  "iesAuditBatchCount" : 292,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
-    "batchCount" : 5797,
-    "images" : 7824,
-    "recordCount" : 311986
+    "batchCount" : 5834,
+    "images" : 7861,
+    "recordCount" : 312863
   },
   "exportStateCounts" : {
-    "accepted" : 5135,
+    "accepted" : 5152,
     "exported" : 337,
     "failed" : 0,
-    "inProgress" : 310,
-    "audit" : 288,
+    "inProgress" : 330,
+    "audit" : 292,
     "blocked" : 2026,
     "duplicate" : 0,
     "ned" : 14,
@@ -14236,11 +14236,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 18,
+    "accepted" : 17,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 7,
-    "audit" : 2,
+    "inProgress" : 20,
+    "audit" : 4,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -14252,7 +14252,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:03:51",
+  "dateTimeFetched" : "2020-04-11 11:06:01",
   "batchesWithTooManyImages" : { },
   "name" : "France, Marne—Recensement de 1856",
   "state" : "ACTIVE"
@@ -14382,22 +14382,22 @@
   "auditBatchCount" : 1691,
   "imageCount" : 147245,
   "blockedCount" : 11946,
-  "iesAuditBatchCount" : 1633,
+  "iesAuditBatchCount" : 1643,
   "iesCountsNoAudit" : {
     "imagesetCount" : 399,
     "batchCount" : 33729,
     "images" : 143650,
-    "recordCount" : 15846
+    "recordCount" : 16362
   },
   "exportStateCounts" : {
-    "accepted" : 10412,
+    "accepted" : 10727,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 123290,
-    "audit" : 6499,
+    "inProgress" : 122952,
+    "audit" : 6539,
     "blocked" : 9437,
     "duplicate" : 22,
-    "ned" : 459,
+    "ned" : 482,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -14407,14 +14407,14 @@
     "noPersonas" : 15
   },
   "exportStateDiffs" : {
-    "accepted" : 218,
+    "accepted" : 315,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -256,
-    "audit" : 13,
+    "inProgress" : -338,
+    "audit" : 40,
     "blocked" : 0,
-    "duplicate" : 2,
-    "ned" : 36,
+    "duplicate" : 0,
+    "ned" : 23,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -14423,7 +14423,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:04:53",
+  "dateTimeFetched" : "2020-04-11 11:07:12",
   "batchesWithTooManyImages" : { },
   "name" : "Guatemala—Civil Registration, 1885–2009 [Part H]",
   "state" : "ACTIVE"
@@ -14594,7 +14594,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:09:12",
+  "dateTimeFetched" : "2020-04-11 11:11:51",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BN]",
   "state" : "ACTIVE"
@@ -14765,7 +14765,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:23:02",
+  "dateTimeFetched" : "2020-04-11 10:21:01",
   "batchesWithTooManyImages" : { },
   "name" : "Austria, Carinthia, Gurk—Church Records, 1527–1986 [Part C]",
   "state" : "ACTIVE"
@@ -14980,8 +14980,8 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1214,
-    "audit" : 61,
+    "inProgress" : 0,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -14993,7 +14993,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:34:38",
+  "dateTimeFetched" : "2020-04-11 10:33:36",
   "batchesWithTooManyImages" : { },
   "name" : "Suisse, Fribourg, Recensement de 1850",
   "state" : "ACTIVE"
@@ -16325,22 +16325,22 @@
   "auditBatchCount" : 7,
   "imageCount" : 661,
   "blockedCount" : 281,
-  "iesAuditBatchCount" : 3,
+  "iesAuditBatchCount" : 6,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 13,
-    "batchCount" : 47,
-    "images" : 218,
-    "recordCount" : 25
+    "imagesetCount" : 16,
+    "batchCount" : 76,
+    "images" : 342,
+    "recordCount" : 167
   },
   "exportStateCounts" : {
-    "accepted" : 25,
+    "accepted" : 167,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 193,
-    "audit" : 13,
+    "inProgress" : 173,
+    "audit" : 25,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -16350,14 +16350,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 142,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
+    "inProgress" : -20,
+    "audit" : 12,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -16366,7 +16366,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:49:50",
+  "dateTimeFetched" : "2020-04-11 10:50:48",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Benevento—Matrimoni, 1810–1942 [Parte G]",
   "state" : "ACTIVE"
@@ -16838,22 +16838,22 @@
   "auditBatchCount" : 205,
   "imageCount" : 9037,
   "blockedCount" : 4462,
-  "iesAuditBatchCount" : 73,
+  "iesAuditBatchCount" : 76,
   "iesCountsNoAudit" : {
     "imagesetCount" : 250,
-    "batchCount" : 1585,
-    "images" : 6099,
-    "recordCount" : 25329
+    "batchCount" : 1623,
+    "images" : 6145,
+    "recordCount" : 26237
   },
   "exportStateCounts" : {
-    "accepted" : 956,
-    "exported" : 202,
+    "accepted" : 957,
+    "exported" : 243,
     "failed" : 0,
-    "inProgress" : 477,
-    "audit" : 73,
+    "inProgress" : 480,
+    "audit" : 76,
     "blocked" : 4462,
     "duplicate" : 0,
-    "ned" : 2,
+    "ned" : 3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -16863,14 +16863,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 15,
+    "accepted" : 1,
+    "exported" : 41,
     "failed" : 0,
-    "inProgress" : 15,
-    "audit" : 1,
+    "inProgress" : 3,
+    "audit" : 3,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -16879,7 +16879,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:04:00",
+  "dateTimeFetched" : "2020-04-11 11:06:12",
   "batchesWithTooManyImages" : { },
   "name" : "Norway, Oslo—Census, 1901",
   "state" : "ACTIVE"
@@ -18263,48 +18263,48 @@
   "auditBatchCount" : 3487,
   "imageCount" : 386965,
   "blockedCount" : 50470,
-  "iesAuditBatchCount" : 2349,
+  "iesAuditBatchCount" : 2359,
   "iesCountsNoAudit" : {
     "imagesetCount" : 290,
-    "batchCount" : 46845,
-    "images" : 280142,
-    "recordCount" : 328096
+    "batchCount" : 47073,
+    "images" : 280900,
+    "recordCount" : 330553
   },
   "exportStateCounts" : {
-    "accepted" : 209375,
+    "accepted" : 211218,
     "exported" : 6997,
     "failed" : 0,
-    "inProgress" : 11207,
-    "audit" : 11525,
+    "inProgress" : 10109,
+    "audit" : 11563,
     "blocked" : 50470,
-    "duplicate" : 1245,
-    "ned" : 822,
+    "duplicate" : 1255,
+    "ned" : 824,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 20,
+    "rejected" : 21,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 6
   },
   "exportStateDiffs" : {
-    "accepted" : 1228,
+    "accepted" : 1843,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -493,
-    "audit" : 41,
+    "inProgress" : -1098,
+    "audit" : 38,
     "blocked" : 0,
-    "duplicate" : 7,
-    "ned" : 1,
+    "duplicate" : 10,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:44:11",
+  "dateTimeFetched" : "2020-04-11 10:44:32",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri—County Marriages, 1806–1969 [Part K]",
   "state" : "ACTIVE"
@@ -18475,7 +18475,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:02:48",
+  "dateTimeFetched" : "2020-04-11 11:04:51",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BF]",
   "state" : "ACTIVE"
@@ -18491,48 +18491,48 @@
   "auditBatchCount" : 437,
   "imageCount" : 19096,
   "blockedCount" : 1478,
-  "iesAuditBatchCount" : 414,
+  "iesAuditBatchCount" : 415,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
-    "batchCount" : 8240,
-    "images" : 18112,
-    "recordCount" : 16593
+    "batchCount" : 8278,
+    "images" : 18188,
+    "recordCount" : 16799
   },
   "exportStateCounts" : {
-    "accepted" : 4050,
+    "accepted" : 4104,
     "exported" : 56,
     "failed" : 0,
-    "inProgress" : 11664,
-    "audit" : 834,
+    "inProgress" : 11688,
+    "audit" : 836,
     "blocked" : 1478,
-    "duplicate" : 93,
-    "ned" : 763,
+    "duplicate" : 95,
+    "ned" : 758,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 4,
+    "rejected" : 5,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 4
   },
   "exportStateDiffs" : {
-    "accepted" : 22,
+    "accepted" : 54,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 224,
-    "audit" : 20,
+    "inProgress" : 24,
+    "audit" : 2,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 2,
+    "ned" : -5,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:43:37",
+  "dateTimeFetched" : "2020-04-11 10:43:55",
   "batchesWithTooManyImages" : { },
   "name" : "Panama—Registros Parroquiales, 1748–1972 [Parte E]",
   "state" : "ACTIVE"
@@ -18817,7 +18817,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:22:53",
+  "dateTimeFetched" : "2020-04-11 10:20:49",
   "batchesWithTooManyImages" : { },
   "name" : "QA Internal Test Old Admin WAF fixes",
   "state" : "ACTIVE"
@@ -19121,15 +19121,15 @@
   "iesAuditBatchCount" : 5,
   "iesCountsNoAudit" : {
     "imagesetCount" : 11,
-    "batchCount" : 6156,
-    "images" : 6621,
-    "recordCount" : 70
+    "batchCount" : 6159,
+    "images" : 6624,
+    "recordCount" : 157
   },
   "exportStateCounts" : {
-    "accepted" : 6,
+    "accepted" : 14,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 6150,
+    "inProgress" : 6145,
     "audit" : 5,
     "blocked" : 465,
     "duplicate" : 0,
@@ -19143,11 +19143,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 4,
+    "accepted" : 8,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1,
-    "audit" : 1,
+    "inProgress" : -5,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -19159,7 +19159,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:53:24",
+  "dateTimeFetched" : "2020-04-11 10:54:30",
   "batchesWithTooManyImages" : { },
   "name" : "Slovensko, Prešov—štátny oblastný archív záznamov cirkvi, 1592–1935 [Časť D]",
   "state" : "ACTIVE"
@@ -19615,7 +19615,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:33:11",
+  "dateTimeFetched" : "2020-04-11 10:31:51",
   "batchesWithTooManyImages" : {
     "8C758E64-FE2B-415D-BEB0-CEF3B7225D76" : 385
   },
@@ -19636,45 +19636,45 @@
   "iesAuditBatchCount" : 432,
   "iesCountsNoAudit" : {
     "imagesetCount" : 58,
-    "batchCount" : 8637,
-    "images" : 10924,
-    "recordCount" : 343774
+    "batchCount" : 8644,
+    "images" : 10931,
+    "recordCount" : 348090
   },
   "exportStateCounts" : {
     "accepted" : 6695,
     "exported" : 6,
     "failed" : 0,
-    "inProgress" : 1733,
+    "inProgress" : 1681,
     "audit" : 432,
     "blocked" : 2286,
     "duplicate" : 0,
-    "ned" : 186,
+    "ned" : 182,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 18
+    "noPersonas" : 81
   },
   "exportStateDiffs" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -12,
+    "inProgress" : -52,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -4,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 13
+    "noPersonas" : 63
   },
-  "dateTimeFetched" : "2020-04-09 21:01:46",
+  "dateTimeFetched" : "2020-04-11 11:03:33",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, Central Region—Index to Land Records, Grantors, 1630-1975 [Part G]",
   "state" : "ACTIVE"
@@ -19866,34 +19866,34 @@
     "imagesetCount" : 126,
     "batchCount" : 38800,
     "images" : 92073,
-    "recordCount" : 215202
+    "recordCount" : 217636
   },
   "exportStateCounts" : {
-    "accepted" : 40225,
+    "accepted" : 40670,
     "exported" : 871,
     "failed" : 0,
-    "inProgress" : 23824,
+    "inProgress" : 23411,
     "audit" : 3713,
     "blocked" : 17915,
-    "duplicate" : 560,
-    "ned" : 8597,
+    "duplicate" : 561,
+    "ned" : 8563,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 45,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 36
+    "noPersonas" : 37
   },
   "exportStateDiffs" : {
-    "accepted" : 131,
+    "accepted" : 445,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -124,
+    "inProgress" : -413,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : -8,
+    "duplicate" : 1,
+    "ned" : -34,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -19902,7 +19902,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 1
   },
-  "dateTimeFetched" : "2020-04-09 20:40:19",
+  "dateTimeFetched" : "2020-04-11 10:40:13",
   "batchesWithTooManyImages" : { },
   "name" : "Honduras—Registros de la Iglesia Catolica, 1694–1979",
   "state" : "ACTIVE"
@@ -20146,39 +20146,39 @@
   "auditBatchCount" : 2381,
   "imageCount" : 96842,
   "blockedCount" : 3557,
-  "iesAuditBatchCount" : 2073,
+  "iesAuditBatchCount" : 2090,
   "iesCountsNoAudit" : {
     "imagesetCount" : 148,
-    "batchCount" : 41480,
-    "images" : 84692,
-    "recordCount" : 368534
+    "batchCount" : 41772,
+    "images" : 85280,
+    "recordCount" : 371596
   },
   "exportStateCounts" : {
-    "accepted" : 32375,
+    "accepted" : 32847,
     "exported" : 156,
     "failed" : 0,
-    "inProgress" : 31715,
-    "audit" : 4053,
+    "inProgress" : 31833,
+    "audit" : 4087,
     "blocked" : 3557,
     "duplicate" : 207,
-    "ned" : 281,
+    "ned" : 278,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 16391,
+    "rejected" : 16392,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 10
   },
   "exportStateDiffs" : {
-    "accepted" : 281,
+    "accepted" : 472,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 252,
-    "audit" : 25,
+    "inProgress" : 118,
+    "audit" : 34,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -1,
+    "ned" : -3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -20187,7 +20187,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:40:37",
+  "dateTimeFetched" : "2020-04-11 10:40:32",
   "batchesWithTooManyImages" : { },
   "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte D]",
   "state" : "ACTIVE"
@@ -21343,19 +21343,19 @@
   "auditBatchCount" : 1668,
   "imageCount" : 49064,
   "blockedCount" : 11842,
-  "iesAuditBatchCount" : 238,
+  "iesAuditBatchCount" : 240,
   "iesCountsNoAudit" : {
     "imagesetCount" : 44,
-    "batchCount" : 4794,
-    "images" : 17247,
-    "recordCount" : 31101
+    "batchCount" : 4844,
+    "images" : 17321,
+    "recordCount" : 31494
   },
   "exportStateCounts" : {
-    "accepted" : 1718,
+    "accepted" : 1735,
     "exported" : 77,
     "failed" : 0,
-    "inProgress" : 3050,
-    "audit" : 252,
+    "inProgress" : 3107,
+    "audit" : 254,
     "blocked" : 11842,
     "duplicate" : 1,
     "ned" : 559,
@@ -21368,14 +21368,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 9,
+    "accepted" : 17,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 18,
-    "audit" : 5,
+    "inProgress" : 57,
+    "audit" : 2,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 1,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -21384,7 +21384,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:37:04",
+  "dateTimeFetched" : "2020-04-11 10:36:28",
   "batchesWithTooManyImages" : { },
   "name" : "Deutschland, Preußen, Sachsen—Volkszählungen, 1770–1934 [Teil A]",
   "state" : "ACTIVE"
@@ -21441,7 +21441,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:54:43",
+  "dateTimeFetched" : "2020-04-11 10:55:53",
   "batchesWithTooManyImages" : { },
   "name" : "US, Indiana—County Marriages, 1811–2007 [Part K]",
   "state" : "ACTIVE"
@@ -21612,7 +21612,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:51:48",
+  "dateTimeFetched" : "2020-04-11 10:52:56",
   "batchesWithTooManyImages" : { },
   "name" : "US, Puerto Rico—Naturalization Records, 1901–1981 [Part E]",
   "state" : "ACTIVE"
@@ -21885,7 +21885,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 1,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -21897,7 +21897,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:09:55",
+  "dateTimeFetched" : "2020-04-11 11:12:42",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Province of Gerona—Electoral Census Part 3, 1904–1931",
   "state" : "ACTIVE"
@@ -22068,7 +22068,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:42:42",
+  "dateTimeFetched" : "2020-04-11 10:42:52",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Salta—Registros de la Iglesia Católica, 1673–1972",
   "state" : "ACTIVE"
@@ -23281,19 +23281,19 @@
   "auditBatchCount" : 1867,
   "imageCount" : 43832,
   "blockedCount" : 6635,
-  "iesAuditBatchCount" : 198,
+  "iesAuditBatchCount" : 201,
   "iesCountsNoAudit" : {
     "imagesetCount" : 100,
-    "batchCount" : 3933,
-    "images" : 10568,
-    "recordCount" : 13553
+    "batchCount" : 3960,
+    "images" : 10595,
+    "recordCount" : 13844
   },
   "exportStateCounts" : {
-    "accepted" : 3734,
+    "accepted" : 3768,
     "exported" : 69,
     "failed" : 0,
-    "inProgress" : 34,
-    "audit" : 198,
+    "inProgress" : 27,
+    "audit" : 201,
     "blocked" : 6635,
     "duplicate" : 0,
     "ned" : 96,
@@ -23306,11 +23306,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 3,
+    "accepted" : 34,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 4,
-    "audit" : 0,
+    "inProgress" : -7,
+    "audit" : 3,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -23322,7 +23322,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:38:46",
+  "dateTimeFetched" : "2020-04-11 10:38:19",
   "batchesWithTooManyImages" : { },
   "name" : "België, (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel E]",
   "state" : "ACTIVE"
@@ -23400,17 +23400,17 @@
     "imagesetCount" : 142,
     "batchCount" : 9738,
     "images" : 52924,
-    "recordCount" : 31002
+    "recordCount" : 31302
   },
   "exportStateCounts" : {
-    "accepted" : 19542,
+    "accepted" : 19747,
     "exported" : 611,
     "failed" : 0,
-    "inProgress" : 24398,
+    "inProgress" : 24192,
     "audit" : 2398,
     "blocked" : 4893,
-    "duplicate" : 158,
-    "ned" : 3284,
+    "duplicate" : 157,
+    "ned" : 3286,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -23420,23 +23420,23 @@
     "noPersonas" : 27
   },
   "exportStateDiffs" : {
-    "accepted" : 215,
+    "accepted" : 205,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -220,
+    "inProgress" : -206,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 4,
+    "duplicate" : -1,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:35:43",
+  "dateTimeFetched" : "2020-04-11 10:34:59",
   "batchesWithTooManyImages" : { },
   "name" : "Guatemala (Lote rápido)—Registros Civiles, 1885–2009 [Parte F]",
   "state" : "ACTIVE"
@@ -23851,22 +23851,22 @@
   "auditBatchCount" : 1622,
   "imageCount" : 173542,
   "blockedCount" : 11596,
-  "iesAuditBatchCount" : 557,
+  "iesAuditBatchCount" : 559,
   "iesCountsNoAudit" : {
     "imagesetCount" : 36,
-    "batchCount" : 11668,
-    "images" : 69884,
-    "recordCount" : 33153
+    "batchCount" : 11697,
+    "images" : 70029,
+    "recordCount" : 33283
   },
   "exportStateCounts" : {
-    "accepted" : 18885,
+    "accepted" : 18938,
     "exported" : 314,
     "failed" : 0,
-    "inProgress" : 31061,
-    "audit" : 2780,
+    "inProgress" : 31158,
+    "audit" : 2790,
     "blocked" : 11596,
     "duplicate" : 369,
-    "ned" : 7659,
+    "ned" : 7654,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -23876,10 +23876,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 30,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 40,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -23892,7 +23892,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:21:37",
+  "dateTimeFetched" : "2020-04-11 11:18:59",
   "batchesWithTooManyImages" : { },
   "name" : "Deutschland, Sachsen – Kirchenbuchverzeichnisse, 1600–1900",
   "state" : "ACTIVE"
@@ -23933,10 +23933,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 1,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -1,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -23949,7 +23949,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:40:52",
+  "dateTimeFetched" : "2020-04-11 10:40:47",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York—Index to Land Records, Grantors, 1630-1975 [Part A]",
   "state" : "ACTIVE"
@@ -24006,7 +24006,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:51:00",
+  "dateTimeFetched" : "2020-04-11 10:52:04",
   "batchesWithTooManyImages" : { },
   "name" : "Colombia—Registros de la Iglesia Católica, 1693–2010 [Parte B]",
   "state" : "ACTIVE"
@@ -24307,21 +24307,21 @@
   "auditBatchCount" : 1952,
   "imageCount" : 164714,
   "blockedCount" : 10265,
-  "iesAuditBatchCount" : 608,
+  "iesAuditBatchCount" : 612,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
-    "batchCount" : 12184,
-    "images" : 57917,
-    "recordCount" : 180806
+    "batchCount" : 12245,
+    "images" : 58161,
+    "recordCount" : 181808
   },
   "exportStateCounts" : {
-    "accepted" : 33669,
+    "accepted" : 33856,
     "exported" : 1397,
     "failed" : 0,
-    "inProgress" : 12262,
-    "audit" : 2381,
+    "inProgress" : 12318,
+    "audit" : 2397,
     "blocked" : 10265,
-    "duplicate" : 212,
+    "duplicate" : 213,
     "ned" : 108,
     "unreadable" : 0,
     "notExported" : 0,
@@ -24332,23 +24332,23 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 204,
+    "accepted" : 187,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -27,
-    "audit" : 4,
+    "inProgress" : 56,
+    "audit" : 16,
     "blocked" : 0,
-    "duplicate" : 2,
+    "duplicate" : 1,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:34:30",
+  "dateTimeFetched" : "2020-04-11 10:33:26",
   "batchesWithTooManyImages" : { },
   "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, overlijdensakten, 1811–1950 [Deel D]",
   "state" : "ACTIVE"
@@ -24734,8 +24734,8 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 2563,
-    "audit" : 128,
+    "inProgress" : 0,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -24747,7 +24747,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-11 07:38:17",
+  "dateTimeFetched" : "2020-04-11 11:20:56",
   "batchesWithTooManyImages" : { },
   "name" : "US, Wisconsin—Birth Records, 1964–1980",
   "state" : "READY_FOR_DELIVERY"
@@ -24918,7 +24918,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:41:16",
+  "dateTimeFetched" : "2020-04-11 10:41:15",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa—Dutch Reformed Church in Africa, Baptism and Membership Records, 1838–1991 [Part C]",
   "state" : "ACTIVE"
@@ -25048,22 +25048,22 @@
   "auditBatchCount" : 541,
   "imageCount" : 182033,
   "blockedCount" : 74481,
-  "iesAuditBatchCount" : 149,
+  "iesAuditBatchCount" : 150,
   "iesCountsNoAudit" : {
     "imagesetCount" : 237,
-    "batchCount" : 2978,
-    "images" : 103803,
-    "recordCount" : 27917
+    "batchCount" : 3025,
+    "images" : 104270,
+    "recordCount" : 29031
   },
   "exportStateCounts" : {
-    "accepted" : 27903,
+    "accepted" : 29017,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1389,
-    "audit" : 1479,
+    "inProgress" : 740,
+    "audit" : 1489,
     "blocked" : 74481,
     "duplicate" : 29,
-    "ned" : 1,
+    "ned" : 3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -25073,14 +25073,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 433,
+    "accepted" : 1114,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 24,
-    "audit" : 20,
+    "inProgress" : -649,
+    "audit" : 10,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -25089,7 +25089,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:45:15",
+  "dateTimeFetched" : "2020-04-11 10:45:47",
   "batchesWithTooManyImages" : { },
   "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie C]",
   "state" : "ACTIVE"
@@ -25279,15 +25279,15 @@
   "iesAuditBatchCount" : 147,
   "iesCountsNoAudit" : {
     "imagesetCount" : 54,
-    "batchCount" : 2890,
-    "images" : 5240,
-    "recordCount" : 171909
+    "batchCount" : 2900,
+    "images" : 5250,
+    "recordCount" : 172807
   },
   "exportStateCounts" : {
-    "accepted" : 2496,
+    "accepted" : 2507,
     "exported" : 92,
     "failed" : 0,
-    "inProgress" : 114,
+    "inProgress" : 113,
     "audit" : 147,
     "blocked" : 2345,
     "duplicate" : 0,
@@ -25301,11 +25301,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 1,
+    "accepted" : 11,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 6,
-    "audit" : 1,
+    "inProgress" : -1,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -25317,7 +25317,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:29:31",
+  "dateTimeFetched" : "2020-04-11 10:27:42",
   "batchesWithTooManyImages" : { },
   "name" : "Suomi, Kuopio—Henkikirjat, 1809–1915 [Osa A]",
   "state" : "ACTIVE"
@@ -26305,15 +26305,15 @@
   "iesAuditBatchCount" : 105,
   "iesCountsNoAudit" : {
     "imagesetCount" : 99,
-    "batchCount" : 2200,
-    "images" : 12489,
+    "batchCount" : 2207,
+    "images" : 12496,
     "recordCount" : 7114
   },
   "exportStateCounts" : {
     "accepted" : 2029,
     "exported" : 23,
     "failed" : 0,
-    "inProgress" : 23,
+    "inProgress" : 30,
     "audit" : 105,
     "blocked" : 10276,
     "duplicate" : 1,
@@ -26327,10 +26327,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 15,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -12,
+    "inProgress" : 7,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -26343,7 +26343,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:34:13",
+  "dateTimeFetched" : "2020-04-11 10:33:05",
   "batchesWithTooManyImages" : { },
   "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part D]",
   "state" : "ACTIVE"
@@ -26571,7 +26571,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:39:33",
+  "dateTimeFetched" : "2020-04-11 10:39:22",
   "batchesWithTooManyImages" : { },
   "name" : "España, Lugo—Registros de la Iglesia Católica, 1537–1984 [Parte B]",
   "state" : "ACTIVE"
@@ -27157,48 +27157,48 @@
   "auditBatchCount" : 549,
   "imageCount" : 36684,
   "blockedCount" : 732,
-  "iesAuditBatchCount" : 343,
+  "iesAuditBatchCount" : 357,
   "iesCountsNoAudit" : {
     "imagesetCount" : 150,
-    "batchCount" : 7089,
-    "images" : 23098,
-    "recordCount" : 28844
+    "batchCount" : 7259,
+    "images" : 23752,
+    "recordCount" : 29820
   },
   "exportStateCounts" : {
-    "accepted" : 8471,
+    "accepted" : 8696,
     "exported" : 23,
     "failed" : 0,
-    "inProgress" : 13440,
-    "audit" : 1073,
+    "inProgress" : 13868,
+    "audit" : 1122,
     "blocked" : 732,
-    "duplicate" : 7,
-    "ned" : 359,
+    "duplicate" : 6,
+    "ned" : 356,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 61,
+    "rejected" : 63,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 5
+    "noPersonas" : 8
   },
   "exportStateDiffs" : {
-    "accepted" : 54,
+    "accepted" : 225,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 406,
-    "audit" : 22,
+    "inProgress" : 428,
+    "audit" : 49,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : -1,
+    "ned" : -3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 2,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 3
   },
-  "dateTimeFetched" : "2020-04-09 20:44:21",
+  "dateTimeFetched" : "2020-04-11 10:44:45",
   "batchesWithTooManyImages" : { },
   "name" : "Peru, Diocesis de Huacho—Parish Records, 1560–1952 [Part G]",
   "state" : "ACTIVE"
@@ -27331,15 +27331,15 @@
   "iesAuditBatchCount" : 182,
   "iesCountsNoAudit" : {
     "imagesetCount" : 23,
-    "batchCount" : 3690,
-    "images" : 6086,
-    "recordCount" : 101139
+    "batchCount" : 3694,
+    "images" : 6090,
+    "recordCount" : 101490
   },
   "exportStateCounts" : {
-    "accepted" : 2554,
+    "accepted" : 2563,
     "exported" : 82,
     "failed" : 0,
-    "inProgress" : 136,
+    "inProgress" : 131,
     "audit" : 182,
     "blocked" : 2391,
     "duplicate" : 0,
@@ -27353,10 +27353,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 9,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 11,
+    "inProgress" : -5,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -27369,7 +27369,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:46:30",
+  "dateTimeFetched" : "2020-04-11 10:47:09",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri—1876 State Census [Part B]",
   "state" : "ACTIVE"
@@ -27654,7 +27654,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:00:58",
+  "dateTimeFetched" : "2020-04-11 11:02:35",
   "batchesWithTooManyImages" : { },
   "name" : "US, Ohio—County Births, 1849–1985 [Part B]",
   "state" : "ACTIVE"
@@ -28281,7 +28281,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:05:36",
+  "dateTimeFetched" : "2020-04-11 11:07:56",
   "batchesWithTooManyImages" : { },
   "name" : "French Polynesia (Quick Batch)—Civil Registration, 1780–2002 [Part C]",
   "state" : "ACTIVE"
@@ -28395,7 +28395,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:08:09",
+  "dateTimeFetched" : "2020-04-11 11:10:34",
   "batchesWithTooManyImages" : { },
   "name" : "Chile—Cemetery Records, 1880–2015 [Part C]",
   "state" : "ACTIVE"
@@ -28696,22 +28696,22 @@
   "auditBatchCount" : 1929,
   "imageCount" : 188972,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 294,
+  "iesAuditBatchCount" : 300,
   "iesCountsNoAudit" : {
     "imagesetCount" : 399,
     "batchCount" : 38559,
     "images" : 188972,
-    "recordCount" : 10674
+    "recordCount" : 10731
   },
   "exportStateCounts" : {
-    "accepted" : 9815,
+    "accepted" : 9866,
     "exported" : 30,
     "failed" : 0,
-    "inProgress" : 158124,
-    "audit" : 1168,
+    "inProgress" : 158072,
+    "audit" : 1192,
     "blocked" : 150195,
     "duplicate" : 3,
-    "ned" : 616,
+    "ned" : 617,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -28721,14 +28721,14 @@
     "noPersonas" : 3
   },
   "exportStateDiffs" : {
-    "accepted" : 34,
+    "accepted" : 51,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -32,
-    "audit" : 16,
+    "inProgress" : -52,
+    "audit" : 24,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -2,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -28737,7 +28737,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:01:26",
+  "dateTimeFetched" : "2020-04-11 11:03:08",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Antenati Italiani), Genova—Civil Registration, 1866–1947 [Part B]",
   "state" : "ACTIVE"
@@ -29351,9 +29351,9 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 5,
+    "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 26,
+    "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -29364,7 +29364,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:00:09",
+  "dateTimeFetched" : "2020-04-11 11:01:37",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Verbano-Cusio-Ossola—Nati, 1875–1899 [Parte H]",
   "state" : "ACTIVE"
@@ -29494,19 +29494,19 @@
   "auditBatchCount" : 1736,
   "imageCount" : 40347,
   "blockedCount" : 5263,
-  "iesAuditBatchCount" : 1574,
+  "iesAuditBatchCount" : 1598,
   "iesCountsNoAudit" : {
     "imagesetCount" : 82,
-    "batchCount" : 31594,
-    "images" : 37122,
-    "recordCount" : 1752307
+    "batchCount" : 32065,
+    "images" : 37593,
+    "recordCount" : 1782186
   },
   "exportStateCounts" : {
-    "accepted" : 31295,
+    "accepted" : 31795,
     "exported" : 5,
     "failed" : 0,
-    "inProgress" : 347,
-    "audit" : 1585,
+    "inProgress" : 306,
+    "audit" : 1609,
     "blocked" : 5263,
     "duplicate" : 13,
     "ned" : 39,
@@ -29516,26 +29516,26 @@
     "rejected" : 65,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 95
+    "noPersonas" : 107
   },
   "exportStateDiffs" : {
-    "accepted" : 284,
+    "accepted" : 500,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 9,
-    "audit" : 17,
+    "inProgress" : -41,
+    "audit" : 24,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 6
+    "noPersonas" : 12
   },
-  "dateTimeFetched" : "2020-04-09 21:01:58",
+  "dateTimeFetched" : "2020-04-11 11:03:49",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, Western Regions—Index to Land Records, Grantee's, 1630-1975 [Part E]",
   "state" : "ACTIVE"
@@ -29611,19 +29611,19 @@
   "iesAuditBatchCount" : 108,
   "iesCountsNoAudit" : {
     "imagesetCount" : 419,
-    "batchCount" : 2234,
-    "images" : 17810,
-    "recordCount" : 18981
+    "batchCount" : 2237,
+    "images" : 17824,
+    "recordCount" : 19046
   },
   "exportStateCounts" : {
-    "accepted" : 10240,
+    "accepted" : 10279,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 57,
+    "inProgress" : 26,
     "audit" : 521,
     "blocked" : 6933,
-    "duplicate" : 8,
-    "ned" : 569,
+    "duplicate" : 10,
+    "ned" : 573,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -29633,14 +29633,14 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 22,
+    "accepted" : 39,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -22,
+    "inProgress" : -31,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 2,
+    "ned" : 4,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -29649,7 +29649,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:39:07",
+  "dateTimeFetched" : "2020-04-11 10:38:48",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), L'Aquila—Morti, 1911–1943 [Parte H]",
   "state" : "ACTIVE"
@@ -29784,17 +29784,17 @@
     "imagesetCount" : 1334,
     "batchCount" : 13421,
     "images" : 82449,
-    "recordCount" : 101347
+    "recordCount" : 101354
   },
   "exportStateCounts" : {
-    "accepted" : 66297,
+    "accepted" : 66304,
     "exported" : 780,
     "failed" : 0,
-    "inProgress" : 41,
+    "inProgress" : 32,
     "audit" : 2997,
     "blocked" : 13411,
     "duplicate" : 61,
-    "ned" : 1836,
+    "ned" : 1838,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -29804,10 +29804,10 @@
     "noPersonas" : 10
   },
   "exportStateDiffs" : {
-    "accepted" : 6,
+    "accepted" : 7,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -8,
+    "inProgress" : -9,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -29820,7 +29820,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:10:45",
+  "dateTimeFetched" : "2020-04-11 11:13:35",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Vicenza, Bassano del Grappa—Civil Registration, 1871–1943 [Part A]",
   "state" : "ACTIVE"
@@ -29839,15 +29839,15 @@
   "iesAuditBatchCount" : 11284,
   "iesCountsNoAudit" : {
     "imagesetCount" : 3129,
-    "batchCount" : 228494,
-    "images" : 699144,
-    "recordCount" : 682901
+    "batchCount" : 228503,
+    "images" : 699171,
+    "recordCount" : 682927
   },
   "exportStateCounts" : {
-    "accepted" : 660279,
+    "accepted" : 660306,
     "exported" : 15476,
     "failed" : 0,
-    "inProgress" : 180,
+    "inProgress" : 183,
     "audit" : 33703,
     "blocked" : 17078,
     "duplicate" : 812,
@@ -29858,13 +29858,13 @@
     "rejected" : 38,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1249
+    "noPersonas" : 1246
   },
   "exportStateDiffs" : {
-    "accepted" : 55,
+    "accepted" : 27,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -33,
+    "inProgress" : 3,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -29875,9 +29875,9 @@
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : -1
+    "noPersonas" : -3
   },
-  "dateTimeFetched" : "2020-04-09 20:59:59",
+  "dateTimeFetched" : "2020-04-11 11:01:22",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BD]",
   "state" : "ACTIVE"
@@ -30162,7 +30162,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:48:37",
+  "dateTimeFetched" : "2020-04-11 10:49:31",
   "batchesWithTooManyImages" : { },
   "name" : "UK—War Office Registers, Soldier Records, 1772–1935 [Part B]",
   "state" : "ACTIVE"
@@ -30295,15 +30295,15 @@
   "iesAuditBatchCount" : 43,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
-    "batchCount" : 883,
-    "images" : 8825,
-    "recordCount" : 8715
+    "batchCount" : 884,
+    "images" : 8835,
+    "recordCount" : 8785
   },
   "exportStateCounts" : {
-    "accepted" : 8715,
+    "accepted" : 8785,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 100,
+    "inProgress" : 40,
     "audit" : 430,
     "blocked" : 2,
     "duplicate" : 6,
@@ -30317,11 +30317,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 10,
+    "accepted" : 70,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -10,
-    "audit" : 10,
+    "inProgress" : -60,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -30333,7 +30333,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:10:03",
+  "dateTimeFetched" : "2020-04-11 11:12:52",
   "batchesWithTooManyImages" : { },
   "name" : "US, Washington—Marriage Records, 1750–1990 [Part M]",
   "state" : "ACTIVE"
@@ -31095,17 +31095,17 @@
     "imagesetCount" : 217,
     "batchCount" : 20850,
     "images" : 191779,
-    "recordCount" : 178920
+    "recordCount" : 179467
   },
   "exportStateCounts" : {
-    "accepted" : 109312,
+    "accepted" : 109745,
     "exported" : 4509,
     "failed" : 0,
-    "inProgress" : 10940,
+    "inProgress" : 10506,
     "audit" : 7133,
     "blocked" : 47297,
     "duplicate" : 594,
-    "ned" : 19050,
+    "ned" : 19051,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -31115,14 +31115,14 @@
     "noPersonas" : 59
   },
   "exportStateDiffs" : {
-    "accepted" : 297,
+    "accepted" : 433,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -306,
+    "inProgress" : -434,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 9,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -31131,7 +31131,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:23:28",
+  "dateTimeFetched" : "2020-04-11 10:21:28",
   "batchesWithTooManyImages" : { },
   "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte D]",
   "state" : "ACTIVE"
@@ -31986,7 +31986,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:29:11",
+  "dateTimeFetched" : "2020-04-11 10:27:17",
   "batchesWithTooManyImages" : { },
   "name" : "Deutschland, Sachsen-Anhalt, Halberstadt—Zivilstandsregister, 1874–1982",
   "state" : "ACTIVE"
@@ -32100,7 +32100,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:55:05",
+  "dateTimeFetched" : "2020-04-11 10:56:18",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Modena—Stato Civile, 1806–1865 [Parte A]",
   "state" : "ACTIVE"
@@ -32401,22 +32401,22 @@
   "auditBatchCount" : 4969,
   "imageCount" : 114287,
   "blockedCount" : 14911,
-  "iesAuditBatchCount" : 3485,
+  "iesAuditBatchCount" : 3499,
   "iesCountsNoAudit" : {
     "imagesetCount" : 97,
-    "batchCount" : 69751,
-    "images" : 84662,
-    "recordCount" : 108121
+    "batchCount" : 70086,
+    "images" : 84997,
+    "recordCount" : 108838
   },
   "exportStateCounts" : {
-    "accepted" : 24845,
-    "exported" : 578,
+    "accepted" : 25009,
+    "exported" : 577,
     "failed" : 0,
-    "inProgress" : 43644,
-    "audit" : 3485,
+    "inProgress" : 43819,
+    "audit" : 3499,
     "blocked" : 14911,
     "duplicate" : 0,
-    "ned" : 665,
+    "ned" : 662,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -32426,14 +32426,14 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 136,
-    "exported" : 1,
+    "accepted" : 164,
+    "exported" : -1,
     "failed" : 0,
-    "inProgress" : -24,
-    "audit" : 4,
+    "inProgress" : 175,
+    "audit" : 14,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -1,
+    "ned" : -3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -32442,7 +32442,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:41:37",
+  "dateTimeFetched" : "2020-04-11 10:41:39",
   "batchesWithTooManyImages" : { },
   "name" : "Puerto Rico—Registros de La Iglesia Católica, 1763–1964 [Parte A]",
   "state" : "ACTIVE"
@@ -32499,7 +32499,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:56:30",
+  "dateTimeFetched" : "2020-04-11 10:57:51",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BC]",
   "state" : "ACTIVE"
@@ -32515,22 +32515,22 @@
   "auditBatchCount" : 1982,
   "imageCount" : 39767,
   "blockedCount" : 105,
-  "iesAuditBatchCount" : 1786,
+  "iesAuditBatchCount" : 1796,
   "iesCountsNoAudit" : {
     "imagesetCount" : 101,
-    "batchCount" : 35651,
-    "images" : 35758,
-    "recordCount" : 528535
+    "batchCount" : 35870,
+    "images" : 35977,
+    "recordCount" : 530434
   },
   "exportStateCounts" : {
-    "accepted" : 32150,
+    "accepted" : 32285,
     "exported" : 834,
     "failed" : 0,
-    "inProgress" : 2625,
-    "audit" : 1786,
+    "inProgress" : 2710,
+    "audit" : 1796,
     "blocked" : 105,
     "duplicate" : 0,
-    "ned" : 44,
+    "ned" : 43,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -32540,11 +32540,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 147,
+    "accepted" : 135,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -11,
-    "audit" : 6,
+    "inProgress" : 85,
+    "audit" : 10,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : -1,
@@ -32556,7 +32556,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:28:47",
+  "dateTimeFetched" : "2020-04-11 10:26:53",
   "batchesWithTooManyImages" : { },
   "name" : "Sverige, Stockholms stad—Index till kyrkböcker, 1546–1927 [Del 5]",
   "state" : "ACTIVE"
@@ -33888,19 +33888,19 @@
   "iesAuditBatchCount" : 32,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
-    "batchCount" : 572,
-    "images" : 1470,
+    "batchCount" : 573,
+    "images" : 1471,
     "recordCount" : 4076
   },
   "exportStateCounts" : {
     "accepted" : 686,
     "exported" : 171,
     "failed" : 0,
-    "inProgress" : 124,
+    "inProgress" : 123,
     "audit" : 82,
     "blocked" : 252,
     "duplicate" : 6,
-    "ned" : 220,
+    "ned" : 222,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -33913,11 +33913,11 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -1,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -33926,7 +33926,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:30:41",
+  "dateTimeFetched" : "2020-04-11 10:29:04",
   "batchesWithTooManyImages" : { },
   "name" : "Sri Lanka, District Colombo—Nederlands hervormde doopfeesten en huwelijken, 1677–1810 [deel B]",
   "state" : "ACTIVE"
@@ -34626,22 +34626,22 @@
   "auditBatchCount" : 228,
   "imageCount" : 21256,
   "blockedCount" : 4094,
-  "iesAuditBatchCount" : 178,
+  "iesAuditBatchCount" : 195,
   "iesCountsNoAudit" : {
     "imagesetCount" : 251,
     "batchCount" : 4404,
     "images" : 21245,
-    "recordCount" : 8811
+    "recordCount" : 10213
   },
   "exportStateCounts" : {
-    "accepted" : 5916,
+    "accepted" : 6864,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 11130,
-    "audit" : 696,
+    "inProgress" : 10130,
+    "audit" : 763,
     "blocked" : 4083,
-    "duplicate" : 10,
-    "ned" : 105,
+    "duplicate" : 23,
+    "ned" : 144,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -34651,14 +34651,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 678,
+    "accepted" : 948,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -697,
-    "audit" : 32,
+    "inProgress" : -1000,
+    "audit" : 67,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : 18,
+    "duplicate" : 13,
+    "ned" : 39,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -34667,7 +34667,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:08:19",
+  "dateTimeFetched" : "2020-04-11 11:10:53",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Avellino—Stato Civile, 1866–1947 [Parte 2M]",
   "state" : "ACTIVE"
@@ -34745,17 +34745,17 @@
     "imagesetCount" : 77,
     "batchCount" : 51521,
     "images" : 65761,
-    "recordCount" : 194085
+    "recordCount" : 194205
   },
   "exportStateCounts" : {
-    "accepted" : 54072,
+    "accepted" : 54118,
     "exported" : 2264,
     "failed" : 0,
-    "inProgress" : 957,
+    "inProgress" : 905,
     "audit" : 3027,
     "blocked" : 5286,
     "duplicate" : 110,
-    "ned" : 3070,
+    "ned" : 3076,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -34765,14 +34765,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 53,
+    "accepted" : 46,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -55,
+    "inProgress" : -52,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 2,
+    "ned" : 6,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -34781,7 +34781,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:37:45",
+  "dateTimeFetched" : "2020-04-11 10:37:12",
   "batchesWithTooManyImages" : { },
   "name" : "Belgique (Lot Rapide)—Registres Civils, 1851–1900 [Partie 2F]",
   "state" : "ACTIVE"
@@ -34882,8 +34882,8 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 13119,
-    "audit" : 655,
+    "inProgress" : 0,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -34895,7 +34895,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:33:44",
+  "dateTimeFetched" : "2020-04-11 10:32:30",
   "batchesWithTooManyImages" : { },
   "name" : "Italia, Teramo—Stato Civile, 1818–1938 [Parte G]",
   "state" : "ACTIVE"
@@ -34916,43 +34916,43 @@
     "imagesetCount" : 3,
     "batchCount" : 4909,
     "images" : 9942,
-    "recordCount" : 136398
+    "recordCount" : 146039
   },
   "exportStateCounts" : {
-    "accepted" : 4516,
+    "accepted" : 4822,
     "exported" : 9,
     "failed" : 0,
-    "inProgress" : 4784,
+    "inProgress" : 4469,
     "audit" : 487,
     "blocked" : 119,
     "duplicate" : 12,
-    "ned" : 454,
+    "ned" : 461,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 19,
+    "rejected" : 20,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 29
+    "noPersonas" : 30
   },
   "exportStateDiffs" : {
-    "accepted" : 165,
+    "accepted" : 306,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 4357,
-    "audit" : 220,
+    "inProgress" : -315,
+    "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 4,
-    "ned" : 33,
+    "duplicate" : 0,
+    "ned" : 7,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 1
   },
-  "dateTimeFetched" : "2020-04-09 20:43:14",
+  "dateTimeFetched" : "2020-04-11 10:43:29",
   "batchesWithTooManyImages" : { },
   "name" : "Uruguay—General Archive of the Nation, Passenger Lists, 1888–1930 [Part D]",
   "state" : "ACTIVE"
@@ -35030,16 +35030,16 @@
     "imagesetCount" : 296,
     "batchCount" : 11938,
     "images" : 271257,
-    "recordCount" : 7795
+    "recordCount" : 7884
   },
   "exportStateCounts" : {
-    "accepted" : 7749,
+    "accepted" : 7837,
     "exported" : 5,
     "failed" : 0,
-    "inProgress" : 95951,
+    "inProgress" : 95861,
     "audit" : 5081,
     "blocked" : 167232,
-    "duplicate" : 2,
+    "duplicate" : 3,
     "ned" : 277,
     "unreadable" : 0,
     "notExported" : 0,
@@ -35047,16 +35047,16 @@
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 41
+    "noPersonas" : 42
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 88,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -90,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
+    "duplicate" : 1,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -35064,9 +35064,9 @@
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 1
   },
-  "dateTimeFetched" : "2020-04-09 20:52:15",
+  "dateTimeFetched" : "2020-04-11 10:53:26",
   "batchesWithTooManyImages" : { },
   "name" : "Australia, Victoria—Wills and Probates, 1865–1925 [Part A]",
   "state" : "ACTIVE"
@@ -36377,7 +36377,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:37:53",
+  "dateTimeFetched" : "2020-04-11 10:37:22",
   "batchesWithTooManyImages" : { },
   "name" : "QA Brad -- Another Test of Ingest DAS",
   "state" : "ACTIVE"
@@ -37080,15 +37080,15 @@
   "iesAuditBatchCount" : 5,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
-    "batchCount" : 88,
-    "images" : 98,
-    "recordCount" : 1339
+    "batchCount" : 92,
+    "images" : 102,
+    "recordCount" : 1364
   },
   "exportStateCounts" : {
-    "accepted" : 61,
+    "accepted" : 62,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 25,
+    "inProgress" : 28,
     "audit" : 5,
     "blocked" : 10,
     "duplicate" : 0,
@@ -37102,10 +37102,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 3,
+    "accepted" : 1,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 3,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -37118,7 +37118,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:02:57",
+  "dateTimeFetched" : "2020-04-11 11:05:01",
   "batchesWithTooManyImages" : { },
   "name" : "Denmark—Military Conscription Rolls, 1789–1792 [Part D]",
   "state" : "ACTIVE"
@@ -37424,17 +37424,17 @@
     "imagesetCount" : 126,
     "batchCount" : 12520,
     "images" : 67210,
-    "recordCount" : 170474
+    "recordCount" : 174357
   },
   "exportStateCounts" : {
-    "accepted" : 50695,
+    "accepted" : 52243,
     "exported" : 48,
     "failed" : 0,
-    "inProgress" : 5494,
+    "inProgress" : 3944,
     "audit" : 2898,
     "blocked" : 8519,
-    "duplicate" : 662,
-    "ned" : 1772,
+    "duplicate" : 669,
+    "ned" : 1767,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -37444,23 +37444,23 @@
     "noPersonas" : 2
   },
   "exportStateDiffs" : {
-    "accepted" : 836,
+    "accepted" : 1548,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -847,
+    "inProgress" : -1550,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 5,
-    "ned" : 5,
+    "duplicate" : 7,
+    "ned" : -5,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:44:34",
+  "dateTimeFetched" : "2020-04-11 10:44:58",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina Provincia, de Buenos Aires—Registros Parroquiales, 1731–1939 [Parte E]",
   "state" : "ACTIVE"
@@ -37973,7 +37973,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:39:52",
+  "dateTimeFetched" : "2020-04-11 10:39:43",
   "batchesWithTooManyImages" : { },
   "name" : "Perú, Lima—Registros Civiles, Nacimientos, 1917–1995 [Parte 1V]",
   "state" : "ACTIVE"
@@ -37994,13 +37994,13 @@
     "imagesetCount" : 367,
     "batchCount" : 10045,
     "images" : 40411,
-    "recordCount" : 84781
+    "recordCount" : 85050
   },
   "exportStateCounts" : {
-    "accepted" : 7074,
+    "accepted" : 7093,
     "exported" : 276,
     "failed" : 0,
-    "inProgress" : 2674,
+    "inProgress" : 2655,
     "audit" : 494,
     "blocked" : 30363,
     "duplicate" : 0,
@@ -38014,10 +38014,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 19,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -19,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -38030,7 +38030,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:54:11",
+  "dateTimeFetched" : "2020-04-11 10:55:21",
   "batchesWithTooManyImages" : { },
   "name" : "US, Massachusetts, Boston—Voter Registers, 1857-1920",
   "state" : "ACTIVE"
@@ -38388,22 +38388,22 @@
   "auditBatchCount" : 4058,
   "imageCount" : 417302,
   "blockedCount" : 94233,
-  "iesAuditBatchCount" : 1131,
+  "iesAuditBatchCount" : 1138,
   "iesCountsNoAudit" : {
     "imagesetCount" : 209,
-    "batchCount" : 22678,
-    "images" : 184485,
-    "recordCount" : 236670
+    "batchCount" : 22766,
+    "images" : 184836,
+    "recordCount" : 237082
   },
   "exportStateCounts" : {
-    "accepted" : 63873,
+    "accepted" : 64085,
     "exported" : 6033,
     "failed" : 0,
-    "inProgress" : 19646,
-    "audit" : 4499,
+    "inProgress" : 19794,
+    "audit" : 4527,
     "blocked" : 94233,
     "duplicate" : 244,
-    "ned" : 449,
+    "ned" : 440,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -38413,14 +38413,14 @@
     "noPersonas" : 4
   },
   "exportStateDiffs" : {
-    "accepted" : 239,
+    "accepted" : 212,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -7,
-    "audit" : 16,
+    "inProgress" : 148,
+    "audit" : 28,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -12,
+    "ned" : -9,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -38429,7 +38429,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:45:50",
+  "dateTimeFetched" : "2020-04-11 10:46:24",
   "batchesWithTooManyImages" : { },
   "name" : "Italia, Roma—Stato Civile, 1867–1929 [Parte D]",
   "state" : "ACTIVE"
@@ -38958,19 +38958,19 @@
   "auditBatchCount" : 495,
   "imageCount" : 143120,
   "blockedCount" : 43780,
-  "iesAuditBatchCount" : 41,
+  "iesAuditBatchCount" : 44,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 143,
-    "batchCount" : 6552,
-    "images" : 89553,
-    "recordCount" : 1752
+    "imagesetCount" : 144,
+    "batchCount" : 6616,
+    "images" : 90186,
+    "recordCount" : 1952
   },
   "exportStateCounts" : {
-    "accepted" : 1751,
+    "accepted" : 1951,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 63006,
-    "audit" : 410,
+    "inProgress" : 63439,
+    "audit" : 440,
     "blocked" : 24795,
     "duplicate" : 1,
     "ned" : 0,
@@ -38983,11 +38983,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 150,
+    "accepted" : 200,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 476,
-    "audit" : 20,
+    "inProgress" : 433,
+    "audit" : 30,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -38999,7 +38999,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:45:27",
+  "dateTimeFetched" : "2020-04-11 10:46:00",
   "batchesWithTooManyImages" : { },
   "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie D]",
   "state" : "ACTIVE"
@@ -40025,7 +40025,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:29:44",
+  "dateTimeFetched" : "2020-04-11 10:27:57",
   "batchesWithTooManyImages" : { },
   "name" : "Norge—Tinglysningskort, 1640–1903 [Del C]",
   "state" : "ACTIVE"
@@ -40668,48 +40668,48 @@
   "auditBatchCount" : 36,
   "imageCount" : 2075,
   "blockedCount" : 527,
-  "iesAuditBatchCount" : 31,
+  "iesAuditBatchCount" : 36,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
-    "batchCount" : 619,
-    "images" : 1880,
+    "batchCount" : 719,
+    "images" : 2075,
     "recordCount" : 6997
   },
   "exportStateCounts" : {
-    "accepted" : 1095,
-    "exported" : 9,
+    "accepted" : 1093,
+    "exported" : 8,
     "failed" : 0,
-    "inProgress" : 114,
-    "audit" : 70,
+    "inProgress" : 257,
+    "audit" : 79,
     "blocked" : 527,
-    "duplicate" : 6,
-    "ned" : 128,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 2,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 2,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 4,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 7,
+    "ned" : 180,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 3
   },
-  "dateTimeFetched" : "2020-04-09 20:37:12",
+  "exportStateDiffs" : {
+    "accepted" : -2,
+    "exported" : -1,
+    "failed" : 0,
+    "inProgress" : 143,
+    "audit" : 9,
+    "blocked" : 0,
+    "duplicate" : 1,
+    "ned" : 52,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : -2,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 3
+  },
+  "dateTimeFetched" : "2020-04-11 10:36:38",
   "batchesWithTooManyImages" : { },
   "name" : "Sri Lanka, Colombo—Nederlands hervormde dopen en huwelijken, 1677–1990 [deel C]",
   "state" : "ACTIVE"
@@ -41243,17 +41243,17 @@
     "imagesetCount" : 75,
     "batchCount" : 12438,
     "images" : 69284,
-    "recordCount" : 51687
+    "recordCount" : 53743
   },
   "exportStateCounts" : {
-    "accepted" : 45140,
+    "accepted" : 46966,
     "exported" : 1,
     "failed" : 0,
-    "inProgress" : 14306,
+    "inProgress" : 12425,
     "audit" : 3060,
     "blocked" : 7637,
-    "duplicate" : 1162,
-    "ned" : 1027,
+    "duplicate" : 1185,
+    "ned" : 1059,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -41263,14 +41263,14 @@
     "noPersonas" : 3
   },
   "exportStateDiffs" : {
-    "accepted" : 1174,
+    "accepted" : 1826,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -1218,
-    "audit" : 5,
+    "inProgress" : -1881,
+    "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 29,
-    "ned" : 15,
+    "duplicate" : 23,
+    "ned" : 32,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -41279,7 +41279,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:09:26",
+  "dateTimeFetched" : "2020-04-11 11:12:06",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York—County Naturalization Records, 1792–1976 [Part Q]",
   "state" : "ACTIVE"
@@ -41507,7 +41507,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:08:32",
+  "dateTimeFetched" : "2020-04-11 11:11:10",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Entre Ríos—Civil Registration, 1860–1965 [Part E]",
   "state" : "ACTIVE"
@@ -41678,7 +41678,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:32:45",
+  "dateTimeFetched" : "2020-04-11 10:31:20",
   "batchesWithTooManyImages" : { },
   "name" : "Ukraine—L'viv Greek Catholic Archeparchy Church Books 1607–1945 [Part B]",
   "state" : "ACTIVE"
@@ -42665,22 +42665,22 @@
   "auditBatchCount" : 3345,
   "imageCount" : 343928,
   "blockedCount" : 57817,
-  "iesAuditBatchCount" : 2712,
+  "iesAuditBatchCount" : 2935,
   "iesCountsNoAudit" : {
     "imagesetCount" : 755,
-    "batchCount" : 53873,
-    "images" : 287828,
-    "recordCount" : 313896
+    "batchCount" : 58504,
+    "images" : 307227,
+    "recordCount" : 324084
   },
   "exportStateCounts" : {
-    "accepted" : 111038,
+    "accepted" : 114497,
     "exported" : 71,
     "failed" : 0,
-    "inProgress" : 117624,
-    "audit" : 11505,
+    "inProgress" : 133523,
+    "audit" : 12434,
     "blocked" : 57826,
     "duplicate" : 48,
-    "ned" : 1070,
+    "ned" : 1111,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -42690,23 +42690,23 @@
     "noPersonas" : 4
   },
   "exportStateDiffs" : {
-    "accepted" : 2902,
+    "accepted" : 3459,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 7184,
-    "audit" : 510,
+    "inProgress" : 15899,
+    "audit" : 929,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 129,
+    "ned" : 41,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 6,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 2
+    "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:31:17",
+  "dateTimeFetched" : "2020-04-11 10:29:43",
   "batchesWithTooManyImages" : {
     "E974B211-87EC-4C9D-9241-F5A3B348B15B" : 396
   },
@@ -43677,7 +43677,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:41:59",
+  "dateTimeFetched" : "2020-04-11 10:42:06",
   "batchesWithTooManyImages" : { },
   "name" : "Peru, Lima—Registros Civiles, Matrimonios, 1917–1995 [Parte V]",
   "state" : "ACTIVE"
@@ -44496,43 +44496,43 @@
     "imagesetCount" : 300,
     "batchCount" : 203064,
     "images" : 666868,
-    "recordCount" : 242183
+    "recordCount" : 248500
   },
   "exportStateCounts" : {
-    "accepted" : 229022,
+    "accepted" : 235321,
     "exported" : 10213,
     "failed" : 0,
-    "inProgress" : 364599,
+    "inProgress" : 358296,
     "audit" : 30395,
     "blocked" : 58515,
-    "duplicate" : 2166,
-    "ned" : 2350,
+    "duplicate" : 2189,
+    "ned" : 2329,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 5
+    "noPersonas" : 7
   },
   "exportStateDiffs" : {
-    "accepted" : 2716,
+    "accepted" : 6299,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -2723,
+    "inProgress" : -6303,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 18,
-    "ned" : -11,
+    "duplicate" : 23,
+    "ned" : -21,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 2
   },
-  "dateTimeFetched" : "2020-04-09 20:53:15",
+  "dateTimeFetched" : "2020-04-11 10:54:20",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines—Marriage Records, 1945–1987 [Part A]",
   "state" : "ACTIVE"
@@ -44553,43 +44553,43 @@
     "imagesetCount" : 400,
     "batchCount" : 16956,
     "images" : 83667,
-    "recordCount" : 7682
+    "recordCount" : 8142
   },
   "exportStateCounts" : {
-    "accepted" : 6862,
+    "accepted" : 7308,
     "exported" : 7,
     "failed" : 0,
-    "inProgress" : 61425,
+    "inProgress" : 60763,
     "audit" : 3538,
     "blocked" : 11630,
-    "duplicate" : 37,
-    "ned" : 3650,
+    "duplicate" : 39,
+    "ned" : 3861,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 4,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 52
+    "noPersonas" : 55
   },
   "exportStateDiffs" : {
-    "accepted" : 329,
+    "accepted" : 446,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -522,
+    "inProgress" : -662,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 193,
+    "duplicate" : 2,
+    "ned" : 211,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 3
   },
-  "dateTimeFetched" : "2020-04-09 21:07:59",
+  "dateTimeFetched" : "2020-04-11 11:10:22",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part E]",
   "state" : "ACTIVE"
@@ -44634,7 +44634,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 50,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -44646,7 +44646,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:13:03",
+  "dateTimeFetched" : "2020-04-11 11:16:17",
   "batchesWithTooManyImages" : { },
   "name" : "US, Ohio—County Births, 1849–1985 [Part D]",
   "state" : "ACTIVE"
@@ -44719,19 +44719,19 @@
   "auditBatchCount" : 1308,
   "imageCount" : 56182,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 117,
+  "iesAuditBatchCount" : 123,
   "iesCountsNoAudit" : {
     "imagesetCount" : 94,
     "batchCount" : 26291,
     "images" : 56182,
-    "recordCount" : 1366
+    "recordCount" : 1389
   },
   "exportStateCounts" : {
-    "accepted" : 390,
+    "accepted" : 396,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 51676,
-    "audit" : 234,
+    "inProgress" : 51670,
+    "audit" : 246,
     "blocked" : 4082,
     "duplicate" : 4,
     "ned" : 29,
@@ -44748,7 +44748,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : -6,
-    "audit" : 8,
+    "audit" : 12,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -44760,7 +44760,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:13:56",
+  "dateTimeFetched" : "2020-04-11 11:22:19",
   "batchesWithTooManyImages" : { },
   "name" : "Panamá—Parish Records, 1748–1972 [Part F]",
   "state" : "ACTIVE"
@@ -45579,13 +45579,13 @@
     "imagesetCount" : 58,
     "batchCount" : 16377,
     "images" : 16491,
-    "recordCount" : 144390
+    "recordCount" : 144420
   },
   "exportStateCounts" : {
-    "accepted" : 15137,
+    "accepted" : 15140,
     "exported" : 899,
     "failed" : 0,
-    "inProgress" : 319,
+    "inProgress" : 316,
     "audit" : 823,
     "blocked" : 114,
     "duplicate" : 0,
@@ -45599,10 +45599,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 3,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -3,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -45615,7 +45615,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:42:10",
+  "dateTimeFetched" : "2020-04-11 10:42:18",
   "batchesWithTooManyImages" : { },
   "name" : "Danmark, København—Begravelsesregistre, 1805–1968 [Del C]",
   "state" : "ACTIVE"
@@ -46030,22 +46030,22 @@
   "auditBatchCount" : 719,
   "imageCount" : 69287,
   "blockedCount" : 2907,
-  "iesAuditBatchCount" : 44,
+  "iesAuditBatchCount" : 48,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
     "batchCount" : 14664,
     "images" : 69256,
-    "recordCount" : 1922
+    "recordCount" : 2012
   },
   "exportStateCounts" : {
-    "accepted" : 1695,
+    "accepted" : 1782,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 64630,
-    "audit" : 205,
+    "inProgress" : 64521,
+    "audit" : 224,
     "blocked" : 2889,
     "duplicate" : 0,
-    "ned" : 55,
+    "ned" : 77,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -46055,14 +46055,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 124,
+    "accepted" : 87,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -140,
-    "audit" : 14,
+    "inProgress" : -109,
+    "audit" : 19,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 16,
+    "ned" : 22,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -46071,7 +46071,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:52:01",
+  "dateTimeFetched" : "2020-04-11 10:53:09",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Antenati Italiani), Salerno—Civil Registration, 1809–1946 [Part C]",
   "state" : "ACTIVE"
@@ -47882,8 +47882,8 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1159,
-    "audit" : 57,
+    "inProgress" : 0,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -47895,7 +47895,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:35:02",
+  "dateTimeFetched" : "2020-04-11 10:34:07",
   "batchesWithTooManyImages" : { },
   "name" : "Danmark—Lægdsruller, 1789–1792 [Del C]",
   "state" : "ACTIVE"
@@ -48030,13 +48030,13 @@
     "imagesetCount" : 201,
     "batchCount" : 52787,
     "images" : 203883,
-    "recordCount" : 19648
+    "recordCount" : 19718
   },
   "exportStateCounts" : {
-    "accepted" : 4148,
+    "accepted" : 4168,
     "exported" : 377,
     "failed" : 0,
-    "inProgress" : 166373,
+    "inProgress" : 166353,
     "audit" : 8558,
     "blocked" : 32739,
     "duplicate" : 7,
@@ -48050,10 +48050,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 20,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -20,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -48066,7 +48066,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:42:55",
+  "dateTimeFetched" : "2020-04-11 10:43:09",
   "batchesWithTooManyImages" : { },
   "name" : "België (Snelle Batch), Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Deel G]",
   "state" : "ACTIVE"
@@ -48408,7 +48408,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:31:52",
+  "dateTimeFetched" : "2020-04-11 10:30:20",
   "batchesWithTooManyImages" : {
     "9D6E4FF9-1D17-475E-944A-7F69B4291920" : 1022
   },
@@ -48467,7 +48467,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:50:18",
+  "dateTimeFetched" : "2020-04-11 10:51:19",
   "batchesWithTooManyImages" : { },
   "name" : "US, Massachusetts—Births, Marriages, and Deaths, 1600–1990 [Part B]",
   "state" : "ACTIVE"
@@ -49566,22 +49566,22 @@
   "auditBatchCount" : 1092,
   "imageCount" : 75278,
   "blockedCount" : 5692,
-  "iesAuditBatchCount" : 641,
+  "iesAuditBatchCount" : 647,
   "iesCountsNoAudit" : {
     "imagesetCount" : 138,
-    "batchCount" : 12729,
-    "images" : 49827,
-    "recordCount" : 62313
+    "batchCount" : 12840,
+    "images" : 50426,
+    "recordCount" : 62421
   },
   "exportStateCounts" : {
-    "accepted" : 13294,
+    "accepted" : 13309,
     "exported" : 571,
     "failed" : 0,
-    "inProgress" : 25738,
-    "audit" : 2228,
+    "inProgress" : 26324,
+    "audit" : 2263,
     "blocked" : 5692,
     "duplicate" : 461,
-    "ned" : 4069,
+    "ned" : 4067,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -49591,14 +49591,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 20,
+    "accepted" : 15,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 240,
-    "audit" : 11,
+    "inProgress" : 586,
+    "audit" : 35,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -1,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -49607,7 +49607,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:23:43",
+  "dateTimeFetched" : "2020-04-11 10:21:45",
   "batchesWithTooManyImages" : { },
   "name" : "Panamá—Registros Parroquiales, 1748–1972 [Parte D]",
   "state" : "ACTIVE"
@@ -50597,17 +50597,17 @@
     "imagesetCount" : 2,
     "batchCount" : 1019,
     "images" : 1726,
-    "recordCount" : 102
+    "recordCount" : 125
   },
   "exportStateCounts" : {
-    "accepted" : 102,
+    "accepted" : 125,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 989,
+    "inProgress" : 917,
     "audit" : 69,
     "blocked" : 306,
     "duplicate" : 0,
-    "ned" : 329,
+    "ned" : 378,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -50617,14 +50617,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 23,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -12,
+    "inProgress" : -72,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 12,
+    "ned" : 49,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -50633,7 +50633,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:48:19",
+  "dateTimeFetched" : "2020-04-11 10:49:08",
   "batchesWithTooManyImages" : { },
   "name" : "Belgium, Namur—Civil Registration, 1901–1910 [Part E]",
   "state" : "ACTIVE"
@@ -50768,43 +50768,43 @@
     "imagesetCount" : 42,
     "batchCount" : 3726,
     "images" : 15532,
-    "recordCount" : 16554
+    "recordCount" : 16595
   },
   "exportStateCounts" : {
-    "accepted" : 11450,
+    "accepted" : 11475,
     "exported" : 62,
     "failed" : 0,
-    "inProgress" : 70,
+    "inProgress" : 39,
     "audit" : 759,
     "blocked" : 690,
     "duplicate" : 56,
-    "ned" : 3127,
+    "ned" : 3132,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 11,
+    "rejected" : 12,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 66
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 25,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -31,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 5,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:01:07",
+  "dateTimeFetched" : "2020-04-11 11:02:47",
   "batchesWithTooManyImages" : { },
   "name" : "Guatemala (Quick Batch)—Civil Registration, 1885–2009 [Parte G]",
   "state" : "ACTIVE"
@@ -50975,7 +50975,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:02:06",
+  "dateTimeFetched" : "2020-04-11 11:04:00",
   "batchesWithTooManyImages" : { },
   "name" : "España, Archivo General Militar de Guadalajara—Expedientes Personales de Servicio de Soldados, 1835–1940 [Part I]",
   "state" : "ACTIVE"
@@ -50994,15 +50994,15 @@
   "iesAuditBatchCount" : 93,
   "iesCountsNoAudit" : {
     "imagesetCount" : 9,
-    "batchCount" : 1796,
-    "images" : 5964,
-    "recordCount" : 9604
+    "batchCount" : 1806,
+    "images" : 5994,
+    "recordCount" : 9641
   },
   "exportStateCounts" : {
-    "accepted" : 4598,
+    "accepted" : 4616,
     "exported" : 15,
     "failed" : 0,
-    "inProgress" : 375,
+    "inProgress" : 387,
     "audit" : 279,
     "blocked" : 582,
     "duplicate" : 40,
@@ -51016,14 +51016,14 @@
     "noPersonas" : 57
   },
   "exportStateDiffs" : {
-    "accepted" : 17,
+    "accepted" : 18,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -9,
+    "inProgress" : 12,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : 3,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -51032,7 +51032,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:46:39",
+  "dateTimeFetched" : "2020-04-11 10:47:18",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil—Civil Registration of Birth, 1852–1914 [Part 2E]",
   "state" : "ACTIVE"
@@ -53540,7 +53540,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:12:37",
+  "dateTimeFetched" : "2020-04-11 11:15:44",
   "batchesWithTooManyImages" : { },
   "name" : "Portugal, Aveiro— Passport Registers, 1861–1965 [Part B]",
   "state" : "ACTIVE"
@@ -53722,7 +53722,7 @@
     "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Part C]",
     "state" : "ACTIVE"
   },
-  "imagesetCount" : 1383,
+  "imagesetCount" : 1377,
   "batchCount" : 89850,
   "auditBatchCount" : 4265,
   "imageCount" : 296326,
@@ -53732,17 +53732,17 @@
     "imagesetCount" : 942,
     "batchCount" : 85585,
     "images" : 296324,
-    "recordCount" : 96050
+    "recordCount" : 96668
   },
   "exportStateCounts" : {
-    "accepted" : 79530,
+    "accepted" : 79871,
     "exported" : 5196,
     "failed" : 0,
-    "inProgress" : 102587,
+    "inProgress" : 102244,
     "audit" : 9655,
     "blocked" : 102739,
     "duplicate" : 117,
-    "ned" : 6135,
+    "ned" : 6137,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -53752,14 +53752,14 @@
     "noPersonas" : 20
   },
   "exportStateDiffs" : {
-    "accepted" : 183,
+    "accepted" : 341,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -184,
+    "inProgress" : -343,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 1,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -53768,7 +53768,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:24:56",
+  "dateTimeFetched" : "2020-04-11 10:23:00",
   "batchesWithTooManyImages" : { },
   "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Part C]",
   "state" : "ACTIVE"
@@ -53955,22 +53955,22 @@
   "auditBatchCount" : 1186,
   "imageCount" : 49665,
   "blockedCount" : 1977,
-  "iesAuditBatchCount" : 552,
+  "iesAuditBatchCount" : 558,
   "iesCountsNoAudit" : {
     "imagesetCount" : 77,
-    "batchCount" : 11132,
-    "images" : 24225,
-    "recordCount" : 64550
+    "batchCount" : 11237,
+    "images" : 24436,
+    "recordCount" : 64862
   },
   "exportStateCounts" : {
-    "accepted" : 9043,
+    "accepted" : 9085,
     "exported" : 536,
     "failed" : 0,
-    "inProgress" : 12329,
-    "audit" : 1102,
+    "inProgress" : 12499,
+    "audit" : 1114,
     "blocked" : 1977,
     "duplicate" : 48,
-    "ned" : 248,
+    "ned" : 247,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -53980,14 +53980,14 @@
     "noPersonas" : 6
   },
   "exportStateDiffs" : {
-    "accepted" : 18,
+    "accepted" : 42,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 108,
-    "audit" : 2,
+    "inProgress" : 170,
+    "audit" : 12,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -53996,7 +53996,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:45:03",
+  "dateTimeFetched" : "2020-04-11 10:45:34",
   "batchesWithTooManyImages" : { },
   "name" : "Paraguay, Asunción—Registros Parroquiales, 1772–1978 [Parte E]",
   "state" : "ACTIVE"
@@ -54126,19 +54126,19 @@
   "auditBatchCount" : 660,
   "imageCount" : 13438,
   "blockedCount" : 178,
-  "iesAuditBatchCount" : 112,
+  "iesAuditBatchCount" : 122,
   "iesCountsNoAudit" : {
     "imagesetCount" : 29,
-    "batchCount" : 2524,
-    "images" : 2690,
-    "recordCount" : 26960
+    "batchCount" : 2700,
+    "images" : 2866,
+    "recordCount" : 28117
   },
   "exportStateCounts" : {
-    "accepted" : 791,
-    "exported" : 8,
+    "accepted" : 831,
+    "exported" : 5,
     "failed" : 0,
-    "inProgress" : 1723,
-    "audit" : 112,
+    "inProgress" : 1863,
+    "audit" : 122,
     "blocked" : 178,
     "duplicate" : 0,
     "ned" : 2,
@@ -54152,10 +54152,10 @@
   },
   "exportStateDiffs" : {
     "accepted" : 40,
-    "exported" : 0,
+    "exported" : -3,
     "failed" : 0,
-    "inProgress" : 18,
-    "audit" : 2,
+    "inProgress" : 140,
+    "audit" : 10,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -54167,7 +54167,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:40:01",
+  "dateTimeFetched" : "2020-04-11 10:39:54",
   "batchesWithTooManyImages" : { },
   "name" : "España, La Coruña, Riveira—Censo municipal, 1862–1960",
   "state" : "ACTIVE"
@@ -54471,19 +54471,19 @@
   "iesAuditBatchCount" : 809,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
-    "batchCount" : 16292,
-    "images" : 67653,
-    "recordCount" : 125835
+    "batchCount" : 16309,
+    "images" : 67723,
+    "recordCount" : 125893
   },
   "exportStateCounts" : {
-    "accepted" : 32219,
+    "accepted" : 32235,
     "exported" : 1277,
     "failed" : 0,
-    "inProgress" : 3419,
+    "inProgress" : 3478,
     "audit" : 2059,
     "blocked" : 26213,
     "duplicate" : 316,
-    "ned" : 4206,
+    "ned" : 4201,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -54493,14 +54493,14 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 29,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -7,
+    "inProgress" : 5,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 3,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -54509,7 +54509,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:20:53",
+  "dateTimeFetched" : "2020-04-11 11:18:26",
   "batchesWithTooManyImages" : { },
   "name" : "België, Provincie Antwerpen—Burgerlijke Stand, 1851–1910 [Part C]",
   "state" : "ACTIVE"
@@ -55323,19 +55323,19 @@
   "auditBatchCount" : 215,
   "imageCount" : 32765,
   "blockedCount" : 19932,
-  "iesAuditBatchCount" : 182,
+  "iesAuditBatchCount" : 183,
   "iesCountsNoAudit" : {
     "imagesetCount" : 60,
-    "batchCount" : 3633,
-    "images" : 30729,
-    "recordCount" : 22692
+    "batchCount" : 3659,
+    "images" : 30807,
+    "recordCount" : 22729
   },
   "exportStateCounts" : {
-    "accepted" : 4806,
+    "accepted" : 4815,
     "exported" : 3,
     "failed" : 0,
-    "inProgress" : 5979,
-    "audit" : 541,
+    "inProgress" : 6048,
+    "audit" : 544,
     "blocked" : 19932,
     "duplicate" : 1,
     "ned" : 8,
@@ -55348,10 +55348,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 149,
+    "accepted" : 9,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -86,
+    "inProgress" : 69,
     "audit" : 3,
     "blocked" : 0,
     "duplicate" : 0,
@@ -55364,7 +55364,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:38:56",
+  "dateTimeFetched" : "2020-04-11 10:38:32",
   "batchesWithTooManyImages" : { },
   "name" : "Suisse, Fribourg — Recensement de 1880 [Parte B]",
   "state" : "ACTIVE"
@@ -55934,7 +55934,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:03:41",
+  "dateTimeFetched" : "2020-04-11 11:05:50",
   "batchesWithTooManyImages" : { },
   "name" : "Peru (Quick Batch), Ancash—Civil Registrations, 1888–2000 [Part Y]",
   "state" : "ACTIVE"
@@ -56235,22 +56235,22 @@
   "auditBatchCount" : 140,
   "imageCount" : 13161,
   "blockedCount" : 4193,
-  "iesAuditBatchCount" : 88,
+  "iesAuditBatchCount" : 99,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
-    "batchCount" : 2019,
-    "images" : 10058,
-    "recordCount" : 3142
+    "batchCount" : 2293,
+    "images" : 10861,
+    "recordCount" : 4149
   },
   "exportStateCounts" : {
-    "accepted" : 1635,
+    "accepted" : 2163,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 4199,
-    "audit" : 246,
+    "inProgress" : 4467,
+    "audit" : 279,
     "blocked" : 4193,
     "duplicate" : 1,
-    "ned" : 29,
+    "ned" : 36,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -56260,14 +56260,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 255,
+    "accepted" : 528,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 193,
-    "audit" : 17,
+    "inProgress" : 268,
+    "audit" : 33,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 2,
+    "ned" : 7,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -56276,7 +56276,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:50:11",
+  "dateTimeFetched" : "2020-04-11 10:51:09",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Pesaro e Urbino—Death, 1875–1943 [Part 1U]",
   "state" : "ACTIVE"
@@ -56675,7 +56675,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:47:51",
+  "dateTimeFetched" : "2020-04-11 10:48:35",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Entre Rios—Civil Registration, 1860–1965 [Part B]",
   "state" : "ACTIVE"
@@ -56694,19 +56694,19 @@
   "iesAuditBatchCount" : 433,
   "iesCountsNoAudit" : {
     "imagesetCount" : 50,
-    "batchCount" : 8654,
-    "images" : 15327,
-    "recordCount" : 67079
+    "batchCount" : 8655,
+    "images" : 15331,
+    "recordCount" : 67736
   },
   "exportStateCounts" : {
-    "accepted" : 11638,
+    "accepted" : 11729,
     "exported" : 490,
     "failed" : 0,
-    "inProgress" : 1036,
+    "inProgress" : 949,
     "audit" : 679,
     "blocked" : 1581,
-    "duplicate" : 445,
-    "ned" : 131,
+    "duplicate" : 447,
+    "ned" : 129,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -56716,14 +56716,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 49,
+    "accepted" : 91,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -50,
+    "inProgress" : -87,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 2,
-    "ned" : 0,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -56732,7 +56732,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:28:31",
+  "dateTimeFetched" : "2020-04-11 10:26:35",
   "batchesWithTooManyImages" : { },
   "name" : "Deutschland, Baden, Kenzingen—Kirchenbuchduplikate, 1810–1869 [Teil B]",
   "state" : "ACTIVE"
@@ -56922,15 +56922,15 @@
   "iesAuditBatchCount" : 57,
   "iesCountsNoAudit" : {
     "imagesetCount" : 299,
-    "batchCount" : 1326,
-    "images" : 8778,
-    "recordCount" : 10876
+    "batchCount" : 1332,
+    "images" : 8804,
+    "recordCount" : 10928
   },
   "exportStateCounts" : {
-    "accepted" : 5116,
+    "accepted" : 5151,
     "exported" : 24,
     "failed" : 0,
-    "inProgress" : 986,
+    "inProgress" : 977,
     "audit" : 262,
     "blocked" : 2495,
     "duplicate" : 6,
@@ -56944,10 +56944,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 10,
+    "accepted" : 35,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 38,
+    "inProgress" : -9,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -56960,7 +56960,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:46:58",
+  "dateTimeFetched" : "2020-04-11 10:47:40",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Udine—Stato Civile, 1806–1900 [Parte 2K]",
   "state" : "ACTIVE"
@@ -57416,7 +57416,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:33:34",
+  "dateTimeFetched" : "2020-04-11 10:32:17",
   "batchesWithTooManyImages" : { },
   "name" : "Perú (Lote rápido), Ancash—Registro Civil, Nacimiento, 1888–2000 [Parte A]",
   "state" : "ACTIVE"
@@ -57872,7 +57872,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:25:05",
+  "dateTimeFetched" : "2020-04-11 10:23:10",
   "batchesWithTooManyImages" : { },
   "name" : "España, Provincia de Asturias, Colunga—Registro civil, 1836–1871",
   "state" : "ACTIVE"
@@ -58748,17 +58748,17 @@
     "imagesetCount" : 200,
     "batchCount" : 24103,
     "images" : 24720,
-    "recordCount" : 79490
+    "recordCount" : 79810
   },
   "exportStateCounts" : {
-    "accepted" : 18174,
+    "accepted" : 18236,
     "exported" : 82,
     "failed" : 0,
-    "inProgress" : 5590,
+    "inProgress" : 5529,
     "audit" : 1201,
     "blocked" : 601,
     "duplicate" : 3,
-    "ned" : 266,
+    "ned" : 265,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -58768,14 +58768,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 57,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -56,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -1,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -58784,7 +58784,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:21:05",
+  "dateTimeFetched" : "2020-04-11 11:18:35",
   "batchesWithTooManyImages" : { },
   "name" : "Österreich (Austria), Kärnten, Gurk—Kirchenbücher, 1527–1986 [Teil B]",
   "state" : "ACTIVE"
@@ -59069,7 +59069,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:13:29",
+  "dateTimeFetched" : "2020-04-11 11:21:36",
   "batchesWithTooManyImages" : { },
   "name" : "US, Virginia—Daughters of the Confederacy, Applications for the Relief of Needy Confederate Women, 1915–1967",
   "state" : "ACTIVE"
@@ -59297,7 +59297,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:23:54",
+  "dateTimeFetched" : "2020-04-11 10:21:57",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri—County Marriages, 1806–1969 [Part I]",
   "state" : "ACTIVE"
@@ -59411,7 +59411,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:38:35",
+  "dateTimeFetched" : "2020-04-11 10:38:06",
   "batchesWithTooManyImages" : { },
   "name" : "Perú (Lote Rápido), Junin—Registros Civiles, Nacimientos, 1890—1999 [Parte M]",
   "state" : "ACTIVE"
@@ -59867,7 +59867,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:36:53",
+  "dateTimeFetched" : "2020-04-11 10:36:15",
   "batchesWithTooManyImages" : { },
   "name" : "Perú (Lote rápido), La Libertad—Registro Civil, 1903–1997 [Parte AC]",
   "state" : "ACTIVE"
@@ -61862,7 +61862,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:03:16",
+  "dateTimeFetched" : "2020-04-11 11:05:22",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BG]",
   "state" : "ACTIVE"
@@ -61919,7 +61919,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:13:20",
+  "dateTimeFetched" : "2020-04-11 11:21:28",
   "batchesWithTooManyImages" : { },
   "name" : "US, Mississippi—Admitted Alien Crew Lists of Alien Arrivals, 1903–1935",
   "state" : "ACTIVE"
@@ -62090,7 +62090,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:29:54",
+  "dateTimeFetched" : "2020-04-11 10:28:07",
   "batchesWithTooManyImages" : { },
   "name" : "España, Provincia de Asturias—registro civil, 1836–1871 [Parte A]",
   "state" : "ACTIVE"
@@ -62961,19 +62961,19 @@
   "auditBatchCount" : 550,
   "imageCount" : 48132,
   "blockedCount" : 15217,
-  "iesAuditBatchCount" : 69,
+  "iesAuditBatchCount" : 70,
   "iesCountsNoAudit" : {
     "imagesetCount" : 49,
-    "batchCount" : 1428,
-    "images" : 19497,
-    "recordCount" : 4796
+    "batchCount" : 1439,
+    "images" : 19528,
+    "recordCount" : 4850
   },
   "exportStateCounts" : {
-    "accepted" : 1410,
+    "accepted" : 1425,
     "exported" : 36,
     "failed" : 0,
-    "inProgress" : 1999,
-    "audit" : 207,
+    "inProgress" : 2015,
+    "audit" : 210,
     "blocked" : 15217,
     "duplicate" : 135,
     "ned" : 696,
@@ -62986,11 +62986,11 @@
     "noPersonas" : 4
   },
   "exportStateDiffs" : {
-    "accepted" : 12,
+    "accepted" : 15,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 3,
-    "audit" : 0,
+    "inProgress" : 16,
+    "audit" : 3,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -63002,7 +63002,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:44:43",
+  "dateTimeFetched" : "2020-04-11 10:45:09",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Torino—Stato Civile, 1806–1813 [Parte B]",
   "state" : "ACTIVE"
@@ -63479,17 +63479,17 @@
     "imagesetCount" : 500,
     "batchCount" : 39432,
     "images" : 93072,
-    "recordCount" : 43225
+    "recordCount" : 43910
   },
   "exportStateCounts" : {
-    "accepted" : 35723,
+    "accepted" : 36300,
     "exported" : 74,
     "failed" : 0,
-    "inProgress" : 33613,
+    "inProgress" : 33025,
     "audit" : 3901,
     "blocked" : 14378,
-    "duplicate" : 62,
-    "ned" : 9084,
+    "duplicate" : 61,
+    "ned" : 9096,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -63499,14 +63499,14 @@
     "noPersonas" : 123
   },
   "exportStateDiffs" : {
-    "accepted" : 250,
+    "accepted" : 577,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -277,
+    "inProgress" : -588,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 27,
+    "duplicate" : -1,
+    "ned" : 12,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -63515,7 +63515,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:12:07",
+  "dateTimeFetched" : "2020-04-11 11:15:11",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part F]",
   "state" : "ACTIVE"
@@ -64163,45 +64163,45 @@
   "iesAuditBatchCount" : 1676,
   "iesCountsNoAudit" : {
     "imagesetCount" : 36,
-    "batchCount" : 33721,
-    "images" : 70590,
-    "recordCount" : 978547
+    "batchCount" : 33723,
+    "images" : 70595,
+    "recordCount" : 979261
   },
   "exportStateCounts" : {
-    "accepted" : 58646,
+    "accepted" : 58657,
     "exported" : 29,
     "failed" : 0,
-    "inProgress" : 658,
+    "inProgress" : 645,
     "audit" : 3060,
     "blocked" : 8955,
-    "duplicate" : 1573,
-    "ned" : 484,
+    "duplicate" : 1579,
+    "ned" : 482,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 244,
+    "rejected" : 247,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 4,
+    "accepted" : 11,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1,
-    "audit" : 1,
+    "inProgress" : -13,
+    "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : 0,
+    "duplicate" : 6,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 3,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:09:47",
+  "dateTimeFetched" : "2020-04-11 11:12:32",
   "batchesWithTooManyImages" : { },
   "name" : "UK, England, Cumbria—Parish Records, 1538–1990 [Part B]",
   "state" : "ACTIVE"
@@ -64372,7 +64372,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:11:18",
+  "dateTimeFetched" : "2020-04-11 11:14:15",
   "batchesWithTooManyImages" : { },
   "name" : "United States—Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part A]",
   "state" : "ACTIVE"
@@ -64735,13 +64735,13 @@
     "imagesetCount" : 5,
     "batchCount" : 2169,
     "images" : 16376,
-    "recordCount" : 0
+    "recordCount" : 47
   },
   "exportStateCounts" : {
-    "accepted" : 0,
+    "accepted" : 10,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 16161,
+    "inProgress" : 16151,
     "audit" : 324,
     "blocked" : 215,
     "duplicate" : 0,
@@ -64755,10 +64755,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 10,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -10,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -64771,7 +64771,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:46:49",
+  "dateTimeFetched" : "2020-04-11 10:47:29",
   "batchesWithTooManyImages" : { },
   "name" : "Uruguay—Civil Registration, Index Cards 1900–1937 [Part C]",
   "state" : "ACTIVE"
@@ -64787,48 +64787,48 @@
   "auditBatchCount" : 6775,
   "imageCount" : 747937,
   "blockedCount" : 362089,
-  "iesAuditBatchCount" : 4200,
+  "iesAuditBatchCount" : 4256,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 143,
-    "batchCount" : 88733,
-    "images" : 206208,
-    "recordCount" : 129803
+    "imagesetCount" : 147,
+    "batchCount" : 89821,
+    "images" : 211484,
+    "recordCount" : 131950
   },
   "exportStateCounts" : {
-    "accepted" : 103306,
+    "accepted" : 105446,
     "exported" : 11,
     "failed" : 0,
-    "inProgress" : 81826,
-    "audit" : 8880,
+    "inProgress" : 84327,
+    "audit" : 9153,
     "blocked" : 11259,
-    "duplicate" : 5495,
-    "ned" : 4308,
+    "duplicate" : 5696,
+    "ned" : 4732,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 2
+    "noPersonas" : 12
   },
   "exportStateDiffs" : {
-    "accepted" : 1410,
+    "accepted" : 2140,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 957,
-    "audit" : 150,
+    "inProgress" : 2501,
+    "audit" : 273,
     "blocked" : 0,
-    "duplicate" : 426,
-    "ned" : 236,
+    "duplicate" : 201,
+    "ned" : 424,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 10
   },
-  "dateTimeFetched" : "2020-04-09 21:05:18",
+  "dateTimeFetched" : "2020-04-11 11:07:37",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa—Marriage Records, 1840–1973 [Part A]",
   "state" : "ACTIVE"
@@ -65191,17 +65191,17 @@
     "imagesetCount" : 261,
     "batchCount" : 3060,
     "images" : 15867,
-    "recordCount" : 1451
+    "recordCount" : 1480
   },
   "exportStateCounts" : {
-    "accepted" : 1064,
+    "accepted" : 1086,
     "exported" : 2,
     "failed" : 0,
-    "inProgress" : 12811,
+    "inProgress" : 12787,
     "audit" : 657,
     "blocked" : 1948,
     "duplicate" : 0,
-    "ned" : 42,
+    "ned" : 44,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -65211,14 +65211,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 40,
+    "accepted" : 22,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -41,
+    "inProgress" : -24,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 1,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -65227,7 +65227,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:12:55",
+  "dateTimeFetched" : "2020-04-11 11:16:07",
   "batchesWithTooManyImages" : { },
   "name" : "Haiti—Civil Registration of Deaths, 1824–2013 [Part G]",
   "state" : "ACTIVE"
@@ -65756,19 +65756,19 @@
   "auditBatchCount" : 298,
   "imageCount" : 8254,
   "blockedCount" : 2268,
-  "iesAuditBatchCount" : 22,
+  "iesAuditBatchCount" : 23,
   "iesCountsNoAudit" : {
     "imagesetCount" : 6,
-    "batchCount" : 334,
-    "images" : 2602,
-    "recordCount" : 24
+    "batchCount" : 392,
+    "images" : 2660,
+    "recordCount" : 68
   },
   "exportStateCounts" : {
-    "accepted" : 6,
+    "accepted" : 18,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 328,
-    "audit" : 22,
+    "inProgress" : 374,
+    "audit" : 23,
     "blocked" : 2268,
     "duplicate" : 0,
     "ned" : 0,
@@ -65781,11 +65781,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 2,
+    "accepted" : 12,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 57,
-    "audit" : 4,
+    "inProgress" : 46,
+    "audit" : 1,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -65797,7 +65797,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:49:59",
+  "dateTimeFetched" : "2020-04-11 10:50:58",
   "batchesWithTooManyImages" : { },
   "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie G]",
   "state" : "ACTIVE"
@@ -65968,7 +65968,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:54:53",
+  "dateTimeFetched" : "2020-04-11 10:56:05",
   "batchesWithTooManyImages" : { },
   "name" : "Canada, Nova Scotia—Death Records, 1864–1877",
   "state" : "ACTIVE"
@@ -66497,48 +66497,48 @@
   "auditBatchCount" : 183,
   "imageCount" : 19335,
   "blockedCount" : 5078,
-  "iesAuditBatchCount" : 76,
+  "iesAuditBatchCount" : 77,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
-    "batchCount" : 1657,
-    "images" : 10412,
-    "recordCount" : 7322
+    "batchCount" : 1671,
+    "images" : 10466,
+    "recordCount" : 7627
   },
   "exportStateCounts" : {
-    "accepted" : 2654,
+    "accepted" : 2774,
     "exported" : 2,
     "failed" : 0,
-    "inProgress" : 2371,
-    "audit" : 247,
+    "inProgress" : 2309,
+    "audit" : 252,
     "blocked" : 5078,
     "duplicate" : 2,
-    "ned" : 180,
+    "ned" : 175,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 120,
+    "rejected" : 121,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 5
   },
   "exportStateDiffs" : {
-    "accepted" : 8,
+    "accepted" : 120,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 27,
-    "audit" : 0,
+    "inProgress" : -62,
+    "audit" : 5,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -5,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:50:31",
+  "dateTimeFetched" : "2020-04-11 10:51:34",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Udine—Stato Civile, 1806–1900 [Parte 2L]",
   "state" : "ACTIVE"
@@ -66652,7 +66652,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:29:19",
+  "dateTimeFetched" : "2020-04-11 10:27:28",
   "batchesWithTooManyImages" : { },
   "name" : "Nederland, Noord-Holland, Amsterdam—Burgerlijke stand, Geboorten, 1811–1902",
   "state" : "ACTIVE"
@@ -67412,15 +67412,15 @@
   "iesAuditBatchCount" : 417,
   "iesCountsNoAudit" : {
     "imagesetCount" : 56,
-    "batchCount" : 8121,
-    "images" : 28223,
-    "recordCount" : 77883
+    "batchCount" : 8138,
+    "images" : 28240,
+    "recordCount" : 78422
   },
   "exportStateCounts" : {
-    "accepted" : 5569,
+    "accepted" : 5607,
     "exported" : 124,
     "failed" : 0,
-    "inProgress" : 2137,
+    "inProgress" : 2116,
     "audit" : 417,
     "blocked" : 20102,
     "duplicate" : 0,
@@ -67434,11 +67434,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 19,
+    "accepted" : 38,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -14,
-    "audit" : 1,
+    "inProgress" : -21,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -67450,7 +67450,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:30:32",
+  "dateTimeFetched" : "2020-04-11 10:28:54",
   "batchesWithTooManyImages" : { },
   "name" : "Sverige, Västerbotten—Kyrkböcker fram till 1860 [Del B]",
   "state" : "ACTIVE"
@@ -67751,22 +67751,22 @@
   "auditBatchCount" : 4082,
   "imageCount" : 413643,
   "blockedCount" : 66374,
-  "iesAuditBatchCount" : 434,
+  "iesAuditBatchCount" : 439,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
-    "batchCount" : 8936,
-    "images" : 109302,
-    "recordCount" : 30874
+    "batchCount" : 9001,
+    "images" : 109606,
+    "recordCount" : 30901
   },
   "exportStateCounts" : {
-    "accepted" : 16432,
+    "accepted" : 16439,
     "exported" : 34,
     "failed" : 0,
-    "inProgress" : 22653,
-    "audit" : 2089,
+    "inProgress" : 22947,
+    "audit" : 2114,
     "blocked" : 66374,
-    "duplicate" : 816,
-    "ned" : 2993,
+    "duplicate" : 818,
+    "ned" : 2994,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -67776,14 +67776,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 5,
+    "accepted" : 7,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 251,
-    "audit" : 10,
+    "inProgress" : 294,
+    "audit" : 25,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 2,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -67792,7 +67792,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:51:40",
+  "dateTimeFetched" : "2020-04-11 10:52:46",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Campobasso—Stato Civile, 1809–1911 [Parte A]",
   "state" : "ACTIVE"
@@ -67922,48 +67922,48 @@
   "auditBatchCount" : 2857,
   "imageCount" : 243727,
   "blockedCount" : 23384,
-  "iesAuditBatchCount" : 765,
+  "iesAuditBatchCount" : 796,
   "iesCountsNoAudit" : {
     "imagesetCount" : 200,
-    "batchCount" : 15977,
-    "images" : 83862,
-    "recordCount" : 128710
+    "batchCount" : 16524,
+    "images" : 85817,
+    "recordCount" : 131034
   },
   "exportStateCounts" : {
-    "accepted" : 51942,
+    "accepted" : 52946,
     "exported" : 498,
     "failed" : 0,
-    "inProgress" : 4777,
-    "audit" : 2918,
+    "inProgress" : 5705,
+    "audit" : 3032,
     "blocked" : 23384,
-    "duplicate" : 264,
-    "ned" : 2387,
+    "duplicate" : 267,
+    "ned" : 2397,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 278,
+    "rejected" : 285,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 332
+    "noPersonas" : 335
   },
   "exportStateDiffs" : {
-    "accepted" : 901,
-    "exported" : -1,
+    "accepted" : 1004,
+    "exported" : 0,
     "failed" : 0,
-    "inProgress" : -80,
-    "audit" : 69,
+    "inProgress" : 928,
+    "audit" : 114,
     "blocked" : 0,
-    "duplicate" : 6,
-    "ned" : 5,
+    "duplicate" : 3,
+    "ned" : 10,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 9,
+    "rejected" : 7,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 3
   },
-  "dateTimeFetched" : "2020-04-09 20:55:22",
+  "dateTimeFetched" : "2020-04-11 10:56:36",
   "batchesWithTooManyImages" : { },
   "name" : "Brasil, Paraná—Registro Civil, 1852–1996 [Parte A]",
   "state" : "ACTIVE"
@@ -68780,19 +68780,19 @@
   "iesAuditBatchCount" : 1107,
   "iesCountsNoAudit" : {
     "imagesetCount" : 174,
-    "batchCount" : 22301,
-    "images" : 109143,
-    "recordCount" : 313927
+    "batchCount" : 22302,
+    "images" : 109146,
+    "recordCount" : 313929
   },
   "exportStateCounts" : {
-    "accepted" : 87712,
+    "accepted" : 87714,
     "exported" : 2650,
     "failed" : 0,
     "inProgress" : 29,
     "audit" : 4821,
     "blocked" : 11942,
     "duplicate" : 1549,
-    "ned" : 5023,
+    "ned" : 5024,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -68802,14 +68802,14 @@
     "noPersonas" : 145
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 2,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -68818,7 +68818,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:34:01",
+  "dateTimeFetched" : "2020-04-11 10:32:51",
   "batchesWithTooManyImages" : { },
   "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte F]",
   "state" : "ACTIVE"
@@ -68932,7 +68932,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:32:22",
+  "dateTimeFetched" : "2020-04-11 10:30:54",
   "batchesWithTooManyImages" : { },
   "name" : "Slovenija, Ljubljana—Pogrebni dokumenti, 1937—1970 [Del 4]",
   "state" : "ACTIVE"
@@ -69352,17 +69352,17 @@
     "imagesetCount" : 200,
     "batchCount" : 49801,
     "images" : 131533,
-    "recordCount" : 178641
+    "recordCount" : 180039
   },
   "exportStateCounts" : {
-    "accepted" : 24779,
+    "accepted" : 24976,
     "exported" : 2310,
     "failed" : 5,
-    "inProgress" : 93768,
+    "inProgress" : 93596,
     "audit" : 6249,
     "blocked" : 6642,
-    "duplicate" : 574,
-    "ned" : 3397,
+    "duplicate" : 576,
+    "ned" : 3370,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -69372,23 +69372,23 @@
     "noPersonas" : 23
   },
   "exportStateDiffs" : {
-    "accepted" : 131,
+    "accepted" : 197,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -115,
+    "inProgress" : -172,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : -18,
+    "duplicate" : 2,
+    "ned" : -27,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 1,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:47:41",
+  "dateTimeFetched" : "2020-04-11 10:48:24",
   "batchesWithTooManyImages" : { },
   "name" : "Bolivia, Departamento de La Paz—Registros de la Iglesia Católica, 1627–1965 [Parte A]",
   "state" : "ACTIVE"
@@ -69860,48 +69860,48 @@
   "auditBatchCount" : 16085,
   "imageCount" : 645413,
   "blockedCount" : 92645,
-  "iesAuditBatchCount" : 9395,
+  "iesAuditBatchCount" : 9535,
   "iesCountsNoAudit" : {
     "imagesetCount" : 317,
-    "batchCount" : 188077,
-    "images" : 456671,
-    "recordCount" : 1629496
+    "batchCount" : 190959,
+    "images" : 460424,
+    "recordCount" : 1641564
   },
   "exportStateCounts" : {
-    "accepted" : 225022,
+    "accepted" : 226234,
     "exported" : 6872,
     "failed" : 0,
-    "inProgress" : 112450,
-    "audit" : 18038,
+    "inProgress" : 115016,
+    "audit" : 18216,
     "blocked" : 93134,
     "duplicate" : 871,
-    "ned" : 17915,
+    "ned" : 17882,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 361,
+    "rejected" : 368,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 47
   },
   "exportStateDiffs" : {
-    "accepted" : 792,
+    "accepted" : 1212,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1549,
-    "audit" : 126,
+    "inProgress" : 2566,
+    "audit" : 178,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -11,
+    "ned" : -33,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 8,
+    "rejected" : 7,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:28:19",
+  "dateTimeFetched" : "2020-04-11 10:26:22",
   "batchesWithTooManyImages" : {
     "3EBA7D58-D5DB-4021-9100-21E0B5D643EA" : 2622
   },
@@ -70948,12 +70948,12 @@
   "iesAuditBatchCount" : 179,
   "iesCountsNoAudit" : {
     "imagesetCount" : 76,
-    "batchCount" : 12197,
-    "images" : 23562,
-    "recordCount" : 39394
+    "batchCount" : 12203,
+    "images" : 23568,
+    "recordCount" : 39477
   },
   "exportStateCounts" : {
-    "accepted" : 3567,
+    "accepted" : 3573,
     "exported" : 6,
     "failed" : 0,
     "inProgress" : 8538,
@@ -70973,7 +70973,7 @@
     "accepted" : 6,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -2,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -70986,7 +70986,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:46:01",
+  "dateTimeFetched" : "2020-04-11 10:46:37",
   "batchesWithTooManyImages" : { },
   "name" : "Sverige, Örebro—Kyrkoböcker, 1650–1860 [Del 10D]",
   "state" : "ACTIVE"
@@ -71271,7 +71271,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:37:24",
+  "dateTimeFetched" : "2020-04-11 10:36:51",
   "batchesWithTooManyImages" : { },
   "name" : "Venezuela, Caracas—Registros Parroquiales, 1578–1947 [Parte E]",
   "state" : "ACTIVE"
@@ -72601,19 +72601,19 @@
   "iesAuditBatchCount" : 2570,
   "iesCountsNoAudit" : {
     "imagesetCount" : 51,
-    "batchCount" : 51405,
-    "images" : 260419,
-    "recordCount" : 254625
+    "batchCount" : 51406,
+    "images" : 260424,
+    "recordCount" : 254635
   },
   "exportStateCounts" : {
-    "accepted" : 254110,
+    "accepted" : 254120,
     "exported" : 255,
     "failed" : 0,
     "inProgress" : 35,
     "audit" : 12844,
     "blocked" : 3549,
     "duplicate" : 2173,
-    "ned" : 297,
+    "ned" : 292,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -72623,14 +72623,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 10,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -5,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -72639,7 +72639,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:53:50",
+  "dateTimeFetched" : "2020-04-11 10:54:56",
   "batchesWithTooManyImages" : { },
   "name" : "US, Puerto Rico—World War I Draft Registration Cards, 1917–1918 [Part B]",
   "state" : "ACTIVE"
@@ -72967,13 +72967,13 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 77,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -80,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 3,
+    "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -72983,7 +72983,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-11 07:40:19",
+  "dateTimeFetched" : "2020-04-11 11:18:13",
   "batchesWithTooManyImages" : { },
   "name" : "Hungary, Budapest—Civil Registration, Districts 1-13, 1895–1973 [Part A]",
   "state" : "ACTIVE"
@@ -73097,7 +73097,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:21:22",
+  "dateTimeFetched" : "2020-04-11 11:18:45",
   "batchesWithTooManyImages" : { },
   "name" : "Guatemala—Civil Registration, 1885–2009 [Part B]",
   "state" : "ACTIVE"
@@ -74996,21 +74996,21 @@
   "auditBatchCount" : 975,
   "imageCount" : 80012,
   "blockedCount" : 1613,
-  "iesAuditBatchCount" : 162,
+  "iesAuditBatchCount" : 166,
   "iesCountsNoAudit" : {
     "imagesetCount" : 102,
-    "batchCount" : 3257,
-    "images" : 14350,
-    "recordCount" : 48807
+    "batchCount" : 3283,
+    "images" : 14454,
+    "recordCount" : 49245
   },
   "exportStateCounts" : {
-    "accepted" : 9993,
+    "accepted" : 10076,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 2003,
-    "audit" : 635,
+    "inProgress" : 2015,
+    "audit" : 651,
     "blocked" : 1613,
-    "duplicate" : 727,
+    "duplicate" : 736,
     "ned" : 14,
     "unreadable" : 0,
     "notExported" : 0,
@@ -75021,13 +75021,13 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 46,
+    "accepted" : 83,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -16,
-    "audit" : 0,
+    "inProgress" : 12,
+    "audit" : 16,
     "blocked" : 0,
-    "duplicate" : 6,
+    "duplicate" : 9,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -75037,7 +75037,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:35:14",
+  "dateTimeFetched" : "2020-04-11 10:34:21",
   "batchesWithTooManyImages" : { },
   "name" : "Hungary, Budapest—Civil Registration, Districts 1-13, 1895–1973 [Part E]",
   "state" : "ACTIVE"
@@ -75226,16 +75226,16 @@
   "blockedCount" : 435004,
   "iesAuditBatchCount" : 0,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 4,
-    "batchCount" : 1885,
-    "images" : 12454,
+    "imagesetCount" : 5,
+    "batchCount" : 1892,
+    "images" : 12475,
     "recordCount" : 0
   },
   "exportStateCounts" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 5081,
+    "inProgress" : 5102,
     "audit" : 0,
     "blocked" : 7373,
     "duplicate" : 0,
@@ -75252,7 +75252,7 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 21,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -75265,7 +75265,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:46:20",
+  "dateTimeFetched" : "2020-04-11 10:46:58",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Potenza—Stato Civile, 1809–1865 [Parte E]",
   "state" : "ACTIVE"
@@ -76255,17 +76255,17 @@
     "imagesetCount" : 160,
     "batchCount" : 101743,
     "images" : 107470,
-    "recordCount" : 186409
+    "recordCount" : 187014
   },
   "exportStateCounts" : {
-    "accepted" : 47875,
+    "accepted" : 48028,
     "exported" : 1461,
     "failed" : 0,
-    "inProgress" : 51216,
+    "inProgress" : 51064,
     "audit" : 5116,
     "blocked" : 5075,
     "duplicate" : 8,
-    "ned" : 1804,
+    "ned" : 1803,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -76275,23 +76275,23 @@
     "noPersonas" : 4
   },
   "exportStateDiffs" : {
-    "accepted" : 92,
+    "accepted" : 153,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -94,
+    "inProgress" : -152,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 2,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:36:07",
+  "dateTimeFetched" : "2020-04-11 10:35:25",
   "batchesWithTooManyImages" : { },
   "name" : "Guatemala (Lote rápido)—Registro Civil, 1800–1950 [Parte D]",
   "state" : "ACTIVE"
@@ -76426,17 +76426,17 @@
     "imagesetCount" : 129,
     "batchCount" : 9447,
     "images" : 50450,
-    "recordCount" : 23780
+    "recordCount" : 24156
   },
   "exportStateCounts" : {
-    "accepted" : 13768,
+    "accepted" : 13974,
     "exported" : 14,
     "failed" : 0,
-    "inProgress" : 31839,
+    "inProgress" : 31632,
     "audit" : 2195,
     "blocked" : 4446,
     "duplicate" : 41,
-    "ned" : 311,
+    "ned" : 312,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -76446,14 +76446,14 @@
     "noPersonas" : 11
   },
   "exportStateDiffs" : {
-    "accepted" : 78,
+    "accepted" : 206,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -78,
+    "inProgress" : -207,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -76462,7 +76462,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:05:47",
+  "dateTimeFetched" : "2020-04-11 11:08:08",
   "batchesWithTooManyImages" : { },
   "name" : "Guatemala—Civil Registration, 1885–2009 [Part I]",
   "state" : "ACTIVE"
@@ -76861,7 +76861,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:41:03",
+  "dateTimeFetched" : "2020-04-11 10:41:01",
   "batchesWithTooManyImages" : { },
   "name" : "Nicaragua—Registro Civil, Nacimientos, 1809-2013 [Parte I]",
   "state" : "ACTIVE"
@@ -77276,48 +77276,48 @@
   "auditBatchCount" : 1807,
   "imageCount" : 36683,
   "blockedCount" : 477,
-  "iesAuditBatchCount" : 1706,
+  "iesAuditBatchCount" : 1711,
   "iesCountsNoAudit" : {
     "imagesetCount" : 11,
-    "batchCount" : 34215,
-    "images" : 34707,
-    "recordCount" : 991106
+    "batchCount" : 34349,
+    "images" : 34842,
+    "recordCount" : 994926
   },
   "exportStateCounts" : {
-    "accepted" : 28558,
+    "accepted" : 28670,
     "exported" : 2106,
     "failed" : 0,
-    "inProgress" : 234,
-    "audit" : 1708,
+    "inProgress" : 250,
+    "audit" : 1713,
     "blocked" : 477,
     "duplicate" : 0,
     "ned" : 3214,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 91,
+    "rejected" : 97,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 27
+    "noPersonas" : 28
   },
   "exportStateDiffs" : {
-    "accepted" : 43,
+    "accepted" : 112,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 20,
-    "audit" : 3,
+    "inProgress" : 16,
+    "audit" : 5,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -1,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 2,
+    "rejected" : 6,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 1
   },
-  "dateTimeFetched" : "2020-04-09 20:22:33",
+  "dateTimeFetched" : "2020-04-11 10:20:27",
   "batchesWithTooManyImages" : { },
   "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte B]",
   "state" : "ACTIVE"
@@ -78188,22 +78188,22 @@
   "auditBatchCount" : 1173,
   "imageCount" : 129222,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1074,
+  "iesAuditBatchCount" : 1094,
   "iesCountsNoAudit" : {
     "imagesetCount" : 341,
     "batchCount" : 23976,
     "images" : 129222,
-    "recordCount" : 53845
+    "recordCount" : 55611
   },
   "exportStateCounts" : {
-    "accepted" : 31085,
+    "accepted" : 32071,
     "exported" : 1,
     "failed" : 0,
-    "inProgress" : 74136,
-    "audit" : 4749,
+    "inProgress" : 73091,
+    "audit" : 4849,
     "blocked" : 22801,
-    "duplicate" : 94,
-    "ned" : 1091,
+    "duplicate" : 95,
+    "ned" : 1149,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -78213,23 +78213,23 @@
     "noPersonas" : 5
   },
   "exportStateDiffs" : {
-    "accepted" : 754,
+    "accepted" : 986,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -781,
-    "audit" : 102,
+    "inProgress" : -1045,
+    "audit" : 100,
     "blocked" : 0,
     "duplicate" : 1,
-    "ned" : 23,
+    "ned" : 58,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 3,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:04:36",
+  "dateTimeFetched" : "2020-04-11 11:06:52",
   "batchesWithTooManyImages" : { },
   "name" : "US, Connecticut—Naturalization Records, 1795–1942",
   "state" : "ACTIVE"
@@ -78817,22 +78817,22 @@
   "auditBatchCount" : 2325,
   "imageCount" : 68778,
   "blockedCount" : 2979,
-  "iesAuditBatchCount" : 564,
+  "iesAuditBatchCount" : 574,
   "iesCountsNoAudit" : {
     "imagesetCount" : 57,
-    "batchCount" : 11521,
-    "images" : 25046,
-    "recordCount" : 52218
+    "batchCount" : 11709,
+    "images" : 25246,
+    "recordCount" : 52288
   },
   "exportStateCounts" : {
-    "accepted" : 10014,
+    "accepted" : 10022,
     "exported" : 145,
     "failed" : 0,
-    "inProgress" : 6110,
-    "audit" : 1082,
+    "inProgress" : 6304,
+    "audit" : 1096,
     "blocked" : 2887,
     "duplicate" : 167,
-    "ned" : 5661,
+    "ned" : 5659,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -78842,14 +78842,14 @@
     "noPersonas" : 31
   },
   "exportStateDiffs" : {
-    "accepted" : 3,
+    "accepted" : 8,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 91,
-    "audit" : 4,
+    "inProgress" : 194,
+    "audit" : 14,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -78858,7 +78858,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:32:37",
+  "dateTimeFetched" : "2020-04-11 10:31:09",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines, Camarines Sur, Caceres—Registros Parroquiales, 1716–1977 [Parte B]",
   "state" : "ACTIVE"
@@ -78993,17 +78993,17 @@
     "imagesetCount" : 160,
     "batchCount" : 8737,
     "images" : 45144,
-    "recordCount" : 36665
+    "recordCount" : 36673
   },
   "exportStateCounts" : {
-    "accepted" : 27920,
+    "accepted" : 27928,
     "exported" : 482,
     "failed" : 0,
-    "inProgress" : 112,
+    "inProgress" : 101,
     "audit" : 2046,
     "blocked" : 3556,
-    "duplicate" : 261,
-    "ned" : 12719,
+    "duplicate" : 263,
+    "ned" : 12720,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -79013,14 +79013,14 @@
     "noPersonas" : 84
   },
   "exportStateDiffs" : {
-    "accepted" : 26,
+    "accepted" : 8,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -29,
+    "inProgress" : -11,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 3,
+    "duplicate" : 2,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -79029,7 +79029,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:41:47",
+  "dateTimeFetched" : "2020-04-11 10:41:52",
   "batchesWithTooManyImages" : { },
   "name" : "Guatemala—Registros Civiles, 1885–2009 [Part D]",
   "state" : "ACTIVE"
@@ -80609,10 +80609,10 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 6,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -6,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -80625,7 +80625,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:01:36",
+  "dateTimeFetched" : "2020-04-11 11:03:21",
   "batchesWithTooManyImages" : { },
   "name" : "US, California, San Francisco—Registers of Chinese Laborers Returning to the United States, 1882–1888 [Part A]",
   "state" : "ACTIVE"
@@ -81154,19 +81154,19 @@
   "auditBatchCount" : 984,
   "imageCount" : 59980,
   "blockedCount" : 19643,
-  "iesAuditBatchCount" : 438,
+  "iesAuditBatchCount" : 446,
   "iesCountsNoAudit" : {
     "imagesetCount" : 60,
-    "batchCount" : 8919,
-    "images" : 39812,
-    "recordCount" : 37772
+    "batchCount" : 9099,
+    "images" : 40001,
+    "recordCount" : 38359
   },
   "exportStateCounts" : {
-    "accepted" : 5969,
+    "accepted" : 6008,
     "exported" : 40,
     "failed" : 0,
-    "inProgress" : 13865,
-    "audit" : 968,
+    "inProgress" : 14015,
+    "audit" : 976,
     "blocked" : 19643,
     "duplicate" : 99,
     "ned" : 195,
@@ -81179,11 +81179,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 18,
+    "accepted" : 39,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 81,
-    "audit" : 7,
+    "inProgress" : 150,
+    "audit" : 8,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -81195,7 +81195,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:32:56",
+  "dateTimeFetched" : "2020-04-11 10:31:34",
   "batchesWithTooManyImages" : { },
   "name" : "Österreich, Wien—Jüdisches Register von Geburten, Trauungen und Sterbefällen, 1784–1940 [Teil B]",
   "state" : "ACTIVE"
@@ -81423,7 +81423,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:07:46",
+  "dateTimeFetched" : "2020-04-11 11:10:06",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BK]",
   "state" : "ACTIVE"
@@ -81553,22 +81553,22 @@
   "auditBatchCount" : 14912,
   "imageCount" : 559530,
   "blockedCount" : 41144,
-  "iesAuditBatchCount" : 4728,
+  "iesAuditBatchCount" : 4813,
   "iesCountsNoAudit" : {
     "imagesetCount" : 388,
-    "batchCount" : 273873,
-    "images" : 468612,
-    "recordCount" : 369439
+    "batchCount" : 275570,
+    "images" : 475447,
+    "recordCount" : 370011
   },
   "exportStateCounts" : {
-    "accepted" : 129780,
+    "accepted" : 129967,
     "exported" : 679,
     "failed" : 10,
-    "inProgress" : 286275,
-    "audit" : 12368,
+    "inProgress" : 292919,
+    "audit" : 12694,
     "blocked" : 41173,
-    "duplicate" : 1780,
-    "ned" : 8058,
+    "duplicate" : 1782,
+    "ned" : 8060,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -81578,23 +81578,23 @@
     "noPersonas" : 240
   },
   "exportStateDiffs" : {
-    "accepted" : 48,
+    "accepted" : 187,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 4090,
-    "audit" : 195,
+    "inProgress" : 6644,
+    "audit" : 326,
     "blocked" : 0,
     "duplicate" : 2,
-    "ned" : 0,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 5,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:26:54",
+  "dateTimeFetched" : "2020-04-11 10:24:55",
   "batchesWithTooManyImages" : { },
   "name" : "El Salvador, Registros Civiles, 1836–2001 [Parte D]",
   "state" : "ACTIVE"
@@ -81615,17 +81615,17 @@
     "imagesetCount" : 28,
     "batchCount" : 6764,
     "images" : 20813,
-    "recordCount" : 54031
+    "recordCount" : 55433
   },
   "exportStateCounts" : {
-    "accepted" : 13723,
+    "accepted" : 14230,
     "exported" : 6,
     "failed" : 0,
-    "inProgress" : 1958,
+    "inProgress" : 1417,
     "audit" : 867,
     "blocked" : 3394,
-    "duplicate" : 453,
-    "ned" : 1249,
+    "duplicate" : 463,
+    "ned" : 1273,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -81635,23 +81635,23 @@
     "noPersonas" : 10
   },
   "exportStateDiffs" : {
-    "accepted" : 305,
+    "accepted" : 507,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -325,
+    "inProgress" : -541,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 5,
-    "ned" : 14,
+    "duplicate" : 10,
+    "ned" : 24,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:43:47",
+  "dateTimeFetched" : "2020-04-11 10:44:07",
   "batchesWithTooManyImages" : { },
   "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte G]",
   "state" : "ACTIVE"
@@ -82337,7 +82337,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:04:21",
+  "dateTimeFetched" : "2020-04-11 11:06:36",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Teramo—Civil Registration, 1818–1938 [Part K]",
   "state" : "ACTIVE"
@@ -84291,48 +84291,48 @@
   "auditBatchCount" : 876,
   "imageCount" : 20344,
   "blockedCount" : 2845,
-  "iesAuditBatchCount" : 865,
+  "iesAuditBatchCount" : 867,
   "iesCountsNoAudit" : {
     "imagesetCount" : 18,
-    "batchCount" : 17293,
-    "images" : 20140,
-    "recordCount" : 159267
+    "batchCount" : 17380,
+    "images" : 20227,
+    "recordCount" : 201386
   },
   "exportStateCounts" : {
-    "accepted" : 12802,
-    "exported" : 53,
+    "accepted" : 15598,
+    "exported" : 22,
     "failed" : 0,
-    "inProgress" : 3332,
-    "audit" : 865,
+    "inProgress" : 520,
+    "audit" : 867,
     "blocked" : 2845,
     "duplicate" : 0,
-    "ned" : 983,
+    "ned" : 1086,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 110,
+    "rejected" : 139,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 15
+    "noPersonas" : 17
   },
   "exportStateDiffs" : {
-    "accepted" : 2303,
-    "exported" : -52,
+    "accepted" : 2796,
+    "exported" : -31,
     "failed" : 0,
-    "inProgress" : -2159,
-    "audit" : 13,
+    "inProgress" : -2812,
+    "audit" : 2,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 142,
+    "ned" : 103,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 24,
+    "rejected" : 29,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 2
   },
-  "dateTimeFetched" : "2020-04-09 21:05:56",
+  "dateTimeFetched" : "2020-04-11 11:08:19",
   "batchesWithTooManyImages" : { },
   "name" : "US, South Dakota—Grave Registration Records, 1940–1941",
   "state" : "ACTIVE"
@@ -84344,52 +84344,52 @@
     "state" : "ACTIVE"
   },
   "imagesetCount" : 105,
-  "batchCount" : 37744,
-  "auditBatchCount" : 1802,
+  "batchCount" : 37564,
+  "auditBatchCount" : 1794,
   "imageCount" : 170832,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1772,
+  "iesAuditBatchCount" : 1765,
   "iesCountsNoAudit" : {
     "imagesetCount" : 105,
-    "batchCount" : 35942,
+    "batchCount" : 35770,
     "images" : 170832,
-    "recordCount" : 80679
+    "recordCount" : 81816
   },
   "exportStateCounts" : {
-    "accepted" : 64409,
+    "accepted" : 65093,
     "exported" : 13,
     "failed" : 0,
-    "inProgress" : 76524,
-    "audit" : 7047,
-    "blocked" : 27838,
-    "duplicate" : 1140,
-    "ned" : 901,
+    "inProgress" : 75159,
+    "audit" : 7019,
+    "blocked" : 28516,
+    "duplicate" : 1155,
+    "ned" : 888,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 7,
+    "rejected" : 8,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 890,
+    "accepted" : 684,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -970,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 20,
-    "ned" : 58,
+    "inProgress" : -1365,
+    "audit" : -28,
+    "blocked" : 678,
+    "duplicate" : 15,
+    "ned" : -13,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 2,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:13:45",
+  "dateTimeFetched" : "2020-04-11 11:22:03",
   "batchesWithTooManyImages" : { },
   "name" : "US, New Hampshire—Naturalization Records, 1771–1955",
   "state" : "ACTIVE"
@@ -84638,43 +84638,43 @@
     "imagesetCount" : 369,
     "batchCount" : 33697,
     "images" : 171031,
-    "recordCount" : 253138
+    "recordCount" : 258958
   },
   "exportStateCounts" : {
-    "accepted" : 129505,
+    "accepted" : 132464,
     "exported" : 1006,
     "failed" : 0,
-    "inProgress" : 36406,
+    "inProgress" : 33434,
     "audit" : 8338,
     "blocked" : 3681,
-    "duplicate" : 66,
-    "ned" : 346,
+    "duplicate" : 68,
+    "ned" : 355,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 10,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 11
+    "noPersonas" : 13
   },
   "exportStateDiffs" : {
-    "accepted" : 2083,
+    "accepted" : 2959,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -2085,
+    "inProgress" : -2972,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : 3,
+    "duplicate" : 2,
+    "ned" : 9,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 2
   },
-  "dateTimeFetched" : "2020-04-09 20:47:22",
+  "dateTimeFetched" : "2020-04-11 10:48:03",
   "batchesWithTooManyImages" : { },
   "name" : "Peru, Diocesis de Huacho—Parish Records, 1560–2016 [Part H]",
   "state" : "ACTIVE"
@@ -84975,22 +84975,22 @@
   "auditBatchCount" : 1141,
   "imageCount" : 164953,
   "blockedCount" : 50472,
-  "iesAuditBatchCount" : 269,
+  "iesAuditBatchCount" : 271,
   "iesCountsNoAudit" : {
     "imagesetCount" : 158,
-    "batchCount" : 5556,
-    "images" : 78174,
-    "recordCount" : 8225
+    "batchCount" : 5567,
+    "images" : 78229,
+    "recordCount" : 8240
   },
   "exportStateCounts" : {
-    "accepted" : 5254,
+    "accepted" : 5259,
     "exported" : 103,
     "failed" : 0,
-    "inProgress" : 11245,
-    "audit" : 1341,
+    "inProgress" : 11286,
+    "audit" : 1351,
     "blocked" : 50472,
-    "duplicate" : 322,
-    "ned" : 10773,
+    "duplicate" : 319,
+    "ned" : 10785,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85000,14 +85000,14 @@
     "noPersonas" : 5
   },
   "exportStateDiffs" : {
-    "accepted" : 28,
+    "accepted" : 5,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 66,
-    "audit" : 5,
+    "inProgress" : 41,
+    "audit" : 10,
     "blocked" : 0,
-    "duplicate" : 2,
-    "ned" : -1,
+    "duplicate" : -3,
+    "ned" : 12,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85016,7 +85016,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:34:54",
+  "dateTimeFetched" : "2020-04-11 10:33:55",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Chieti—Stato Civile, 1875–1930 [Parte A]",
   "state" : "ACTIVE"
@@ -85130,7 +85130,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:55:49",
+  "dateTimeFetched" : "2020-04-11 10:57:08",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Entre Ríos—Registro Civil, 1860–1965 [Parte D]",
   "state" : "ACTIVE"
@@ -85322,13 +85322,13 @@
     "imagesetCount" : 417,
     "batchCount" : 5887,
     "images" : 31418,
-    "recordCount" : 27046
+    "recordCount" : 27195
   },
   "exportStateCounts" : {
-    "accepted" : 15973,
+    "accepted" : 16098,
     "exported" : 109,
     "failed" : 0,
-    "inProgress" : 11243,
+    "inProgress" : 11118,
     "audit" : 1383,
     "blocked" : 2840,
     "duplicate" : 26,
@@ -85342,10 +85342,10 @@
     "noPersonas" : 12
   },
   "exportStateDiffs" : {
-    "accepted" : 29,
+    "accepted" : 125,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -29,
+    "inProgress" : -125,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -85358,7 +85358,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:02:18",
+  "dateTimeFetched" : "2020-04-11 11:04:18",
   "batchesWithTooManyImages" : { },
   "name" : "Haïti—Registres de l'Etat Civil des Décès, 1824–2013 [Partie F]",
   "state" : "ACTIVE"
@@ -85436,17 +85436,17 @@
     "imagesetCount" : 94,
     "batchCount" : 5996,
     "images" : 33356,
-    "recordCount" : 25098
+    "recordCount" : 25312
   },
   "exportStateCounts" : {
-    "accepted" : 16883,
+    "accepted" : 17010,
     "exported" : 1248,
     "failed" : 0,
-    "inProgress" : 7666,
+    "inProgress" : 7548,
     "audit" : 1471,
     "blocked" : 3600,
-    "duplicate" : 182,
-    "ned" : 3750,
+    "duplicate" : 184,
+    "ned" : 3739,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85456,14 +85456,14 @@
     "noPersonas" : 24
   },
   "exportStateDiffs" : {
-    "accepted" : 21,
+    "accepted" : 127,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -21,
+    "inProgress" : -118,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 2,
+    "ned" : -11,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85472,7 +85472,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:49:42",
+  "dateTimeFetched" : "2020-04-11 10:50:38",
   "batchesWithTooManyImages" : { },
   "name" : "México, Sinaloa—Registro Civil, 1861–1929 [Parte G]",
   "state" : "ACTIVE"
@@ -85757,7 +85757,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:31:34",
+  "dateTimeFetched" : "2020-04-11 10:30:01",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Palermo—Morti, 1820–1865 [Parte A]",
   "state" : "ACTIVE"
@@ -85778,17 +85778,17 @@
     "imagesetCount" : 526,
     "batchCount" : 49915,
     "images" : 298377,
-    "recordCount" : 189886
+    "recordCount" : 191612
   },
   "exportStateCounts" : {
-    "accepted" : 159163,
+    "accepted" : 160887,
     "exported" : 30239,
     "failed" : 0,
-    "inProgress" : 44178,
+    "inProgress" : 42363,
     "audit" : 11759,
     "blocked" : 61911,
-    "duplicate" : 2065,
-    "ned" : 814,
+    "duplicate" : 2163,
+    "ned" : 807,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85798,14 +85798,14 @@
     "noPersonas" : 7
   },
   "exportStateDiffs" : {
-    "accepted" : 1057,
+    "accepted" : 1724,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -1086,
+    "inProgress" : -1815,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 33,
-    "ned" : -4,
+    "duplicate" : 98,
+    "ned" : -7,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85814,7 +85814,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:12:29",
+  "dateTimeFetched" : "2020-04-11 11:15:33",
   "batchesWithTooManyImages" : { },
   "name" : "Dominican Republic, Residence Requests, 1932–1969 [Part A]",
   "state" : "ACTIVE"
@@ -86726,7 +86726,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 21:03:28",
+  "dateTimeFetched" : "2020-04-11 11:05:36",
   "batchesWithTooManyImages" : { },
   "name" : "Nicaragua—Civil Registration, 1809–2013 [Part B]",
   "state" : "ACTIVE"
@@ -87087,15 +87087,15 @@
   "iesAuditBatchCount" : 70,
   "iesCountsNoAudit" : {
     "imagesetCount" : 9,
-    "batchCount" : 1427,
-    "images" : 1796,
-    "recordCount" : 21786
+    "batchCount" : 1431,
+    "images" : 1800,
+    "recordCount" : 21812
   },
   "exportStateCounts" : {
-    "accepted" : 1355,
+    "accepted" : 1357,
     "exported" : 31,
     "failed" : 0,
-    "inProgress" : 13,
+    "inProgress" : 15,
     "audit" : 70,
     "blocked" : 366,
     "duplicate" : 0,
@@ -87109,10 +87109,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 3,
+    "accepted" : 2,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 2,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -87125,7 +87125,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:30:02",
+  "dateTimeFetched" : "2020-04-11 10:28:19",
   "batchesWithTooManyImages" : { },
   "name" : "Hrvatska, Delnički dekanat—crkvene knjige, 1725–1926 [Dio B]",
   "state" : "ACTIVE"
@@ -87809,7 +87809,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:56:09",
+  "dateTimeFetched" : "2020-04-11 10:57:30",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907–1995 [Parte AZ]",
   "state" : "ACTIVE"
@@ -88683,19 +88683,19 @@
   "iesAuditBatchCount" : 1199,
   "iesCountsNoAudit" : {
     "imagesetCount" : 56,
-    "batchCount" : 23911,
-    "images" : 78445,
-    "recordCount" : 7706
+    "batchCount" : 23912,
+    "images" : 78448,
+    "recordCount" : 7708
   },
   "exportStateCounts" : {
-    "accepted" : 7565,
+    "accepted" : 7568,
     "exported" : 1,
     "failed" : 0,
-    "inProgress" : 59493,
+    "inProgress" : 59496,
     "audit" : 3597,
     "blocked" : 6712,
-    "duplicate" : 88,
-    "ned" : 4585,
+    "duplicate" : 87,
+    "ned" : 4583,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -88705,14 +88705,14 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 1,
-    "exported" : -1,
+    "accepted" : 3,
+    "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 3,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 1,
-    "ned" : -1,
+    "duplicate" : -1,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -88721,7 +88721,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:49:30",
+  "dateTimeFetched" : "2020-04-11 10:50:23",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York—Index to Passenger Lists of Vessels Arriving at New York City, 1897–1902",
   "state" : "ACTIVE"
@@ -88911,15 +88911,15 @@
   "iesAuditBatchCount" : 119,
   "iesCountsNoAudit" : {
     "imagesetCount" : 35,
-    "batchCount" : 2363,
-    "images" : 4982,
+    "batchCount" : 2364,
+    "images" : 4986,
     "recordCount" : 10691
   },
   "exportStateCounts" : {
     "accepted" : 1755,
     "exported" : 23,
     "failed" : 0,
-    "inProgress" : 2534,
+    "inProgress" : 2538,
     "audit" : 235,
     "blocked" : 426,
     "duplicate" : 93,
@@ -88936,7 +88936,7 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 4,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -88949,7 +88949,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:30:20",
+  "dateTimeFetched" : "2020-04-11 10:28:40",
   "batchesWithTooManyImages" : { },
   "name" : "Česká Republika (Tschechien), Litoměřice—Matriky, 1552–1905 [část 1D]",
   "state" : "ACTIVE"
@@ -89883,19 +89883,19 @@
   "iesAuditBatchCount" : 1575,
   "iesCountsNoAudit" : {
     "imagesetCount" : 13,
-    "batchCount" : 31277,
-    "images" : 33028,
-    "recordCount" : 592429
+    "batchCount" : 31279,
+    "images" : 33030,
+    "recordCount" : 592963
   },
   "exportStateCounts" : {
-    "accepted" : 25746,
+    "accepted" : 25766,
     "exported" : 1649,
     "failed" : 0,
-    "inProgress" : 961,
+    "inProgress" : 944,
     "audit" : 1579,
     "blocked" : 1662,
     "duplicate" : 2,
-    "ned" : 2949,
+    "ned" : 2948,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -89905,10 +89905,10 @@
     "noPersonas" : 11
   },
   "exportStateDiffs" : {
-    "accepted" : 5,
+    "accepted" : 20,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : -17,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -89921,7 +89921,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:36:22",
+  "dateTimeFetched" : "2020-04-11 10:35:41",
   "batchesWithTooManyImages" : { },
   "name" : "Uruguay—Archivo General de la Nación, Listas de Pasajeros, 1888–1930 [Parte C]",
   "state" : "ACTIVE"
@@ -91704,19 +91704,19 @@
   "auditBatchCount" : 162,
   "imageCount" : 3273,
   "blockedCount" : 40,
-  "iesAuditBatchCount" : 108,
+  "iesAuditBatchCount" : 145,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
-    "batchCount" : 2117,
-    "images" : 2157,
-    "recordCount" : 167
+    "batchCount" : 2897,
+    "images" : 2937,
+    "recordCount" : 2653
   },
   "exportStateCounts" : {
-    "accepted" : 36,
+    "accepted" : 633,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 2080,
-    "audit" : 108,
+    "inProgress" : 2263,
+    "audit" : 145,
     "blocked" : 40,
     "duplicate" : 0,
     "ned" : 1,
@@ -91729,11 +91729,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 28,
+    "accepted" : 597,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 850,
-    "audit" : 48,
+    "inProgress" : 183,
+    "audit" : 37,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -91745,7 +91745,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:55:30",
+  "dateTimeFetched" : "2020-04-11 10:56:46",
   "batchesWithTooManyImages" : { },
   "name" : "Uruguay—Índice del Registro Civil, 1900–1937 [Parte E]",
   "state" : "ACTIVE"
@@ -91916,7 +91916,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-09 20:22:45",
+  "dateTimeFetched" : "2020-04-11 10:20:40",
   "batchesWithTooManyImages" : { },
   "name" : "Liberia—Marriage Records, 1912–2015 [Part C]",
   "state" : "ACTIVE"
@@ -92559,48 +92559,48 @@
   "auditBatchCount" : 151,
   "imageCount" : 45361,
   "blockedCount" : 10385,
-  "iesAuditBatchCount" : 35,
+  "iesAuditBatchCount" : 36,
   "iesCountsNoAudit" : {
     "imagesetCount" : 31,
-    "batchCount" : 2838,
-    "images" : 42738,
-    "recordCount" : 494
+    "batchCount" : 2874,
+    "images" : 43240,
+    "recordCount" : 643
   },
   "exportStateCounts" : {
-    "accepted" : 479,
+    "accepted" : 625,
     "exported" : 8,
     "failed" : 0,
-    "inProgress" : 29981,
-    "audit" : 428,
+    "inProgress" : 30343,
+    "audit" : 436,
     "blocked" : 10385,
     "duplicate" : 17,
-    "ned" : 1861,
+    "ned" : 1852,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 7
+    "noPersonas" : 10
   },
   "exportStateDiffs" : {
-    "accepted" : 20,
+    "accepted" : 146,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 142,
-    "audit" : 15,
+    "inProgress" : 362,
+    "audit" : 8,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -9,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 3
   },
-  "dateTimeFetched" : "2020-04-09 20:48:28",
+  "dateTimeFetched" : "2020-04-11 10:49:20",
   "batchesWithTooManyImages" : { },
   "name" : "US, Hawaii—Circuit Court Divorce Records, 1849–1915",
   "state" : "ACTIVE"
