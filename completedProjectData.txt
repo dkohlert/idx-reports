@@ -34854,22 +34854,22 @@
   "auditBatchCount" : 228,
   "imageCount" : 21256,
   "blockedCount" : 4094,
-  "iesAuditBatchCount" : 195,
+  "iesAuditBatchCount" : 228,
   "iesCountsNoAudit" : {
     "imagesetCount" : 251,
     "batchCount" : 4404,
     "images" : 21245,
-    "recordCount" : 10213
+    "recordCount" : 11105
   },
   "exportStateCounts" : {
-    "accepted" : 6864,
+    "accepted" : 7468,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 10130,
-    "audit" : 763,
+    "inProgress" : 9487,
+    "audit" : 893,
     "blocked" : 4083,
-    "duplicate" : 23,
-    "ned" : 144,
+    "duplicate" : 30,
+    "ned" : 176,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -34879,14 +34879,14 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 948,
+    "accepted" : 604,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -1000,
-    "audit" : 67,
+    "inProgress" : -643,
+    "audit" : 130,
     "blocked" : 0,
-    "duplicate" : 13,
-    "ned" : 39,
+    "duplicate" : 7,
+    "ned" : 32,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -34895,7 +34895,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-11 11:10:53",
+  "dateTimeFetched" : "2020-04-12 15:14:32",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Avellino—Stato Civile, 1866–1947 [Parte 2M]",
   "state" : "ACTIVE"
