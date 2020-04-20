@@ -1,39 +1,39 @@
 [ {
   "project" : {
-    "projectId" : 1654,
-    "projectUUID" : "C4F542D4-BE18-416A-B38B-9BE31ADA5FE9",
-    "name" : "South Africa, Cape Province—Death Notices, 1834–1989 [Part B]",
+    "projectId" : 1718,
+    "projectUUID" : "06660EB2-3409-4817-8124-84FA2CCFB5DE",
+    "name" : "South Africa, Transvaal—Marriage Records, 1870–1930",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 555,
-  "batchCount" : 33992,
-  "auditBatchCount" : 1599,
+  "imagesetCount" : 177,
+  "batchCount" : 55629,
+  "auditBatchCount" : 2645,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 878309,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 1599,
+  "imageCount" : 554206,
+  "blockedCount" : 9773,
+  "iesAuditBatchCount" : 2645,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 555,
-    "batchCount" : 32393,
-    "images" : 878309,
-    "recordCount" : 1889541
+    "imagesetCount" : 177,
+    "batchCount" : 52983,
+    "images" : 534102,
+    "recordCount" : 254673
   },
   "exportStateCounts" : {
-    "accepted" : 278711,
-    "exported" : 544,
+    "accepted" : 253506,
+    "exported" : 157,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 14567,
-    "blocked" : 582576,
-    "duplicate" : 10715,
-    "ned" : 5929,
+    "audit" : 26186,
+    "blocked" : 9773,
+    "duplicate" : 269583,
+    "ned" : 1083,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 2
+    "noPersonas" : 0
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -52,11 +52,8 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 11:59:53",
-  "batchesWithTooManyImages" : {
-    "DA8C903B-AF38-4628-BF20-BEBDF84C9B25" : 413,
-    "2EBAAADB-0B42-4A46-A193-9E111FDD2B70" : 502
-  },
-  "name" : "South Africa, Cape Province—Death Notices, 1834–1989 [Part B]",
+  "dateTimeFetched" : "2020-04-19 12:01:57",
+  "batchesWithTooManyImages" : { },
+  "name" : "South Africa, Transvaal—Marriage Records, 1870–1930",
   "state" : "READY_FOR_DELIVERY"
 } ]
