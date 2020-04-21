@@ -15613,7 +15613,7 @@
     "projectId" : 3456,
     "projectUUID" : "0F843913-1E4F-4997-BB74-13F9495027E1",
     "name" : "Italy (Antenati Italiani), Grosseto—Civil Registration, Births, 1866–1899",
-    "state" : "ACTIVE"
+    "state" : "2"
   },
   "imagesetCount" : 451,
   "batchCount" : 6011,
@@ -15662,10 +15662,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 13:05:35",
+  "dateTimeFetched" : "2020-04-20 19:21:30",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Antenati Italiani), Grosseto—Civil Registration, Births, 1866–1899",
-  "state" : "ACTIVE"
+  "state" : "2"
 }, {
   "project" : {
     "projectId" : 1654,
@@ -41606,7 +41606,7 @@
     "projectId" : 2084,
     "projectUUID" : "7A308876-A667-4411-A7B0-44C33C600351",
     "name" : "Norge—Tinglysningskort, 1640–1903 [Del C]",
-    "state" : "ACTIVE"
+    "state" : "true"
   },
   "imagesetCount" : 52,
   "batchCount" : 27488,
@@ -41655,10 +41655,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:42:11",
+  "dateTimeFetched" : "2020-04-20 19:39:59",
   "batchesWithTooManyImages" : { },
   "name" : "Norge—Tinglysningskort, 1640–1903 [Del C]",
-  "state" : "ACTIVE"
+  "state" : "true"
 }, {
   "project" : {
     "projectId" : 2135,
@@ -46192,7 +46192,7 @@
     "projectId" : 3141,
     "projectUUID" : "C4084CEF-8A80-4C33-A83A-578420ABC0A3",
     "name" : "Philippines—Marriage Records, 1945–1987 [Part A]",
-    "state" : "ACTIVE"
+    "state" : "true"
   },
   "imagesetCount" : 300,
   "batchCount" : 213211,
@@ -46200,22 +46200,22 @@
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 666868,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 10147,
+  "iesAuditBatchCount" : 10148,
   "iesCountsNoAudit" : {
     "imagesetCount" : 300,
-    "batchCount" : 203064,
+    "batchCount" : 203063,
     "images" : 666868,
-    "recordCount" : 278321
+    "recordCount" : 281923
   },
   "exportStateCounts" : {
-    "accepted" : 264936,
+    "accepted" : 268524,
     "exported" : 10213,
     "failed" : 102,
-    "inProgress" : 328757,
-    "audit" : 30395,
+    "inProgress" : 325185,
+    "audit" : 30398,
     "blocked" : 58515,
-    "duplicate" : 2229,
-    "ned" : 2109,
+    "duplicate" : 2235,
+    "ned" : 2084,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -46225,14 +46225,14 @@
     "noPersonas" : 9
   },
   "exportStateDiffs" : {
-    "accepted" : 25,
+    "accepted" : 3588,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -25,
-    "audit" : 0,
+    "inProgress" : -3572,
+    "audit" : 3,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 6,
+    "ned" : -25,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -46241,10 +46241,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:55:07",
+  "dateTimeFetched" : "2020-04-20 19:41:55",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines—Marriage Records, 1945–1987 [Part A]",
-  "state" : "ACTIVE"
+  "state" : "true"
 }, {
   "project" : {
     "projectId" : 3403,
@@ -46308,7 +46308,7 @@
     "projectId" : 3490,
     "projectUUID" : "00CA52AC-F7D5-480D-8A42-242C981F43D9",
     "name" : "US, Ohio—County Births, 1849–1985 [Part D]",
-    "state" : "ACTIVE"
+    "state" : "7"
   },
   "imagesetCount" : 2,
   "batchCount" : 126,
@@ -46316,10 +46316,10 @@
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 1262,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 5,
+  "iesAuditBatchCount" : 6,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
-    "batchCount" : 121,
+    "batchCount" : 120,
     "images" : 1262,
     "recordCount" : 10
   },
@@ -46327,8 +46327,8 @@
     "accepted" : 10,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1200,
-    "audit" : 50,
+    "inProgress" : 1190,
+    "audit" : 60,
     "blocked" : 62,
     "duplicate" : 0,
     "ned" : 0,
@@ -46344,8 +46344,8 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
+    "inProgress" : -10,
+    "audit" : 10,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -46357,10 +46357,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 13:06:26",
+  "dateTimeFetched" : "2020-04-20 19:43:58",
   "batchesWithTooManyImages" : { },
   "name" : "US, Ohio—County Births, 1849–1985 [Part D]",
-  "state" : "ACTIVE"
+  "state" : "7"
 }, {
   "project" : {
     "projectId" : 2843,
@@ -55822,9 +55822,9 @@
     "projectId" : 1961,
     "projectUUID" : "47700494-5076-4222-B225-39438E59F6A1",
     "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Part C]",
-    "state" : "ACTIVE"
+    "state" : "true"
   },
-  "imagesetCount" : 963,
+  "imagesetCount" : 976,
   "batchCount" : 89850,
   "auditBatchCount" : 4265,
   "batchesWOWorkflowsCount" : 0,
@@ -55835,46 +55835,46 @@
     "imagesetCount" : 942,
     "batchCount" : 85586,
     "images" : 296326,
-    "recordCount" : 99278
+    "recordCount" : 99815
   },
   "exportStateCounts" : {
-    "accepted" : 82053,
+    "accepted" : 82516,
     "exported" : 5196,
     "failed" : 0,
-    "inProgress" : 100049,
+    "inProgress" : 99586,
     "audit" : 9657,
     "blocked" : 102739,
     "duplicate" : 119,
-    "ned" : 6148,
+    "ned" : 6146,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 2,
+    "rejected" : 3,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 22
+    "noPersonas" : 23
   },
   "exportStateDiffs" : {
-    "accepted" : 2,
+    "accepted" : 463,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -2,
+    "inProgress" : -463,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : -2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 1,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 1
   },
-  "dateTimeFetched" : "2020-04-19 12:39:15",
+  "dateTimeFetched" : "2020-04-20 19:42:25",
   "batchesWithTooManyImages" : { },
   "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Part C]",
-  "state" : "ACTIVE"
+  "state" : "true"
 }, {
   "project" : {
     "projectId" : 3349,
@@ -56228,7 +56228,7 @@
     "projectId" : 2528,
     "projectUUID" : "44B24833-E165-498F-B781-E2E89F2D4B30",
     "name" : "España, La Coruña, Riveira—Censo municipal, 1862–1960",
-    "state" : "ACTIVE"
+    "state" : "true"
   },
   "imagesetCount" : 29,
   "batchCount" : 13919,
@@ -56236,19 +56236,19 @@
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 13438,
   "blockedCount" : 178,
-  "iesAuditBatchCount" : 648,
+  "iesAuditBatchCount" : 660,
   "iesCountsNoAudit" : {
     "imagesetCount" : 29,
-    "batchCount" : 13271,
+    "batchCount" : 13259,
     "images" : 13438,
-    "recordCount" : 36536
+    "recordCount" : 38984
   },
   "exportStateCounts" : {
-    "accepted" : 1092,
+    "accepted" : 1166,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 12177,
-    "audit" : 648,
+    "inProgress" : 12091,
+    "audit" : 660,
     "blocked" : 178,
     "duplicate" : 0,
     "ned" : 3,
@@ -56261,10 +56261,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 7,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -7,
+    "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -56277,10 +56277,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:48:05",
+  "dateTimeFetched" : "2020-04-20 19:21:15",
   "batchesWithTooManyImages" : { },
   "name" : "España, La Coruña, Riveira—Censo municipal, 1862–1960",
-  "state" : "ACTIVE"
+  "state" : "true"
 }, {
   "project" : {
     "projectId" : 3828,
