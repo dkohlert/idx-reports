@@ -82459,7 +82459,7 @@
   "imagesetCount" : 143,
   "batchCount" : 54065,
   "auditBatchCount" : 2535,
-  "batchesWOWorkflowsCount" : 808,
+  "batchesWOWorkflowsCount" : 792,
   "imageCount" : 282185,
   "blockedCount" : 43965,
   "iesAuditBatchCount" : 2535,
