@@ -1,17 +1,15 @@
 project UUID;name;count;state
-[74734B8C-1D44-4AA1-821C-1BE05E60EB27];[Tutorial da Revisão de Indexação|https://www.familysearch.org/indexing/admin-new/#/projects/74734B8C-1D44-4AA1-821C-1BE05E60EB27/overview];1;TEST
-[17A9FF92-3E1B-48A1-AF80-D96373187594];[Danmark, København—Begravelsesregistre, 1805–1968 \[Del A\]|https://www.familysearch.org/indexing/admin-new/#/projects/17A9FF92-3E1B-48A1-AF80-D96373187594/overview];1;TEST
 [BE952D44-9A28-403B-B919-4593DE90D87D];[Didacticiel de vérification d’indexation par un autre indexeur|https://www.familysearch.org/indexing/admin-new/#/projects/BE952D44-9A28-403B-B919-4593DE90D87D/overview];1;TEST
-[CEA7C786-066D-41BE-8C04-53855EF66474];[Poradnik: Opiniowanie równorzędne indeksowania|https://www.familysearch.org/indexing/admin-new/#/projects/CEA7C786-066D-41BE-8C04-53855EF66474/overview];1;TEST
-[06F06A41-A13D-4597-93ED-B67697255F44];[Suisse, Fribourg—Recensement de 1818|https://www.familysearch.org/indexing/admin-new/#/projects/06F06A41-A13D-4597-93ED-B67697255F44/overview];1;TEST
-[ECF4E234-A43B-4030-8F2F-DADD91131E06];[Česká Republika (Tschechien), Litoměřice—Matriky, 1552–1905 \[část 1E\]|https://www.familysearch.org/indexing/admin-new/#/projects/ECF4E234-A43B-4030-8F2F-DADD91131E06/overview];1;TEST
-[8AE9E804-843E-4FDD-A75E-3F01DFEB7AF3];[Italia (Antenati Italiani), Benevento—Matrimoni, 1810–1942 \[Parte G\]|https://www.familysearch.org/indexing/admin-new/#/projects/8AE9E804-843E-4FDD-A75E-3F01DFEB7AF3/overview];1;ACTIVE
-[C6A2FAB9-2E0F-4043-8596-B34289927F03];[Italia (Antenati Italiani), Napoli, Porto e Vicaria—Nati, 1809–1865 \[Parte E\]|https://www.familysearch.org/indexing/admin-new/#/projects/C6A2FAB9-2E0F-4043-8596-B34289927F03/overview];1;ACTIVE
-[6B8D5301-EEB7-45E3-9751-B4CE5259B5D2];[Självstudie för Granskning av indexerare|https://www.familysearch.org/indexing/admin-new/#/projects/6B8D5301-EEB7-45E3-9751-B4CE5259B5D2/overview];1;TEST
 [3C17EE7B-5D44-4406-8906-B186FBA5F005];[TD3 Ja - Peer Review Tutorial|https://www.familysearch.org/indexing/admin-new/#/projects/3C17EE7B-5D44-4406-8906-B186FBA5F005/overview];1;TEST
-[6DD7869D-9E07-41DF-91CD-1D3F5302ABB5];[Italy (Italian Ancestors), Palermo, Camporeale—Civil Registration, 1874–1890 \[Part A\]|https://www.familysearch.org/indexing/admin-new/#/projects/6DD7869D-9E07-41DF-91CD-1D3F5302ABB5/overview];1;ACTIVE
-[20A48CB5-E244-4A02-B3C3-7AE40B4FD5CA];[Instructieles indexeringscontrole door collega’s|https://www.familysearch.org/indexing/admin-new/#/projects/20A48CB5-E244-4A02-B3C3-7AE40B4FD5CA/overview];1;TEST
-[BFFD2C4F-9FFF-49BD-A730-ECF7B7A87D19];[Tutorial sulla revisione dei batch indicizzati|https://www.familysearch.org/indexing/admin-new/#/projects/BFFD2C4F-9FFF-49BD-A730-ECF7B7A87D19/overview];1;TEST
+[17A9FF92-3E1B-48A1-AF80-D96373187594];[Danmark, København—Begravelsesregistre, 1805–1968 \[Del A\]|https://www.familysearch.org/indexing/admin-new/#/projects/17A9FF92-3E1B-48A1-AF80-D96373187594/overview];1;TEST
 [5C28BC6B-32DD-4ABC-80F6-7732EF33FB6B];[Italia (Antenati Italiani), Benevento—Nati, 1810–1942 \[Parte F\]|https://www.familysearch.org/indexing/admin-new/#/projects/5C28BC6B-32DD-4ABC-80F6-7732EF33FB6B/overview];1;ACTIVE
+[BFFD2C4F-9FFF-49BD-A730-ECF7B7A87D19];[Tutorial sulla revisione dei batch indicizzati|https://www.familysearch.org/indexing/admin-new/#/projects/BFFD2C4F-9FFF-49BD-A730-ECF7B7A87D19/overview];1;TEST
+[ECF4E234-A43B-4030-8F2F-DADD91131E06];[Česká Republika (Tschechien), Litoměřice—Matriky, 1552–1905 \[část 1E\]|https://www.familysearch.org/indexing/admin-new/#/projects/ECF4E234-A43B-4030-8F2F-DADD91131E06/overview];1;TEST
+[20A48CB5-E244-4A02-B3C3-7AE40B4FD5CA];[Instructieles indexeringscontrole door collega’s|https://www.familysearch.org/indexing/admin-new/#/projects/20A48CB5-E244-4A02-B3C3-7AE40B4FD5CA/overview];1;TEST
+[CEA7C786-066D-41BE-8C04-53855EF66474];[Poradnik: Opiniowanie równorzędne indeksowania|https://www.familysearch.org/indexing/admin-new/#/projects/CEA7C786-066D-41BE-8C04-53855EF66474/overview];1;TEST
+[8AE9E804-843E-4FDD-A75E-3F01DFEB7AF3];[Italia (Antenati Italiani), Benevento—Matrimoni, 1810–1942 \[Parte G\]|https://www.familysearch.org/indexing/admin-new/#/projects/8AE9E804-843E-4FDD-A75E-3F01DFEB7AF3/overview];1;ACTIVE
+[74734B8C-1D44-4AA1-821C-1BE05E60EB27];[Tutorial da Revisão de Indexação|https://www.familysearch.org/indexing/admin-new/#/projects/74734B8C-1D44-4AA1-821C-1BE05E60EB27/overview];1;TEST
+[6DD7869D-9E07-41DF-91CD-1D3F5302ABB5];[Italy (Italian Ancestors), Palermo, Camporeale—Civil Registration, 1874–1890 \[Part A\]|https://www.familysearch.org/indexing/admin-new/#/projects/6DD7869D-9E07-41DF-91CD-1D3F5302ABB5/overview];1;ACTIVE
 [FBCB3840-4E5E-487D-BF49-C79BE9220DDA];[Belgium, East Flanders, Herzele—Civil Registration, 1821–1910 \[Part D\]|https://www.familysearch.org/indexing/admin-new/#/projects/FBCB3840-4E5E-487D-BF49-C79BE9220DDA/overview];1;TEST
+[6B8D5301-EEB7-45E3-9751-B4CE5259B5D2];[Självstudie för Granskning av indexerare|https://www.familysearch.org/indexing/admin-new/#/projects/6B8D5301-EEB7-45E3-9751-B4CE5259B5D2/overview];1;TEST
 [7AC9F5DE-AFDA-4F29-97F9-139FD1338223];[Проверка результатов работы другого индексатора|https://www.familysearch.org/indexing/admin-new/#/projects/7AC9F5DE-AFDA-4F29-97F9-139FD1338223/overview];1;TEST
