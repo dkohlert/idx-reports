@@ -62434,11 +62434,11 @@
     "projectId" : 2483,
     "projectUUID" : "451E07EB-FD46-4F8E-A508-FC3BE5CA70BF",
     "name" : "US—Veterans Administration Master Index, World War I, 1861–1940",
-    "state" : "READY_FOR_DELIVERY"
+    "state" : "true"
   },
   "imagesetCount" : 84,
-  "batchCount" : 487770,
-  "auditBatchCount" : 23226,
+  "batchCount" : 487754,
+  "auditBatchCount" : 23225,
   "batchesWOWorkflowsCount" : 401,
   "imageCount" : 464017,
   "blockedCount" : 0,
@@ -62483,10 +62483,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:19:56",
+  "dateTimeFetched" : "2020-04-23 10:41:50",
   "batchesWithTooManyImages" : { },
   "name" : "US—Veterans Administration Master Index, World War I, 1861–1940",
-  "state" : "READY_FOR_DELIVERY"
+  "state" : "true"
 }, {
   "project" : {
     "projectId" : 1865,
