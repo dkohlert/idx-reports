@@ -25661,7 +25661,7 @@
   "auditBatchCount" : 2127,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 211046,
-  "blockedCount" : 210995,
+  "blockedCount" : 213671,
   "iesAuditBatchCount" : 2127,
   "iesCountsNoAudit" : {
     "imagesetCount" : 52,
@@ -30584,7 +30584,7 @@
     "projectId" : 2591,
     "projectUUID" : "98D490FA-2E58-4732-AD89-714D68562CA7",
     "name" : "US, Delaware—Marriage Records, Brides Indexes, 1750–1990 [Part G]",
-    "state" : "true"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 41,
   "batchCount" : 40037,
@@ -30636,7 +30636,7 @@
   "dateTimeFetched" : "2020-04-23 19:44:12",
   "batchesWithTooManyImages" : { },
   "name" : "US, Delaware—Marriage Records, Brides Indexes, 1750–1990 [Part G]",
-  "state" : "true"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2518,
@@ -41606,7 +41606,7 @@
     "projectId" : 3939,
     "projectUUID" : "8F2E4E7C-3371-42FE-BAD5-30B48D0F9F8B",
     "name" : "Philippines—Marriage Records, 1945–1987 [Part E]",
-    "state" : "7"
+    "state" : "ACTIVE"
   },
   "imagesetCount" : 547,
   "batchCount" : 78745,
@@ -41658,7 +41658,7 @@
   "dateTimeFetched" : "2020-04-23 19:46:11",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines—Marriage Records, 1945–1987 [Part E]",
-  "state" : "7"
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3905,
@@ -60288,7 +60288,7 @@
     "projectId" : 1683,
     "projectUUID" : "7DF5BA49-7CBA-439D-912A-21214A116D61",
     "name" : "US—Canadian Border Crossings, 1894–1954",
-    "state" : "Ready for Delivery"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 31,
   "batchCount" : 19976,
@@ -60340,7 +60340,7 @@
   "dateTimeFetched" : "2020-04-21 14:43:30",
   "batchesWithTooManyImages" : { },
   "name" : "US—Canadian Border Crossings, 1894–1954",
-  "state" : "Ready for Delivery"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2436,
@@ -62550,7 +62550,7 @@
     "projectId" : 2483,
     "projectUUID" : "451E07EB-FD46-4F8E-A508-FC3BE5CA70BF",
     "name" : "US—Veterans Administration Master Index, World War I, 1861–1940",
-    "state" : "true"
+    "state" : "TEST"
   },
   "imagesetCount" : 84,
   "batchCount" : 487354,
@@ -62602,7 +62602,7 @@
   "dateTimeFetched" : "2020-04-23 19:41:52",
   "batchesWithTooManyImages" : { },
   "name" : "US—Veterans Administration Master Index, World War I, 1861–1940",
-  "state" : "true"
+  "state" : "TEST"
 }, {
   "project" : {
     "projectId" : 1865,
@@ -71078,12 +71078,12 @@
     "projectId" : 2910,
     "projectUUID" : "2C401FC1-902B-436D-98E2-CFD27EFC063E",
     "name" : "US—Obituaries, 1980–2014 [Part 2AR]",
-    "state" : "true"
+    "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 235,
-  "batchCount" : 2400,
+  "batchCount" : 1900,
   "auditBatchCount" : 89,
-  "batchesWOWorkflowsCount" : 500,
+  "batchesWOWorkflowsCount" : 0,
   "imageCount" : 180745,
   "blockedCount" : 180511,
   "iesAuditBatchCount" : 89,
@@ -71127,10 +71127,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-23 19:37:51",
+  "dateTimeFetched" : "2020-04-23 23:30:30",
   "batchesWithTooManyImages" : { },
   "name" : "US—Obituaries, 1980–2014 [Part 2AR]",
-  "state" : "true"
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 3908,
@@ -84832,7 +84832,7 @@
     "projectId" : 2219,
     "projectUUID" : "F133C8EB-DE65-4457-9E8A-530CC99B77FD",
     "name" : "Philippines, Camarines Sur, Caceres—Registros Parroquiales, 1716–1977 [Parte B]",
-    "state" : "true"
+    "state" : "ACTIVE"
   },
   "imagesetCount" : 57,
   "batchCount" : 48905,
@@ -84884,7 +84884,7 @@
   "dateTimeFetched" : "2020-04-23 19:42:48",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines, Camarines Sur, Caceres—Registros Parroquiales, 1716–1977 [Parte B]",
-  "state" : "true"
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 2855,
@@ -85702,7 +85702,7 @@
     "projectId" : 3958,
     "projectUUID" : "43A9392F-2CD4-428E-A280-1B06BD080AAF",
     "name" : "Italy (Antenati Italiani), Rome—Civil Registration, 1867–1929 [Part E]",
-    "state" : "7"
+    "state" : "ACTIVE"
   },
   "imagesetCount" : 165,
   "batchCount" : 60971,
@@ -85754,7 +85754,7 @@
   "dateTimeFetched" : "2020-04-23 19:42:06",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Antenati Italiani), Rome—Civil Registration, 1867–1929 [Part E]",
-  "state" : "7"
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3870,
