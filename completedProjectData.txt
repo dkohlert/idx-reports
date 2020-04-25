@@ -4520,7 +4520,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:05:33",
+  "dateTimeFetched" : "2020-04-25 09:46:00",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
   "state" : "READY_FOR_DELIVERY"
@@ -6030,7 +6030,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:16:27",
+  "dateTimeFetched" : "2020-04-25 09:49:39",
   "batchesWithTooManyImages" : { },
   "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
   "state" : "READY_FOR_DELIVERY"
@@ -11136,7 +11136,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:00:04",
+  "dateTimeFetched" : "2020-04-25 09:44:10",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
   "state" : "READY_FOR_DELIVERY"
@@ -11892,7 +11892,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:12:45",
+  "dateTimeFetched" : "2020-04-25 09:44:37",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa, Transvaal—Death Notices from Probate Files, 1869–1958 [Part C]",
   "state" : "READY_FOR_DELIVERY"
@@ -21701,7 +21701,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:01:33",
+  "dateTimeFetched" : "2020-04-25 09:50:11",
   "batchesWithTooManyImages" : { },
   "name" : "US, Kansas—1925 State Census",
   "state" : "READY_FOR_DELIVERY"
@@ -23221,7 +23221,7 @@
     "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 177,
-  "batchCount" : 55629,
+  "batchCount" : 55628,
   "auditBatchCount" : 2645,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 554206,
@@ -23267,7 +23267,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:01:57",
+  "dateTimeFetched" : "2020-04-25 09:46:47",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa, Transvaal—Marriage Records, 1870–1930",
   "state" : "READY_FOR_DELIVERY"
@@ -26747,7 +26747,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:14:56",
+  "dateTimeFetched" : "2020-04-25 09:51:28",
   "batchesWithTooManyImages" : { },
   "name" : "US, Wisconsin—Birth Records, 1964–1980",
   "state" : "READY_FOR_DELIVERY"
@@ -27095,7 +27095,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:18:30",
+  "dateTimeFetched" : "2020-04-25 09:50:33",
   "batchesWithTooManyImages" : { },
   "name" : "US, Ohio—Marriage Records, 1750–1990 [Part J]",
   "state" : "READY_FOR_DELIVERY"
@@ -46415,7 +46415,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:33:08",
+  "dateTimeFetched" : "2020-04-25 09:43:52",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, São Paulo—Civil Registration, 1907-1995 [Part BJ]",
   "state" : "READY_FOR_DELIVERY"
@@ -47691,7 +47691,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:34:02",
+  "dateTimeFetched" : "2020-04-25 09:53:15",
   "batchesWithTooManyImages" : { },
   "name" : "United States, Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part C]",
   "state" : "READY_FOR_DELIVERY"
@@ -57163,7 +57163,7 @@
   "auditBatchCount" : 411,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 36025,
-  "blockedCount" : 46869,
+  "blockedCount" : 54198,
   "iesAuditBatchCount" : 411,
   "iesCountsNoAudit" : {
     "imagesetCount" : 205,
@@ -60859,7 +60859,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:26:13",
+  "dateTimeFetched" : "2020-04-25 09:48:16",
   "batchesWithTooManyImages" : { },
   "name" : "US, Alabama—Department of Archives and History, Confederate Pension Applications, 1880–1930's",
   "state" : "READY_FOR_DELIVERY"
@@ -63701,7 +63701,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:04:30",
+  "dateTimeFetched" : "2020-04-25 09:48:48",
   "batchesWithTooManyImages" : { },
   "name" : "US, California, Los Angeles County—County Death Records, 1898–1978 [Part B]",
   "state" : "READY_FOR_DELIVERY"
@@ -64861,7 +64861,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:01:40",
+  "dateTimeFetched" : "2020-04-25 09:49:23",
   "batchesWithTooManyImages" : { },
   "name" : "US, Georgia, Houston County—Marriage Records, 1832–2015 ",
   "state" : "READY_FOR_DELIVERY"
@@ -95847,7 +95847,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:10:00",
+  "dateTimeFetched" : "2020-04-25 09:31:08",
   "batchesWithTooManyImages" : { },
   "name" : "Brasil, São Paulo—Registro Civil, Nacimientos, 1907–1995 [Parte F]",
   "state" : "READY_FOR_DELIVERY"
@@ -98460,7 +98460,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:24:37",
+  "dateTimeFetched" : "2020-04-25 09:47:32",
   "batchesWithTooManyImages" : { },
   "name" : "US (Quick Batch), New Jersey—Naturalization Records, 1796–1991 [Part M]",
   "state" : "READY_FOR_DELIVERY"
