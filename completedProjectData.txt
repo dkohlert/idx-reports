@@ -5972,7 +5972,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-25 09:49:39",
+  "dateTimeFetched" : "2020-04-27 15:11:19",
   "batchesWithTooManyImages" : { },
   "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
   "state" : "READY_FOR_DELIVERY"
@@ -25835,7 +25835,7 @@
   "auditBatchCount" : 2127,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 211046,
-  "blockedCount" : 226514,
+  "blockedCount" : 238566,
   "iesAuditBatchCount" : 2127,
   "iesCountsNoAudit" : {
     "imagesetCount" : 52,
@@ -30764,7 +30764,7 @@
   "batchCount" : 40037,
   "auditBatchCount" : 1904,
   "batchesWOWorkflowsCount" : 21173,
-  "imageCount" : 383004,
+  "imageCount" : 180050,
   "blockedCount" : 382917,
   "iesAuditBatchCount" : 895,
   "iesCountsNoAudit" : {
@@ -30807,7 +30807,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-23 19:44:12",
+  "dateTimeFetched" : "2020-04-27 15:10:37",
   "batchesWithTooManyImages" : { },
   "name" : "US, Delaware—Marriage Records, Brides Indexes, 1750–1990 [Part G]",
   "state" : "READY_FOR_DELIVERY"
@@ -41851,17 +41851,17 @@
     "imagesetCount" : 385,
     "batchCount" : 75002,
     "images" : 804316,
-    "recordCount" : 107976
+    "recordCount" : 123488
   },
   "exportStateCounts" : {
-    "accepted" : 107703,
+    "accepted" : 123183,
     "exported" : 0,
     "failed" : 10,
-    "inProgress" : 634657,
+    "inProgress" : 619005,
     "audit" : 36930,
     "blocked" : 88142,
-    "duplicate" : 742,
-    "ned" : 152,
+    "duplicate" : 893,
+    "ned" : 173,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -41871,14 +41871,14 @@
     "noPersonas" : 11
   },
   "exportStateDiffs" : {
-    "accepted" : 368,
+    "accepted" : 15480,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -371,
+    "inProgress" : -15652,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 2,
-    "ned" : 1,
+    "duplicate" : 151,
+    "ned" : 21,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -41887,7 +41887,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-24 19:29:23",
+  "dateTimeFetched" : "2020-04-27 15:03:52",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines—Marriage Records, 1945–1987 [Part E]",
   "state" : "ACTIVE"
@@ -57163,7 +57163,7 @@
   "auditBatchCount" : 411,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 36025,
-  "blockedCount" : 54198,
+  "blockedCount" : 57399,
   "iesAuditBatchCount" : 411,
   "iesCountsNoAudit" : {
     "imagesetCount" : 205,
@@ -63295,7 +63295,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:22:10",
+  "dateTimeFetched" : "2020-04-27 15:12:00",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantors, 1630-1975 [Part B]",
   "state" : "READY_FOR_DELIVERY"
@@ -85193,17 +85193,17 @@
     "imagesetCount" : 58,
     "batchCount" : 46102,
     "images" : 66396,
-    "recordCount" : 53312
+    "recordCount" : 53716
   },
   "exportStateCounts" : {
-    "accepted" : 10160,
+    "accepted" : 10207,
     "exported" : 145,
     "failed" : 0,
-    "inProgress" : 47197,
+    "inProgress" : 47149,
     "audit" : 3196,
     "blocked" : 2979,
     "duplicate" : 168,
-    "ned" : 5682,
+    "ned" : 5683,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85213,14 +85213,14 @@
     "noPersonas" : 34
   },
   "exportStateDiffs" : {
-    "accepted" : 3,
+    "accepted" : 47,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -3,
+    "inProgress" : -48,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 1,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -85229,7 +85229,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-24 18:25:55",
+  "dateTimeFetched" : "2020-04-27 15:02:22",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines, Camarines Sur, Caceres—Registros Parroquiales, 1716–1977 [Parte B]",
   "state" : "ACTIVE"
