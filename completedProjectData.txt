@@ -86099,7 +86099,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-27 09:57:38",
+  "dateTimeFetched" : "2020-04-27 14:16:12",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Antenati Italiani), Rome—Civil Registration, 1867–1929 [Part E]",
   "state" : "ACTIVE"
