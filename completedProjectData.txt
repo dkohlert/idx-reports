@@ -49115,7 +49115,7 @@
     "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 100,
-  "imagesetInIndexingStatesCount" : 0,
+  "imagesetInIndexingStatesCount" : 100,
   "batchCount" : 158411,
   "auditBatchCount" : 7536,
   "batchesWOWorkflowsCount" : 0,
@@ -49162,7 +49162,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-25 09:53:15",
+  "dateTimeFetched" : "2020-04-29 13:48:33",
   "batchesWithTooManyImages" : { },
   "name" : "United States, Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part C]",
   "state" : "READY_FOR_DELIVERY"
