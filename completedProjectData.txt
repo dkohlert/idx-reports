@@ -4827,13 +4827,13 @@
     "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 198,
-  "imagesetInIndexingStatesCount" : 0,
+  "imagesetInIndexingStatesCount" : 198,
   "batchCount" : 61097,
   "auditBatchCount" : 2908,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 592837,
-  "imageCountFromImagesetsInIndexingStates" : 0,
+  "imageCountFromImagesetsInIndexingStates" : 592837,
   "blockedCount" : 18378,
   "iesAuditBatchCount" : 2908,
   "iesCountsNoAudit" : {
@@ -4876,7 +4876,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-25 09:46:00",
+  "dateTimeFetched" : "2020-05-04 08:56:08",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa, Cape Province—Death Notices, 1895–1972 [Part C]",
   "state" : "READY_FOR_DELIVERY"
