@@ -21,9 +21,8 @@ A21328DF-DA70-4950-91AA-8E68B749FFBC:4 images are not associated with indexing b
 9D174D87-DC52-4621-B5DA-5A978D0F00CC:there are 529 non-blocked images not associated with an indexing batch
 7838FF6D-99FE-44D5-9FCC-7724B57A72E6:there are 5 images that have 2 batching batches, in one they are blocked, in the other they are not, they all are not associated with an indexing batch
 5098AA75-BBF6-429E-B404-A046CF661C18:it appears that there are 346 batches (including audit batches) that have empty keying.resources
-451E07EB-FD46-4F8E-A508-FC3BE5CA70BF:there are 417 batches (including audit) that do not have workflows
 2705E06C-2199-4862-B607-338B184A1673:it appears that there are 20 batches that have empty keying.resources
-BBAAD840-13AA-4D2A-A481-583F595F2ECB:there are 1346 batches (including audit) that do not have workflows
+--BBAAD840-13AA-4D2A-A481-583F595F2ECB:there are 1346 batches (including audit) that do not have workflows
 27FCEC51-9261-4943-B03B-A002E402D652:there are 84 batches (including audit) that do not have workflows
 39DA3283-0E21-40A1-8330-BD6FFF1754D2:the fields of the 'EXPORTED' batch's records are marked <blank>
 0E0DFABF-6EAB-4EAA-BAA7-0C702CE16CF1:imageset 102644174 has 58 images and is not associated with either a batchingbatch or indexing batch
