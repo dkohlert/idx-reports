@@ -101432,7 +101432,7 @@
   "batchesWOWorkflowsCount" : 11,
   "imageCount" : 357305,
   "imageCountFromImagesetsInIndexingStates" : 205825,
-  "blockedCount" : 177963,
+  "blockedCount" : 223135,
   "iesAuditBatchCount" : 8396,
   "iesCountsNoAudit" : {
     "imagesetCount" : 118,
@@ -108633,7 +108633,7 @@
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 65383,
   "imageCountFromImagesetsInIndexingStates" : 64505,
-  "blockedCount" : 0,
+  "blockedCount" : 64451,
   "iesAuditBatchCount" : 1467,
   "iesCountsNoAudit" : {
     "imagesetCount" : 55,
