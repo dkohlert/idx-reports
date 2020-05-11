@@ -18011,14 +18011,14 @@
     "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part K]",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 292,
-  "imagesetInIndexingStatesCount" : 292,
+  "imagesetCount" : 291,
+  "imagesetInIndexingStatesCount" : 291,
   "batchCount" : 5738,
   "auditBatchCount" : 261,
   "batchingBatchesNotReviewComplete" : 2,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 73362,
-  "imageCountFromImagesetsInIndexingStates" : 73362,
+  "imageCount" : 72436,
+  "imageCountFromImagesetsInIndexingStates" : 72436,
   "blockedCount" : 18080,
   "iesAuditBatchCount" : 261,
   "iesCountsNoAudit" : {
@@ -18061,7 +18061,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-07 13:05:35",
+  "dateTimeFetched" : "2020-05-11 09:05:40",
   "batchesWithTooManyImages" : {
     "2FCB9DCC-B5CA-4F1D-83F7-5EE8AEC61D8E" : 1163
   },
@@ -32839,13 +32839,13 @@
     "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 331,
-  "imagesetInIndexingStatesCount" : 0,
+  "imagesetInIndexingStatesCount" : 331,
   "batchCount" : 26138,
   "auditBatchCount" : 1243,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 126678,
-  "imageCountFromImagesetsInIndexingStates" : 0,
+  "imageCountFromImagesetsInIndexingStates" : 126678,
   "blockedCount" : 2911,
   "iesAuditBatchCount" : 1243,
   "iesCountsNoAudit" : {
@@ -32888,7 +32888,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-19 12:16:01",
+  "dateTimeFetched" : "2020-05-08 14:09:51",
   "batchesWithTooManyImages" : { },
   "name" : "Brasil, Rio de Janeiro—Registro Civil, Óbitos, 1900–2012 [Parte B]",
   "state" : "READY_FOR_DELIVERY"
@@ -67189,14 +67189,14 @@
     "name" : "Colombia, Arquidiócesis de Manizales—Registros Parroquiales, 1797–2013 [Parte H]",
     "state" : "READY_FOR_DELIVERY"
   },
-  "imagesetCount" : 218,
-  "imagesetInIndexingStatesCount" : 218,
+  "imagesetCount" : 217,
+  "imagesetInIndexingStatesCount" : 217,
   "batchCount" : 35187,
   "auditBatchCount" : 1677,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 81039,
-  "imageCountFromImagesetsInIndexingStates" : 81039,
+  "imageCount" : 80981,
+  "imageCountFromImagesetsInIndexingStates" : 80981,
   "blockedCount" : 840,
   "iesAuditBatchCount" : 1677,
   "iesCountsNoAudit" : {
@@ -67239,7 +67239,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-07 21:13:59",
+  "dateTimeFetched" : "2020-05-11 09:05:55",
   "batchesWithTooManyImages" : { },
   "name" : "Colombia, Arquidiócesis de Manizales—Registros Parroquiales, 1797–2013 [Parte H]",
   "state" : "READY_FOR_DELIVERY"
