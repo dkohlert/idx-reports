@@ -62933,13 +62933,13 @@
     "imagesetCount" : 942,
     "batchCount" : 85585,
     "images" : 296326,
-    "recordCount" : 106916
+    "recordCount" : 106918
   },
   "exportStateCounts" : {
-    "accepted" : 88960,
+    "accepted" : 88962,
     "exported" : 5196,
     "failed" : 0,
-    "inProgress" : 93146,
+    "inProgress" : 93144,
     "audit" : 9659,
     "blocked" : 102739,
     "duplicate" : 118,
@@ -62953,10 +62953,10 @@
     "noPersonas" : 27
   },
   "exportStateDiffs" : {
-    "accepted" : 4,
+    "accepted" : 2,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : -4,
+    "inProgress" : -2,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -62969,7 +62969,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 12:53:23",
+  "dateTimeFetched" : "2020-05-12 13:27:56",
   "batchesWithTooManyImages" : { },
   "name" : "República Dominicana—Registro civil, Defunciones, 1838–1984 [Part C]",
   "state" : "ACTIVE"
