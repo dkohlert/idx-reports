@@ -2517,7 +2517,7 @@
   "imageCount" : 1219,
   "imageCountFromImagesetsInIndexingStates" : 631,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 32,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
     "batchCount" : 631,
@@ -2529,7 +2529,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 631,
-    "audit" : 0,
+    "audit" : 32,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -2546,7 +2546,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 32,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -2558,7 +2558,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:10:57",
+  "dateTimeFetched" : "2020-05-13 12:27:34",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Gerona—Census Part 5, 1804–1945",
   "state" : "READY_FOR_WORK"
@@ -8977,28 +8977,28 @@
     "state" : "READY_FOR_WORK"
   },
   "imagesetCount" : 500,
-  "imagesetInIndexingStatesCount" : 303,
-  "batchCount" : 8695,
-  "auditBatchCount" : 407,
-  "batchingBatchesNotReviewComplete" : 197,
+  "imagesetInIndexingStatesCount" : 317,
+  "batchCount" : 9070,
+  "auditBatchCount" : 424,
+  "batchingBatchesNotReviewComplete" : 183,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 88110,
-  "imageCountFromImagesetsInIndexingStates" : 51349,
+  "imageCountFromImagesetsInIndexingStates" : 53583,
   "blockedCount" : 2706,
-  "iesAuditBatchCount" : 170,
+  "iesAuditBatchCount" : 424,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 303,
-    "batchCount" : 8288,
-    "images" : 51348,
+    "imagesetCount" : 500,
+    "batchCount" : 8646,
+    "images" : 55324,
     "recordCount" : 0
   },
   "exportStateCounts" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 48643,
-    "audit" : 1003,
-    "blocked" : 2705,
+    "inProgress" : 50756,
+    "audit" : 2487,
+    "blocked" : 4568,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -9013,9 +9013,9 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
+    "inProgress" : 2113,
+    "audit" : 1484,
+    "blocked" : 1863,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -9026,7 +9026,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:07:21",
+  "dateTimeFetched" : "2020-05-13 12:20:17",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Salerno—Civil Registration, 1809–1946 [Part D]",
   "state" : "READY_FOR_WORK"
@@ -10124,7 +10124,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:10:27",
+  "dateTimeFetched" : "2020-05-13 12:27:21",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa—Dutch Reformed Marriage Records, 1748–1956 [Part C]",
   "state" : "READY_FOR_WORK"
@@ -11834,7 +11834,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:10:42",
+  "dateTimeFetched" : "2020-05-13 12:30:33",
   "batchesWithTooManyImages" : { },
   "name" : "Sverige, Örebro—Kyrkoböcker, 1650–1860 [Del 10E]",
   "state" : "READY_FOR_WORK"
@@ -12281,7 +12281,7 @@
   "imageCount" : 6556,
   "imageCountFromImagesetsInIndexingStates" : 6556,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 277,
+  "iesAuditBatchCount" : 309,
   "iesCountsNoAudit" : {
     "imagesetCount" : 10,
     "batchCount" : 6186,
@@ -12293,7 +12293,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 6186,
-    "audit" : 277,
+    "audit" : 309,
     "blocked" : 370,
     "duplicate" : 0,
     "ned" : 0,
@@ -12310,7 +12310,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 32,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -12322,7 +12322,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:12:13",
+  "dateTimeFetched" : "2020-05-13 12:16:49",
   "batchesWithTooManyImages" : { },
   "name" : "Croatia, Delnice Deanery—Church Books, 1571–1926 [Part D]",
   "state" : "READY_FOR_WORK"
@@ -13727,7 +13727,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:11:12",
+  "dateTimeFetched" : "2020-05-13 12:29:27",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Province of Gerona—Electoral Census Part 4, 1903–1936",
   "state" : "READY_FOR_WORK"
@@ -15943,7 +15943,7 @@
   "imageCount" : 655214,
   "imageCountFromImagesetsInIndexingStates" : 10344,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 48,
+  "iesAuditBatchCount" : 100,
   "iesCountsNoAudit" : {
     "imagesetCount" : 4,
     "batchCount" : 2013,
@@ -15955,7 +15955,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 8991,
-    "audit" : 240,
+    "audit" : 447,
     "blocked" : 1353,
     "duplicate" : 0,
     "ned" : 0,
@@ -15972,7 +15972,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 207,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -15984,7 +15984,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:06:21",
+  "dateTimeFetched" : "2020-05-13 12:19:25",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Antenati Italiani), Messina—Civil Registration, 1820–1865 [Part A]",
   "state" : "READY_FOR_WORK"
@@ -16960,7 +16960,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:11:05",
+  "dateTimeFetched" : "2020-05-13 12:28:39",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Gerona—Electoral Census, 1890–1936 [Part 2]",
   "state" : "READY_FOR_WORK"
@@ -17204,7 +17204,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:09:10",
+  "dateTimeFetched" : "2020-05-13 12:33:35",
   "batchesWithTooManyImages" : { },
   "name" : "United States—Enlisted and Officer Muster Rolls and Rosters, 1916–1939 [Part B]",
   "state" : "READY_FOR_WORK"
@@ -21845,7 +21845,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:09:26",
+  "dateTimeFetched" : "2020-05-13 12:28:58",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Province of Gerona—Census Part 1, 1857–1946",
   "state" : "READY_FOR_WORK"
@@ -21987,7 +21987,7 @@
   "imageCount" : 459081,
   "imageCountFromImagesetsInIndexingStates" : 7523,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 16,
+  "iesAuditBatchCount" : 33,
   "iesCountsNoAudit" : {
     "imagesetCount" : 9,
     "batchCount" : 681,
@@ -21999,7 +21999,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 3364,
-    "audit" : 76,
+    "audit" : 159,
     "blocked" : 4159,
     "duplicate" : 0,
     "ned" : 0,
@@ -22016,7 +22016,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 83,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -22028,7 +22028,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:07:30",
+  "dateTimeFetched" : "2020-05-13 12:20:29",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Teramo—Civil Registration, 1809–1936 [Part A]",
   "state" : "READY_FOR_WORK"
@@ -26666,7 +26666,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:13:34",
+  "dateTimeFetched" : "2020-05-13 12:41:32",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri, Daviess—Marriage Records, 1840–1969",
   "state" : "READY_FOR_WORK"
@@ -29106,7 +29106,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:12:39",
+  "dateTimeFetched" : "2020-05-13 12:40:47",
   "batchesWithTooManyImages" : { },
   "name" : "US, California—County Death Records, 1800–1994 [Part C]",
   "state" : "READY_FOR_WORK"
@@ -32949,7 +32949,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:08:11",
+  "dateTimeFetched" : "2020-05-13 12:19:35",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Brescia—Civil Registration, 1806–1919",
   "state" : "READY_FOR_WORK"
@@ -40818,7 +40818,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:13:06",
+  "dateTimeFetched" : "2020-05-13 12:40:36",
   "batchesWithTooManyImages" : { },
   "name" : "US, California, Los Angeles—Evergreen Memorial Park Cemetery, Deceased Card File Index, 1877–1989 [Part B]",
   "state" : "READY_FOR_WORK"
@@ -43016,7 +43016,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:08:03",
+  "dateTimeFetched" : "2020-05-13 12:47:24",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri—County Marriages, 1806–1969 [Part O]",
   "state" : "READY_FOR_WORK"
@@ -43199,7 +43199,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:04:24",
+  "dateTimeFetched" : "2020-05-13 12:30:06",
   "batchesWithTooManyImages" : { },
   "name" : "Suisse, Fribourg—Recensement de 1845",
   "state" : "READY_FOR_WORK"
@@ -43687,7 +43687,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:06:44",
+  "dateTimeFetched" : "2020-05-13 12:46:46",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri—County Marriages, 1806–1969 [Part N]",
   "state" : "READY_FOR_WORK"
@@ -43992,7 +43992,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:09:42",
+  "dateTimeFetched" : "2020-05-13 12:20:03",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Potenza—Civil Registration, 1809–1865 [Part H]",
   "state" : "READY_FOR_WORK"
@@ -47835,7 +47835,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:10:21",
+  "dateTimeFetched" : "2020-05-13 12:49:14",
   "batchesWithTooManyImages" : { },
   "name" : "US, Utah—The Church of Jesus Christ of Latter-day Saints, Church Census Records, 1914–1960 [Part B]",
   "state" : "READY_FOR_WORK"
@@ -50397,7 +50397,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:10:35",
+  "dateTimeFetched" : "2020-05-13 12:28:24",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Gerona—Electoral Census, 1890–1902 [Part 1]",
   "state" : "READY_FOR_WORK"
@@ -50458,7 +50458,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:05:21",
+  "dateTimeFetched" : "2020-05-13 12:49:59",
   "batchesWithTooManyImages" : { },
   "name" : "Česká Republika, Třeboň—Matriky, 1884–1935 [část D]",
   "state" : "READY_FOR_WORK"
@@ -51495,7 +51495,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:07:12",
+  "dateTimeFetched" : "2020-05-13 12:27:43",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Gerona—Census, 1834–1942 [Part 4]",
   "state" : "READY_FOR_WORK"
@@ -51617,7 +51617,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:06:03",
+  "dateTimeFetched" : "2020-05-13 12:31:34",
   "batchesWithTooManyImages" : { },
   "name" : "Switzerland, Fribourg—1880 Census [Part C]",
   "state" : "READY_FOR_WORK"
@@ -57619,7 +57619,7 @@
   "imageCount" : 3197,
   "imageCountFromImagesetsInIndexingStates" : 3197,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 14,
   "iesCountsNoAudit" : {
     "imagesetCount" : 2,
     "batchCount" : 278,
@@ -57631,7 +57631,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 1387,
-    "audit" : 0,
+    "audit" : 70,
     "blocked" : 1926,
     "duplicate" : 0,
     "ned" : 0,
@@ -57648,7 +57648,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 70,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -57660,7 +57660,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:12:46",
+  "dateTimeFetched" : "2020-05-13 12:41:23",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri, Caldwell—Marriage Records, 1922–1956",
   "state" : "READY_FOR_WORK"
@@ -58087,7 +58087,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:09:33",
+  "dateTimeFetched" : "2020-05-13 12:27:56",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Gerona—Census, 1869–1919 [Part 3]",
   "state" : "READY_FOR_WORK"
@@ -58412,20 +58412,20 @@
   "imageCount" : 46738,
   "imageCountFromImagesetsInIndexingStates" : 46738,
   "blockedCount" : 9664,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 1807,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 0,
-    "batchCount" : 0,
-    "images" : 0,
+    "imagesetCount" : 68,
+    "batchCount" : 36236,
+    "images" : 46738,
     "recordCount" : 0
   },
   "exportStateCounts" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
+    "inProgress" : 37074,
+    "audit" : 1840,
+    "blocked" : 9664,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -58453,7 +58453,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:04:46",
+  "dateTimeFetched" : "2020-05-13 10:46:54",
   "batchesWithTooManyImages" : { },
   "name" : "Belgium, (Quick Batch) Antwerp—Civil Registration, 1851–1910 [Part F]",
   "state" : "READY_FOR_WORK"
@@ -58758,7 +58758,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:11:26",
+  "dateTimeFetched" : "2020-05-13 12:32:32",
   "batchesWithTooManyImages" : { },
   "name" : "UK, Wales—National Library of Wales, Marriage Bonds, 1754–1900 [Part B]",
   "state" : "READY_FOR_WORK"
@@ -59318,7 +59318,7 @@
     "projectId" : 2091,
     "projectUUID" : "45FF173A-5F79-42C9-84DB-FFEA5E116004",
     "name" : "Schweiz, Freiburg—1880 Volkszählungslisten",
-    "state" : "READY_FOR_WORK"
+    "state" : "ACTIVE"
   },
   "imagesetCount" : 22,
   "imagesetInIndexingStatesCount" : 22,
@@ -59370,10 +59370,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:04:10",
+  "dateTimeFetched" : "2020-05-13 12:26:34",
   "batchesWithTooManyImages" : { },
   "name" : "Schweiz, Freiburg—1880 Volkszählungslisten",
-  "state" : "READY_FOR_WORK"
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 4078,
@@ -60956,7 +60956,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:05:08",
+  "dateTimeFetched" : "2020-05-13 12:26:04",
   "batchesWithTooManyImages" : { },
   "name" : "Schweiz, Freiburg—1842 Volkszählungslisten",
   "state" : "READY_FOR_WORK"
@@ -61261,7 +61261,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:06:51",
+  "dateTimeFetched" : "2020-05-13 12:32:07",
   "batchesWithTooManyImages" : { },
   "name" : "Switzerland, Ticino—1808 Census",
   "state" : "READY_FOR_WORK"
@@ -63213,7 +63213,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:12:05",
+  "dateTimeFetched" : "2020-05-13 12:19:49",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Genova—Civil Registration, 1875–1899 [Part C]",
   "state" : "READY_FOR_WORK"
@@ -64758,20 +64758,20 @@
   "imageCount" : 5872,
   "imageCountFromImagesetsInIndexingStates" : 5872,
   "blockedCount" : 1057,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 201,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 1,
-    "images" : 1,
+    "imagesetCount" : 10,
+    "batchCount" : 4040,
+    "images" : 5872,
     "recordCount" : 0
   },
   "exportStateCounts" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1,
-    "audit" : 0,
-    "blocked" : 0,
+    "inProgress" : 4815,
+    "audit" : 235,
+    "blocked" : 1057,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -64786,9 +64786,9 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
+    "inProgress" : 4814,
+    "audit" : 235,
+    "blocked" : 1057,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -64799,7 +64799,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:04:30",
+  "dateTimeFetched" : "2020-05-13 12:17:13",
   "batchesWithTooManyImages" : { },
   "name" : "Hungary—Jewish Vital Registers, 1800–1945 [Part C]",
   "state" : "READY_FOR_WORK"
@@ -69069,7 +69069,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:06:58",
+  "dateTimeFetched" : "2020-05-13 12:29:12",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Province of Gerona—Census Part 2, 1818–1953",
   "state" : "READY_FOR_WORK"
@@ -69923,7 +69923,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:11:20",
+  "dateTimeFetched" : "2020-05-13 12:25:51",
   "batchesWithTooManyImages" : { },
   "name" : "Puerto Rico—Official Agriculture Census, 1935",
   "state" : "READY_FOR_WORK"
@@ -71753,7 +71753,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:10:49",
+  "dateTimeFetched" : "2020-05-13 12:17:00",
   "batchesWithTooManyImages" : { },
   "name" : "France, Rhône—Première Guerre mondiale, Enregistrements du recrutement, 1865–1932 [Partie E]",
   "state" : "READY_FOR_WORK"
@@ -74071,7 +74071,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:07:37",
+  "dateTimeFetched" : "2020-05-13 12:28:10",
   "batchesWithTooManyImages" : { },
   "name" : "Spain, Gerona—Death Records, 1717–1970 [Part A]",
   "state" : "READY_FOR_WORK"
@@ -75189,7 +75189,7 @@
   "imageCount" : 339,
   "imageCountFromImagesetsInIndexingStates" : 339,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 16,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
     "batchCount" : 325,
@@ -75201,7 +75201,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 325,
-    "audit" : 0,
+    "audit" : 16,
     "blocked" : 14,
     "duplicate" : 0,
     "ned" : 0,
@@ -75218,7 +75218,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 16,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -75230,7 +75230,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:07:05",
+  "dateTimeFetched" : "2020-05-13 12:32:24",
   "batchesWithTooManyImages" : { },
   "name" : "Switzerland, Ticino—1837 Census",
   "state" : "READY_FOR_WORK"
@@ -76093,7 +76093,7 @@
     "projectId" : 3051,
     "projectUUID" : "4C399857-3C3F-42C8-98FC-BA2D5189D465",
     "name" : "US, Missouri—County Marriages, 1806–1969 [Part L]",
-    "state" : "READY_FOR_WORK"
+    "state" : "ACTIVE"
   },
   "imagesetCount" : 230,
   "imagesetInIndexingStatesCount" : 230,
@@ -76106,16 +76106,16 @@
   "blockedCount" : 17524,
   "iesAuditBatchCount" : 0,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 0,
-    "batchCount" : 0,
-    "images" : 0,
-    "recordCount" : 0
+    "imagesetCount" : 1,
+    "batchCount" : 4,
+    "images" : 20,
+    "recordCount" : 44
   },
   "exportStateCounts" : {
-    "accepted" : 0,
+    "accepted" : 5,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 15,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -76129,10 +76129,10 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 5,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
+    "inProgress" : 15,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
@@ -76145,12 +76145,12 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:05:39",
+  "dateTimeFetched" : "2020-05-13 12:41:46",
   "batchesWithTooManyImages" : {
     "8BF64492-B2DA-4D76-B1D5-51DFA3B596D2" : 1221
   },
   "name" : "US, Missouri—County Marriages, 1806–1969 [Part L]",
-  "state" : "READY_FOR_WORK"
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3265,
@@ -76330,7 +76330,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:05:46",
+  "dateTimeFetched" : "2020-05-13 12:29:39",
   "batchesWithTooManyImages" : { },
   "name" : "Suisse, Fribourg—Recensement de 1811",
   "state" : "READY_FOR_WORK"
@@ -77428,7 +77428,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:12:53",
+  "dateTimeFetched" : "2020-05-13 12:30:44",
   "batchesWithTooManyImages" : { },
   "name" : "Sweden, Jämtland—Church Records, 1642–1860",
   "state" : "READY_FOR_WORK"
@@ -78589,7 +78589,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:13:27",
+  "dateTimeFetched" : "2020-05-13 12:41:08",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri, Buchanan—Marriage Records, 1806–1965 [Part B]",
   "state" : "READY_FOR_WORK"
@@ -81354,7 +81354,7 @@
   "imageCount" : 20839,
   "imageCountFromImagesetsInIndexingStates" : 20839,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 91,
+  "iesAuditBatchCount" : 670,
   "iesCountsNoAudit" : {
     "imagesetCount" : 46,
     "batchCount" : 13390,
@@ -81366,7 +81366,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 13390,
-    "audit" : 91,
+    "audit" : 670,
     "blocked" : 8859,
     "duplicate" : 0,
     "ned" : 0,
@@ -81383,7 +81383,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 579,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -81395,7 +81395,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:09:18",
+  "dateTimeFetched" : "2020-05-13 12:49:50",
   "batchesWithTooManyImages" : { },
   "name" : "US, Washington—County Birth Registers, 1873–1965",
   "state" : "READY_FOR_WORK"
@@ -82371,7 +82371,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:05:14",
+  "dateTimeFetched" : "2020-05-13 12:31:06",
   "batchesWithTooManyImages" : { },
   "name" : "Switzerland, Fribourg—1836 Census",
   "state" : "READY_FOR_WORK"
@@ -86582,7 +86582,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:05:55",
+  "dateTimeFetched" : "2020-05-13 12:17:24",
   "batchesWithTooManyImages" : { },
   "name" : "Italia (Antenati Italiani), Agrigento—Stato Civile, 1820–1865 [Parte C]",
   "state" : "READY_FOR_WORK"
@@ -88188,7 +88188,7 @@
   "imageCount" : 5062,
   "imageCountFromImagesetsInIndexingStates" : 5062,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1,
+  "iesAuditBatchCount" : 26,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
     "batchCount" : 505,
@@ -88200,7 +88200,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 5050,
-    "audit" : 10,
+    "audit" : 260,
     "blocked" : 12,
     "duplicate" : 0,
     "ned" : 0,
@@ -88217,7 +88217,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 250,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -88229,7 +88229,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:13:13",
+  "dateTimeFetched" : "2020-05-13 12:40:59",
   "batchesWithTooManyImages" : { },
   "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900 [Part B]",
   "state" : "READY_FOR_WORK"
@@ -88556,7 +88556,7 @@
   "imageCount" : 1039,
   "imageCountFromImagesetsInIndexingStates" : 1039,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 21,
   "iesCountsNoAudit" : {
     "imagesetCount" : 1,
     "batchCount" : 408,
@@ -88568,7 +88568,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 408,
-    "audit" : 0,
+    "audit" : 21,
     "blocked" : 687,
     "duplicate" : 0,
     "ned" : 0,
@@ -88585,7 +88585,7 @@
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 21,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -88597,7 +88597,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:12:26",
+  "dateTimeFetched" : "2020-05-13 12:30:57",
   "batchesWithTooManyImages" : { },
   "name" : "Sweden, Norrbotten—Church Records, 1658–1860 [Part B]",
   "state" : "READY_FOR_WORK"
@@ -99827,7 +99827,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:05:01",
+  "dateTimeFetched" : "2020-05-13 12:20:39",
   "batchesWithTooManyImages" : { },
   "name" : "Magyarország, Budapest—Polgári anyakönyvek, I–XIII. Kerület, 1895–1973 [Rész B]",
   "state" : "READY_FOR_WORK"
@@ -106071,20 +106071,20 @@
   "imageCount" : 12791,
   "imageCountFromImagesetsInIndexingStates" : 12791,
   "blockedCount" : 556,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 173,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 0,
-    "batchCount" : 0,
-    "images" : 0,
+    "imagesetCount" : 16,
+    "batchCount" : 3455,
+    "images" : 12791,
     "recordCount" : 0
   },
   "exportStateCounts" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
+    "inProgress" : 12235,
+    "audit" : 613,
+    "blocked" : 556,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -106112,7 +106112,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:04:37",
+  "dateTimeFetched" : "2020-05-13 12:48:37",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri—Marriage Records, 1750–1990 [Part E]",
   "state" : "READY_FOR_WORK"
@@ -106356,7 +106356,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:09:55",
+  "dateTimeFetched" : "2020-05-13 12:48:03",
   "batchesWithTooManyImages" : { },
   "name" : "US, Missouri—County Marriages, 1806–1969 [Part P]",
   "state" : "READY_FOR_WORK"
@@ -111239,7 +111239,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:12:19",
+  "dateTimeFetched" : "2020-05-13 12:40:25",
   "batchesWithTooManyImages" : { },
   "name" : "US, Alabama—Marriages, 1750–1980 [Part L]",
   "state" : "READY_FOR_WORK"
@@ -111808,19 +111808,19 @@
   "imageCount" : 17100,
   "imageCountFromImagesetsInIndexingStates" : 17100,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 161,
+  "iesAuditBatchCount" : 179,
   "iesCountsNoAudit" : {
     "imagesetCount" : 21,
     "batchCount" : 4451,
     "images" : 17100,
-    "recordCount" : 2230
+    "recordCount" : 2613
   },
   "exportStateCounts" : {
-    "accepted" : 1615,
-    "exported" : 1,
+    "accepted" : 1950,
+    "exported" : 0,
     "failed" : 25,
-    "inProgress" : 2811,
-    "audit" : 161,
+    "inProgress" : 2477,
+    "audit" : 179,
     "blocked" : 12650,
     "duplicate" : 0,
     "ned" : 0,
@@ -111833,11 +111833,11 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
+    "accepted" : 335,
+    "exported" : -1,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
+    "inProgress" : -334,
+    "audit" : 18,
     "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
@@ -111849,7 +111849,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 16:04:05",
+  "dateTimeFetched" : "2020-05-13 12:48:46",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York—Passenger and Crew Lists, 1887–1952",
   "state" : "ACTIVE"
@@ -112703,7 +112703,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:04:17",
+  "dateTimeFetched" : "2020-05-13 12:23:37",
   "batchesWithTooManyImages" : { },
   "name" : "Magyarország, Bács-Kiskun— Polgári anyakönyvek, 1895–1973 [A rész]",
   "state" : "READY_FOR_WORK"
