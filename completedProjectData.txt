@@ -77021,20 +77021,20 @@
   "imageCount" : 1126,
   "imageCountFromImagesetsInIndexingStates" : 1126,
   "blockedCount" : 854,
-  "iesAuditBatchCount" : 0,
+  "iesAuditBatchCount" : 5,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 0,
-    "batchCount" : 0,
-    "images" : 0,
+    "imagesetCount" : 1,
+    "batchCount" : 93,
+    "images" : 1126,
     "recordCount" : 0
   },
   "exportStateCounts" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
+    "inProgress" : 272,
+    "audit" : 14,
+    "blocked" : 854,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -77062,7 +77062,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 15:06:10",
+  "dateTimeFetched" : "2020-05-14 11:51:09",
   "batchesWithTooManyImages" : { },
   "name" : "Belgium, Antwerp Province—Civil Registration, 1851–1910 [Part I]",
   "state" : "READY_FOR_WORK"
