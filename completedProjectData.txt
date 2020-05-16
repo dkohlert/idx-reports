@@ -4815,7 +4815,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:27",
+  "dateTimeFetched" : "2020-05-15 15:22:14",
   "batchesWithTooManyImages" : { },
   "name" : "TD3 Ja - Peer Review Tutorial",
   "state" : "TEST"
@@ -8233,7 +8233,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:57:00",
+  "dateTimeFetched" : "2020-05-15 15:23:39",
   "batchesWithTooManyImages" : { },
   "name" : "Instructieles indexeringscontrole door collega’s",
   "state" : "TEST"
@@ -28496,7 +28496,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:13",
+  "dateTimeFetched" : "2020-05-15 15:21:57",
   "batchesWithTooManyImages" : { },
   "name" : "Poradnik: Opiniowanie równorzędne indeksowania",
   "state" : "TEST"
@@ -36243,7 +36243,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:46",
+  "dateTimeFetched" : "2020-05-15 15:23:23",
   "batchesWithTooManyImages" : { },
   "name" : "Didacticiel de vérification d’indexation par un autre indexeur",
   "state" : "TEST"
@@ -53695,7 +53695,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:53",
+  "dateTimeFetched" : "2020-05-15 15:23:31",
   "batchesWithTooManyImages" : { },
   "name" : "Tutorial de revisión de indexación por otro indexador",
   "state" : "TEST"
@@ -59267,7 +59267,7 @@
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 12478,
   "imageCountFromImagesetsInIndexingStates" : 12478,
-  "blockedCount" : 0,
+  "blockedCount" : 6138,
   "iesAuditBatchCount" : 0,
   "iesCountsNoAudit" : {
     "imagesetCount" : 0,
@@ -60224,7 +60224,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:40",
+  "dateTimeFetched" : "2020-05-15 15:22:30",
   "batchesWithTooManyImages" : { },
   "name" : "Tutorial da Revisão de Indexação",
   "state" : "TEST"
@@ -67178,7 +67178,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:33",
+  "dateTimeFetched" : "2020-05-15 15:22:22",
   "batchesWithTooManyImages" : { },
   "name" : "Проверка результатов работы другого индексатора",
   "state" : "TEST"
@@ -73412,13 +73412,13 @@
     "state" : "READY_FOR_DELIVERY"
   },
   "imagesetCount" : 146,
-  "imagesetInIndexingStatesCount" : 0,
+  "imagesetInIndexingStatesCount" : 146,
   "batchCount" : 12053,
   "auditBatchCount" : 576,
-  "batchingBatchesNotReviewComplete" : 0,
+  "batchingBatchesNotReviewComplete" : 2,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 72649,
-  "imageCountFromImagesetsInIndexingStates" : 0,
+  "imageCountFromImagesetsInIndexingStates" : 72649,
   "blockedCount" : 0,
   "iesAuditBatchCount" : 576,
   "iesCountsNoAudit" : {
@@ -73461,7 +73461,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-04-14 17:34:08",
+  "dateTimeFetched" : "2020-05-15 15:26:31",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina, Provincia de Santa Fe—Registros de la Iglesia Catolica, 1722—1969 [Parte C]",
   "state" : "READY_FOR_DELIVERY"
@@ -97690,7 +97690,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:06",
+  "dateTimeFetched" : "2020-05-15 15:21:49",
   "batchesWithTooManyImages" : { },
   "name" : "Självstudie för Granskning av indexerare",
   "state" : "TEST"
@@ -102391,7 +102391,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-05-12 14:56:19",
+  "dateTimeFetched" : "2020-05-15 15:22:06",
   "batchesWithTooManyImages" : { },
   "name" : "Tutorial sulla revisione dei batch indicizzati",
   "state" : "TEST"
