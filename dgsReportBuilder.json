@@ -70118,6 +70118,1707 @@
       "idxProjects" : [ ],
       "rosettaProjects" : [ "E1B50914-A45B-44F4-9771-FE8BCF8FAE72" ],
       "projectsWithNoWorkflows" : [ ]
+    },
+    "101313157" : {
+      "dgsName" : "101313157",
+      "imagesetId" : "7E48A4C9-20EE-481C-8000-74AE0C672E1C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101313158" : {
+      "dgsName" : "101313158",
+      "imagesetId" : "CACA8D7F-3ED8-4D97-A333-B56FC1982219",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101313159" : {
+      "dgsName" : "101313159",
+      "imagesetId" : "A04D082A-750D-4147-BF76-A3E5C24F7588",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101313160" : {
+      "dgsName" : "101313160",
+      "imagesetId" : "59ED9E9A-661F-425A-9E45-13699A749EC6",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101313161" : {
+      "dgsName" : "101313161",
+      "imagesetId" : "B022EC76-FA27-404C-8222-9E5589B099A1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101326993" : {
+      "dgsName" : "101326993",
+      "imagesetId" : "3F5855F2-C23A-46B2-BE90-D1481C9EE22A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101326994" : {
+      "dgsName" : "101326994",
+      "imagesetId" : "00C138A5-DF50-48B3-89F3-2EDCAE1BC448",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101326995" : {
+      "dgsName" : "101326995",
+      "imagesetId" : "0CB09BE9-3F55-4983-BE6B-95F78EA48B20",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101326996" : {
+      "dgsName" : "101326996",
+      "imagesetId" : "AAC36244-9698-4EFB-A1FB-8E2B0E9D6695",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101326997" : {
+      "dgsName" : "101326997",
+      "imagesetId" : "E05AF616-7585-4DD7-BAA9-535862623C2B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101326998" : {
+      "dgsName" : "101326998",
+      "imagesetId" : "498D008F-D98F-4050-8FF4-EED1AC0CA95B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101326999" : {
+      "dgsName" : "101326999",
+      "imagesetId" : "42E16758-B969-4734-85E9-54FFD329C3D3",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101327000" : {
+      "dgsName" : "101327000",
+      "imagesetId" : "9A897CC1-6E69-4178-81ED-2F08A568CE58",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101327001" : {
+      "dgsName" : "101327001",
+      "imagesetId" : "610D44C1-F2BF-4D06-ACCA-B331BB11802C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101327002" : {
+      "dgsName" : "101327002",
+      "imagesetId" : "D1EF89B2-7582-4019-B0AB-2D210FA259EF",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355180" : {
+      "dgsName" : "101355180",
+      "imagesetId" : "37A122FF-E8CD-4DDC-9707-AB4C64B962B2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355181" : {
+      "dgsName" : "101355181",
+      "imagesetId" : "99A2EFAC-1EE6-4ED0-B24C-BDED3D997571",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355182" : {
+      "dgsName" : "101355182",
+      "imagesetId" : "219A54F5-F5DC-4EF5-84FB-E0AEFD4D3269",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355183" : {
+      "dgsName" : "101355183",
+      "imagesetId" : "21FEFB7E-F114-4A6A-B103-C5E890AC08B5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355184" : {
+      "dgsName" : "101355184",
+      "imagesetId" : "A6FA65C5-3DCE-4101-9693-83124B5F5825",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355185" : {
+      "dgsName" : "101355185",
+      "imagesetId" : "A5ED5C6B-050B-4FA6-A9BC-0D8C0DE97D30",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355186" : {
+      "dgsName" : "101355186",
+      "imagesetId" : "CC81658B-19F4-4CF8-BD8A-C276165582A4",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355187" : {
+      "dgsName" : "101355187",
+      "imagesetId" : "FCF817E5-5AA4-4FB4-8A4F-0748BA887B83",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355188" : {
+      "dgsName" : "101355188",
+      "imagesetId" : "7A17E8FF-5F1D-47AF-9AC3-90F5E3553627",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101355189" : {
+      "dgsName" : "101355189",
+      "imagesetId" : "9817EB4C-148B-4926-93E7-5575B27889C0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366185" : {
+      "dgsName" : "101366185",
+      "imagesetId" : "543BC35A-8AF0-4F76-8DB8-A300C4E2F5FB",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366186" : {
+      "dgsName" : "101366186",
+      "imagesetId" : "031B3F5B-CE8C-469C-876C-3DCD68CB25C4",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366187" : {
+      "dgsName" : "101366187",
+      "imagesetId" : "EC386864-2F6C-474E-90D1-F38F329A53E5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366188" : {
+      "dgsName" : "101366188",
+      "imagesetId" : "24C4CCB8-87B1-4E38-BBFA-4FB2095643CF",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366189" : {
+      "dgsName" : "101366189",
+      "imagesetId" : "5390BD9E-C722-402D-BCAD-8D81E431565D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366190" : {
+      "dgsName" : "101366190",
+      "imagesetId" : "B28B4C1E-E78C-435B-821C-3C860A29C1E0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366191" : {
+      "dgsName" : "101366191",
+      "imagesetId" : "2095AD45-AF55-4D8A-809E-C85CE7BE9FD2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366192" : {
+      "dgsName" : "101366192",
+      "imagesetId" : "484A57D8-8C35-4BBA-B709-01511EBD2B4D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366193" : {
+      "dgsName" : "101366193",
+      "imagesetId" : "2D3E8B2E-C402-4B7D-886A-E27EB6D71279",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101366194" : {
+      "dgsName" : "101366194",
+      "imagesetId" : "73E15AB1-5C82-4C97-8064-4482E483F71C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391619" : {
+      "dgsName" : "101391619",
+      "imagesetId" : "A06274FA-C136-4B39-8829-0D69612ABEC5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391620" : {
+      "dgsName" : "101391620",
+      "imagesetId" : "CD414B9E-0BE3-4027-AC14-605B2366AD85",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391621" : {
+      "dgsName" : "101391621",
+      "imagesetId" : "9EC88F90-3F0C-48DB-8DCD-788F60806528",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391622" : {
+      "dgsName" : "101391622",
+      "imagesetId" : "06703068-BC19-4694-ADA4-5848658ED5CE",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391623" : {
+      "dgsName" : "101391623",
+      "imagesetId" : "E58847C2-2851-496C-A401-F36F9997B09C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391624" : {
+      "dgsName" : "101391624",
+      "imagesetId" : "E2D74AAC-E750-4BDE-B95D-477B21E2BF7E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391625" : {
+      "dgsName" : "101391625",
+      "imagesetId" : "0F1D6FF3-09B6-4712-BF1A-C54BBFB29C1B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391626" : {
+      "dgsName" : "101391626",
+      "imagesetId" : "F949210F-8FE0-4814-94B5-070D346CEE22",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101391627" : {
+      "dgsName" : "101391627",
+      "imagesetId" : "5C3CB832-6846-4617-9C80-0E469DF1744F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408152" : {
+      "dgsName" : "101408152",
+      "imagesetId" : "33C14B79-F6EB-4292-A836-4D4EE0DED90A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408153" : {
+      "dgsName" : "101408153",
+      "imagesetId" : "8BA8B156-AE81-4D5A-A08F-0196D3F9F7C8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408154" : {
+      "dgsName" : "101408154",
+      "imagesetId" : "488B126D-BE17-41D1-B473-D233B9DD73F5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408155" : {
+      "dgsName" : "101408155",
+      "imagesetId" : "E4EF7130-92CB-4EE7-B21A-62B520A2A87B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408156" : {
+      "dgsName" : "101408156",
+      "imagesetId" : "B6091067-4B03-4AB5-A7CB-C2D3DAD5E174",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408157" : {
+      "dgsName" : "101408157",
+      "imagesetId" : "F4C2E9B4-2E83-4C60-B435-F219FB3C08CF",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408158" : {
+      "dgsName" : "101408158",
+      "imagesetId" : "ACD7F7CC-43B2-4991-94C1-B219162A206F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408159" : {
+      "dgsName" : "101408159",
+      "imagesetId" : "BE339740-725D-432E-A3D7-EFD4C0DA2941",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408160" : {
+      "dgsName" : "101408160",
+      "imagesetId" : "AD05AA90-C5D3-437A-ABD8-6D98A9D5410A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408161" : {
+      "dgsName" : "101408161",
+      "imagesetId" : "E7222E62-AD1C-449B-81D8-130809200D4F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101408162" : {
+      "dgsName" : "101408162",
+      "imagesetId" : "F30EFA38-F122-4E2C-A0C9-FCE05FC4188D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101427184" : {
+      "dgsName" : "101427184",
+      "imagesetId" : "EE942706-DF13-4D74-86D0-B86A38CE8109",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101427185" : {
+      "dgsName" : "101427185",
+      "imagesetId" : "C25B6445-AD5E-4C21-9BFA-D158068FD78A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101427186" : {
+      "dgsName" : "101427186",
+      "imagesetId" : "E17C9C54-15A1-430F-AF1F-39B0CA741731",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101427187" : {
+      "dgsName" : "101427187",
+      "imagesetId" : "C1B42030-D2D2-40C6-B8A5-6F6CA5F691CD",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101427188" : {
+      "dgsName" : "101427188",
+      "imagesetId" : "B14D868A-D3F4-4720-94C1-A1368925E5B2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101447689" : {
+      "dgsName" : "101447689",
+      "imagesetId" : "156790E6-7F96-477D-842D-B847290BF11A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101447690" : {
+      "dgsName" : "101447690",
+      "imagesetId" : "96BDF51B-2E79-4423-9C6B-7DE804D611EF",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101447691" : {
+      "dgsName" : "101447691",
+      "imagesetId" : "D76A636F-22F3-465C-8ED5-8C8B960D1BF6",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101447692" : {
+      "dgsName" : "101447692",
+      "imagesetId" : "00651B79-9E93-4C38-9521-B51D658CD426",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101462151" : {
+      "dgsName" : "101462151",
+      "imagesetId" : "D041F81B-BC4F-4146-B2BF-FF90BC7C7EA2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101462152" : {
+      "dgsName" : "101462152",
+      "imagesetId" : "68CCE9C8-78AA-4DDC-972A-C70EE435C92C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101462153" : {
+      "dgsName" : "101462153",
+      "imagesetId" : "1856DB24-CBCF-4B70-A9C0-7530BD2C248F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101473350" : {
+      "dgsName" : "101473350",
+      "imagesetId" : "99024948-33E4-48AD-B773-BD8A3F2D7635",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101473351" : {
+      "dgsName" : "101473351",
+      "imagesetId" : "75699A5F-1FD4-41F8-82AC-59FE595A50A0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101473352" : {
+      "dgsName" : "101473352",
+      "imagesetId" : "E742FB5F-6794-4074-A0FA-035D7716EF37",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101473353" : {
+      "dgsName" : "101473353",
+      "imagesetId" : "75CD0498-6C78-432A-8E0E-9E4572D0825D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101473354" : {
+      "dgsName" : "101473354",
+      "imagesetId" : "BAA7BC22-5EAB-4349-A5D7-D458E1923898",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101473355" : {
+      "dgsName" : "101473355",
+      "imagesetId" : "90C9D833-D770-4894-861B-6A99E980052E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101489203" : {
+      "dgsName" : "101489203",
+      "imagesetId" : "252BA62F-E16B-457D-A834-47BA209233CE",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101489204" : {
+      "dgsName" : "101489204",
+      "imagesetId" : "FF9E40C8-1EFA-4B3C-BEF6-636045B191F5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101489205" : {
+      "dgsName" : "101489205",
+      "imagesetId" : "DE5552B8-7013-41E9-8250-B3544E24AC45",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101489206" : {
+      "dgsName" : "101489206",
+      "imagesetId" : "78A0BC3E-4B4B-4A11-95C9-EE7B103915B2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101489207" : {
+      "dgsName" : "101489207",
+      "imagesetId" : "0FE1EE6D-8BB9-4C25-8356-477AD3533E97",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101489208" : {
+      "dgsName" : "101489208",
+      "imagesetId" : "BEFCF38B-275C-4E14-8F94-04A11932465D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101513736" : {
+      "dgsName" : "101513736",
+      "imagesetId" : "40FEDCD0-BC80-4718-A717-991CD6E5013B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101513737" : {
+      "dgsName" : "101513737",
+      "imagesetId" : "6471850B-8CFD-4369-9289-52F3FC0EF5AA",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101513738" : {
+      "dgsName" : "101513738",
+      "imagesetId" : "E8BC3A92-255D-4545-90A9-5C07654333D0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101513739" : {
+      "dgsName" : "101513739",
+      "imagesetId" : "F071B7B9-B754-49B2-802F-AC15274BE1C1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101513740" : {
+      "dgsName" : "101513740",
+      "imagesetId" : "A009033F-B214-4677-A686-E465476E5ED7",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101515337" : {
+      "dgsName" : "101515337",
+      "imagesetId" : "5E14C2BB-4C2C-436E-AAD7-3C57F7094922",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101515338" : {
+      "dgsName" : "101515338",
+      "imagesetId" : "271414F2-1414-4C1B-B0F7-FBC803BCB39F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101543899" : {
+      "dgsName" : "101543899",
+      "imagesetId" : "FFDCF429-AA4B-4000-BDEA-5555F3E7E9AB",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101543900" : {
+      "dgsName" : "101543900",
+      "imagesetId" : "A4B8DC12-5E2A-481F-B7EF-CD9B982DF413",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101543901" : {
+      "dgsName" : "101543901",
+      "imagesetId" : "23E6DFBD-6A93-4A9F-89FB-9705DF3844EE",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101543902" : {
+      "dgsName" : "101543902",
+      "imagesetId" : "5B909778-649A-479D-B3F1-CB9E1230DCF8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101543903" : {
+      "dgsName" : "101543903",
+      "imagesetId" : "21A97AA9-62AC-4A2E-AD07-421DF1A82C61",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101543904" : {
+      "dgsName" : "101543904",
+      "imagesetId" : "CD4696A6-2F54-4D79-B51C-911F30CC125B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101543905" : {
+      "dgsName" : "101543905",
+      "imagesetId" : "FC71D7D0-C27C-4048-9C2A-7F59454B34CC",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551676" : {
+      "dgsName" : "101551676",
+      "imagesetId" : "13B5B68C-98BA-4243-85E1-7EDB878ECEE7",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551677" : {
+      "dgsName" : "101551677",
+      "imagesetId" : "73A6EABA-23FC-4969-B120-027FBBF24F42",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551678" : {
+      "dgsName" : "101551678",
+      "imagesetId" : "4C727055-16B1-4BAA-99C2-F609A2E6B302",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551679" : {
+      "dgsName" : "101551679",
+      "imagesetId" : "705A9C38-FFA5-4C18-B48B-E7AF8EF49A13",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551680" : {
+      "dgsName" : "101551680",
+      "imagesetId" : "FFB9D4E9-CA23-4379-B86E-315F42FBE74F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551681" : {
+      "dgsName" : "101551681",
+      "imagesetId" : "063745DD-C8C9-4586-8204-37FAF1613FBC",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551682" : {
+      "dgsName" : "101551682",
+      "imagesetId" : "ADAECCEB-4A3E-4E46-A0C6-6B9FF450FBE6",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551683" : {
+      "dgsName" : "101551683",
+      "imagesetId" : "DA1085F2-2D79-49E2-A28D-1F6893509D79",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551684" : {
+      "dgsName" : "101551684",
+      "imagesetId" : "AFD8C65B-09C4-47A3-B05E-2AF5481082F3",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101551685" : {
+      "dgsName" : "101551685",
+      "imagesetId" : "9CD285D6-67F8-4FB4-8A6E-2E762BF5860B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563342" : {
+      "dgsName" : "101563342",
+      "imagesetId" : "47F022C8-5483-49E1-A909-DE2CF09FAB08",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563343" : {
+      "dgsName" : "101563343",
+      "imagesetId" : "328206F6-11D8-4BD1-8153-B13871036ACA",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563344" : {
+      "dgsName" : "101563344",
+      "imagesetId" : "BF102703-C6BE-4E61-B7AE-87383985ECE6",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563345" : {
+      "dgsName" : "101563345",
+      "imagesetId" : "218EA833-9647-400B-9371-395D3E009834",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563346" : {
+      "dgsName" : "101563346",
+      "imagesetId" : "0F53F12B-87BB-4B9C-8FD0-6974366B05E5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563347" : {
+      "dgsName" : "101563347",
+      "imagesetId" : "765F18B5-18A5-46BF-805C-797BAFB92A90",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563348" : {
+      "dgsName" : "101563348",
+      "imagesetId" : "3576EC12-9B1A-4B12-B45F-9975439BFCDC",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563349" : {
+      "dgsName" : "101563349",
+      "imagesetId" : "C544F82C-D696-4714-8116-DFD84DA9C033",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563350" : {
+      "dgsName" : "101563350",
+      "imagesetId" : "FD4B7565-0FA8-4629-80B3-2BB5E983D0D6",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101563351" : {
+      "dgsName" : "101563351",
+      "imagesetId" : "D48A7863-C2B7-4BE3-B536-897BE655A7FC",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588631" : {
+      "dgsName" : "101588631",
+      "imagesetId" : "21AE2006-2C87-4148-96D0-D60B7639937C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588632" : {
+      "dgsName" : "101588632",
+      "imagesetId" : "AEB7B0E1-F5A8-480C-9772-4A89BC7C29C2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588633" : {
+      "dgsName" : "101588633",
+      "imagesetId" : "70FE479A-9483-4E90-9BF9-ADA128C1FD2F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588634" : {
+      "dgsName" : "101588634",
+      "imagesetId" : "5B74B1FD-3522-4353-9BBA-2E6B6DFAF4D8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588635" : {
+      "dgsName" : "101588635",
+      "imagesetId" : "9814D9A3-BAB8-4EAC-A5ED-158C8C6200F8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588636" : {
+      "dgsName" : "101588636",
+      "imagesetId" : "2A5AA176-21DF-4571-B5CA-BAC84DD0E371",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588637" : {
+      "dgsName" : "101588637",
+      "imagesetId" : "94156AB2-DBE8-43AC-8F0B-F59A6A482288",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588638" : {
+      "dgsName" : "101588638",
+      "imagesetId" : "7B2F0343-5827-4DF3-8095-8878888507B0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588639" : {
+      "dgsName" : "101588639",
+      "imagesetId" : "CD94BE14-E24A-46EB-AB99-13A31B8191D3",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588640" : {
+      "dgsName" : "101588640",
+      "imagesetId" : "DB3122BD-4841-4CE5-9783-2CD5A0451BC1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101588641" : {
+      "dgsName" : "101588641",
+      "imagesetId" : "C6ABF455-5B36-4A7A-A6FC-4A7544FA51CF",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101602836" : {
+      "dgsName" : "101602836",
+      "imagesetId" : "D3EC3721-4C73-4F4C-982F-1F88FA14B905",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101602837" : {
+      "dgsName" : "101602837",
+      "imagesetId" : "C173A82D-BF34-4BBF-B79F-305B07C8B806",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101602838" : {
+      "dgsName" : "101602838",
+      "imagesetId" : "435BC1EE-A610-42C5-A185-C6C9EF9A00CD",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101602839" : {
+      "dgsName" : "101602839",
+      "imagesetId" : "4546F60E-DC91-40D7-BA93-10BC80AFA4A6",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101602840" : {
+      "dgsName" : "101602840",
+      "imagesetId" : "6CA75C7D-59B1-4DD2-8B1A-5A3F275F5465",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101602841" : {
+      "dgsName" : "101602841",
+      "imagesetId" : "07C1B3F4-C43F-4E5B-9E06-6843EFC359D8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101602842" : {
+      "dgsName" : "101602842",
+      "imagesetId" : "2F9E2DCD-EFFD-4B4D-83E5-B0559E4CFC60",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101614015" : {
+      "dgsName" : "101614015",
+      "imagesetId" : "852D82A0-C9B1-4CF2-AEA4-4BE7736CF122",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101614016" : {
+      "dgsName" : "101614016",
+      "imagesetId" : "360A1041-9EB0-47EB-BF6F-E79D3F4E3456",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101614017" : {
+      "dgsName" : "101614017",
+      "imagesetId" : "3F2DF0C9-FBCA-499A-BD4B-8E7207480CE4",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101630039" : {
+      "dgsName" : "101630039",
+      "imagesetId" : "A89E197A-99F4-43E1-A559-E0F9C9D3B1E5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101630040" : {
+      "dgsName" : "101630040",
+      "imagesetId" : "FE90846B-62C3-48BD-8008-02AA7219F6A9",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101630041" : {
+      "dgsName" : "101630041",
+      "imagesetId" : "E9A47BA2-9540-43B5-BAE8-80E9222F5E28",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101630042" : {
+      "dgsName" : "101630042",
+      "imagesetId" : "B3760EEA-A518-4391-9BCE-6D357EB8AE52",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101630043" : {
+      "dgsName" : "101630043",
+      "imagesetId" : "6EEC9F3E-72F5-4150-9089-F2B3EC4AD6E3",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101630044" : {
+      "dgsName" : "101630044",
+      "imagesetId" : "650318C5-27DF-4A08-89D0-64BA7F232B41",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101642699" : {
+      "dgsName" : "101642699",
+      "imagesetId" : "C3B8A9D3-7ABF-43A3-B4E7-B3B4B465E6E4",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101642700" : {
+      "dgsName" : "101642700",
+      "imagesetId" : "592127A3-F2E6-465D-AAA8-5DB0975A855D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101642701" : {
+      "dgsName" : "101642701",
+      "imagesetId" : "4E48D2D2-A94F-4F1C-AD4F-3AB7B5C92716",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101642702" : {
+      "dgsName" : "101642702",
+      "imagesetId" : "DA985857-6F42-4EF3-96E9-4899ED2856E7",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656325" : {
+      "dgsName" : "101656325",
+      "imagesetId" : "70161DDF-A070-4236-9E1D-533F21B43DD1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656326" : {
+      "dgsName" : "101656326",
+      "imagesetId" : "D0936B8F-72A1-41F0-AA67-68E3AD722769",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656327" : {
+      "dgsName" : "101656327",
+      "imagesetId" : "EC6CDD42-3E32-4C9A-A166-C43B634FE0C5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656328" : {
+      "dgsName" : "101656328",
+      "imagesetId" : "929043B2-CD3A-4DE6-B021-A717A630FAA6",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656329" : {
+      "dgsName" : "101656329",
+      "imagesetId" : "B780E464-6683-480B-BFD7-AFF3F7455A2D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656330" : {
+      "dgsName" : "101656330",
+      "imagesetId" : "49BB408B-03B0-465D-93AE-E4D212220808",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656331" : {
+      "dgsName" : "101656331",
+      "imagesetId" : "568F67AF-14C7-4B41-97D0-0BF86F762786",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656332" : {
+      "dgsName" : "101656332",
+      "imagesetId" : "4678D0E3-44B4-4524-B1B8-34DE5FECAA46",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656333" : {
+      "dgsName" : "101656333",
+      "imagesetId" : "27F99035-F0FE-49F4-87BC-2F931D05E56A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101656334" : {
+      "dgsName" : "101656334",
+      "imagesetId" : "3E05ECBC-270B-453E-A01A-336B6A20D1AE",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101676430" : {
+      "dgsName" : "101676430",
+      "imagesetId" : "14449D4A-DA82-4DD8-A827-51058B45EE85",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101676431" : {
+      "dgsName" : "101676431",
+      "imagesetId" : "14414F63-AE8D-4529-A1CB-240F6FF80670",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101676432" : {
+      "dgsName" : "101676432",
+      "imagesetId" : "74883EB2-806A-4EC8-A1E1-736D23F75506",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101676433" : {
+      "dgsName" : "101676433",
+      "imagesetId" : "02DF052A-4F2D-4F37-9751-C5AABC3B7E0E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101676434" : {
+      "dgsName" : "101676434",
+      "imagesetId" : "DFAB8132-C2D6-4B83-8919-D263E2D6349B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101676435" : {
+      "dgsName" : "101676435",
+      "imagesetId" : "799316CE-AE3D-4BEB-80B0-7E112E273981",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101693717" : {
+      "dgsName" : "101693717",
+      "imagesetId" : "6C7A6F12-2C81-4CFE-A347-58A92D93DB6A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101693718" : {
+      "dgsName" : "101693718",
+      "imagesetId" : "9A5B87C8-C4CC-4B5E-89DC-A45DCA23A2E8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101693719" : {
+      "dgsName" : "101693719",
+      "imagesetId" : "03C46220-040F-42F6-AD95-72E62BE96C41",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101693720" : {
+      "dgsName" : "101693720",
+      "imagesetId" : "89D77848-0A86-4547-8253-5F0F860BF65A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101693721" : {
+      "dgsName" : "101693721",
+      "imagesetId" : "92101045-9A4F-4346-8D63-B58B907D24E0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101693722" : {
+      "dgsName" : "101693722",
+      "imagesetId" : "D40D622B-8406-4F57-A903-5615DA28D3E1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101693723" : {
+      "dgsName" : "101693723",
+      "imagesetId" : "354CFF70-2588-4D03-A8ED-80DF98E8C23C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716720" : {
+      "dgsName" : "101716720",
+      "imagesetId" : "58AB8B0A-ACE7-417B-AFCA-F52D77CFC4FA",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716721" : {
+      "dgsName" : "101716721",
+      "imagesetId" : "00793684-5E3C-4799-8BD2-1FAC6AAE7735",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716722" : {
+      "dgsName" : "101716722",
+      "imagesetId" : "994C9CA7-1D32-43D0-A2F6-8F6583FDFC70",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716723" : {
+      "dgsName" : "101716723",
+      "imagesetId" : "706F04C4-BC44-4CC1-91E4-C3E196A80DF4",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716724" : {
+      "dgsName" : "101716724",
+      "imagesetId" : "EF1CF1BE-5210-42D0-BE1F-8F275E1261E3",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716725" : {
+      "dgsName" : "101716725",
+      "imagesetId" : "12E4DE9D-B397-4D56-815D-BF02EADECEC7",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716726" : {
+      "dgsName" : "101716726",
+      "imagesetId" : "A22950E6-3C07-48E4-8AE5-7666499CE562",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101716727" : {
+      "dgsName" : "101716727",
+      "imagesetId" : "102B0372-0C49-4468-8C70-765124E99C12",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101731366" : {
+      "dgsName" : "101731366",
+      "imagesetId" : "AE7E69F0-BFC9-4D99-9F99-54D3BB3A94C2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101731367" : {
+      "dgsName" : "101731367",
+      "imagesetId" : "125CE289-29F4-4D99-AE1F-EADDB86A3299",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101731368" : {
+      "dgsName" : "101731368",
+      "imagesetId" : "F25E8AB2-74F0-4F4E-8271-ED0BDF43BBE1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101731369" : {
+      "dgsName" : "101731369",
+      "imagesetId" : "207F20E3-F375-4EF9-8D51-FF8562283D40",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101731370" : {
+      "dgsName" : "101731370",
+      "imagesetId" : "7122A966-1C15-4021-B2EF-BB7581E2DABC",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101731371" : {
+      "dgsName" : "101731371",
+      "imagesetId" : "20CAE3BC-2653-4DE9-9AB0-8AB5BD4980F7",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746384" : {
+      "dgsName" : "101746384",
+      "imagesetId" : "CBBAF37D-40DA-4256-BBD1-0BDBE8B535EE",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746385" : {
+      "dgsName" : "101746385",
+      "imagesetId" : "7301A98C-BF9C-4856-9EC4-A9BD7357201F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746386" : {
+      "dgsName" : "101746386",
+      "imagesetId" : "53A63403-4A97-4FFC-B815-E032E2FFFF89",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746387" : {
+      "dgsName" : "101746387",
+      "imagesetId" : "B91EEA10-4F6B-4499-A392-8FD489367363",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746388" : {
+      "dgsName" : "101746388",
+      "imagesetId" : "D9E9490C-E88A-408F-A19B-9CD5CC5297EC",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746389" : {
+      "dgsName" : "101746389",
+      "imagesetId" : "1FE248DC-2080-4C2A-BEBF-E0C148DA5BED",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746390" : {
+      "dgsName" : "101746390",
+      "imagesetId" : "21FD52DC-1010-4485-8ED6-FA5FC3E63588",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746391" : {
+      "dgsName" : "101746391",
+      "imagesetId" : "BF36EC65-8A0F-428D-9819-B775B3BDD32C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746392" : {
+      "dgsName" : "101746392",
+      "imagesetId" : "FDD7D4AF-BF4E-4016-8784-C888A52F0807",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101746393" : {
+      "dgsName" : "101746393",
+      "imagesetId" : "F50BAAC0-2835-4299-BEDB-3246DE15FEE5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768594" : {
+      "dgsName" : "101768594",
+      "imagesetId" : "819B5ABC-3930-463B-B8A1-138A17650287",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768595" : {
+      "dgsName" : "101768595",
+      "imagesetId" : "08437BE9-CA98-4FF0-A874-54FAA34DB158",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768596" : {
+      "dgsName" : "101768596",
+      "imagesetId" : "EC3BAFBE-585F-4EAF-B01E-19B51F318F7F",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768597" : {
+      "dgsName" : "101768597",
+      "imagesetId" : "634317EB-D60B-4110-B7E8-53689BE0E9A8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768598" : {
+      "dgsName" : "101768598",
+      "imagesetId" : "84D97D60-8ED1-473F-B8E7-F8D1846FBEC0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768599" : {
+      "dgsName" : "101768599",
+      "imagesetId" : "9B63CEE1-88C8-47A8-AD2D-C5746C21711E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768600" : {
+      "dgsName" : "101768600",
+      "imagesetId" : "119A0E6F-B4D4-42D4-AA12-87C104A3CB42",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768601" : {
+      "dgsName" : "101768601",
+      "imagesetId" : "F9EF78CB-C0D7-486B-829C-3CA82D408BCA",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768602" : {
+      "dgsName" : "101768602",
+      "imagesetId" : "069D9897-CC84-4254-9326-724FD8A4F66E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768603" : {
+      "dgsName" : "101768603",
+      "imagesetId" : "C49C15AD-2AD7-4D62-A052-EE43E11D2E7B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768604" : {
+      "dgsName" : "101768604",
+      "imagesetId" : "6B80EA24-33F3-45C6-B63E-BC54CDA6BA5D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768605" : {
+      "dgsName" : "101768605",
+      "imagesetId" : "1E775EA6-AA58-43FB-8F32-FF8FC28D0AF8",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768606" : {
+      "dgsName" : "101768606",
+      "imagesetId" : "9C004907-05BF-4FFC-BB4B-EE1488838E85",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101768607" : {
+      "dgsName" : "101768607",
+      "imagesetId" : "0C2FB4A2-C847-4F74-A399-08B740AA0997",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784286" : {
+      "dgsName" : "101784286",
+      "imagesetId" : "E41B03C2-02D5-4CDC-B95F-0361F9C1B9DA",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784287" : {
+      "dgsName" : "101784287",
+      "imagesetId" : "9CB44C95-2A29-4C2D-8ED0-682E0713A583",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784288" : {
+      "dgsName" : "101784288",
+      "imagesetId" : "606B263C-A29C-4DE5-ACA8-3CD55244B31B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784289" : {
+      "dgsName" : "101784289",
+      "imagesetId" : "5B92238D-31F9-4461-BFFC-BBDFAC31BBE9",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784290" : {
+      "dgsName" : "101784290",
+      "imagesetId" : "2D338F19-94FC-43C0-B5B1-21B0E73BCB4D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784291" : {
+      "dgsName" : "101784291",
+      "imagesetId" : "D0B1A3C5-5CA4-40EE-B39F-A49D1322079A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784292" : {
+      "dgsName" : "101784292",
+      "imagesetId" : "7BFEF4B0-5D18-409D-94B9-DB29D3A2F4AA",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101784293" : {
+      "dgsName" : "101784293",
+      "imagesetId" : "D98ABA03-8512-4BDA-911C-CE9C58335358",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101824330" : {
+      "dgsName" : "101824330",
+      "imagesetId" : "A67CAD72-FF72-46A8-8790-6AD37B60924A",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837571" : {
+      "dgsName" : "101837571",
+      "imagesetId" : "11AC2E19-5096-4A83-B70A-ADEF6B6E952E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837572" : {
+      "dgsName" : "101837572",
+      "imagesetId" : "536F98B1-6342-4172-8D70-035DECE82C42",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837573" : {
+      "dgsName" : "101837573",
+      "imagesetId" : "E2F5B0C8-B541-403D-92DD-4FEC97ECD60D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837574" : {
+      "dgsName" : "101837574",
+      "imagesetId" : "3F3E881B-E56F-4A86-9CBE-B6D1AF7A9F9C",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837575" : {
+      "dgsName" : "101837575",
+      "imagesetId" : "267EFE58-7CA3-4DE2-911E-3F86B18A14BE",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837576" : {
+      "dgsName" : "101837576",
+      "imagesetId" : "2E15D54A-1104-4D2C-ADD8-9C195CFE6BA4",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837577" : {
+      "dgsName" : "101837577",
+      "imagesetId" : "45615E0A-AF90-4542-90C6-14E3C33C64C3",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837578" : {
+      "dgsName" : "101837578",
+      "imagesetId" : "5437F70F-49FC-4EC8-905F-5ED38AF6BA6B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101837579" : {
+      "dgsName" : "101837579",
+      "imagesetId" : "0CE31B0C-FA38-4010-BEA0-28A65574C3B2",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101857209" : {
+      "dgsName" : "101857209",
+      "imagesetId" : "CF65E2DA-83D6-4A6F-B186-3FFB632A0228",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101857210" : {
+      "dgsName" : "101857210",
+      "imagesetId" : "F7964F00-99B5-42CB-81C9-710C207C3FFA",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101857211" : {
+      "dgsName" : "101857211",
+      "imagesetId" : "D2F97F7A-6661-4BB4-B35B-3508BAEC362D",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101857212" : {
+      "dgsName" : "101857212",
+      "imagesetId" : "B9A7F6A7-ACBE-455F-9971-903735538097",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881834" : {
+      "dgsName" : "101881834",
+      "imagesetId" : "485FB763-6A5E-4FF7-9A62-91AA04B3CDF0",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881835" : {
+      "dgsName" : "101881835",
+      "imagesetId" : "716EE76C-155B-46EC-AC07-C648238D4181",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881836" : {
+      "dgsName" : "101881836",
+      "imagesetId" : "35F9FC89-414D-440C-BC8A-B2179467BEB7",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881837" : {
+      "dgsName" : "101881837",
+      "imagesetId" : "FA6801B4-BBE7-4797-9D0B-D2CA137D0EC5",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881838" : {
+      "dgsName" : "101881838",
+      "imagesetId" : "6DF9C99E-F7DE-42BE-8291-839B6694B0FD",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881839" : {
+      "dgsName" : "101881839",
+      "imagesetId" : "6C2242A2-E4AC-4C8A-900D-CFC808B1E197",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881840" : {
+      "dgsName" : "101881840",
+      "imagesetId" : "EC4A466B-4528-42BB-B75B-ADFA857A098E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881841" : {
+      "dgsName" : "101881841",
+      "imagesetId" : "A36DF97D-6159-4BBE-868F-B35BED0DFFC1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881842" : {
+      "dgsName" : "101881842",
+      "imagesetId" : "FEB7FD3C-6D51-4FAE-BF24-86368F93AF9B",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881843" : {
+      "dgsName" : "101881843",
+      "imagesetId" : "52C15CD0-E40A-4C0E-BBA6-6A90722507A7",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881844" : {
+      "dgsName" : "101881844",
+      "imagesetId" : "4F50AE95-3330-4BE9-9697-F81F0C90C45E",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881845" : {
+      "dgsName" : "101881845",
+      "imagesetId" : "FEE8E77F-56D7-4CA1-AAFB-5C7EC42D5401",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881846" : {
+      "dgsName" : "101881846",
+      "imagesetId" : "E8DFBA77-9AC8-4249-AC67-B800112E4BA3",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881847" : {
+      "dgsName" : "101881847",
+      "imagesetId" : "1394A10D-A7E4-4002-8156-CDE3B0DEF3FB",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881848" : {
+      "dgsName" : "101881848",
+      "imagesetId" : "1BA109A2-4A54-41AF-BE91-7AE73A92E984",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "101881849" : {
+      "dgsName" : "101881849",
+      "imagesetId" : "35C17EF5-7D2C-4BE8-8048-B7982B86EBF1",
+      "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
     }
   },
   "rosettaProjectStatusMap" : {
