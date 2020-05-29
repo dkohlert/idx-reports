@@ -9467,8 +9467,8 @@
     "007649797" : {
       "dgsName" : "007649797",
       "imagesetId" : "2A2E9BC6-7498-495F-B798-37FAB9C7B53D",
-      "idxProjects" : [ "1BF47D9E-E11F-4C74-9B9E-730B27609058" ],
-      "rosettaProjects" : [ ],
+      "idxProjects" : [ "1BF47D9E-E11F-4C74-9B9E-730B27609058", "EEC2A9E9-D915-427D-8D30-018A25FF9B5B" ],
+      "rosettaProjects" : [ "EEC2A9E9-D915-427D-8D30-018A25FF9B5B" ],
       "projectsWithNoWorkflows" : [ ]
     },
     "100540849" : {
@@ -26422,7 +26422,7 @@
       "dgsName" : "101140023",
       "imagesetId" : "FCFB1C60-FEED-42D4-B86C-F00916F05185",
       "idxProjects" : [ ],
-      "rosettaProjects" : [ "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
+      "rosettaProjects" : [ "A9830AC2-219B-4D65-B1F7-AD06553251B6", "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
       "projectsWithNoWorkflows" : [ ]
     },
     "101140022" : {
@@ -26436,7 +26436,7 @@
       "dgsName" : "101140021",
       "imagesetId" : "F29E6F22-4CE4-432F-A1F3-774F067A6101",
       "idxProjects" : [ ],
-      "rosettaProjects" : [ "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
+      "rosettaProjects" : [ "A9830AC2-219B-4D65-B1F7-AD06553251B6", "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
       "projectsWithNoWorkflows" : [ ]
     },
     "101140013" : {
@@ -26457,14 +26457,14 @@
       "dgsName" : "101140016",
       "imagesetId" : "A0F91446-8024-4901-B89B-7E708F9DFEF2",
       "idxProjects" : [ "A9830AC2-219B-4D65-B1F7-AD06553251B6" ],
-      "rosettaProjects" : [ "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
+      "rosettaProjects" : [ "A9830AC2-219B-4D65-B1F7-AD06553251B6", "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
       "projectsWithNoWorkflows" : [ ]
     },
     "101140015" : {
       "dgsName" : "101140015",
       "imagesetId" : "580CF57B-C26A-40B5-909D-545E5E27BA43",
       "idxProjects" : [ ],
-      "rosettaProjects" : [ "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
+      "rosettaProjects" : [ "A9830AC2-219B-4D65-B1F7-AD06553251B6", "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
       "projectsWithNoWorkflows" : [ ]
     },
     "101140014" : {
@@ -26478,7 +26478,7 @@
       "dgsName" : "101140019",
       "imagesetId" : "60619BDC-2302-48E2-9AB7-CC95C494884E",
       "idxProjects" : [ ],
-      "rosettaProjects" : [ "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
+      "rosettaProjects" : [ "A9830AC2-219B-4D65-B1F7-AD06553251B6", "CBF34214-BB72-47CE-A53B-BC2377CA1711" ],
       "projectsWithNoWorkflows" : [ ]
     },
     "101140018" : {
@@ -71819,6 +71819,20 @@
       "idxProjects" : [ "822961FF-2086-4202-B41A-E1249031B171" ],
       "rosettaProjects" : [ ],
       "projectsWithNoWorkflows" : [ ]
+    },
+    "004218423" : {
+      "dgsName" : "004218423",
+      "imagesetId" : "B4739F1A-CA3F-4642-A740-65A604D46A84",
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "57912FB4-0DFB-4ADC-AE48-154B5246F69B" ],
+      "projectsWithNoWorkflows" : [ ]
+    },
+    "004219663" : {
+      "dgsName" : "004219663",
+      "imagesetId" : "D5EA31EF-5751-4CA7-A9F3-AFF2729B2825",
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "57912FB4-0DFB-4ADC-AE48-154B5246F69B" ],
+      "projectsWithNoWorkflows" : [ ]
     }
   },
   "rosettaProjectStatusMap" : {
@@ -73663,7 +73677,21 @@
     "81524DB7-B898-4697-9DFF-D55C81814E2E" : "In Production",
     "1802D000-790A-4801-81CB-2ABAE8FA8EAB" : "In Production",
     "11DF61E9-9771-4452-A0C6-196E2E751B9D" : "Completed",
-    "DBEF11EA-9B6F-4406-A676-8C67E5FD8561" : "In Production"
+    "DBEF11EA-9B6F-4406-A676-8C67E5FD8561" : "In Production",
+    "BC634BE9-727B-43C3-8281-30491AAAF16A" : "In Production",
+    "031F6116-11A5-4428-A0E1-3AB9A772EDB9" : "In Production",
+    "A6BF62AF-A046-4792-82EF-25F2D5048A5B" : "In Production",
+    "57912FB4-0DFB-4ADC-AE48-154B5246F69B" : "In Production",
+    "05121BA7-3C64-402A-9471-61FC30989A34" : "In Production",
+    "C07FFD98-5BF1-4A8B-88D7-CCA606091E2F" : "In Production",
+    "EEC2A9E9-D915-427D-8D30-018A25FF9B5B" : "In Production",
+    "F61E2566-672A-44FB-A244-BB170A7F1BB7" : "In Production",
+    "A9830AC2-219B-4D65-B1F7-AD06553251B6" : "In Production",
+    "466E2C33-1A63-4967-8C87-74DCFE12AA15" : "In Production",
+    "C8EFB530-82E9-40E5-BC63-80049A3972C8" : "In Production",
+    "51255B5B-AFDC-444B-90CE-B519E37145B7" : "In Production",
+    "448470D4-B2FF-41BC-A18A-4F10BA7D1490" : "In Production",
+    "DC521540-E704-4E9A-AA0F-CF610D9EDB46" : "In Production"
   },
   "fileName" : "dgsMisassignmentsReport.csv",
   "targetDirectory" : "/Users/kohlertdc/resources/idx-reports",
