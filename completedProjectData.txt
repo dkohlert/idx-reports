@@ -49301,7 +49301,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2020-06-02 18:36:15",
+  "dateTimeFetched" : "2020-06-03 08:29:27",
   "batchesWithTooManyImages" : { },
   "name" : "US, Washington—County Death Registers, 1881–1922 [Part A]",
   "state" : "TEST"
