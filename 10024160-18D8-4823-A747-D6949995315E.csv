@@ -1,6 +1,8 @@
 Item;Item Type;Note;Item Link
 ReportItem instance counts;;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT: 4;
-007844481 (no imageset for: 007844481);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/10024160-18D8-4823-A747-D6949995315E/manage/no imageset for: 007844481/batches/list]
-007844477 (no imageset for: 007844477);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/10024160-18D8-4823-A747-D6949995315E/manage/no imageset for: 007844477/batches/list]
-007844479 (no imageset for: 007844479);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/10024160-18D8-4823-A747-D6949995315E/manage/no imageset for: 007844479/batches/list]
+ReportItem instance counts;;DGS_MISSASSIGNMENTS: 1;
 007844478 (no imageset for: 007844478);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/10024160-18D8-4823-A747-D6949995315E/manage/no imageset for: 007844478/batches/list]
+007844479 (no imageset for: 007844479);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/10024160-18D8-4823-A747-D6949995315E/manage/no imageset for: 007844479/batches/list]
+007844477 (no imageset for: 007844477);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/10024160-18D8-4823-A747-D6949995315E/manage/no imageset for: 007844477/batches/list]
+007844481 (no imageset for: 007844481);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/10024160-18D8-4823-A747-D6949995315E/manage/no imageset for: 007844481/batches/list]
+15-0724;DGS_ASSIGNMENT;DGS_MISSASSIGNMENTS;[15-0724 DgsMisassignments|15-0724 DgsMisassignments]

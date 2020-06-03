@@ -1,3 +1,5 @@
 Item;Item Type;Note;Item Link
 ReportItem instance counts;;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT: 1;
+ReportItem instance counts;;DGS_MISSASSIGNMENTS: 1;
 100942582 (no imageset for: 100942582);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/5B6DEF50-B0F2-4759-BDCF-62B803DF41F9/manage/no imageset for: 100942582/batches/list]
+20-0695;DGS_ASSIGNMENT;DGS_MISSASSIGNMENTS;[20-0695 DgsMisassignments|20-0695 DgsMisassignments]
