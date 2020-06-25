@@ -14,7 +14,6 @@ Traveler;Rosetta Project;DGS Report;Imagesets In Rosetta;Imagesets in IDX; Image
 [19-0952|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-0952];France, Eure, Census, 1856 - FSI/DB (for Indexing Support);[Report|19-0952 DgsMisassignments];1;1;0;1
 [14-0515|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=14-0515];Spain, Murcia, Cartagena Cathedral, Catholic Church Records, 1552-1948, FSI;[Report|14-0515 DgsMisassignments];7;7;0;7
 [17-0814|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=17-0814];Philippines, National Offices, Civil Registration of Deaths, 1945-1986 - FSI;[Report|17-0814 DgsMisassignments];23;23;0;23
-[19-0675|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-0675];Georgia Headright and Bounty Land Records, Register of Grants, 1783-1909 - FSI;[Report|19-0675 DgsMisassignments];0;89;0;89
 [19-0554|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-0554];Iowa, Tama County Historical Society, Tax Lists, 1865-1939 - FSI;[Report|19-0554 DgsMisassignments];52;52;0;52
 [14-1445|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=14-1445];Peru, Amazonas, Civil Registration, 1935-1999, FSI;[Report|14-1445 DgsMisassignments];2;2;0;2
 [17-0898|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=17-0898];Indiana, County Marriages - Part 5 - Howard County, Part 2, 1906-1957 - FSI/DB;[Report|17-0898 DgsMisassignments];0;5;0;5
@@ -38,6 +37,7 @@ Traveler;Rosetta Project;DGS Report;Imagesets In Rosetta;Imagesets in IDX; Image
 [19-0149|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-0149];Alabama, Jefferson County Circuit Court Files, 1870-1916 - FSI;[Report|19-0149 DgsMisassignments];0;1;0;1
 [14-0365|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=14-0365];Switzerland, Fribourg, Census, 1811-1880 - 1880 Census - FSI;[Report|14-0365 DgsMisassignments];22;22;0;22
 [14-0120|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=14-0120];Philippines, Camarines Sur, Archdiocese of Caceres, Parish Registers, 1716-1977 - FSI;[Report|14-0120 DgsMisassignments];0;9;0;9
+[18-1465|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=18-1465];Oklahoma, Confederate Pension Applications, 1879-1920 - FSI;[Report|18-1465 DgsMisassignments];0;21;0;21
 [18-0255|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=18-0255];North Carolina, Department of Archives and History, Index to Vital Records, 1800-2000 - FSI;[Report|18-0255 DgsMisassignments];2;2;0;2
 [20-0490|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=20-0490];Wisconsin, Wisconsin Vital Records Office, Marriage Records, 1998-2004 (ACOM - 47748) - FSI - Part T;[Report|20-0490 DgsMisassignments];15;15;0;15
 [20-0491|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=20-0491];Zambia, Archdiocese of Lusaka, Church Records, 1950-2015 - FSI;[Report|20-0491 DgsMisassignments];1;0;0;1
@@ -49,7 +49,6 @@ Traveler;Rosetta Project;DGS Report;Imagesets In Rosetta;Imagesets in IDX; Image
 [12-0847|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=12-0847];Missouri, County Marriage Records, 1806-1965 - FSI - Part 1;[Report|12-0847 DgsMisassignments];273;274;0;274
 [19-1987|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-1987];Oregon, Oregon State Archives, Death Records, 1864-1967 - (Ancestry: 48908) (ACOM) - FSI;[Report|19-1987 DgsMisassignments];3;3;0;3
 [16-0631|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=16-0631];Colombia, Archdiocese of Cartagena, Catholic Church Records, 1777-2014 - FSI;[Report|16-0631 DgsMisassignments];0;2;0;2
-[19-1348|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-1348];California, County Birth and Death Records, 1800-1994 - FSI;[Report|19-1348 DgsMisassignments];1;1;0;1
 [19-1863|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-1863];South Africa, Church of the Province of South Africa, Parish Registers, 1801-2004 - FSI;[Report|19-1863 DgsMisassignments];1;0;0;1
 [16-0473|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=16-0473];US Naturalization Records in NARA NYC for New Jersey,  1796-1991 (Child: United States, Naturalization And Citizenship, 1796-1991);[Report|16-0473 DgsMisassignments];68;1;0;68
 [17-1602|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=17-1602];Argentina, Corrientes, Registro Civil, 1880-1960 - (Capture/FSI/DB for FSI Support);[Report|17-1602 DgsMisassignments];400;400;0;400
@@ -123,7 +122,6 @@ Traveler;Rosetta Project;DGS Report;Imagesets In Rosetta;Imagesets in IDX; Image
 [13-1379|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=13-1379];Italy, Savona, Civil Registration, Births, 1875-1903 (DGA Project), part 2 - FSI;[Report|13-1379 DgsMisassignments];0;5;0;5
 [19-1371|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-1371];Utah, The Church of Jesus Christ of Latter-day Saints, Church History Library, Record of Members Collection, 1836-1970 - FSI;[Report|19-1371 DgsMisassignments];4;0;0;4
 [19-0603|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-0603];Brazil, Santa Catarina, Civil Registration, 1871-1999 - FSI;[Report|19-0603 DgsMisassignments];1;1;0;1
-[19-0689|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-0689];Georgia Headright and Bounty Land Records, Headright and Bounty Documents, 1783-1909 - FSI;[Report|19-0689 DgsMisassignments];0;211;0;211
 [15-0917|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=15-0917];Luxembourg, Civil Registration, 1796-1923 - FSI;[Report|15-0917 DgsMisassignments];11;12;0;12
 [19-0965|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=19-0965];France, Eure, Census, 1891 - FSI/DB (for Indexing Support);[Report|19-0965 DgsMisassignments];1;1;0;1
 [17-0307|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=17-0307];Italy, Teramo, Civil Registration (Tribunale), 1818-1938 - (NON-DGA) - FSI;[Report|17-0307 DgsMisassignments];0;1;0;1
