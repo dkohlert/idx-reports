@@ -6,6 +6,6 @@
   "fileName" : "dgsMisassignmentsReport.csv",
   "targetDirectory" : "/Users/kohlertdc/resources/idx-reports",
   "header" : "dgs;Traveler: Project;Rosetta Assigned Project;Rosetta State;IDX Assigned Project;imageset;Project State;Projects with no Imageset workflow",
-  "projectsHeader" : "Traveler;Rosetta Project;Rosetta State;IDX Project;Project UUID;Project State",
+  "projectsHeader" : "Date Added;Traveler;Rosetta Project;Rosetta State;IDX Project;Project UUID;Project State",
   "projectToDGSReportEntityMap" : { }
 }
