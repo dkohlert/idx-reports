@@ -1,0 +1,27 @@
+<h1>Manual Notes:</h1>
+<h1>Generated Notes:</h1>
+<h1>Related Projects</h1>
+<ac:structured-macro ac:macro-id="295a0132-8add-4272-9602-b333d6c56f2a" ac:name="csv" ac:schema-version="1">
+  <ac:parameter ac:name="output">wiki</ac:parameter>
+  <ac:parameter ac:name="columnStyles"/>
+  <ac:parameter ac:name="sortColumn">2</ac:parameter>
+  <ac:parameter ac:name="allowExport">true</ac:parameter>
+  <ac:parameter ac:name="delimiter">;</ac:parameter>
+  <ac:parameter ac:name="autoNumber">true</ac:parameter>
+  <ac:parameter ac:name="url">https://raw.githubusercontent.com/dkohlert/idx-reports/master/19-1401IDXProjects.csv</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:parameter ac:name="sortIcon">true</ac:parameter>
+</ac:structured-macro>
+<h1>Issues</h1>
+<ac:structured-macro ac:macro-id="211eea02-662c-4fae-a0cf-a2d72161edc3" ac:name="csv" ac:schema-version="1">
+  <ac:parameter ac:name="output">wiki</ac:parameter>
+  <ac:parameter ac:name="columnStyles"/>
+  <ac:parameter ac:name="sortColumn">2</ac:parameter>
+  <ac:parameter ac:name="allowExport">true</ac:parameter>
+  <ac:parameter ac:name="delimiter">;</ac:parameter>
+  <ac:parameter ac:name="autoNumber">true</ac:parameter>
+  <ac:parameter ac:name="url">https://raw.githubusercontent.com/dkohlert/idx-reports/master/25545A47-32B1-42DB-89FA-3EC94C7EE1E8.csv</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:parameter ac:name="sortIcon">true</ac:parameter>
+</ac:structured-macro>
+

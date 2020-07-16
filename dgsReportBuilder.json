@@ -1,11 +1,27 @@
 {
-  "dgsReportEntityMap" : { },
+  "dgsReportEntityMap" : {
+    "005061080" : {
+      "dgsName" : "005061080",
+      "imagesetId" : "F3E57103-7551-4E84-BAD6-C080F0F47B2E",
+      "idxProjects" : [ "80162B76-3194-40F7-8D24-50C52D349199" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }
+  },
   "rosettaProjectStatusMap" : {
-    "FF766367-35D5-46C8-AF11-9684B0C8CEEE" : "Completed"
+    "80162B76-3194-40F7-8D24-50C52D349199" : "Completed"
   },
   "fileName" : "dgsMisassignmentsReport.csv",
   "targetDirectory" : "/Users/kohlertdc/resources/idx-reports",
   "header" : "dgs;Traveler: Project;Rosetta Assigned Project;Rosetta State;IDX Assigned Project;imageset;Project State;Projects with no Imageset workflow",
   "projectsHeader" : "Date Added;Traveler;Rosetta Project;Rosetta State;IDX Project;Project UUID;Project State",
-  "projectToDGSReportEntityMap" : { }
+  "projectToDGSReportEntityMap" : {
+    "80162B76-3194-40F7-8D24-50C52D349199" : [ {
+      "dgsName" : "005061080",
+      "imagesetId" : "F3E57103-7551-4E84-BAD6-C080F0F47B2E",
+      "idxProjects" : [ "80162B76-3194-40F7-8D24-50C52D349199" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    } ]
+  }
 }
