@@ -1,1 +1,3 @@
-dgs;Traveler: Project;Rosetta Assigned Project;Rosetta State;IDX Assigned Project;imageset;Project State;Projects with no Imageset workflow
+Traveler;Rosetta Project;Rosetta State;IDX Project;Project UUID;Project State
+[16-1088|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=16-1088];Iceland, Church Census, 1744-1977 - FSI;In Production;[Iceland—Church Census, 1744–1977 \[Part B\]|https://www.familysearch.org/indexing/admin-new/#/projects/BDCAF64D-3CC0-489A-9127-B071E64F5691/overview];BDCAF64D-3CC0-489A-9127-B071E64F5691;ACTIVE
+[16-1088|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=16-1088];Iceland, Church Census, 1744-1977 - FSI;In Production;[Iceland—Church Census, 1744–1977 \[Part C\]|https://www.familysearch.org/indexing/admin-new/#/projects/48A85B1B-A220-4326-828C-6062690901F0/overview];48A85B1B-A220-4326-828C-6062690901F0;TEST
