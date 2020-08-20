@@ -173,62 +173,8 @@
   "projectsHeader" : "Traveler;Rosetta Project;Rosetta State;IDX Project;Project UUID;Project State",
   "projectToDGSReportEntityMap" : {
     "45FF173A-5F79-42C9-84DB-FFEA5E116004" : [ {
-      "dgsName" : "007466391",
-      "imagesetId" : "B16549A0-770B-40D1-829F-357F8F30E4E1",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482941",
-      "imagesetId" : "C41C25C6-16C9-4A48-A1BD-479D445BE217",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466411",
-      "imagesetId" : "C18F6723-E8C8-43D8-A2CD-56AC98916054",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466409",
-      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466379",
-      "imagesetId" : "E571B598-5EA6-45A1-B0F9-4ECDE0E9222E",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482956",
-      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466403",
-      "imagesetId" : "B0F2CD57-002F-48A0-8523-4D144181BECA",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466394",
-      "imagesetId" : "903C56F1-A669-4716-A2E3-7A5E80E8A533",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482927",
-      "imagesetId" : "CC276A95-2D01-4863-B0C3-533A0C7B3FF3",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466388",
-      "imagesetId" : "43CADF78-D032-4E09-8CB6-6EC102DDC8BA",
+      "dgsName" : "007466406",
+      "imagesetId" : "A381B895-C6AA-4732-B4C1-E56CF835C8D1",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
@@ -239,38 +185,20 @@
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007482952",
-      "imagesetId" : "43973D04-2BD9-4A83-95B1-FB4730908FB1",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482937",
-      "imagesetId" : "9F5AF5EC-FB11-4049-BA77-0FD5EB9E054F",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482930",
-      "imagesetId" : "2C06FF8C-B7DC-43A3-B621-96020A291911",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482934",
-      "imagesetId" : "484B3466-63E6-418A-B4F7-D05E188CDB0A",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482948",
-      "imagesetId" : "768BA02F-0751-44F5-AA40-B742510A1A64",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
       "dgsName" : "007466400",
       "imagesetId" : "05AA832E-550E-4CBB-B92A-88C29DBD91C0",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482960",
+      "imagesetId" : "96E06E68-D047-4750-A423-CF11C33AA164",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466379",
+      "imagesetId" : "E571B598-5EA6-45A1-B0F9-4ECDE0E9222E",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "projectsWithNoWorkflows" : [ ]
@@ -287,45 +215,99 @@
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
+      "dgsName" : "007466411",
+      "imagesetId" : "C18F6723-E8C8-43D8-A2CD-56AC98916054",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482930",
+      "imagesetId" : "2C06FF8C-B7DC-43A3-B621-96020A291911",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466388",
+      "imagesetId" : "43CADF78-D032-4E09-8CB6-6EC102DDC8BA",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482956",
+      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482952",
+      "imagesetId" : "43973D04-2BD9-4A83-95B1-FB4730908FB1",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466409",
+      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482934",
+      "imagesetId" : "484B3466-63E6-418A-B4F7-D05E188CDB0A",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466391",
+      "imagesetId" : "B16549A0-770B-40D1-829F-357F8F30E4E1",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466403",
+      "imagesetId" : "B0F2CD57-002F-48A0-8523-4D144181BECA",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482941",
+      "imagesetId" : "C41C25C6-16C9-4A48-A1BD-479D445BE217",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482948",
+      "imagesetId" : "768BA02F-0751-44F5-AA40-B742510A1A64",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
       "dgsName" : "007466397",
       "imagesetId" : "8B773C60-B0FA-4612-9A2C-0601B0889686",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007482960",
-      "imagesetId" : "96E06E68-D047-4750-A423-CF11C33AA164",
+      "dgsName" : "007482927",
+      "imagesetId" : "CC276A95-2D01-4863-B0C3-533A0C7B3FF3",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007466406",
-      "imagesetId" : "A381B895-C6AA-4732-B4C1-E56CF835C8D1",
+      "dgsName" : "007466394",
+      "imagesetId" : "903C56F1-A669-4716-A2E3-7A5E80E8A533",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482937",
+      "imagesetId" : "9F5AF5EC-FB11-4049-BA77-0FD5EB9E054F",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     } ],
     "D479AE76-881F-4DB3-9E80-802B4EE5807E" : [ {
-      "dgsName" : "007466391",
-      "imagesetId" : "B16549A0-770B-40D1-829F-357F8F30E4E1",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466403",
-      "imagesetId" : "B0F2CD57-002F-48A0-8523-4D144181BECA",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482927",
-      "imagesetId" : "CC276A95-2D01-4863-B0C3-533A0C7B3FF3",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466388",
-      "imagesetId" : "43CADF78-D032-4E09-8CB6-6EC102DDC8BA",
+      "dgsName" : "007466406",
+      "imagesetId" : "A381B895-C6AA-4732-B4C1-E56CF835C8D1",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
@@ -336,32 +318,8 @@
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007482952",
-      "imagesetId" : "43973D04-2BD9-4A83-95B1-FB4730908FB1",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482937",
-      "imagesetId" : "9F5AF5EC-FB11-4049-BA77-0FD5EB9E054F",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482930",
-      "imagesetId" : "2C06FF8C-B7DC-43A3-B621-96020A291911",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482934",
-      "imagesetId" : "484B3466-63E6-418A-B4F7-D05E188CDB0A",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482948",
-      "imagesetId" : "768BA02F-0751-44F5-AA40-B742510A1A64",
+      "dgsName" : "007482960",
+      "imagesetId" : "96E06E68-D047-4750-A423-CF11C33AA164",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
@@ -378,19 +336,79 @@
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007482960",
-      "imagesetId" : "96E06E68-D047-4750-A423-CF11C33AA164",
+      "dgsName" : "007482930",
+      "imagesetId" : "2C06FF8C-B7DC-43A3-B621-96020A291911",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007466406",
-      "imagesetId" : "A381B895-C6AA-4732-B4C1-E56CF835C8D1",
+      "dgsName" : "007466388",
+      "imagesetId" : "43CADF78-D032-4E09-8CB6-6EC102DDC8BA",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482952",
+      "imagesetId" : "43973D04-2BD9-4A83-95B1-FB4730908FB1",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482934",
+      "imagesetId" : "484B3466-63E6-418A-B4F7-D05E188CDB0A",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466391",
+      "imagesetId" : "B16549A0-770B-40D1-829F-357F8F30E4E1",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466403",
+      "imagesetId" : "B0F2CD57-002F-48A0-8523-4D144181BECA",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482948",
+      "imagesetId" : "768BA02F-0751-44F5-AA40-B742510A1A64",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482927",
+      "imagesetId" : "CC276A95-2D01-4863-B0C3-533A0C7B3FF3",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482937",
+      "imagesetId" : "9F5AF5EC-FB11-4049-BA77-0FD5EB9E054F",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "rosettaProjects" : [ "D479AE76-881F-4DB3-9E80-802B4EE5807E" ],
       "projectsWithNoWorkflows" : [ ]
     } ],
     "6875565E-C799-4226-A7F0-9FC57572BB90" : [ {
+      "dgsName" : "007466409",
+      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466400",
+      "imagesetId" : "05AA832E-550E-4CBB-B92A-88C29DBD91C0",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466379",
+      "imagesetId" : "E571B598-5EA6-45A1-B0F9-4ECDE0E9222E",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
       "dgsName" : "007482941",
       "imagesetId" : "C41C25C6-16C9-4A48-A1BD-479D445BE217",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
@@ -403,30 +421,6 @@
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007466409",
-      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466379",
-      "imagesetId" : "E571B598-5EA6-45A1-B0F9-4ECDE0E9222E",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482956",
-      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466400",
-      "imagesetId" : "05AA832E-550E-4CBB-B92A-88C29DBD91C0",
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
       "dgsName" : "007466397",
       "imagesetId" : "8B773C60-B0FA-4612-9A2C-0601B0889686",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
@@ -435,6 +429,12 @@
     }, {
       "dgsName" : "007466394",
       "imagesetId" : "903C56F1-A669-4716-A2E3-7A5E80E8A533",
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482956",
+      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "projectsWithNoWorkflows" : [ ]
