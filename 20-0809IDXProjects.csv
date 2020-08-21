@@ -1,1 +1,3 @@
-dgs;Traveler: Project;Rosetta Assigned Project;Rosetta State;IDX Assigned Project;imageset;Project State;Projects with no Imageset workflow
+Traveler;Rosetta Project;Rosetta State;IDX Project;Project UUID;Project State
+[20-0809|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=20-0809];Louisiana, Parish Voter Registration Records, 1867-1952 - FSI;In Production;[US, Louisiana—Voting Records, 1867–1952 \[Part A\]|https://www.familysearch.org/indexing/admin-new/#/projects/5A3C1A15-FCBC-4E2D-ABCC-4204F726AFD9/overview];5A3C1A15-FCBC-4E2D-ABCC-4204F726AFD9;ACTIVE
+[20-0809|http://rosettaprod-app01.a.fsglobal.net:8081/teamworks/source?project=20-0809];Louisiana, Parish Voter Registration Records, 1867-1952 - FSI;In Production;[US, Louisiana—Voting Records, 1867–1952 \[Part B\]|https://www.familysearch.org/indexing/admin-new/#/projects/4AA37C0B-0BB6-4886-962E-6C1B5289D7AF/overview];4AA37C0B-0BB6-4886-962E-6C1B5289D7AF;READY_FOR_WORK
