@@ -1,4 +1,6 @@
 Item;Item Type;Note;Item Link
 ReportItem instance counts;;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT: 2;
-007726423 (no imageset for: 007726423);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/7A6CECC0-22BD-48D3-887E-164E303A951B/manage/no imageset for: 007726423/batches/list]
+ReportItem instance counts;;DGS_MISSASSIGNMENTS: 1;
 007732167 (no imageset for: 007732167);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/7A6CECC0-22BD-48D3-887E-164E303A951B/manage/no imageset for: 007732167/batches/list]
+007726423 (no imageset for: 007726423);IMAGESET;IMAGESET_ASSIGNED_TO_THIS_PROJECT_IN_ROSETTA_BUT_NOT_IN_PROJECT;[IMAGESET|https://www.familysearch.org/indexing/admin-new/#/projects/7A6CECC0-22BD-48D3-887E-164E303A951B/manage/no imageset for: 007726423/batches/list]
+15-1474;DGS_ASSIGNMENT;DGS_MISSASSIGNMENTS;[15-1474 DgsMisassignments|15-1474 DgsMisassignments]
