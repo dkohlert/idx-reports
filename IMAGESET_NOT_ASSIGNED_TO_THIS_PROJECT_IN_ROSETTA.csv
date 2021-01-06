@@ -1,11 +1,11 @@
 project UUID;name;count;state
+[9F04DE0B-6070-4DCD-B5E5-8FF84F9F92CC];[US, Wisconsin—Birth Records, 1922–1926|https:///www.familysearch.org/indexing/admin-new/#/projects/9F04DE0B-6070-4DCD-B5E5-8FF84F9F92CC/overview];150;ACTIVE
 [3FDB544E-C6B3-4BCE-AA06-76CC2B779550];[US, Oregon—Death Records, 1864–1967 \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/3FDB544E-C6B3-4BCE-AA06-76CC2B779550/overview];3;READY_FOR_DELIVERY
-[3B319179-61D0-4732-AB13-D9418AD144D5];[US, Wisconsin—Reprocessed Birth Records, 1948–1977|https:///www.familysearch.org/indexing/admin-new/#/projects/3B319179-61D0-4732-AB13-D9418AD144D5/overview];38;READY_FOR_DELIVERY
-[572C177A-30AD-4B73-B292-CBFD65282082];[US, Oregon—Birth Records, 1903–1918 \[Part C\]|https:///www.familysearch.org/indexing/admin-new/#/projects/572C177A-30AD-4B73-B292-CBFD65282082/overview];1;READY_FOR_DELIVERY
-[45FF173A-5F79-42C9-84DB-FFEA5E116004];[Switzerland, Fribourg—1880 Census \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/45FF173A-5F79-42C9-84DB-FFEA5E116004/overview];21;ACTIVE
-[46CA8EF1-FBD6-4827-B97C-338876D630E8];[US, Wisconsin—Birth Records, 1922–1926 \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/46CA8EF1-FBD6-4827-B97C-338876D630E8/overview];184;READY_FOR_WORK
-[7683BD43-9CB6-43D4-925C-B3E13358D60E];[US, Oregon—Divorce Records, 1946–1967 \[Part C\]|https:///www.familysearch.org/indexing/admin-new/#/projects/7683BD43-9CB6-43D4-925C-B3E13358D60E/overview];1;READY_FOR_DELIVERY
-[6B027497-5022-4EFB-A550-8F4B587F9E6B];[US, Wisconsin—Birth Records, 1981–1993 \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/6B027497-5022-4EFB-A550-8F4B587F9E6B/overview];272;READY_FOR_DELIVERY
-[69EB8C95-C082-4BD5-B002-FAAA9DAB3C1A];[US, Oregon—Death Records, 1864–1967 \[Part B\]|https:///www.familysearch.org/indexing/admin-new/#/projects/69EB8C95-C082-4BD5-B002-FAAA9DAB3C1A/overview];1;READY_FOR_DELIVERY
 [7C57E167-ADC2-4334-B2E3-B14680F5D72D];[Testing Project Obits changed|https:///www.familysearch.org/indexing/admin-new/#/projects/7C57E167-ADC2-4334-B2E3-B14680F5D72D/overview];3;READY_FOR_DELIVERY
-[ECD1CD36-AC14-4EC1-B4C9-C253B9AFE5D5];[US, Wisconsin—Marriage Records, 1973–1978 \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/ECD1CD36-AC14-4EC1-B4C9-C253B9AFE5D5/overview];1;READY_FOR_WORK
+[6B027497-5022-4EFB-A550-8F4B587F9E6B];[US, Wisconsin—Birth Records, 1981–1993 \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/6B027497-5022-4EFB-A550-8F4B587F9E6B/overview];272;READY_FOR_DELIVERY
+[7683BD43-9CB6-43D4-925C-B3E13358D60E];[US, Oregon—Divorce Records, 1946–1967 \[Part C\]|https:///www.familysearch.org/indexing/admin-new/#/projects/7683BD43-9CB6-43D4-925C-B3E13358D60E/overview];1;READY_FOR_DELIVERY
+[69EB8C95-C082-4BD5-B002-FAAA9DAB3C1A];[US, Oregon—Death Records, 1864–1967 \[Part B\]|https:///www.familysearch.org/indexing/admin-new/#/projects/69EB8C95-C082-4BD5-B002-FAAA9DAB3C1A/overview];1;READY_FOR_DELIVERY
+[3B319179-61D0-4732-AB13-D9418AD144D5];[US, Wisconsin—Reprocessed Birth Records, 1948–1977|https:///www.familysearch.org/indexing/admin-new/#/projects/3B319179-61D0-4732-AB13-D9418AD144D5/overview];38;READY_FOR_DELIVERY
+[45FF173A-5F79-42C9-84DB-FFEA5E116004];[Switzerland, Fribourg—1880 Census \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/45FF173A-5F79-42C9-84DB-FFEA5E116004/overview];21;ACTIVE
+[059F2E26-72C9-4704-A49C-A8FCFECE166B];[US, Wisconsin, Wisconsin—Birth Records, 1912–1916|https:///www.familysearch.org/indexing/admin-new/#/projects/059F2E26-72C9-4704-A49C-A8FCFECE166B/overview];270;BATCHING
+[572C177A-30AD-4B73-B292-CBFD65282082];[US, Oregon—Birth Records, 1903–1918 \[Part C\]|https:///www.familysearch.org/indexing/admin-new/#/projects/572C177A-30AD-4B73-B292-CBFD65282082/overview];1;READY_FOR_DELIVERY
