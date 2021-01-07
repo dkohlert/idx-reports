@@ -1,6 +1,7 @@
 project UUID;name;count;state
-[9F04DE0B-6070-4DCD-B5E5-8FF84F9F92CC];[US, Wisconsin—Birth Records, 1922–1926|https:///www.familysearch.org/indexing/admin-new/#/projects/9F04DE0B-6070-4DCD-B5E5-8FF84F9F92CC/overview];1;ACTIVE
 [6875565E-C799-4226-A7F0-9FC57572BB90];[Switzerland, Fribourg—1880 Census \[Part C\]|https:///www.familysearch.org/indexing/admin-new/#/projects/6875565E-C799-4226-A7F0-9FC57572BB90/overview];1;READY_FOR_WORK
-[D479AE76-881F-4DB3-9E80-802B4EE5807E];[Switzerland, Fribourg—1880 Census \[Part B\]|https:///www.familysearch.org/indexing/admin-new/#/projects/D479AE76-881F-4DB3-9E80-802B4EE5807E/overview];1;READY_FOR_DELIVERY
 [45FF173A-5F79-42C9-84DB-FFEA5E116004];[Switzerland, Fribourg—1880 Census \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/45FF173A-5F79-42C9-84DB-FFEA5E116004/overview];1;ACTIVE
+[635C1786-00B7-4CDC-9F33-83B163FD2746];[US, Wisconsin—Birth Records, 1912–1916 \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/635C1786-00B7-4CDC-9F33-83B163FD2746/overview];1;BATCHING
+[9F04DE0B-6070-4DCD-B5E5-8FF84F9F92CC];[US, Wisconsin—Birth Records, 1922–1926|https:///www.familysearch.org/indexing/admin-new/#/projects/9F04DE0B-6070-4DCD-B5E5-8FF84F9F92CC/overview];1;ACTIVE
 [059F2E26-72C9-4704-A49C-A8FCFECE166B];[US, Wisconsin, Wisconsin—Birth Records, 1912–1916|https:///www.familysearch.org/indexing/admin-new/#/projects/059F2E26-72C9-4704-A49C-A8FCFECE166B/overview];1;BATCHING
+[D479AE76-881F-4DB3-9E80-802B4EE5807E];[Switzerland, Fribourg—1880 Census \[Part B\]|https:///www.familysearch.org/indexing/admin-new/#/projects/D479AE76-881F-4DB3-9E80-802B4EE5807E/overview];1;READY_FOR_DELIVERY
