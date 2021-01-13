@@ -90177,10 +90177,10 @@
   },
   "imagesetCount" : 78,
   "imagesetInIndexingStatesCount" : 78,
-  "batchCount" : 80607,
-  "auditBatchCount" : 3835,
+  "batchCount" : 80549,
+  "auditBatchCount" : 3830,
   "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 31991,
+  "batchesWOWorkflowsCount" : 31933,
   "imageCount" : 47658,
   "imageCountFromImagesetsInIndexingStates" : 47658,
   "blockedCount" : 0,
@@ -90225,7 +90225,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-01-07 17:15:04",
+  "dateTimeFetched" : "2021-01-12 17:28:22",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantors, 1630-1975 [Part B]",
   "state" : "READY_FOR_DELIVERY"
