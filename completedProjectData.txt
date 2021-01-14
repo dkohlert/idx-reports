@@ -90721,7 +90721,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-01-14 12:45:53",
+  "dateTimeFetched" : "2021-01-14 14:41:50",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantors, 1630-1975 [Part B]",
   "state" : "READY_FOR_DELIVERY"
