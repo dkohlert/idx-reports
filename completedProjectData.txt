@@ -45033,10 +45033,10 @@
   },
   "imagesetCount" : 41,
   "imagesetInIndexingStatesCount" : 41,
-  "batchCount" : 40037,
-  "auditBatchCount" : 1904,
+  "batchCount" : 18864,
+  "auditBatchCount" : 895,
   "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 21173,
+  "batchesWOWorkflowsCount" : 0,
   "imageCount" : 180050,
   "imageCountFromImagesetsInIndexingStates" : 180050,
   "blockedCount" : 382917,
@@ -45048,7 +45048,7 @@
     "recordCount" : 180194
   },
   "exportStateCounts" : {
-    "accepted" : 179916,
+    "accepted" : 179906,
     "exported" : 14,
     "failed" : 0,
     "inProgress" : 0,
@@ -45059,13 +45059,13 @@
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 10,
+    "rejected" : 20,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : -10,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
@@ -45076,12 +45076,12 @@
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 0,
+    "rejected" : 10,
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-01-22 16:34:01",
+  "dateTimeFetched" : "2021-01-27 14:10:49",
   "batchesWithTooManyImages" : { },
   "name" : "US, Delaware—Marriage Records, Brides Indexes, 1750–1990 [Part G]",
   "state" : "READY_FOR_DELIVERY"
