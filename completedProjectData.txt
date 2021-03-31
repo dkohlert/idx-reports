@@ -45893,22 +45893,22 @@
   "imageCountFromImagesetsInIndexingStates" : 49844,
   "imageCountBatchingComplete" : 49844,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 2440,
+  "iesAuditBatchCount" : 2486,
   "iesCountsNoAudit" : {
     "imagesetCount" : 100,
-    "batchCount" : 49082,
-    "images" : 49082,
-    "recordCount" : 298697
+    "batchCount" : 49844,
+    "images" : 49844,
+    "recordCount" : 303346
   },
   "exportStateCounts" : {
-    "accepted" : 46570,
+    "accepted" : 47299,
     "exported" : 8,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 2440,
+    "audit" : 2486,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 2502,
+    "ned" : 2535,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -45918,14 +45918,14 @@
     "noPersonas" : 2
   },
   "exportStateDiffs" : {
-    "accepted" : -729,
+    "accepted" : 729,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : -46,
+    "audit" : 46,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : -33,
+    "ned" : 33,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -45934,7 +45934,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-03-30 09:41:03",
+  "dateTimeFetched" : "2021-03-31 16:57:52",
   "batchesWithTooManyImages" : { },
   "name" : "US—Newsbank, Marriages, 1815–2011",
   "state" : "READY_FOR_DELIVERY"
@@ -95232,18 +95232,18 @@
   "blockedCount" : 0,
   "iesAuditBatchCount" : 2310,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 78,
-    "batchCount" : 46303,
-    "images" : 47655,
-    "recordCount" : 1145754
+    "imagesetCount" : 122,
+    "batchCount" : 46306,
+    "images" : 48109,
+    "recordCount" : 1145833
   },
   "exportStateCounts" : {
-    "accepted" : 45617,
+    "accepted" : 45620,
     "exported" : 490,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 2310,
-    "blocked" : 1344,
+    "blocked" : 1795,
     "duplicate" : 0,
     "ned" : 194,
     "unreadable" : 0,
@@ -95255,12 +95255,12 @@
     "noPersonas" : 10
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 3,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 0,
+    "blocked" : 451,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -95271,7 +95271,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-03-31 15:41:28",
+  "dateTimeFetched" : "2021-03-31 16:58:26",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantors, 1630-1975 [Part B]",
   "state" : "READY_FOR_DELIVERY"
