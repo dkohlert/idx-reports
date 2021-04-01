@@ -1651,15 +1651,22 @@
   "projectsHeader" : "Traveler;Rosetta Project;Rosetta State;IDX Project;Project UUID;Project State",
   "projectToDGSReportEntityMap" : {
     "45FF173A-5F79-42C9-84DB-FFEA5E116004" : [ {
-      "dgsName" : "007466391",
-      "imagesetId" : "B16549A0-770B-40D1-829F-357F8F30E4E1",
+      "dgsName" : "007482930",
+      "imagesetId" : "2C06FF8C-B7DC-43A3-B621-96020A291911",
       "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
       "rosettaProjects" : [ ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007466400",
-      "imagesetId" : "05AA832E-550E-4CBB-B92A-88C29DBD91C0",
+      "dgsName" : "007482956",
+      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466409",
+      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
@@ -1667,6 +1674,69 @@
     }, {
       "dgsName" : "007466385",
       "imagesetId" : "FCDEB554-1D96-4BD1-9CE7-E2F2125EE98D",
+      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482948",
+      "imagesetId" : "768BA02F-0751-44F5-AA40-B742510A1A64",
+      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466388",
+      "imagesetId" : "43CADF78-D032-4E09-8CB6-6EC102DDC8BA",
+      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466406",
+      "imagesetId" : "A381B895-C6AA-4732-B4C1-E56CF835C8D1",
+      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466411",
+      "imagesetId" : "C18F6723-E8C8-43D8-A2CD-56AC98916054",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466379",
+      "imagesetId" : "E571B598-5EA6-45A1-B0F9-4ECDE0E9222E",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466403",
+      "imagesetId" : "B0F2CD57-002F-48A0-8523-4D144181BECA",
+      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466391",
+      "imagesetId" : "B16549A0-770B-40D1-829F-357F8F30E4E1",
+      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482952",
+      "imagesetId" : "43973D04-2BD9-4A83-95B1-FB4730908FB1",
+      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
+      "rosettaProjects" : [ ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007482960",
+      "imagesetId" : "96E06E68-D047-4750-A423-CF11C33AA164",
       "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
       "rosettaProjects" : [ ],
@@ -1686,85 +1756,8 @@
       "rosettaProjects" : [ ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007482960",
-      "imagesetId" : "96E06E68-D047-4750-A423-CF11C33AA164",
-      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
-      "rosettaProjects" : [ ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466409",
-      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466388",
-      "imagesetId" : "43CADF78-D032-4E09-8CB6-6EC102DDC8BA",
-      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
-      "rosettaProjects" : [ ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466403",
-      "imagesetId" : "B0F2CD57-002F-48A0-8523-4D144181BECA",
-      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
-      "rosettaProjects" : [ ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482948",
-      "imagesetId" : "768BA02F-0751-44F5-AA40-B742510A1A64",
-      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
-      "rosettaProjects" : [ ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
       "dgsName" : "007466397",
       "imagesetId" : "8B773C60-B0FA-4612-9A2C-0601B0889686",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482956",
-      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482941",
-      "imagesetId" : "C41C25C6-16C9-4A48-A1BD-479D445BE217",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466411",
-      "imagesetId" : "C18F6723-E8C8-43D8-A2CD-56AC98916054",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466406",
-      "imagesetId" : "A381B895-C6AA-4732-B4C1-E56CF835C8D1",
-      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
-      "rosettaProjects" : [ ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007482952",
-      "imagesetId" : "43973D04-2BD9-4A83-95B1-FB4730908FB1",
-      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
-      "rosettaProjects" : [ ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466379",
-      "imagesetId" : "E571B598-5EA6-45A1-B0F9-4ECDE0E9222E",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
@@ -1777,6 +1770,13 @@
       "rosettaProjects" : [ ],
       "projectsWithNoWorkflows" : [ ]
     }, {
+      "dgsName" : "007466394",
+      "imagesetId" : "903C56F1-A669-4716-A2E3-7A5E80E8A533",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
       "dgsName" : "007482937",
       "imagesetId" : "9F5AF5EC-FB11-4049-BA77-0FD5EB9E054F",
       "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
@@ -1784,30 +1784,23 @@
       "rosettaProjects" : [ ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007482930",
-      "imagesetId" : "2C06FF8C-B7DC-43A3-B621-96020A291911",
-      "travelersCompletedOrOnHoldIn" : [ "14-0365" ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004" ],
-      "rosettaProjects" : [ ],
+      "dgsName" : "007482941",
+      "imagesetId" : "C41C25C6-16C9-4A48-A1BD-479D445BE217",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007466394",
-      "imagesetId" : "903C56F1-A669-4716-A2E3-7A5E80E8A533",
+      "dgsName" : "007466400",
+      "imagesetId" : "05AA832E-550E-4CBB-B92A-88C29DBD91C0",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "projectsWithNoWorkflows" : [ ]
     } ],
     "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" : [ {
-      "dgsName" : "100763746",
-      "imagesetId" : "3CC18546-D2BC-40F1-B592-8478232817F8",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764149",
-      "imagesetId" : "64292DCF-3A04-4A14-B575-A693E95B9789",
+      "dgsName" : "100764157",
+      "imagesetId" : "85BF9FED-E10D-4B03-8B98-ACACBFB109B4",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ ],
       "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
@@ -1820,260 +1813,8 @@
       "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "101178927",
-      "imagesetId" : "AD8BE8BB-FCC3-4564-A97B-08B99534E41C",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764618",
-      "imagesetId" : "68FBFEE1-742F-43A1-A73F-B2E2C8507F7E",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764599",
-      "imagesetId" : "9F5048D5-2976-4DDF-9514-95502F64797E",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764675",
-      "imagesetId" : "B4052816-15AD-4343-B11B-754DE237ED90",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764172",
-      "imagesetId" : "79273C69-C141-4480-A664-69B1AD19CB56",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764769",
-      "imagesetId" : "7709C836-A7B5-4C3F-B4C5-54F9DDD54889",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764606",
-      "imagesetId" : "BE225F9F-E669-4B0E-816B-821EEF7CDDD5",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100763742",
-      "imagesetId" : "9752C2AC-56B4-4562-B5B2-887E7EE24262",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
       "dgsName" : "100763744",
       "imagesetId" : "9AA49CF1-DFD9-4B58-A204-CE9903C982E6",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764678",
-      "imagesetId" : "9AF8CE35-73F9-48C3-B404-E0F8390855B3",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764166",
-      "imagesetId" : "A74A247F-F9A7-48F2-B949-F23B823895B7",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764181",
-      "imagesetId" : "D5EDE47A-4F76-4160-B7DB-2C8670F3D970",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764770",
-      "imagesetId" : "39068A1D-D393-4F65-8778-FDC4F3DC0503",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764965",
-      "imagesetId" : "83AA448F-AC62-4B0A-989E-2523A24CA2A2",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100763741",
-      "imagesetId" : "E40A0A60-9971-47D5-B4B2-22362A9A7188",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764175",
-      "imagesetId" : "3B2AE917-2862-46A5-86CA-78C3CB1F78BB",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764920",
-      "imagesetId" : "50E7747A-D82F-46EA-B333-E48C26A7A39A",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764587",
-      "imagesetId" : "A9D7AC14-A124-4BCC-8311-2564D3101F92",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100763738",
-      "imagesetId" : "11A5031D-748A-4B28-B1E6-B76957A061AB",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764184",
-      "imagesetId" : "32C92F4C-1219-421F-AB1E-F2CE8D3C387E",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764601",
-      "imagesetId" : "5EB47401-D9A1-4859-9729-FF176CCA980A",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100763739",
-      "imagesetId" : "8ECA6A61-BAE0-4ACB-9B7E-EC89A620E410",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764673",
-      "imagesetId" : "C3146C22-4C07-4BE1-8B04-C20B19DF6876",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "101115991",
-      "imagesetId" : "FF10D66B-E765-49C5-9391-46B8C814F9F9",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764147",
-      "imagesetId" : "00C1D998-938B-474B-BDF1-5A9E559711A1",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764178",
-      "imagesetId" : "BB4C3882-FCC5-4B5A-8D23-81D155ED25E2",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764595",
-      "imagesetId" : "E5AE1108-C9DC-494D-9B5F-DE55EB3279E0",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764610",
-      "imagesetId" : "9BC6318A-B61F-44E2-BEF5-0AFC78C20525",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764128",
-      "imagesetId" : "930E0FB5-C7B1-46D7-A401-C6EA3C0C5D9C",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764160",
-      "imagesetId" : "4C627BB0-6EFF-4292-B258-57BA03C98EA4",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764163",
-      "imagesetId" : "92F6CFCA-B97E-4E2A-8387-860EC915E106",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764157",
-      "imagesetId" : "85BF9FED-E10D-4B03-8B98-ACACBFB109B4",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764583",
-      "imagesetId" : "E79C5D00-1412-4D1A-BFD5-0744FBC625A9",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764151",
-      "imagesetId" : "F9C7C72E-6ED5-42F7-9B38-5E0DED14A84B",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764614",
-      "imagesetId" : "6D1F74F3-23E6-4106-BA7B-505242F8236A",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100764772",
-      "imagesetId" : "80A44982-CFDC-408E-9860-02FB8CD09BE5",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ ],
-      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "100763743",
-      "imagesetId" : "CCBA046F-86B5-4729-B1F2-F97127B936C1",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ ],
       "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
@@ -2093,16 +1834,282 @@
       "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
+      "dgsName" : "100764770",
+      "imagesetId" : "39068A1D-D393-4F65-8778-FDC4F3DC0503",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764920",
+      "imagesetId" : "50E7747A-D82F-46EA-B333-E48C26A7A39A",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764149",
+      "imagesetId" : "64292DCF-3A04-4A14-B575-A693E95B9789",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100763738",
+      "imagesetId" : "11A5031D-748A-4B28-B1E6-B76957A061AB",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764595",
+      "imagesetId" : "E5AE1108-C9DC-494D-9B5F-DE55EB3279E0",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764769",
+      "imagesetId" : "7709C836-A7B5-4C3F-B4C5-54F9DDD54889",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764151",
+      "imagesetId" : "F9C7C72E-6ED5-42F7-9B38-5E0DED14A84B",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764601",
+      "imagesetId" : "5EB47401-D9A1-4859-9729-FF176CCA980A",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764965",
+      "imagesetId" : "83AA448F-AC62-4B0A-989E-2523A24CA2A2",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764172",
+      "imagesetId" : "79273C69-C141-4480-A664-69B1AD19CB56",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100763746",
+      "imagesetId" : "3CC18546-D2BC-40F1-B592-8478232817F8",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764175",
+      "imagesetId" : "3B2AE917-2862-46A5-86CA-78C3CB1F78BB",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764587",
+      "imagesetId" : "A9D7AC14-A124-4BCC-8311-2564D3101F92",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764599",
+      "imagesetId" : "9F5048D5-2976-4DDF-9514-95502F64797E",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764160",
+      "imagesetId" : "4C627BB0-6EFF-4292-B258-57BA03C98EA4",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100763741",
+      "imagesetId" : "E40A0A60-9971-47D5-B4B2-22362A9A7188",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764583",
+      "imagesetId" : "E79C5D00-1412-4D1A-BFD5-0744FBC625A9",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "101178927",
+      "imagesetId" : "AD8BE8BB-FCC3-4564-A97B-08B99534E41C",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764606",
+      "imagesetId" : "BE225F9F-E669-4B0E-816B-821EEF7CDDD5",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100763742",
+      "imagesetId" : "9752C2AC-56B4-4562-B5B2-887E7EE24262",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "101115991",
+      "imagesetId" : "FF10D66B-E765-49C5-9391-46B8C814F9F9",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764184",
+      "imagesetId" : "32C92F4C-1219-421F-AB1E-F2CE8D3C387E",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764610",
+      "imagesetId" : "9BC6318A-B61F-44E2-BEF5-0AFC78C20525",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764163",
+      "imagesetId" : "92F6CFCA-B97E-4E2A-8387-860EC915E106",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764128",
+      "imagesetId" : "930E0FB5-C7B1-46D7-A401-C6EA3C0C5D9C",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764614",
+      "imagesetId" : "6D1F74F3-23E6-4106-BA7B-505242F8236A",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764618",
+      "imagesetId" : "68FBFEE1-742F-43A1-A73F-B2E2C8507F7E",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764166",
+      "imagesetId" : "A74A247F-F9A7-48F2-B949-F23B823895B7",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764772",
+      "imagesetId" : "80A44982-CFDC-408E-9860-02FB8CD09BE5",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764178",
+      "imagesetId" : "BB4C3882-FCC5-4B5A-8D23-81D155ED25E2",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
       "dgsName" : "100764630",
       "imagesetId" : "A4D55639-2148-454E-BBA4-8D64765457EF",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ ],
       "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
       "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764678",
+      "imagesetId" : "9AF8CE35-73F9-48C3-B404-E0F8390855B3",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764181",
+      "imagesetId" : "D5EDE47A-4F76-4160-B7DB-2C8670F3D970",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764147",
+      "imagesetId" : "00C1D998-938B-474B-BDF1-5A9E559711A1",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764673",
+      "imagesetId" : "C3146C22-4C07-4BE1-8B04-C20B19DF6876",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100763743",
+      "imagesetId" : "CCBA046F-86B5-4729-B1F2-F97127B936C1",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100763739",
+      "imagesetId" : "8ECA6A61-BAE0-4ACB-9B7E-EC89A620E410",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "100764675",
+      "imagesetId" : "B4052816-15AD-4343-B11B-754DE237ED90",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ ],
+      "rosettaProjects" : [ "D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E" ],
+      "projectsWithNoWorkflows" : [ ]
     } ],
     "6875565E-C799-4226-A7F0-9FC57572BB90" : [ {
-      "dgsName" : "007466400",
-      "imagesetId" : "05AA832E-550E-4CBB-B92A-88C29DBD91C0",
+      "dgsName" : "007482956",
+      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466409",
+      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
@@ -2115,8 +2122,8 @@
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "projectsWithNoWorkflows" : [ ]
     }, {
-      "dgsName" : "007482956",
-      "imagesetId" : "359FA6E0-1B7D-4C60-A23A-30AC099922DA",
+      "dgsName" : "007466394",
+      "imagesetId" : "903C56F1-A669-4716-A2E3-7A5E80E8A533",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
@@ -2124,6 +2131,13 @@
     }, {
       "dgsName" : "007482941",
       "imagesetId" : "C41C25C6-16C9-4A48-A1BD-479D445BE217",
+      "travelersCompletedOrOnHoldIn" : [ ],
+      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
+      "projectsWithNoWorkflows" : [ ]
+    }, {
+      "dgsName" : "007466400",
+      "imagesetId" : "05AA832E-550E-4CBB-B92A-88C29DBD91C0",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
@@ -2138,20 +2152,6 @@
     }, {
       "dgsName" : "007466379",
       "imagesetId" : "E571B598-5EA6-45A1-B0F9-4ECDE0E9222E",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466409",
-      "imagesetId" : "62842702-88A2-453B-BFF8-985A1848F853",
-      "travelersCompletedOrOnHoldIn" : [ ],
-      "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
-      "projectsWithNoWorkflows" : [ ]
-    }, {
-      "dgsName" : "007466394",
-      "imagesetId" : "903C56F1-A669-4716-A2E3-7A5E80E8A533",
       "travelersCompletedOrOnHoldIn" : [ ],
       "idxProjects" : [ "45FF173A-5F79-42C9-84DB-FFEA5E116004", "6875565E-C799-4226-A7F0-9FC57572BB90" ],
       "rosettaProjects" : [ "6875565E-C799-4226-A7F0-9FC57572BB90" ],
