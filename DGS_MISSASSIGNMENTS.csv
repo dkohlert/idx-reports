@@ -1,4 +1,4 @@
 project UUID;name;count;state
-[45FF173A-5F79-42C9-84DB-FFEA5E116004|45FF173A-5F79-42C9-84DB-FFEA5E116004];[Switzerland, Fribourg—1880 Census \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/45FF173A-5F79-42C9-84DB-FFEA5E116004/overview];1;ACTIVE
-[D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E|D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E];[Italy (Italian Ancestors), Ancona—Civil Registration, 1544–1945 \[Part F\] TEST|https:///www.familysearch.org/indexing/admin-new/#/projects/D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E/overview];1;BATCHING
 [6875565E-C799-4226-A7F0-9FC57572BB90|6875565E-C799-4226-A7F0-9FC57572BB90];[Switzerland, Fribourg—1880 Census \[Part C\]|https:///www.familysearch.org/indexing/admin-new/#/projects/6875565E-C799-4226-A7F0-9FC57572BB90/overview];1;READY_FOR_WORK
+[D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E|D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E];[Italy (Italian Ancestors), Ancona—Civil Registration, 1544–1945 \[Part F\] TEST|https:///www.familysearch.org/indexing/admin-new/#/projects/D7246CBC-164A-4A9C-86C6-FB4CB02A7C2E/overview];1;BATCHING
+[45FF173A-5F79-42C9-84DB-FFEA5E116004|45FF173A-5F79-42C9-84DB-FFEA5E116004];[Switzerland, Fribourg—1880 Census \[Part A\]|https:///www.familysearch.org/indexing/admin-new/#/projects/45FF173A-5F79-42C9-84DB-FFEA5E116004/overview];1;ACTIVE
