@@ -16567,7 +16567,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 15:10:17",
+  "dateTimeFetched" : "2021-04-04 14:55:22",
   "batchesWithTooManyImages" : { },
   "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
   "state" : "READY_FOR_DELIVERY"
@@ -30901,11 +30901,11 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 73,
     "batchCount" : 49957,
-    "images" : 428612,
-    "recordCount" : 217338
+    "images" : 428623,
+    "recordCount" : 217349
   },
   "exportStateCounts" : {
-    "accepted" : 214364,
+    "accepted" : 214375,
     "exported" : 24,
     "failed" : 0,
     "inProgress" : 227,
@@ -30922,7 +30922,7 @@
     "noPersonas" : 40
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 11,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
@@ -30938,7 +30938,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 15:49:05",
+  "dateTimeFetched" : "2021-04-04 10:12:37",
   "batchesWithTooManyImages" : { },
   "name" : "US (Quick Batch), Montana—Manifests of Alien Arrivals, 1917–1956",
   "state" : "READY_FOR_DELIVERY"
@@ -32730,18 +32730,18 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 318,
     "batchCount" : 420915,
-    "images" : 2113062,
-    "recordCount" : 2092768
+    "images" : 2113093,
+    "recordCount" : 2092796
   },
   "exportStateCounts" : {
-    "accepted" : 2090616,
+    "accepted" : 2090644,
     "exported" : 36,
     "failed" : 0,
     "inProgress" : 50,
     "audit" : 104953,
     "blocked" : 11203,
     "duplicate" : 6047,
-    "ned" : 5078,
+    "ned" : 5081,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -32751,14 +32751,14 @@
     "noPersonas" : 32
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 28,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 0,
+    "ned" : 3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -32767,7 +32767,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 14:34:55",
+  "dateTimeFetched" : "2021-04-04 10:16:57",
   "batchesWithTooManyImages" : { },
   "name" : "US, Pennsylvania—World War I Draft Registration Cards, 1917–1918 [Part B]",
   "state" : "READY_FOR_DELIVERY"
@@ -48795,11 +48795,11 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 238,
     "batchCount" : 278541,
-    "images" : 1398189,
-    "recordCount" : 1393509
+    "images" : 1398211,
+    "recordCount" : 1393531
   },
   "exportStateCounts" : {
-    "accepted" : 1391075,
+    "accepted" : 1391097,
     "exported" : 4,
     "failed" : 0,
     "inProgress" : 0,
@@ -48816,7 +48816,7 @@
     "noPersonas" : 3
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 22,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
@@ -48832,7 +48832,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 14:38:32",
+  "dateTimeFetched" : "2021-04-04 10:20:04",
   "batchesWithTooManyImages" : { },
   "name" : "US (Quick Batch), Ohio—World War I Draft Registration Cards, 1917–1918 [Part A]",
   "state" : "READY_FOR_DELIVERY"
@@ -53705,48 +53705,48 @@
   "imageCountFromImagesetsInIndexingStates" : 866575,
   "imageCountBatchingComplete" : 866575,
   "blockedCount" : 77434,
-  "iesAuditBatchCount" : 3963,
+  "iesAuditBatchCount" : 3967,
   "iesCountsNoAudit" : {
     "imagesetCount" : 799,
-    "batchCount" : 79239,
-    "images" : 860824,
-    "recordCount" : 776692
+    "batchCount" : 79597,
+    "images" : 866362,
+    "recordCount" : 782083
   },
   "exportStateCounts" : {
-    "accepted" : 775621,
+    "accepted" : 781009,
     "exported" : 25,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 39134,
+    "audit" : 39192,
     "blocked" : 77434,
-    "duplicate" : 5853,
-    "ned" : 1872,
+    "duplicate" : 5979,
+    "ned" : 1895,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 19
+    "noPersonas" : 20
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 5388,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 0,
+    "audit" : 58,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 126,
+    "ned" : 23,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 1
   },
-  "dateTimeFetched" : "2021-04-03 16:11:57",
+  "dateTimeFetched" : "2021-04-04 15:22:07",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, New York City—World War II Draft Registration Cards, 1940–1947 [Part A]",
   "state" : "READY_FOR_DELIVERY"
@@ -91013,11 +91013,11 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 74,
     "batchCount" : 49818,
-    "images" : 501838,
-    "recordCount" : 502613
+    "images" : 501858,
+    "recordCount" : 502633
   },
   "exportStateCounts" : {
-    "accepted" : 496116,
+    "accepted" : 496136,
     "exported" : 97,
     "failed" : 0,
     "inProgress" : 0,
@@ -91034,7 +91034,7 @@
     "noPersonas" : 34
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 20,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
@@ -91050,7 +91050,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 15:49:59",
+  "dateTimeFetched" : "2021-04-04 10:21:24",
   "batchesWithTooManyImages" : { },
   "name" : "US, Arizona, Nogales—Index and Manifests of Alien Arrivals, 1905–1952",
   "state" : "READY_FOR_DELIVERY"
@@ -92147,18 +92147,18 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 275,
     "batchCount" : 39694,
-    "images" : 503473,
-    "recordCount" : 264876
+    "images" : 503495,
+    "recordCount" : 264895
   },
   "exportStateCounts" : {
-    "accepted" : 260781,
+    "accepted" : 260800,
     "exported" : 640,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 14184,
     "blocked" : 218413,
-    "duplicate" : 1586,
-    "ned" : 21740,
+    "duplicate" : 1587,
+    "ned" : 21742,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -92168,14 +92168,14 @@
     "noPersonas" : 313
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 19,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 1,
+    "ned" : 2,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -92184,7 +92184,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 15:49:27",
+  "dateTimeFetched" : "2021-04-04 10:22:48",
   "batchesWithTooManyImages" : { },
   "name" : "US, Alabama—Department of Archives and History, Confederate Pension Applications, 1880–1930's",
   "state" : "READY_FOR_DELIVERY"
@@ -107838,17 +107838,17 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 289,
     "batchCount" : 91136,
-    "images" : 890907,
-    "recordCount" : 1398101
+    "images" : 890937,
+    "recordCount" : 1398154
   },
   "exportStateCounts" : {
-    "accepted" : 778594,
+    "accepted" : 778622,
     "exported" : 12043,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 42616,
     "blocked" : 37156,
-    "duplicate" : 58545,
+    "duplicate" : 58547,
     "ned" : 3332,
     "unreadable" : 0,
     "notExported" : 0,
@@ -107859,13 +107859,13 @@
     "noPersonas" : 85
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 28,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
+    "duplicate" : 2,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -107875,7 +107875,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 14:44:48",
+  "dateTimeFetched" : "2021-04-04 10:31:20",
   "batchesWithTooManyImages" : { },
   "name" : "South Africa, Cape Province—Civil Deaths, 1895–1972 [Part D]",
   "state" : "READY_FOR_DELIVERY"
@@ -111870,11 +111870,11 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 298,
     "batchCount" : 366721,
-    "images" : 739401,
-    "recordCount" : 733406
+    "images" : 739419,
+    "recordCount" : 733424
   },
   "exportStateCounts" : {
-    "accepted" : 731033,
+    "accepted" : 731051,
     "exported" : 376,
     "failed" : 0,
     "inProgress" : 2,
@@ -111891,7 +111891,7 @@
     "noPersonas" : 597
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 18,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
@@ -111907,7 +111907,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 15:40:59",
+  "dateTimeFetched" : "2021-04-04 10:33:17",
   "batchesWithTooManyImages" : { },
   "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part B]",
   "state" : "READY_FOR_DELIVERY"
@@ -116595,11 +116595,11 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 110,
     "batchCount" : 75581,
-    "images" : 641587,
-    "recordCount" : 638893
+    "images" : 641643,
+    "recordCount" : 638949
   },
   "exportStateCounts" : {
-    "accepted" : 638309,
+    "accepted" : 638365,
     "exported" : 36,
     "failed" : 0,
     "inProgress" : 0,
@@ -116616,7 +116616,7 @@
     "noPersonas" : 2
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 56,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
@@ -116632,7 +116632,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 14:33:14",
+  "dateTimeFetched" : "2021-04-04 10:08:28",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York—World War I Draft Registration Cards, 1917–1918 [Part C]",
   "state" : "READY_FOR_DELIVERY"
@@ -125547,18 +125547,18 @@
   "iesCountsNoAudit" : {
     "imagesetCount" : 237,
     "batchCount" : 97253,
-    "images" : 707659,
-    "recordCount" : 533218
+    "images" : 707724,
+    "recordCount" : 533263
   },
   "exportStateCounts" : {
-    "accepted" : 526136,
+    "accepted" : 526181,
     "exported" : 197,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 31250,
     "blocked" : 82615,
-    "duplicate" : 68663,
-    "ned" : 29965,
+    "duplicate" : 68680,
+    "ned" : 29968,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -125568,14 +125568,14 @@
     "noPersonas" : 83
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
+    "accepted" : 45,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
+    "duplicate" : 17,
+    "ned" : 3,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -125584,7 +125584,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-03 15:52:09",
+  "dateTimeFetched" : "2021-04-04 10:35:09",
   "batchesWithTooManyImages" : { },
   "name" : "US—American Medical Association, Deceased Physicians File, 1864–1970",
   "state" : "READY_FOR_DELIVERY"
