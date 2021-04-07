@@ -1,5 +1,4 @@
 7CAAE2D6-7CBD-40F0-9BE0-841D7B7D4FD7:3496 indexing batches without workflows
-DAA0FAD2-D330-4708-93F9-095721623C1A.old:imageset 104239245, id(99113) does not have a workflow
 43752B23-F048-4C22-ACA3-F8190681A057:96 images are not blocked and do not have an indexing batch associated
 C9272102-A61E-48AD-9122-2C3704AE584F:846 images are not blocked and do not have an indexing batch associated
 7DF5BA49-7CBA-439D-912A-21214A116D61:batch EC828A1C-68D7-426C-AB82-3389CA312ED7 does not have a workflow, 4828 images are not blocked and not associated to an indexing batch
@@ -12,7 +11,7 @@ AC16A959-2BC3-4E47-9B30-96EE68A08DC7:57FD5C4A-136A-4228-86C7-A5C9301D969E is an 
 98D490FA-2E58-4732-AD89-714D68562CA7:looks like 20K+ batches do not have workflows
 74166EB7-99C0-4D38-B789-66A8D78F4E82:294 images are not associated with batches
 06660EB2-3409-4817-8124-84FA2CCFB5DE:batch B9D51CF7-8882-4F8A-A48C-14B2B186F360 does not have a workflow,20104 non-blocked imagges are not associated with an indexing batch
-62BB214E-B0A5-489C-BA43-3058A190C46F:image 16160094-F214-413E-8C25-E6EA579960C3 should be blocked and  it is not, it is blocked in : 35E2230E-F3B4-426B-BB6E-BED3510511F2 but not blocked inBBBF7178-18E5-4AC4-8ACE-B36DC73A4FA9
+-- 62BB214E-B0A5-489C-BA43-3058A190C46F:image 16160094-F214-413E-8C25-E6EA579960C3 should be blocked and  it is not, it is blocked in 35E2230E-F3B4-426B-BB6E-BED3510511F2 but not blocked in BBBF7178-18E5-4AC4-8ACE-B36DC73A4FA9
 33651B1F-8E0B-439E-B84C-E7CCA17B562E:1050 images are not blocked and are not associated with an indexing batch
 A21328DF-DA70-4950-91AA-8E68B749FFBC:4 images are not associated with indexing batches, they are not blocked, but look like there is no extractable data
 1FD4D9EC-55B2-4738-B022-E75D4F40D6EE:it looks like there might be 207 batches that have empty keying.resources, not sure about the blocked images
@@ -22,8 +21,6 @@ A21328DF-DA70-4950-91AA-8E68B749FFBC:4 images are not associated with indexing b
 7838FF6D-99FE-44D5-9FCC-7724B57A72E6:there are 5 images that have 2 batching batches, in one they are blocked, in the other they are not, they all are not associated with an indexing batch
 5098AA75-BBF6-429E-B404-A046CF661C18:it appears that there are 346 batches (including audit batches) that have empty keying.resources
 2705E06C-2199-4862-B607-338B184A1673:it appears that there are 20 batches that have empty keying.resources
---BBAAD840-13AA-4D2A-A481-583F595F2ECB:there are 1346 batches (including audit) that do not have workflows
---27FCEC51-9261-4943-B03B-A002E402D652:there are 84 batches (including audit) that do not have workflows
 39DA3283-0E21-40A1-8330-BD6FFF1754D2:the fields of the 'EXPORTED' batch's records are marked <blank>
 0E0DFABF-6EAB-4EAA-BAA7-0C702CE16CF1:imageset 102644174 has 58 images and is not associated with either a batchingbatch or indexing batch
 B6B04CC6-28A3-40B2-B906-71AFD0B6528B:#unindexedImages in batch 2B037B40-13B4-4B7F-8A53-97FE2F43638D
@@ -37,3 +34,18 @@ AE034C04-1373-4014-AC14-3983765B9880:#unindexedImages in batch 34353B02-9289-4F
 C4F542D4-BE18-416A-B38B-9BE31ADA5FE9:#unindexedImages in batch 2EBAAADB-0B42-4A46-A193-9E111FDD2B70
 05CCE9DD-12D8-4169-AC3E-E39373648122:#unindexedImages in batch 25E3B00B-FA40-4368-8C75-CB215638A592
 180E49FD-2D50-41CB-89C4-6B89B1D4C68C:image was not indexed, but a similar record is on record search so will not index
+E05A500C-35BE-41D9-854F-7BBE533582BF:2 different kind of images with no indexing batch, don't need to be indexed
+BBAAD840-13AA-4D2A-A481-583F595F2ECB:200 images added to another project and indexed, ignore these
+62BB214E-B0A5-489C-BA43-3058A190C46F:1 image missing, it has no extractable data
+A25AE7EC-61DC-4751-A138-273FE5802830:3 images with no indexing batch, they have no extractable data
+3FD8C214-33A8-4871-B662-EF52CE01A802:has 2 images that do not have indexing batches, but they are duplicate
+4F02B9D9-1261-4C3E-AE4A-D6F57446986D:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+EB663007-5FE1-4DD4-878F-1829B3E08D3A:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+195A3D1E-CDD9-435E-8D2B-461C8D4F98BC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+8AF12DDC-42A0-4D85-ABD6-9120971B29CE:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+6FA7785F-2E5A-4F49-BDA2-006889DBCDCD:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+1BE40866-7753-41B6-B272-FCF12C4D16BC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+DAA0FAD2-D330-4708-93F9-095721623C1A:#unindexedImages in batch 2FCB9DCC-B5CA-4F1D-83F7-5EE8AEC61D8E
+5424424A-9832-4749-BC4E-7DEDB2078FDC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+88FA91C6-B479-4602-9D1C-86019C0896F7:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+9F551B7B-D283-4E0C-8D1D-E3107EC837EC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
