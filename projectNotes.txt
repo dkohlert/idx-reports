@@ -27,9 +27,9 @@ B6B04CC6-28A3-40B2-B906-71AFD0B6528B:#unindexedImages in batch 2B037B40-13B4-4B7
 61CDA3DF-1DE4-4793-93B5-5B7E6C6F1361:#unindexedImages in batch 9D6E4FF9-1D17-475E-944A-7F69B4291920
 ACB80718-5DA9-42FE-99ED-08CA3ABEDFD9:#unindexedImages in batch 3EBA7D58-D5DB-4021-9100-21E0B5D643EA
 F7E37B4F-6814-4843-9824-C0555BFF7F3F:#unindexedImages in batch 2AA147E7-7D2E-49FC-A29C-7655DC5CA20C
-4104188D-600D-442F-BFF0-64E4E333864B:#unindexedImages in batch 1C1B3F34-E404-47FE-BCD8-0CC8B67A8016, It has 509 FS_RECORD_ARKS
-2566FC70-C54E-41DA-A384-8DECE190F8D7:#unindexedImages in batch F10D2553-ADD8-412E-B0CD-650583892D62, It has 500 FS_RECORD_ARKS
-BF756A9A-DAAB-419D-9C81-3F60D0BEC079:#unindexedImages in batch 0C0DD25D-9993-4EA0-A899-575AB3B0D4D6, has 493 FS_RECORD_ARKS
+4104188D-600D-442F-BFF0-64E4E333864B:#unindexedImages in batch 1C1B3F34-E404-47FE-BCD8-0CC8B67A8016, It has only 509 FS_RECORD_ARKS
+2566FC70-C54E-41DA-A384-8DECE190F8D7:#unindexedImages in batch F10D2553-ADD8-412E-B0CD-650583892D62, It has only 500 FS_RECORD_ARKS
+--BF756A9A-DAAB-419D-9C81-3F60D0BEC079:#unindexedImages in batch 0C0DD25D-9993-4EA0-A899-575AB3B0D4D6, has 493 FS_RECORD_ARKS
 AE034C04-1373-4014-AC14-3983765B9880:#unindexedImages in batch 34353B02-9289-4FE5-B406-1AD3FDE13CF7
 C4F542D4-BE18-416A-B38B-9BE31ADA5FE9:#unindexedImages in batch 2EBAAADB-0B42-4A46-A193-9E111FDD2B70, Both batches have 4000+ FS_RECORD_ARKS
 05CCE9DD-12D8-4169-AC3E-E39373648122:#unindexedImages in batch 25E3B00B-FA40-4368-8C75-CB215638A592
@@ -45,7 +45,7 @@ EB663007-5FE1-4DD4-878F-1829B3E08D3A:The batch with too many images is correct, 
 8AF12DDC-42A0-4D85-ABD6-9120971B29CE:The batch with too many images is correct, has been exported successfully, and does not need re-export.
 6FA7785F-2E5A-4F49-BDA2-006889DBCDCD:The batch with too many images is correct, has been exported successfully, and does not need re-export.
 1BE40866-7753-41B6-B272-FCF12C4D16BC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
-DAA0FAD2-D330-4708-93F9-095721623C1A:#unindexedImages in batch 2FCB9DCC-B5CA-4F1D-83F7-5EE8AEC61D8E, It looks like it has 498 FS_RECORD_ARKS
+DAA0FAD2-D330-4708-93F9-095721623C1A:#unindexedImages in batch 2FCB9DCC-B5CA-4F1D-83F7-5EE8AEC61D8E, It looks like it has only 498 FS_RECORD_ARKS
 5424424A-9832-4749-BC4E-7DEDB2078FDC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
 88FA91C6-B479-4602-9D1C-86019C0896F7:The batch with too many images is correct, has been exported successfully, and does not need re-export.
 9F551B7B-D283-4E0C-8D1D-E3107EC837EC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
