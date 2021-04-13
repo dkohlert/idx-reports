@@ -25140,7 +25140,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 11:23:38",
+  "dateTimeFetched" : "2021-04-12 17:31:25",
   "batchesWithTooManyImages" : {
     "2FCB9DCC-B5CA-4F1D-83F7-5EE8AEC61D8E" : 1163
   },
@@ -102602,16 +102602,16 @@
     "imagesetCount" : 229,
     "batchCount" : 51107,
     "images" : 223691,
-    "recordCount" : 176969
+    "recordCount" : 179728
   },
   "exportStateCounts" : {
-    "accepted" : 42579,
-    "exported" : 0,
+    "accepted" : 42966,
+    "exported" : 12,
     "failed" : 0,
-    "inProgress" : 162223,
+    "inProgress" : 161823,
     "audit" : 10141,
     "blocked" : 17504,
-    "duplicate" : 499,
+    "duplicate" : 500,
     "ned" : 885,
     "unreadable" : 0,
     "notExported" : 0,
@@ -102622,13 +102622,13 @@
     "noPersonas" : 1
   },
   "exportStateDiffs" : {
-    "accepted" : 15,
-    "exported" : 0,
+    "accepted" : 387,
+    "exported" : 12,
     "failed" : 0,
-    "inProgress" : -15,
+    "inProgress" : -400,
     "audit" : 0,
     "blocked" : 0,
-    "duplicate" : 0,
+    "duplicate" : 1,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -102638,7 +102638,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 11:20:09",
+  "dateTimeFetched" : "2021-04-12 17:31:14",
   "batchesWithTooManyImages" : {
     "8BF64492-B2DA-4D76-B1D5-51DFA3B596D2" : 1221
   },
@@ -134778,7 +134778,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-12 14:01:55",
+  "dateTimeFetched" : "2021-04-12 17:30:56",
   "batchesWithTooManyImages" : {
     "34353B02-9289-4FE5-B406-1AD3FDE13CF7" : 1237
   },
