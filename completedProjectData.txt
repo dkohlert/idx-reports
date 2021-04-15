@@ -8942,7 +8942,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-15 14:30:33",
+  "dateTimeFetched" : "2021-04-15 15:36:00",
   "batchesWithTooManyImages" : { },
   "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
   "state" : "READY_FOR_DELIVERY"
@@ -116628,7 +116628,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-15 13:41:22",
+  "dateTimeFetched" : "2021-04-15 15:34:27",
   "batchesWithTooManyImages" : { },
   "name" : "Italy (Italian Ancestors), Agrigento—Civil Registration, 1820–1865 [Part C]",
   "state" : "READY_FOR_WORK"
@@ -130620,7 +130620,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-15 13:17:23",
+  "dateTimeFetched" : "2021-04-15 15:04:38",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines, Camarines Sur, Caceres—Catholic Church Records, 1716–1977 [Part B]",
   "state" : "ACTIVE"
