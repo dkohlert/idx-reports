@@ -27347,7 +27347,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-14 19:47:26",
+  "dateTimeFetched" : "2021-04-14 20:18:45",
   "batchesWithTooManyImages" : { },
   "name" : "Brazil, Manaus—Cemetery Records, 1850–2018 [Part A]",
   "state" : "BATCHING"
