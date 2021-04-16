@@ -49,3 +49,4 @@ DAA0FAD2-D330-4708-93F9-095721623C1A:#unindexedImages in batch 2FCB9DCC-B5CA-4F1
 5424424A-9832-4749-BC4E-7DEDB2078FDC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
 88FA91C6-B479-4602-9D1C-86019C0896F7:The batch with too many images is correct, has been exported successfully, and does not need re-export.
 9F551B7B-D283-4E0C-8D1D-E3107EC837EC:The batch with too many images is correct, has been exported successfully, and does not need re-export.
+624CC290-5A21-4CFA-9781-F54B720CAE4F :the first and last image batch are not blocked and are not associated with an indexing batch, they have no extratable data
