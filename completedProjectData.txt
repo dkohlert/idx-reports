@@ -98433,12 +98433,12 @@
   "imagesetInIndexingStatesCount" : 144,
   "batchCount" : 9527,
   "auditBatchCount" : 447,
-  "batchingBatchesNotReviewComplete" : 1,
+  "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 95308,
   "imageCountFromImagesetsInIndexingStates" : 95308,
-  "imageCountBatchingComplete" : 94447,
-  "blockedCount" : 5176,
+  "imageCountBatchingComplete" : 95308,
+  "blockedCount" : 5198,
   "iesAuditBatchCount" : 447,
   "iesCountsNoAudit" : {
     "imagesetCount" : 144,
@@ -98480,7 +98480,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-16 14:03:10",
+  "dateTimeFetched" : "2021-04-16 15:39:07",
   "batchesWithTooManyImages" : { },
   "name" : "US, Georgia, Houston County—Marriage Records, 1832–2015 ",
   "state" : "READY_FOR_DELIVERY"
