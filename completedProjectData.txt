@@ -8840,9 +8840,9 @@
   "blockedCount" : 1312,
   "iesAuditBatchCount" : 76,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 57,
+    "imagesetCount" : 19,
     "batchCount" : 1497,
-    "images" : 16489,
+    "images" : 16172,
     "recordCount" : 99
   },
   "exportStateCounts" : {
@@ -8851,7 +8851,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 751,
-    "blocked" : 1629,
+    "blocked" : 1312,
     "duplicate" : 0,
     "ned" : 14830,
     "unreadable" : 0,
@@ -8863,23 +8863,23 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : -26130,
-    "exported" : -29,
+    "accepted" : 0,
+    "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : -1622,
-    "blocked" : 0,
-    "duplicate" : -274,
-    "ned" : -6632,
+    "audit" : 0,
+    "blocked" : -317,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : -3
+    "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-20 14:32:11",
+  "dateTimeFetched" : "2021-04-20 14:56:20",
   "batchesWithTooManyImages" : { },
   "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
   "state" : "READY_FOR_DELIVERY"
@@ -96110,9 +96110,9 @@
   "blockedCount" : 1795,
   "iesAuditBatchCount" : 2310,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 122,
+    "imagesetCount" : 78,
     "batchCount" : 46306,
-    "images" : 48109,
+    "images" : 47658,
     "recordCount" : 1145833
   },
   "exportStateCounts" : {
@@ -96121,7 +96121,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 2310,
-    "blocked" : 1795,
+    "blocked" : 1344,
     "duplicate" : 0,
     "ned" : 194,
     "unreadable" : 0,
@@ -96138,7 +96138,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 0,
+    "blocked" : -451,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -96149,7 +96149,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-20 14:33:08",
+  "dateTimeFetched" : "2021-04-20 14:55:19",
   "batchesWithTooManyImages" : { },
   "name" : "US, New York, Kings and Richmond—Index to Land Records, Grantors, 1630-1975 [Part B]",
   "state" : "READY_FOR_DELIVERY"
@@ -130581,9 +130581,9 @@
   "blockedCount" : 2598,
   "iesAuditBatchCount" : 2016,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 50,
+    "imagesetCount" : 49,
     "batchCount" : 40342,
-    "images" : 59132,
+    "images" : 59040,
     "recordCount" : 130060
   },
   "exportStateCounts" : {
@@ -130592,7 +130592,7 @@
     "failed" : 0,
     "inProgress" : 27777,
     "audit" : 2857,
-    "blocked" : 2598,
+    "blocked" : 2506,
     "duplicate" : 409,
     "ned" : 6548,
     "unreadable" : 0,
@@ -130609,7 +130609,7 @@
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
-    "blocked" : 0,
+    "blocked" : -92,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -130620,7 +130620,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-20 14:31:52",
+  "dateTimeFetched" : "2021-04-20 14:56:15",
   "batchesWithTooManyImages" : { },
   "name" : "Philippines, Camarines Sur, Caceres—Catholic Church Records, 1716–1977 [Part B]",
   "state" : "ACTIVE"
