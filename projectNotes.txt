@@ -52,3 +52,4 @@ DAA0FAD2-D330-4708-93F9-095721623C1A:#unindexedImages in batch 2FCB9DCC-B5CA-4F1
 9B4EABA8-CC2B-4C97-B0BE-62C016C690B2:We will let indexing-on-the-fly handle these
 7838FF6D-99FE-44D5-9FCC-7724B57A72E6:We will let indexing-on-the-fly handle these
 A21328DF-DA70-4950-91AA-8E68B749FFBC:We will let indexing-on-the-fly handle these
+C4F542D4-BE18-416A-B38B-9BE31ADA5FE9:2images will be indexed by the readiness team
