@@ -1,69 +1,5 @@
 [ {
   "project" : {
-    "projectId" : 3991,
-    "projectUUID" : "545AF0DD-AF80-4680-9093-1CD8FCF9F255",
-    "name" : "US, Oregon, Willamette Valley Genealogical Society—Divorce Index 1991–2008",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "19-2008"
-  },
-  "imagesetCount" : 36,
-  "imagesetInIndexingStatesCount" : 36,
-  "batchCount" : 9235,
-  "auditBatchCount" : 443,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 9451,
-  "imageCountFromImagesetsInIndexingStates" : 9451,
-  "imageCountBatchingComplete" : 9451,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 443,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 36,
-    "batchCount" : 8792,
-    "images" : 9451,
-    "recordCount" : 334207
-  },
-  "exportStateCounts" : {
-    "accepted" : 8788,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 443,
-    "blocked" : 659,
-    "duplicate" : 0,
-    "ned" : 4,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 13:38:10",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Oregon, Willamette Valley Genealogical Society—Divorce Index 1991–2008",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 2773,
     "projectUUID" : "34ABBA98-3991-4B0D-B876-D301AC06D806",
     "name" : "US, Puerto Rico—Naturalization Records, 1901–1981 [Part D]",
@@ -125,6 +61,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Puerto Rico—Naturalization Records, 1901–1981 [Part D]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3991,
+    "projectUUID" : "545AF0DD-AF80-4680-9093-1CD8FCF9F255",
+    "name" : "US, Oregon, Willamette Valley Genealogical Society—Divorce Index 1991–2008",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "19-2008"
+  },
+  "imagesetCount" : 36,
+  "imagesetInIndexingStatesCount" : 36,
+  "batchCount" : 9235,
+  "auditBatchCount" : 443,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 9451,
+  "imageCountFromImagesetsInIndexingStates" : 9451,
+  "imageCountBatchingComplete" : 9451,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 443,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 36,
+    "batchCount" : 8792,
+    "images" : 9451,
+    "recordCount" : 334207
+  },
+  "exportStateCounts" : {
+    "accepted" : 8788,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 443,
+    "blocked" : 659,
+    "duplicate" : 0,
+    "ned" : 4,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 13:38:10",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Oregon, Willamette Valley Genealogical Society—Divorce Index 1991–2008",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -704,70 +704,6 @@
   "state" : "READY_FOR_WORK"
 }, {
   "project" : {
-    "projectId" : 4206,
-    "projectUUID" : "622F0A9A-41DF-4EED-9775-7C7CBCB99361",
-    "name" : "US, Wisconsin—Birth Records, 1981–1993 [Part D]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "20-0634"
-  },
-  "imagesetCount" : 16,
-  "imagesetInIndexingStatesCount" : 16,
-  "batchCount" : 18148,
-  "auditBatchCount" : 863,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 48542,
-  "imageCountFromImagesetsInIndexingStates" : 48542,
-  "imageCountBatchingComplete" : 48542,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 863,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 16,
-    "batchCount" : 17285,
-    "images" : 48542,
-    "recordCount" : 47986
-  },
-  "exportStateCounts" : {
-    "accepted" : 24617,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 2408,
-    "blocked" : 512,
-    "duplicate" : 21,
-    "ned" : 26,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 13014,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 10352
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 13:52:11",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Wisconsin—Birth Records, 1981–1993 [Part D]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 2188,
     "projectUUID" : "D14412C8-CDC5-4C3E-917C-2871183252E7",
     "name" : "US, (Quick Batch) Pennsylvania, Philadelphia, Philadelphia—Birth Returns and Birth Index Cards, 1904–1915 [Part B]",
@@ -829,6 +765,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, (Quick Batch) Pennsylvania, Philadelphia, Philadelphia—Birth Returns and Birth Index Cards, 1904–1915 [Part B]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4206,
+    "projectUUID" : "622F0A9A-41DF-4EED-9775-7C7CBCB99361",
+    "name" : "US, Wisconsin—Birth Records, 1981–1993 [Part D]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "20-0634"
+  },
+  "imagesetCount" : 16,
+  "imagesetInIndexingStatesCount" : 16,
+  "batchCount" : 18148,
+  "auditBatchCount" : 863,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 48542,
+  "imageCountFromImagesetsInIndexingStates" : 48542,
+  "imageCountBatchingComplete" : 48542,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 863,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 16,
+    "batchCount" : 17285,
+    "images" : 48542,
+    "recordCount" : 47986
+  },
+  "exportStateCounts" : {
+    "accepted" : 24617,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 2408,
+    "blocked" : 512,
+    "duplicate" : 21,
+    "ned" : 26,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 13014,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 10352
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 13:52:11",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Wisconsin—Birth Records, 1981–1993 [Part D]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -1408,70 +1408,6 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2119,
-    "projectUUID" : "507722B0-FA2A-4C0D-955B-57F2053AA9D3",
-    "name" : "Perú, La Libertad—Registros Civiles, 1903–1997 [Part W]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "13-1168"
-  },
-  "imagesetCount" : 99,
-  "imagesetInIndexingStatesCount" : 99,
-  "batchCount" : 1109,
-  "auditBatchCount" : 50,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 15661,
-  "imageCountFromImagesetsInIndexingStates" : 15661,
-  "imageCountBatchingComplete" : 15661,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 50,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 99,
-    "batchCount" : 1059,
-    "images" : 15661,
-    "recordCount" : 9361
-  },
-  "exportStateCounts" : {
-    "accepted" : 9203,
-    "exported" : 3,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 465,
-    "blocked" : 6105,
-    "duplicate" : 10,
-    "ned" : 310,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 30
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 17:08:50",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Perú, La Libertad—Registros Civiles, 1903–1997 [Part W]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3542,
     "projectUUID" : "D08C8E01-B340-4EA6-9B9E-A7C7A1C390B9",
     "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part B]",
@@ -1533,6 +1469,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part B]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2119,
+    "projectUUID" : "507722B0-FA2A-4C0D-955B-57F2053AA9D3",
+    "name" : "Perú, La Libertad—Registros Civiles, 1903–1997 [Part W]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "13-1168"
+  },
+  "imagesetCount" : 99,
+  "imagesetInIndexingStatesCount" : 99,
+  "batchCount" : 1109,
+  "auditBatchCount" : 50,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 15661,
+  "imageCountFromImagesetsInIndexingStates" : 15661,
+  "imageCountBatchingComplete" : 15661,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 50,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 99,
+    "batchCount" : 1059,
+    "images" : 15661,
+    "recordCount" : 9361
+  },
+  "exportStateCounts" : {
+    "accepted" : 9203,
+    "exported" : 3,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 465,
+    "blocked" : 6105,
+    "duplicate" : 10,
+    "ned" : 310,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 30
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 17:08:50",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Perú, La Libertad—Registros Civiles, 1903–1997 [Part W]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -1600,70 +1600,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 1820,
-    "projectUUID" : "14AFF258-5AC4-417A-9AA5-0936B4850077",
-    "name" : "Australia, Victoria—Inward Passenger Lists, 1839–1923",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "17-0559"
-  },
-  "imagesetCount" : 160,
-  "imagesetInIndexingStatesCount" : 160,
-  "batchCount" : 65578,
-  "auditBatchCount" : 3120,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 92056,
-  "imageCountFromImagesetsInIndexingStates" : 92056,
-  "imageCountBatchingComplete" : 92056,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 3120,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 160,
-    "batchCount" : 62458,
-    "images" : 92056,
-    "recordCount" : 1790110
-  },
-  "exportStateCounts" : {
-    "accepted" : 61604,
-    "exported" : 3,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 3124,
-    "blocked" : 29498,
-    "duplicate" : 3,
-    "ned" : 947,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 1
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 10:37:25",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Australia, Victoria—Inward Passenger Lists, 1839–1923",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 4327,
     "projectUUID" : "B11BD875-5B70-4A80-BEDB-A85BDB12E19C",
     "name" : "US, Utah—The Church of Jesus Christ of Latter-day Saints, Church Census Records, 1914–1960 [Part C]",
@@ -1725,6 +1661,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Utah—The Church of Jesus Christ of Latter-day Saints, Church Census Records, 1914–1960 [Part C]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 1820,
+    "projectUUID" : "14AFF258-5AC4-417A-9AA5-0936B4850077",
+    "name" : "Australia, Victoria—Inward Passenger Lists, 1839–1923",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "17-0559"
+  },
+  "imagesetCount" : 160,
+  "imagesetInIndexingStatesCount" : 160,
+  "batchCount" : 65578,
+  "auditBatchCount" : 3120,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 92056,
+  "imageCountFromImagesetsInIndexingStates" : 92056,
+  "imageCountBatchingComplete" : 92056,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 3120,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 160,
+    "batchCount" : 62458,
+    "images" : 92056,
+    "recordCount" : 1790110
+  },
+  "exportStateCounts" : {
+    "accepted" : 61604,
+    "exported" : 3,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3124,
+    "blocked" : 29498,
+    "duplicate" : 3,
+    "ned" : 947,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 10:37:25",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Australia, Victoria—Inward Passenger Lists, 1839–1923",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -1792,70 +1792,6 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2970,
-    "projectUUID" : "ACFDDEF7-BD2F-4C36-9F0B-E8C34ECBEA06",
-    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "14-1445"
-  },
-  "imagesetCount" : 50,
-  "imagesetInIndexingStatesCount" : 50,
-  "batchCount" : 436,
-  "auditBatchCount" : 19,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 9624,
-  "imageCountFromImagesetsInIndexingStates" : 9624,
-  "imageCountBatchingComplete" : 9624,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 19,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 50,
-    "batchCount" : 417,
-    "images" : 9624,
-    "recordCount" : 1945
-  },
-  "exportStateCounts" : {
-    "accepted" : 1906,
-    "exported" : 2,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 91,
-    "blocked" : 7671,
-    "duplicate" : 4,
-    "ned" : 41,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 09:16:00",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3633,
     "projectUUID" : "1B1346D9-0029-4E89-8634-FDC53820EE26",
     "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900",
@@ -1917,6 +1853,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Hawaii—Collector of Customs, Ships' Passenger Manifests, 1843–1900",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2970,
+    "projectUUID" : "ACFDDEF7-BD2F-4C36-9F0B-E8C34ECBEA06",
+    "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "14-1445"
+  },
+  "imagesetCount" : 50,
+  "imagesetInIndexingStatesCount" : 50,
+  "batchCount" : 436,
+  "auditBatchCount" : 19,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 9624,
+  "imageCountFromImagesetsInIndexingStates" : 9624,
+  "imageCountBatchingComplete" : 9624,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 19,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 50,
+    "batchCount" : 417,
+    "images" : 9624,
+    "recordCount" : 1945
+  },
+  "exportStateCounts" : {
+    "accepted" : 1906,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 91,
+    "blocked" : 7671,
+    "duplicate" : 4,
+    "ned" : 41,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 09:16:00",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Perú, Amazonas—Registros Civiles, Defunciones, 1935–1999 [Parte 1G]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -2560,70 +2560,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3287,
-    "projectUUID" : "059BF999-055A-4214-BE73-8F173D116839",
-    "name" : "US, Missouri, St. Louis—Military Records, 1916–1939",
-    "state" : "ACTIVE",
-    "travelerId" : "18-1488"
-  },
-  "imagesetCount" : 175,
-  "imagesetInIndexingStatesCount" : 175,
-  "batchCount" : 258343,
-  "auditBatchCount" : 12293,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 322006,
-  "imageCountFromImagesetsInIndexingStates" : 322006,
-  "imageCountBatchingComplete" : 322006,
-  "blockedCount" : 72682,
-  "iesAuditBatchCount" : 12293,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 175,
-    "batchCount" : 246050,
-    "images" : 322006,
-    "recordCount" : 5269091
-  },
-  "exportStateCounts" : {
-    "accepted" : 155879,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 91547,
-    "audit" : 12451,
-    "blocked" : 72682,
-    "duplicate" : 23,
-    "ned" : 1875,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 17:56:11",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Missouri, St. Louis—Military Records, 1916–1939",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 4687,
     "projectUUID" : "158CB91A-D4E5-4770-B19A-AFDE6E8A4D8B",
     "name" : "US, Michigan—Military Discharge Records, 1847–1965",
@@ -2686,6 +2622,70 @@
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Michigan—Military Discharge Records, 1847–1965",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3287,
+    "projectUUID" : "059BF999-055A-4214-BE73-8F173D116839",
+    "name" : "US, Missouri, St. Louis—Military Records, 1916–1939",
+    "state" : "ACTIVE",
+    "travelerId" : "18-1488"
+  },
+  "imagesetCount" : 175,
+  "imagesetInIndexingStatesCount" : 175,
+  "batchCount" : 258343,
+  "auditBatchCount" : 12293,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 322006,
+  "imageCountFromImagesetsInIndexingStates" : 322006,
+  "imageCountBatchingComplete" : 322006,
+  "blockedCount" : 72682,
+  "iesAuditBatchCount" : 12293,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 175,
+    "batchCount" : 246050,
+    "images" : 322006,
+    "recordCount" : 5269091
+  },
+  "exportStateCounts" : {
+    "accepted" : 155879,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 91547,
+    "audit" : 12451,
+    "blocked" : 72682,
+    "duplicate" : 23,
+    "ned" : 1875,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 17:56:11",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Missouri, St. Louis—Military Records, 1916–1939",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 4548,
@@ -3264,70 +3264,6 @@
   "state" : "TEST"
 }, {
   "project" : {
-    "projectId" : 2655,
-    "projectUUID" : "73E9B957-BBAB-4022-9CB2-94E62552EEFA",
-    "name" : "Spain, Lugo—Catholic Church Records, 1530–1930 [Part C]",
-    "state" : "ACTIVE",
-    "travelerId" : "08-0465"
-  },
-  "imagesetCount" : 16,
-  "imagesetInIndexingStatesCount" : 16,
-  "batchCount" : 3434,
-  "auditBatchCount" : 164,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 18144,
-  "imageCountFromImagesetsInIndexingStates" : 18144,
-  "imageCountBatchingComplete" : 18144,
-  "blockedCount" : 2020,
-  "iesAuditBatchCount" : 164,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 16,
-    "batchCount" : 3270,
-    "images" : 18144,
-    "recordCount" : 3808
-  },
-  "exportStateCounts" : {
-    "accepted" : 1276,
-    "exported" : 2,
-    "failed" : 0,
-    "inProgress" : 14179,
-    "audit" : 796,
-    "blocked" : 2020,
-    "duplicate" : 72,
-    "ned" : 593,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 2
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 17:00:21",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Spain, Lugo—Catholic Church Records, 1530–1930 [Part C]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 2099,
     "projectUUID" : "BDCAF64D-3CC0-489A-9127-B071E64F5691",
     "name" : "Iceland—Church Census, 1744–1977 [Part B]",
@@ -3389,6 +3325,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "Iceland—Church Census, 1744–1977 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 2655,
+    "projectUUID" : "73E9B957-BBAB-4022-9CB2-94E62552EEFA",
+    "name" : "Spain, Lugo—Catholic Church Records, 1530–1930 [Part C]",
+    "state" : "ACTIVE",
+    "travelerId" : "08-0465"
+  },
+  "imagesetCount" : 16,
+  "imagesetInIndexingStatesCount" : 16,
+  "batchCount" : 3434,
+  "auditBatchCount" : 164,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 18144,
+  "imageCountFromImagesetsInIndexingStates" : 18144,
+  "imageCountBatchingComplete" : 18144,
+  "blockedCount" : 2020,
+  "iesAuditBatchCount" : 164,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 16,
+    "batchCount" : 3270,
+    "images" : 18144,
+    "recordCount" : 3808
+  },
+  "exportStateCounts" : {
+    "accepted" : 1276,
+    "exported" : 2,
+    "failed" : 0,
+    "inProgress" : 14179,
+    "audit" : 796,
+    "blocked" : 2020,
+    "duplicate" : 72,
+    "ned" : 593,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 2
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 17:00:21",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Spain, Lugo—Catholic Church Records, 1530–1930 [Part C]",
   "state" : "ACTIVE"
 }, {
   "project" : {
@@ -4032,70 +4032,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4607,
-    "projectUUID" : "9BFAA44D-C7C3-4451-8404-5526D8F6CB43",
-    "name" : "US, Indiana, Ripley County—Marriages, 1811–2007",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "19-0198"
-  },
-  "imagesetCount" : 8,
-  "imagesetInIndexingStatesCount" : 8,
-  "batchCount" : 1781,
-  "auditBatchCount" : 85,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 5430,
-  "imageCountFromImagesetsInIndexingStates" : 5430,
-  "imageCountBatchingComplete" : 5430,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 85,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 8,
-    "batchCount" : 1696,
-    "images" : 5430,
-    "recordCount" : 18479
-  },
-  "exportStateCounts" : {
-    "accepted" : 4761,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 3,
-    "audit" : 243,
-    "blocked" : 551,
-    "duplicate" : 43,
-    "ned" : 72,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 12:40:23",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Indiana, Ripley County—Marriages, 1811–2007",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3995,
     "projectUUID" : "E543C835-D8A1-443F-9DBE-A648F5B59A61",
     "name" : "US, District of Columbia—Interment Records, 1855–1874",
@@ -4160,45 +4096,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4282,
-    "projectUUID" : "6EEAB93F-64C7-460C-BEE7-D4B17A57D9BB",
-    "name" : "Peru, Ayacucho—Civil Registration, 1903–1999 [Part H]",
+    "projectId" : 4607,
+    "projectUUID" : "9BFAA44D-C7C3-4451-8404-5526D8F6CB43",
+    "name" : "US, Indiana, Ripley County—Marriages, 1811–2007",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "19-1263"
+    "travelerId" : "19-0198"
   },
-  "imagesetCount" : 200,
-  "imagesetInIndexingStatesCount" : 200,
-  "batchCount" : 9871,
-  "auditBatchCount" : 465,
+  "imagesetCount" : 8,
+  "imagesetInIndexingStatesCount" : 8,
+  "batchCount" : 1781,
+  "auditBatchCount" : 85,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 52059,
-  "imageCountFromImagesetsInIndexingStates" : 52059,
-  "imageCountBatchingComplete" : 52059,
+  "imageCount" : 5430,
+  "imageCountFromImagesetsInIndexingStates" : 5430,
+  "imageCountBatchingComplete" : 5430,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 465,
+  "iesAuditBatchCount" : 85,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 200,
-    "batchCount" : 9406,
-    "images" : 52059,
-    "recordCount" : 36960
+    "imagesetCount" : 8,
+    "batchCount" : 1696,
+    "images" : 5430,
+    "recordCount" : 18479
   },
   "exportStateCounts" : {
-    "accepted" : 36591,
+    "accepted" : 4761,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 1834,
-    "blocked" : 14875,
-    "duplicate" : 22,
-    "ned" : 505,
+    "inProgress" : 3,
+    "audit" : 243,
+    "blocked" : 551,
+    "duplicate" : 43,
+    "ned" : 72,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 66
+    "noPersonas" : 0
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -4217,10 +4153,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-14 10:16:41",
+  "dateTimeFetched" : "2021-04-10 12:40:23",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "Peru, Ayacucho—Civil Registration, 1903–1999 [Part H]",
+  "name" : "US, Indiana, Ripley County—Marriages, 1811–2007",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -4285,6 +4221,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, New Hampshire, Hillsborough, Manchester—Cemetery Records, 1800–2007",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4282,
+    "projectUUID" : "6EEAB93F-64C7-460C-BEE7-D4B17A57D9BB",
+    "name" : "Peru, Ayacucho—Civil Registration, 1903–1999 [Part H]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "19-1263"
+  },
+  "imagesetCount" : 200,
+  "imagesetInIndexingStatesCount" : 200,
+  "batchCount" : 9871,
+  "auditBatchCount" : 465,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 52059,
+  "imageCountFromImagesetsInIndexingStates" : 52059,
+  "imageCountBatchingComplete" : 52059,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 465,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 200,
+    "batchCount" : 9406,
+    "images" : 52059,
+    "recordCount" : 36960
+  },
+  "exportStateCounts" : {
+    "accepted" : 36591,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 1834,
+    "blocked" : 14875,
+    "duplicate" : 22,
+    "ned" : 505,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 66
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-14 10:16:41",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Peru, Ayacucho—Civil Registration, 1903–1999 [Part H]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -5120,70 +5120,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4060,
-    "projectUUID" : "764A4D16-B226-4258-8617-212AAAAB7865",
-    "name" : "New Zealand—Electoral Rolls, 1865–1957",
-    "state" : "ACTIVE",
-    "travelerId" : "20-0048"
-  },
-  "imagesetCount" : 213,
-  "imagesetInIndexingStatesCount" : 213,
-  "batchCount" : 134626,
-  "auditBatchCount" : 6407,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 133345,
-  "imageCountFromImagesetsInIndexingStates" : 133345,
-  "imageCountBatchingComplete" : 133345,
-  "blockedCount" : 5106,
-  "iesAuditBatchCount" : 6407,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 213,
-    "batchCount" : 128219,
-    "images" : 133345,
-    "recordCount" : 4786160
-  },
-  "exportStateCounts" : {
-    "accepted" : 50073,
-    "exported" : 6,
-    "failed" : 0,
-    "inProgress" : 77976,
-    "audit" : 6409,
-    "blocked" : 5106,
-    "duplicate" : 0,
-    "ned" : 184,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 663,
-    "exported" : -104,
-    "failed" : 0,
-    "inProgress" : -560,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 1,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 18:28:05",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "New Zealand—Electoral Rolls, 1865–1957",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 3632,
     "projectUUID" : "ABADB3D1-7E42-49CA-BD79-396B39F46050",
     "name" : "Italy (Antenati Italiani), Ancona—Civil Registration, 1544–1945 [Part A]",
@@ -5246,6 +5182,70 @@
   "enttityTypeProblemCountMap" : null,
   "name" : "Italy (Antenati Italiani), Ancona—Civil Registration, 1544–1945 [Part A]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4060,
+    "projectUUID" : "764A4D16-B226-4258-8617-212AAAAB7865",
+    "name" : "New Zealand—Electoral Rolls, 1865–1957",
+    "state" : "ACTIVE",
+    "travelerId" : "20-0048"
+  },
+  "imagesetCount" : 213,
+  "imagesetInIndexingStatesCount" : 213,
+  "batchCount" : 134626,
+  "auditBatchCount" : 6407,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 133345,
+  "imageCountFromImagesetsInIndexingStates" : 133345,
+  "imageCountBatchingComplete" : 133345,
+  "blockedCount" : 5106,
+  "iesAuditBatchCount" : 6407,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 213,
+    "batchCount" : 128219,
+    "images" : 133345,
+    "recordCount" : 4786160
+  },
+  "exportStateCounts" : {
+    "accepted" : 50073,
+    "exported" : 6,
+    "failed" : 0,
+    "inProgress" : 77976,
+    "audit" : 6409,
+    "blocked" : 5106,
+    "duplicate" : 0,
+    "ned" : 184,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 663,
+    "exported" : -104,
+    "failed" : 0,
+    "inProgress" : -560,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 1,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 18:28:05",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "New Zealand—Electoral Rolls, 1865–1957",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 4183,
@@ -5625,11 +5625,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:05:05",
+  "dateTimeFetched" : "2021-04-22 18:19:52",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 529
+    "IMAGE" : 529,
+    "PROJECT" : 1
   },
   "name" : "France, Calvados—Première Guerre mondiale, Enregistrements du recrutement, 1867–1921 [Partie A]",
   "state" : "READY_FOR_DELIVERY"
@@ -5827,70 +5827,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 1800,
-    "projectUUID" : "D3824D3C-0C49-437E-90C0-6A7E62EBC070",
-    "name" : "Poland, Lublin—Roman Catholic Diocese Church Books, 1901–1950 [Part 5]",
-    "state" : "ACTIVE",
-    "travelerId" : "12-1212"
-  },
-  "imagesetCount" : 28,
-  "imagesetInIndexingStatesCount" : 28,
-  "batchCount" : 2954,
-  "auditBatchCount" : 138,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 8590,
-  "imageCountFromImagesetsInIndexingStates" : 8590,
-  "imageCountBatchingComplete" : 8590,
-  "blockedCount" : 183,
-  "iesAuditBatchCount" : 138,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 28,
-    "batchCount" : 2816,
-    "images" : 8590,
-    "recordCount" : 24204
-  },
-  "exportStateCounts" : {
-    "accepted" : 8051,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 12,
-    "audit" : 413,
-    "blocked" : 183,
-    "duplicate" : 1,
-    "ned" : 342,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 1
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 17:05:08",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Poland, Lublin—Roman Catholic Diocese Church Books, 1901–1950 [Part 5]",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 3678,
     "projectUUID" : "87E47F86-9B33-41C6-917F-E49141573B25",
     "name" : "US, Maine—Alien Arrivals, 1906–1953",
@@ -5953,6 +5889,70 @@
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Maine—Alien Arrivals, 1906–1953",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 1800,
+    "projectUUID" : "D3824D3C-0C49-437E-90C0-6A7E62EBC070",
+    "name" : "Poland, Lublin—Roman Catholic Diocese Church Books, 1901–1950 [Part 5]",
+    "state" : "ACTIVE",
+    "travelerId" : "12-1212"
+  },
+  "imagesetCount" : 28,
+  "imagesetInIndexingStatesCount" : 28,
+  "batchCount" : 2954,
+  "auditBatchCount" : 138,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 8590,
+  "imageCountFromImagesetsInIndexingStates" : 8590,
+  "imageCountBatchingComplete" : 8590,
+  "blockedCount" : 183,
+  "iesAuditBatchCount" : 138,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 28,
+    "batchCount" : 2816,
+    "images" : 8590,
+    "recordCount" : 24204
+  },
+  "exportStateCounts" : {
+    "accepted" : 8051,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 12,
+    "audit" : 413,
+    "blocked" : 183,
+    "duplicate" : 1,
+    "ned" : 342,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 17:05:08",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Poland, Lublin—Roman Catholic Diocese Church Books, 1901–1950 [Part 5]",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 1966,
@@ -6083,70 +6083,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4816,
-    "projectUUID" : "E3D4733B-042D-4885-A1B1-907C90C21486",
-    "name" : "UK, England, Hertfordshire—Marriage Records, 1682–1837",
-    "state" : "ACTIVE",
-    "travelerId" : "21-0054"
-  },
-  "imagesetCount" : 9,
-  "imagesetInIndexingStatesCount" : 9,
-  "batchCount" : 2510,
-  "auditBatchCount" : 119,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 10440,
-  "imageCountFromImagesetsInIndexingStates" : 10440,
-  "imageCountBatchingComplete" : 10440,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 119,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 9,
-    "batchCount" : 2391,
-    "images" : 10440,
-    "recordCount" : 2179
-  },
-  "exportStateCounts" : {
-    "accepted" : 2177,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 7319,
-    "audit" : 473,
-    "blocked" : 928,
-    "duplicate" : 15,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 1
-  },
-  "exportStateDiffs" : {
-    "accepted" : 187,
-    "exported" : -24,
-    "failed" : 0,
-    "inProgress" : -167,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 4,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 19:05:20",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "UK, England, Hertfordshire—Marriage Records, 1682–1837",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 3765,
     "projectUUID" : "156D01CD-F84B-4D59-ADB2-E487366D02FF",
     "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part D]",
@@ -6209,6 +6145,70 @@
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Michigan—Naturalization Records, 1837–1993 [Part D]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4816,
+    "projectUUID" : "E3D4733B-042D-4885-A1B1-907C90C21486",
+    "name" : "UK, England, Hertfordshire—Marriage Records, 1682–1837",
+    "state" : "ACTIVE",
+    "travelerId" : "21-0054"
+  },
+  "imagesetCount" : 9,
+  "imagesetInIndexingStatesCount" : 9,
+  "batchCount" : 2510,
+  "auditBatchCount" : 119,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 10440,
+  "imageCountFromImagesetsInIndexingStates" : 10440,
+  "imageCountBatchingComplete" : 10440,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 119,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 9,
+    "batchCount" : 2391,
+    "images" : 10440,
+    "recordCount" : 2179
+  },
+  "exportStateCounts" : {
+    "accepted" : 2177,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 7319,
+    "audit" : 473,
+    "blocked" : 928,
+    "duplicate" : 15,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1
+  },
+  "exportStateDiffs" : {
+    "accepted" : 187,
+    "exported" : -24,
+    "failed" : 0,
+    "inProgress" : -167,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 4,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 19:05:20",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "UK, England, Hertfordshire—Marriage Records, 1682–1837",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 3483,
@@ -6787,45 +6787,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2784,
-    "projectUUID" : "1CAB89D0-3CEF-4772-B626-8B16B7E03588",
-    "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part E]",
+    "projectId" : 4409,
+    "projectUUID" : "199DF148-1658-4A0E-AFC0-21E8B8C5DF4F",
+    "name" : "US, Massachusetts—Boston Tax Records, 1822–1918 [Part A]",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "18-0566"
+    "travelerId" : "20-0900"
   },
-  "imagesetCount" : 95,
-  "imagesetInIndexingStatesCount" : 95,
-  "batchCount" : 165321,
-  "auditBatchCount" : 7871,
+  "imagesetCount" : 411,
+  "imagesetInIndexingStatesCount" : 411,
+  "batchCount" : 26379,
+  "auditBatchCount" : 1250,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 517658,
-  "imageCountFromImagesetsInIndexingStates" : 517658,
-  "imageCountBatchingComplete" : 517658,
+  "imageCount" : 26444,
+  "imageCountFromImagesetsInIndexingStates" : 26444,
+  "imageCountBatchingComplete" : 26444,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 7871,
+  "iesAuditBatchCount" : 1250,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 95,
-    "batchCount" : 157450,
-    "images" : 517658,
-    "recordCount" : 529381
+    "imagesetCount" : 411,
+    "batchCount" : 25129,
+    "images" : 26444,
+    "recordCount" : 498353
   },
   "exportStateCounts" : {
-    "accepted" : 510580,
-    "exported" : 75,
+    "accepted" : 25055,
+    "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 25619,
-    "blocked" : 5325,
-    "duplicate" : 219,
-    "ned" : 1453,
+    "audit" : 1250,
+    "blocked" : 1315,
+    "duplicate" : 0,
+    "ned" : 73,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 6
+    "noPersonas" : 1
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -6844,10 +6844,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 11:53:45",
+  "dateTimeFetched" : "2021-04-10 14:04:10",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part E]",
+  "name" : "US, Massachusetts—Boston Tax Records, 1822–1918 [Part A]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -6915,45 +6915,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4409,
-    "projectUUID" : "199DF148-1658-4A0E-AFC0-21E8B8C5DF4F",
-    "name" : "US, Massachusetts—Boston Tax Records, 1822–1918 [Part A]",
+    "projectId" : 2784,
+    "projectUUID" : "1CAB89D0-3CEF-4772-B626-8B16B7E03588",
+    "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part E]",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "20-0900"
+    "travelerId" : "18-0566"
   },
-  "imagesetCount" : 411,
-  "imagesetInIndexingStatesCount" : 411,
-  "batchCount" : 26379,
-  "auditBatchCount" : 1250,
+  "imagesetCount" : 95,
+  "imagesetInIndexingStatesCount" : 95,
+  "batchCount" : 165321,
+  "auditBatchCount" : 7871,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 26444,
-  "imageCountFromImagesetsInIndexingStates" : 26444,
-  "imageCountBatchingComplete" : 26444,
+  "imageCount" : 517658,
+  "imageCountFromImagesetsInIndexingStates" : 517658,
+  "imageCountBatchingComplete" : 517658,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1250,
+  "iesAuditBatchCount" : 7871,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 411,
-    "batchCount" : 25129,
-    "images" : 26444,
-    "recordCount" : 498353
+    "imagesetCount" : 95,
+    "batchCount" : 157450,
+    "images" : 517658,
+    "recordCount" : 529381
   },
   "exportStateCounts" : {
-    "accepted" : 25055,
-    "exported" : 0,
+    "accepted" : 510580,
+    "exported" : 75,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 1250,
-    "blocked" : 1315,
-    "duplicate" : 0,
-    "ned" : 73,
+    "audit" : 25619,
+    "blocked" : 5325,
+    "duplicate" : 219,
+    "ned" : 1453,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 6
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -6972,10 +6972,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 14:04:10",
+  "dateTimeFetched" : "2021-04-10 11:53:45",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, Massachusetts—Boston Tax Records, 1822–1918 [Part A]",
+  "name" : "US (Quick Batch)—Veterans Administration Master Index, World War I, 1861–1940 [Part E]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -8131,38 +8131,55 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4589,
-    "projectUUID" : "4775D9B9-933A-415F-A3DA-DAB6524663A7",
-    "name" : "US, Indiana, Gibson County—Marriages, 1811–2007",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "19-0198"
+    "projectId" : 4577,
+    "projectUUID" : "23D45F76-6B4B-436E-AA07-5F777BE07E9D",
+    "name" : "US, Colorado—Military Discharge Records, 1919–1972 [Part B]",
+    "state" : "ACTIVE",
+    "travelerId" : "20-1040"
   },
-  "imagesetCount" : 9,
-  "imagesetInIndexingStatesCount" : 9,
-  "batchCount" : 2910,
-  "auditBatchCount" : 138,
+  "imagesetCount" : 4,
+  "imagesetInIndexingStatesCount" : 4,
+  "batchCount" : 361,
+  "auditBatchCount" : 19,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 6648,
-  "imageCountFromImagesetsInIndexingStates" : 6648,
-  "imageCountBatchingComplete" : 6648,
+  "imageCount" : 2638,
+  "imageCountFromImagesetsInIndexingStates" : 2638,
+  "imageCountBatchingComplete" : 2638,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 138,
+  "iesAuditBatchCount" : 19,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 9,
-    "batchCount" : 2772,
-    "images" : 6648,
-    "recordCount" : 9735
+    "imagesetCount" : 4,
+    "batchCount" : 342,
+    "images" : 2638,
+    "recordCount" : 1927
   },
   "exportStateCounts" : {
-    "accepted" : 5518,
+    "accepted" : 1645,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 275,
-    "blocked" : 1108,
-    "duplicate" : 12,
-    "ned" : 10,
+    "inProgress" : 5,
+    "audit" : 93,
+    "blocked" : 933,
+    "duplicate" : 42,
+    "ned" : 11,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 2
+  },
+  "exportStateDiffs" : {
+    "accepted" : 5,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : -5,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -8170,6 +8187,53 @@
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 18:53:24",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Colorado—Military Discharge Records, 1919–1972 [Part B]",
+  "state" : "ACTIVE"
+}, {
+  "project" : {
+    "projectId" : 2974,
+    "projectUUID" : "2566FC70-C54E-41DA-A384-8DECE190F8D7",
+    "name" : "US, Illinois—World War I Draft Registration Cards, 1917–1918 [Part A]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "11-1231"
+  },
+  "imagesetCount" : 287,
+  "imagesetInIndexingStatesCount" : 287,
+  "batchCount" : 169042,
+  "auditBatchCount" : 8049,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 1617815,
+  "imageCountFromImagesetsInIndexingStates" : 1617815,
+  "imageCountBatchingComplete" : 1617815,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 8049,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 287,
+    "batchCount" : 160993,
+    "images" : 1617815,
+    "recordCount" : 1607299
+  },
+  "exportStateCounts" : {
+    "accepted" : 1604303,
+    "exported" : 38,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 80432,
+    "blocked" : 4151,
+    "duplicate" : 1633,
+    "ned" : 2648,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 209,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 4833
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -8188,10 +8252,16 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 12:39:27",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Indiana, Gibson County—Marriages, 1811–2007",
+  "dateTimeFetched" : "2021-04-22 17:25:32",
+  "batchesWithTooManyImages" : {
+    "F10D2553-ADD8-412E-B0CD-650583892D62" : 5306
+  },
+  "enttityTypeProblemCountMap" : {
+    "IMAGE" : 4806,
+    "BATCH" : 1,
+    "PROJECT" : 1
+  },
+  "name" : "US, Illinois—World War I Draft Registration Cards, 1917–1918 [Part A]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -8259,45 +8329,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2974,
-    "projectUUID" : "2566FC70-C54E-41DA-A384-8DECE190F8D7",
-    "name" : "US, Illinois—World War I Draft Registration Cards, 1917–1918 [Part A]",
+    "projectId" : 4589,
+    "projectUUID" : "4775D9B9-933A-415F-A3DA-DAB6524663A7",
+    "name" : "US, Indiana, Gibson County—Marriages, 1811–2007",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "11-1231"
+    "travelerId" : "19-0198"
   },
-  "imagesetCount" : 287,
-  "imagesetInIndexingStatesCount" : 287,
-  "batchCount" : 169042,
-  "auditBatchCount" : 8049,
+  "imagesetCount" : 9,
+  "imagesetInIndexingStatesCount" : 9,
+  "batchCount" : 2910,
+  "auditBatchCount" : 138,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 1617815,
-  "imageCountFromImagesetsInIndexingStates" : 1617815,
-  "imageCountBatchingComplete" : 1617815,
+  "imageCount" : 6648,
+  "imageCountFromImagesetsInIndexingStates" : 6648,
+  "imageCountBatchingComplete" : 6648,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 8049,
+  "iesAuditBatchCount" : 138,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 287,
-    "batchCount" : 160993,
-    "images" : 1617815,
-    "recordCount" : 1607299
+    "imagesetCount" : 9,
+    "batchCount" : 2772,
+    "images" : 6648,
+    "recordCount" : 9735
   },
   "exportStateCounts" : {
-    "accepted" : 1604303,
-    "exported" : 38,
+    "accepted" : 5518,
+    "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 80432,
-    "blocked" : 4151,
-    "duplicate" : 1633,
-    "ned" : 2648,
+    "audit" : 275,
+    "blocked" : 1108,
+    "duplicate" : 12,
+    "ned" : 10,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
-    "rejected" : 209,
+    "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 4833
+    "noPersonas" : 0
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -8316,81 +8386,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:02:52",
-  "batchesWithTooManyImages" : {
-    "F10D2553-ADD8-412E-B0CD-650583892D62" : 5306
-  },
-  "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "BATCH" : 1,
-    "IMAGE" : 4806
-  },
-  "name" : "US, Illinois—World War I Draft Registration Cards, 1917–1918 [Part A]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
-    "projectId" : 4577,
-    "projectUUID" : "23D45F76-6B4B-436E-AA07-5F777BE07E9D",
-    "name" : "US, Colorado—Military Discharge Records, 1919–1972 [Part B]",
-    "state" : "ACTIVE",
-    "travelerId" : "20-1040"
-  },
-  "imagesetCount" : 4,
-  "imagesetInIndexingStatesCount" : 4,
-  "batchCount" : 361,
-  "auditBatchCount" : 19,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 2638,
-  "imageCountFromImagesetsInIndexingStates" : 2638,
-  "imageCountBatchingComplete" : 2638,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 19,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 4,
-    "batchCount" : 342,
-    "images" : 2638,
-    "recordCount" : 1927
-  },
-  "exportStateCounts" : {
-    "accepted" : 1645,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 5,
-    "audit" : 93,
-    "blocked" : 933,
-    "duplicate" : 42,
-    "ned" : 11,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 2
-  },
-  "exportStateDiffs" : {
-    "accepted" : 5,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : -5,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 18:53:24",
+  "dateTimeFetched" : "2021-04-10 12:39:27",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, Colorado—Military Discharge Records, 1919–1972 [Part B]",
-  "state" : "ACTIVE"
+  "name" : "US, Indiana, Gibson County—Marriages, 1811–2007",
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 4117,
@@ -8905,45 +8905,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4167,
-    "projectUUID" : "87D485CC-3490-40EF-86D0-4973C83B16E2",
-    "name" : "US, Missouri—State Archives, Pre-World War II Adjutant General Enlistment Contracts, 1900–1941 [Part E]",
+    "projectId" : 2266,
+    "projectUUID" : "28D1E93A-C162-42AF-86B3-1E6B56D2CE42",
+    "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte O]",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "19-0394"
+    "travelerId" : "14-0267"
   },
-  "imagesetCount" : 209,
-  "imagesetInIndexingStatesCount" : 209,
-  "batchCount" : 56936,
-  "auditBatchCount" : 2705,
-  "batchingBatchesNotReviewComplete" : 0,
+  "imagesetCount" : 505,
+  "imagesetInIndexingStatesCount" : 505,
+  "batchCount" : 4420,
+  "auditBatchCount" : 198,
+  "batchingBatchesNotReviewComplete" : 4,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 401401,
-  "imageCountFromImagesetsInIndexingStates" : 401401,
-  "imageCountBatchingComplete" : 401401,
+  "imageCount" : 22699,
+  "imageCountFromImagesetsInIndexingStates" : 22699,
+  "imageCountBatchingComplete" : 22543,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 2705,
+  "iesAuditBatchCount" : 198,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 209,
-    "batchCount" : 54231,
-    "images" : 401401,
-    "recordCount" : 224723
+    "imagesetCount" : 505,
+    "batchCount" : 4222,
+    "images" : 22699,
+    "recordCount" : 35352
   },
   "exportStateCounts" : {
-    "accepted" : 221629,
-    "exported" : 0,
+    "accepted" : 19672,
+    "exported" : 5,
     "failed" : 0,
-    "inProgress" : 6,
-    "audit" : 12351,
-    "blocked" : 154456,
-    "duplicate" : 707,
-    "ned" : 23875,
+    "inProgress" : 0,
+    "audit" : 932,
+    "blocked" : 2464,
+    "duplicate" : 21,
+    "ned" : 537,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 728
+    "noPersonas" : 0
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -8962,74 +8962,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-20 18:02:51",
+  "dateTimeFetched" : "2021-04-10 09:05:21",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, Missouri—State Archives, Pre-World War II Adjutant General Enlistment Contracts, 1900–1941 [Part E]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
-    "projectId" : 2372,
-    "projectUUID" : "7CAAE2D6-7CBD-40F0-9BE0-841D7B7D4FD7",
-    "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "18-0257"
-  },
-  "imagesetCount" : 19,
-  "imagesetInIndexingStatesCount" : 19,
-  "batchCount" : 1573,
-  "auditBatchCount" : 76,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 16172,
-  "imageCountFromImagesetsInIndexingStates" : 16172,
-  "imageCountBatchingComplete" : 16172,
-  "blockedCount" : 1312,
-  "iesAuditBatchCount" : 76,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 19,
-    "batchCount" : 1497,
-    "images" : 16172,
-    "recordCount" : 99
-  },
-  "exportStateCounts" : {
-    "accepted" : 1,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 751,
-    "blocked" : 1312,
-    "duplicate" : 0,
-    "ned" : 14830,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 29,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : -317,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 14:56:20",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
+  "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte O]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -9097,38 +9033,55 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2266,
-    "projectUUID" : "28D1E93A-C162-42AF-86B3-1E6B56D2CE42",
-    "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte O]",
+    "projectId" : 2372,
+    "projectUUID" : "7CAAE2D6-7CBD-40F0-9BE0-841D7B7D4FD7",
+    "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "14-0267"
+    "travelerId" : "18-0257"
   },
-  "imagesetCount" : 505,
-  "imagesetInIndexingStatesCount" : 505,
-  "batchCount" : 4420,
-  "auditBatchCount" : 198,
-  "batchingBatchesNotReviewComplete" : 4,
+  "imagesetCount" : 19,
+  "imagesetInIndexingStatesCount" : 19,
+  "batchCount" : 1573,
+  "auditBatchCount" : 76,
+  "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 22699,
-  "imageCountFromImagesetsInIndexingStates" : 22699,
-  "imageCountBatchingComplete" : 22543,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 198,
+  "imageCount" : 16172,
+  "imageCountFromImagesetsInIndexingStates" : 16172,
+  "imageCountBatchingComplete" : 16172,
+  "blockedCount" : 1312,
+  "iesAuditBatchCount" : 76,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 505,
-    "batchCount" : 4222,
-    "images" : 22699,
-    "recordCount" : 35352
+    "imagesetCount" : 19,
+    "batchCount" : 1497,
+    "images" : 16172,
+    "recordCount" : 99
   },
   "exportStateCounts" : {
-    "accepted" : 19672,
-    "exported" : 5,
+    "accepted" : 1,
+    "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 932,
-    "blocked" : 2464,
-    "duplicate" : 21,
-    "ned" : 537,
+    "audit" : 751,
+    "blocked" : 1312,
+    "duplicate" : 0,
+    "ned" : 14830,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 29,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : -317,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -9136,6 +9089,53 @@
     "published" : 0,
     "nonExportableImages" : 0,
     "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 14:56:20",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Iowa, Monroe County—Vital Records Card Index, Deaths, 1900–2015",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4167,
+    "projectUUID" : "87D485CC-3490-40EF-86D0-4973C83B16E2",
+    "name" : "US, Missouri—State Archives, Pre-World War II Adjutant General Enlistment Contracts, 1900–1941 [Part E]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "19-0394"
+  },
+  "imagesetCount" : 209,
+  "imagesetInIndexingStatesCount" : 209,
+  "batchCount" : 56936,
+  "auditBatchCount" : 2705,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 401401,
+  "imageCountFromImagesetsInIndexingStates" : 401401,
+  "imageCountBatchingComplete" : 401401,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2705,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 209,
+    "batchCount" : 54231,
+    "images" : 401401,
+    "recordCount" : 224723
+  },
+  "exportStateCounts" : {
+    "accepted" : 221629,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 6,
+    "audit" : 12351,
+    "blocked" : 154456,
+    "duplicate" : 707,
+    "ned" : 23875,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 728
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -9154,10 +9154,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 09:05:21",
+  "dateTimeFetched" : "2021-04-20 18:02:51",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "Italia (Antenati Italiani), Mantova—Morti, 1866–1903 [Parte O]",
+  "name" : "US, Missouri—State Archives, Pre-World War II Adjutant General Enlistment Contracts, 1900–1941 [Part E]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -9481,70 +9481,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3989,
-    "projectUUID" : "BC6D3163-BB67-4060-AC25-837BEEF47C58",
-    "name" : "Colombia—Catholic Church Records, 1693–2010 [Part D]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "18-1174"
-  },
-  "imagesetCount" : 4,
-  "imagesetInIndexingStatesCount" : 4,
-  "batchCount" : 2430,
-  "auditBatchCount" : 116,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 11050,
-  "imageCountFromImagesetsInIndexingStates" : 11050,
-  "imageCountBatchingComplete" : 11050,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 116,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 4,
-    "batchCount" : 2314,
-    "images" : 11050,
-    "recordCount" : 40611
-  },
-  "exportStateCounts" : {
-    "accepted" : 5503,
-    "exported" : 1,
-    "failed" : 0,
-    "inProgress" : 13,
-    "audit" : 308,
-    "blocked" : 4907,
-    "duplicate" : 37,
-    "ned" : 584,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 5
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 12:15:21",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Colombia—Catholic Church Records, 1693–2010 [Part D]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3512,
     "projectUUID" : "5F6F095B-D335-41F1-8A63-1AA6B49B1195",
     "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part C]",
@@ -9606,6 +9542,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, South Carolina, Charleston—Birth Registers, 1901–1926 [Part C]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3989,
+    "projectUUID" : "BC6D3163-BB67-4060-AC25-837BEEF47C58",
+    "name" : "Colombia—Catholic Church Records, 1693–2010 [Part D]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "18-1174"
+  },
+  "imagesetCount" : 4,
+  "imagesetInIndexingStatesCount" : 4,
+  "batchCount" : 2430,
+  "auditBatchCount" : 116,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 11050,
+  "imageCountFromImagesetsInIndexingStates" : 11050,
+  "imageCountBatchingComplete" : 11050,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 116,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 4,
+    "batchCount" : 2314,
+    "images" : 11050,
+    "recordCount" : 40611
+  },
+  "exportStateCounts" : {
+    "accepted" : 5503,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : 13,
+    "audit" : 308,
+    "blocked" : 4907,
+    "duplicate" : 37,
+    "ned" : 584,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 5
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 12:15:21",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Colombia—Catholic Church Records, 1693–2010 [Part D]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -11209,70 +11209,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4673,
-    "projectUUID" : "0E532BC5-13BD-4CCF-882E-03E66EDC8173",
-    "name" : "US, Michigan, Barry County—Marriage Records, 1839–1856",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "16-0514"
-  },
-  "imagesetCount" : 1,
-  "imagesetInIndexingStatesCount" : 1,
-  "batchCount" : 111,
-  "auditBatchCount" : 5,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 1670,
-  "imageCountFromImagesetsInIndexingStates" : 1670,
-  "imageCountBatchingComplete" : 1670,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 5,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 106,
-    "images" : 1670,
-    "recordCount" : 506
-  },
-  "exportStateCounts" : {
-    "accepted" : 502,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 25,
-    "blocked" : 1147,
-    "duplicate" : 17,
-    "ned" : 3,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 1
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 09:49:05",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Michigan, Barry County—Marriage Records, 1839–1856",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 4103,
     "projectUUID" : "E50929B3-6335-431C-A952-F2D6BC9B6858",
     "name" : "Brazil, Bahia—Civil Registration, 1877–1976 [Part A]",
@@ -11334,6 +11270,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "Brazil, Bahia—Civil Registration, 1877–1976 [Part A]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4673,
+    "projectUUID" : "0E532BC5-13BD-4CCF-882E-03E66EDC8173",
+    "name" : "US, Michigan, Barry County—Marriage Records, 1839–1856",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "16-0514"
+  },
+  "imagesetCount" : 1,
+  "imagesetInIndexingStatesCount" : 1,
+  "batchCount" : 111,
+  "auditBatchCount" : 5,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 1670,
+  "imageCountFromImagesetsInIndexingStates" : 1670,
+  "imageCountBatchingComplete" : 1670,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 5,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 106,
+    "images" : 1670,
+    "recordCount" : 506
+  },
+  "exportStateCounts" : {
+    "accepted" : 502,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 25,
+    "blocked" : 1147,
+    "duplicate" : 17,
+    "ned" : 3,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 09:49:05",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Michigan, Barry County—Marriage Records, 1839–1856",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -11977,49 +11977,49 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 4638,
-    "projectUUID" : "1DFF4E8F-7C71-4740-A424-6E7CA1BBA376",
-    "name" : "Chile—Cemetery Records, 1880–2015 [Part K]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "18-1017"
+    "projectId" : 4894,
+    "projectUUID" : "3A49A41C-08CF-4B96-B411-97519FE8F0D0",
+    "name" : "US, North and South Dakota, Standing Rock Sioux Reservation—Birth and Death Records, 1880–1942",
+    "state" : "READY_FOR_WORK",
+    "travelerId" : "20-1508"
   },
-  "imagesetCount" : 199,
-  "imagesetInIndexingStatesCount" : 199,
-  "batchCount" : 21160,
-  "auditBatchCount" : 992,
+  "imagesetCount" : 1,
+  "imagesetInIndexingStatesCount" : 1,
+  "batchCount" : 1054,
+  "auditBatchCount" : 50,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 163208,
-  "imageCountFromImagesetsInIndexingStates" : 163208,
-  "imageCountBatchingComplete" : 163208,
+  "imageCount" : 1476,
+  "imageCountFromImagesetsInIndexingStates" : 1476,
+  "imageCountBatchingComplete" : 1476,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 992,
+  "iesAuditBatchCount" : 50,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 199,
-    "batchCount" : 20168,
-    "images" : 163208,
-    "recordCount" : 69005
+    "imagesetCount" : 1,
+    "batchCount" : 1004,
+    "images" : 1476,
+    "recordCount" : 0
   },
   "exportStateCounts" : {
-    "accepted" : 55040,
+    "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 2942,
-    "blocked" : 104033,
-    "duplicate" : 4091,
-    "ned" : 935,
+    "inProgress" : 1057,
+    "audit" : 52,
+    "blocked" : 419,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 96
+    "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 7,
-    "exported" : -7,
+    "accepted" : 0,
+    "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
@@ -12034,10 +12034,74 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-20 17:49:56",
+  "dateTimeFetched" : "2021-04-20 19:00:07",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "Chile—Cemetery Records, 1880–2015 [Part K]",
+  "name" : "US, North and South Dakota, Standing Rock Sioux Reservation—Birth and Death Records, 1880–1942",
+  "state" : "READY_FOR_WORK"
+}, {
+  "project" : {
+    "projectId" : 2842,
+    "projectUUID" : "F2CF3F78-7388-4EB3-8DAB-4D4FE1DD22DB",
+    "name" : "US, Louisiana—World War II, First Draft Registration Cards, 1940–1945 [Part B]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "14-0765"
+  },
+  "imagesetCount" : 2,
+  "imagesetInIndexingStatesCount" : 2,
+  "batchCount" : 471,
+  "auditBatchCount" : 22,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 3006,
+  "imageCountFromImagesetsInIndexingStates" : 3006,
+  "imageCountBatchingComplete" : 3006,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 22,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 2,
+    "batchCount" : 449,
+    "images" : 3006,
+    "recordCount" : 1491
+  },
+  "exportStateCounts" : {
+    "accepted" : 1491,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 76,
+    "blocked" : 1513,
+    "duplicate" : 2,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 09:09:11",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Louisiana—World War II, First Draft Registration Cards, 1940–1945 [Part B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -12105,49 +12169,49 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 2842,
-    "projectUUID" : "F2CF3F78-7388-4EB3-8DAB-4D4FE1DD22DB",
-    "name" : "US, Louisiana—World War II, First Draft Registration Cards, 1940–1945 [Part B]",
+    "projectId" : 4638,
+    "projectUUID" : "1DFF4E8F-7C71-4740-A424-6E7CA1BBA376",
+    "name" : "Chile—Cemetery Records, 1880–2015 [Part K]",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "14-0765"
+    "travelerId" : "18-1017"
   },
-  "imagesetCount" : 2,
-  "imagesetInIndexingStatesCount" : 2,
-  "batchCount" : 471,
-  "auditBatchCount" : 22,
+  "imagesetCount" : 199,
+  "imagesetInIndexingStatesCount" : 199,
+  "batchCount" : 21160,
+  "auditBatchCount" : 992,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 3006,
-  "imageCountFromImagesetsInIndexingStates" : 3006,
-  "imageCountBatchingComplete" : 3006,
+  "imageCount" : 163208,
+  "imageCountFromImagesetsInIndexingStates" : 163208,
+  "imageCountBatchingComplete" : 163208,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 22,
+  "iesAuditBatchCount" : 992,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 2,
-    "batchCount" : 449,
-    "images" : 3006,
-    "recordCount" : 1491
+    "imagesetCount" : 199,
+    "batchCount" : 20168,
+    "images" : 163208,
+    "recordCount" : 69005
   },
   "exportStateCounts" : {
-    "accepted" : 1491,
+    "accepted" : 55040,
     "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 76,
-    "blocked" : 1513,
-    "duplicate" : 2,
-    "ned" : 0,
+    "audit" : 2942,
+    "blocked" : 104033,
+    "duplicate" : 4091,
+    "ned" : 935,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 96
   },
   "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
+    "accepted" : 7,
+    "exported" : -7,
     "failed" : 0,
     "inProgress" : 0,
     "audit" : 0,
@@ -12162,75 +12226,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 09:09:11",
+  "dateTimeFetched" : "2021-04-20 17:49:56",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, Louisiana—World War II, First Draft Registration Cards, 1940–1945 [Part B]",
+  "name" : "Chile—Cemetery Records, 1880–2015 [Part K]",
   "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
-    "projectId" : 4894,
-    "projectUUID" : "3A49A41C-08CF-4B96-B411-97519FE8F0D0",
-    "name" : "US, North and South Dakota, Standing Rock Sioux Reservation—Birth and Death Records, 1880–1942",
-    "state" : "READY_FOR_WORK",
-    "travelerId" : "20-1508"
-  },
-  "imagesetCount" : 1,
-  "imagesetInIndexingStatesCount" : 1,
-  "batchCount" : 1054,
-  "auditBatchCount" : 50,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 1476,
-  "imageCountFromImagesetsInIndexingStates" : 1476,
-  "imageCountBatchingComplete" : 1476,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 50,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 1004,
-    "images" : 1476,
-    "recordCount" : 0
-  },
-  "exportStateCounts" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 1057,
-    "audit" : 52,
-    "blocked" : 419,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 19:00:07",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, North and South Dakota, Standing Rock Sioux Reservation—Birth and Death Records, 1880–1942",
-  "state" : "READY_FOR_WORK"
 }, {
   "project" : {
     "projectId" : 4826,
@@ -12873,70 +12873,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4453,
-    "projectUUID" : "DDB6F25A-4532-4DE4-BD47-893D57FDC935",
-    "name" : "US, Maine, County Naturalization Records, 1834–1990",
-    "state" : "ACTIVE",
-    "travelerId" : "20-0901"
-  },
-  "imagesetCount" : 122,
-  "imagesetInIndexingStatesCount" : 122,
-  "batchCount" : 56087,
-  "auditBatchCount" : 2665,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 222065,
-  "imageCountFromImagesetsInIndexingStates" : 222065,
-  "imageCountBatchingComplete" : 222065,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 2665,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 122,
-    "batchCount" : 53422,
-    "images" : 222065,
-    "recordCount" : 177217
-  },
-  "exportStateCounts" : {
-    "accepted" : 150110,
-    "exported" : 3,
-    "failed" : 0,
-    "inProgress" : 4694,
-    "audit" : 7983,
-    "blocked" : 62011,
-    "duplicate" : 2604,
-    "ned" : 2616,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 27
-  },
-  "exportStateDiffs" : {
-    "accepted" : 539,
-    "exported" : -99,
-    "failed" : 0,
-    "inProgress" : -576,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 6,
-    "ned" : 129,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 1
-  },
-  "dateTimeFetched" : "2021-04-20 18:51:05",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Maine, County Naturalization Records, 1834–1990",
-  "state" : "ACTIVE"
-}, {
-  "project" : {
     "projectId" : 2806,
     "projectUUID" : "38DA90F3-0772-4728-B16B-90E410B414D1",
     "name" : "US, Georgia—Marriage Records, 1750–1990 [Part F]",
@@ -12999,6 +12935,70 @@
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Georgia—Marriage Records, 1750–1990 [Part F]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4453,
+    "projectUUID" : "DDB6F25A-4532-4DE4-BD47-893D57FDC935",
+    "name" : "US, Maine, County Naturalization Records, 1834–1990",
+    "state" : "ACTIVE",
+    "travelerId" : "20-0901"
+  },
+  "imagesetCount" : 122,
+  "imagesetInIndexingStatesCount" : 122,
+  "batchCount" : 56087,
+  "auditBatchCount" : 2665,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 222065,
+  "imageCountFromImagesetsInIndexingStates" : 222065,
+  "imageCountBatchingComplete" : 222065,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2665,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 122,
+    "batchCount" : 53422,
+    "images" : 222065,
+    "recordCount" : 177217
+  },
+  "exportStateCounts" : {
+    "accepted" : 150110,
+    "exported" : 3,
+    "failed" : 0,
+    "inProgress" : 4694,
+    "audit" : 7983,
+    "blocked" : 62011,
+    "duplicate" : 2604,
+    "ned" : 2616,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 27
+  },
+  "exportStateDiffs" : {
+    "accepted" : 539,
+    "exported" : -99,
+    "failed" : 0,
+    "inProgress" : -576,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 6,
+    "ned" : 129,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1
+  },
+  "dateTimeFetched" : "2021-04-20 18:51:05",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Maine, County Naturalization Records, 1834–1990",
+  "state" : "ACTIVE"
 }, {
   "project" : {
     "projectId" : 4573,
@@ -13385,70 +13385,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2353,
-    "projectUUID" : "4840BC5D-207E-4579-B2E3-6C0CFC59BC41",
-    "name" : "US, California, Sacramento—Cemetery Records, 1900–1959",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "18-0212"
-  },
-  "imagesetCount" : 45,
-  "imagesetInIndexingStatesCount" : 45,
-  "batchCount" : 1449,
-  "auditBatchCount" : 73,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 16874,
-  "imageCountFromImagesetsInIndexingStates" : 16874,
-  "imageCountBatchingComplete" : 16874,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 73,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 45,
-    "batchCount" : 1376,
-    "images" : 16874,
-    "recordCount" : 31856
-  },
-  "exportStateCounts" : {
-    "accepted" : 8434,
-    "exported" : 9,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 461,
-    "blocked" : 8139,
-    "duplicate" : 31,
-    "ned" : 261,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 11:37:47",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, California, Sacramento—Cemetery Records, 1900–1959",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3667,
     "projectUUID" : "9D4200D7-784A-4D98-9A6B-C51EECFCA4AA",
     "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part H]",
@@ -13510,6 +13446,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "Argentina, Corrientes—Civil Registration, 1880–1960 [Part H]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2353,
+    "projectUUID" : "4840BC5D-207E-4579-B2E3-6C0CFC59BC41",
+    "name" : "US, California, Sacramento—Cemetery Records, 1900–1959",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "18-0212"
+  },
+  "imagesetCount" : 45,
+  "imagesetInIndexingStatesCount" : 45,
+  "batchCount" : 1449,
+  "auditBatchCount" : 73,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 16874,
+  "imageCountFromImagesetsInIndexingStates" : 16874,
+  "imageCountBatchingComplete" : 16874,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 73,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 45,
+    "batchCount" : 1376,
+    "images" : 16874,
+    "recordCount" : 31856
+  },
+  "exportStateCounts" : {
+    "accepted" : 8434,
+    "exported" : 9,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 461,
+    "blocked" : 8139,
+    "duplicate" : 31,
+    "ned" : 261,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 11:37:47",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, California, Sacramento—Cemetery Records, 1900–1959",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -14025,70 +14025,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 2679,
-    "projectUUID" : "C2F65F0E-7197-445F-BF33-78F3719B4374",
-    "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte T]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "17-0410"
-  },
-  "imagesetCount" : 300,
-  "imagesetInIndexingStatesCount" : 300,
-  "batchCount" : 71167,
-  "auditBatchCount" : 3388,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 69825,
-  "imageCountFromImagesetsInIndexingStates" : 69825,
-  "imageCountBatchingComplete" : 69825,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 3388,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 300,
-    "batchCount" : 67779,
-    "images" : 69825,
-    "recordCount" : 71050
-  },
-  "exportStateCounts" : {
-    "accepted" : 67737,
-    "exported" : 24,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 3399,
-    "blocked" : 1845,
-    "duplicate" : 0,
-    "ned" : 189,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 30
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 10:22:37",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte T]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 1192,
     "projectUUID" : "FC0C00B1-4B3A-42D4-8D32-6070C3A64277",
     "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2Z]",
@@ -14150,6 +14086,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "Brasil, São Paulo—Cartões de Imigração, 1938–1980 [Parte 2Z]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 2679,
+    "projectUUID" : "C2F65F0E-7197-445F-BF33-78F3719B4374",
+    "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte T]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "17-0410"
+  },
+  "imagesetCount" : 300,
+  "imagesetInIndexingStatesCount" : 300,
+  "batchCount" : 71167,
+  "auditBatchCount" : 3388,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 69825,
+  "imageCountFromImagesetsInIndexingStates" : 69825,
+  "imageCountBatchingComplete" : 69825,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 3388,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 300,
+    "batchCount" : 67779,
+    "images" : 69825,
+    "recordCount" : 71050
+  },
+  "exportStateCounts" : {
+    "accepted" : 67737,
+    "exported" : 24,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 3399,
+    "blocked" : 1845,
+    "duplicate" : 0,
+    "ned" : 189,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 30
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 10:22:37",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Brasil (Lote Rápido), São Paulo—Registro Civil, 1907–1995 [Parte T]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -15563,38 +15563,38 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3613,
-    "projectUUID" : "ADBB44D2-F651-4132-B149-FAFBD8047A23",
-    "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part C]",
+    "projectId" : 4449,
+    "projectUUID" : "BAF99791-322D-4F14-8D9F-C43EB5CC1C4D",
+    "name" : "Argentina, Salta—Civil Registration, 1880–2000 [Part B]",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "18-0616"
+    "travelerId" : "19-1731"
   },
-  "imagesetCount" : 1,
-  "imagesetInIndexingStatesCount" : 1,
-  "batchCount" : 655,
-  "auditBatchCount" : 31,
+  "imagesetCount" : 154,
+  "imagesetInIndexingStatesCount" : 154,
+  "batchCount" : 9565,
+  "auditBatchCount" : 451,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 2505,
-  "imageCountFromImagesetsInIndexingStates" : 2505,
-  "imageCountBatchingComplete" : 2505,
+  "imageCount" : 36177,
+  "imageCountFromImagesetsInIndexingStates" : 36177,
+  "imageCountBatchingComplete" : 36177,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 31,
+  "iesAuditBatchCount" : 451,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 624,
-    "images" : 2505,
-    "recordCount" : 2451
+    "imagesetCount" : 154,
+    "batchCount" : 9114,
+    "images" : 36177,
+    "recordCount" : 33253
   },
   "exportStateCounts" : {
-    "accepted" : 2451,
-    "exported" : 0,
+    "accepted" : 26196,
+    "exported" : 3,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 123,
-    "blocked" : 54,
-    "duplicate" : 0,
-    "ned" : 0,
+    "audit" : 1320,
+    "blocked" : 9398,
+    "duplicate" : 21,
+    "ned" : 559,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -15620,10 +15620,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 11:59:30",
+  "dateTimeFetched" : "2021-04-10 13:33:15",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part C]",
+  "name" : "Argentina, Salta—Civil Registration, 1880–2000 [Part B]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -15691,38 +15691,38 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 4449,
-    "projectUUID" : "BAF99791-322D-4F14-8D9F-C43EB5CC1C4D",
-    "name" : "Argentina, Salta—Civil Registration, 1880–2000 [Part B]",
+    "projectId" : 3613,
+    "projectUUID" : "ADBB44D2-F651-4132-B149-FAFBD8047A23",
+    "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part C]",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "19-1731"
+    "travelerId" : "18-0616"
   },
-  "imagesetCount" : 154,
-  "imagesetInIndexingStatesCount" : 154,
-  "batchCount" : 9565,
-  "auditBatchCount" : 451,
+  "imagesetCount" : 1,
+  "imagesetInIndexingStatesCount" : 1,
+  "batchCount" : 655,
+  "auditBatchCount" : 31,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 36177,
-  "imageCountFromImagesetsInIndexingStates" : 36177,
-  "imageCountBatchingComplete" : 36177,
+  "imageCount" : 2505,
+  "imageCountFromImagesetsInIndexingStates" : 2505,
+  "imageCountBatchingComplete" : 2505,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 451,
+  "iesAuditBatchCount" : 31,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 154,
-    "batchCount" : 9114,
-    "images" : 36177,
-    "recordCount" : 33253
+    "imagesetCount" : 1,
+    "batchCount" : 624,
+    "images" : 2505,
+    "recordCount" : 2451
   },
   "exportStateCounts" : {
-    "accepted" : 26196,
-    "exported" : 3,
+    "accepted" : 2451,
+    "exported" : 0,
     "failed" : 0,
     "inProgress" : 0,
-    "audit" : 1320,
-    "blocked" : 9398,
-    "duplicate" : 21,
-    "ned" : 559,
+    "audit" : 123,
+    "blocked" : 54,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
@@ -15748,10 +15748,10 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 13:33:15",
+  "dateTimeFetched" : "2021-04-10 11:59:30",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "Argentina, Salta—Civil Registration, 1880–2000 [Part B]",
+  "name" : "US, Wisconsin—Birth Records, 1948–1963 [Part C]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -16971,6 +16971,73 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
+    "projectId" : 1655,
+    "projectUUID" : "DBBD1E00-D5EA-432B-A517-4288A7330EC4",
+    "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "16-0904"
+  },
+  "imagesetCount" : 332,
+  "imagesetInIndexingStatesCount" : 332,
+  "batchCount" : 37378,
+  "auditBatchCount" : 1765,
+  "batchingBatchesNotReviewComplete" : 1,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 195262,
+  "imageCountFromImagesetsInIndexingStates" : 195262,
+  "imageCountBatchingComplete" : 194589,
+  "blockedCount" : 20678,
+  "iesAuditBatchCount" : 1765,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 332,
+    "batchCount" : 35613,
+    "images" : 195039,
+    "recordCount" : 470886
+  },
+  "exportStateCounts" : {
+    "accepted" : 171092,
+    "exported" : 34,
+    "failed" : 0,
+    "inProgress" : 4,
+    "audit" : 8629,
+    "blocked" : 20678,
+    "duplicate" : 1614,
+    "ned" : 1569,
+    "unreadable" : 0,
+    "notExported" : 3,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 45
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-22 17:54:04",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : {
+    "IMAGE" : 223,
+    "PROJECT" : 1
+  },
+  "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
     "projectId" : 2301,
     "projectUUID" : "814B5F77-37C6-4AD0-A8B1-57446DB7BD7B",
     "name" : "Czech Republic, Třeboň—Church Records, 1884–1935 [Part C]",
@@ -17033,73 +17100,6 @@
   "enttityTypeProblemCountMap" : null,
   "name" : "Czech Republic, Třeboň—Church Records, 1884–1935 [Part C]",
   "state" : "ACTIVE"
-}, {
-  "project" : {
-    "projectId" : 1655,
-    "projectUUID" : "DBBD1E00-D5EA-432B-A517-4288A7330EC4",
-    "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "16-0904"
-  },
-  "imagesetCount" : 332,
-  "imagesetInIndexingStatesCount" : 332,
-  "batchCount" : 37378,
-  "auditBatchCount" : 1765,
-  "batchingBatchesNotReviewComplete" : 1,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 195262,
-  "imageCountFromImagesetsInIndexingStates" : 195262,
-  "imageCountBatchingComplete" : 194589,
-  "blockedCount" : 20678,
-  "iesAuditBatchCount" : 1765,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 332,
-    "batchCount" : 35613,
-    "images" : 195039,
-    "recordCount" : 470886
-  },
-  "exportStateCounts" : {
-    "accepted" : 171092,
-    "exported" : 34,
-    "failed" : 0,
-    "inProgress" : 4,
-    "audit" : 8629,
-    "blocked" : 20678,
-    "duplicate" : 1614,
-    "ned" : 1569,
-    "unreadable" : 0,
-    "notExported" : 3,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 45
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-22 12:37:57",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 223
-  },
-  "name" : "Argentina—Provincia de Buenos Aires, Registros Parroquiales, 1835–1939 [Parte C]",
-  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 2653,
@@ -17415,14 +17415,14 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:10:26",
+  "dateTimeFetched" : "2021-04-22 18:24:52",
   "batchesWithTooManyImages" : {
     "0C0DD25D-9993-4EA0-A899-575AB3B0D4D6" : 854
   },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
+    "IMAGE" : 360,
     "BATCH" : 1,
-    "IMAGE" : 360
+    "PROJECT" : 1
   },
   "name" : "US (Quick Batch), Minnesota—County Death Records, 1850–1999 [Part A]",
   "state" : "READY_FOR_DELIVERY"
@@ -18317,11 +18317,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:12:59",
+  "dateTimeFetched" : "2021-04-22 17:32:31",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 96
+    "IMAGE" : 96,
+    "PROJECT" : 1
   },
   "name" : "South Africa, Transvaal—Death Notices from Probate Files, 1869–1958 [Part C]",
   "state" : "READY_FOR_DELIVERY"
@@ -18647,70 +18647,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4285,
-    "projectUUID" : "DC521540-E704-4E9A-AA0F-CF610D9EDB46",
-    "name" : "US, Nebraska, Lancaster County—Fairview Cemetery, Burial Records, 1864–1999",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "20-0679"
-  },
-  "imagesetCount" : 4,
-  "imagesetInIndexingStatesCount" : 4,
-  "batchCount" : 2354,
-  "auditBatchCount" : 112,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 7883,
-  "imageCountFromImagesetsInIndexingStates" : 7883,
-  "imageCountBatchingComplete" : 7883,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 112,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 4,
-    "batchCount" : 2242,
-    "images" : 7883,
-    "recordCount" : 6273
-  },
-  "exportStateCounts" : {
-    "accepted" : 6238,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 336,
-    "blocked" : 1297,
-    "duplicate" : 428,
-    "ned" : 57,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 1
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-10 13:54:05",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "US, Nebraska, Lancaster County—Fairview Cemetery, Burial Records, 1864–1999",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 3126,
     "projectUUID" : "785434D6-5DDC-42FB-8DDE-B3747F85EBC7",
     "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AL]",
@@ -18772,6 +18708,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "Brasil, São Paulo—Registro Civil, 1907–1995 [Parte AL]",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4285,
+    "projectUUID" : "DC521540-E704-4E9A-AA0F-CF610D9EDB46",
+    "name" : "US, Nebraska, Lancaster County—Fairview Cemetery, Burial Records, 1864–1999",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "20-0679"
+  },
+  "imagesetCount" : 4,
+  "imagesetInIndexingStatesCount" : 4,
+  "batchCount" : 2354,
+  "auditBatchCount" : 112,
+  "batchingBatchesNotReviewComplete" : 0,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 7883,
+  "imageCountFromImagesetsInIndexingStates" : 7883,
+  "imageCountBatchingComplete" : 7883,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 112,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 4,
+    "batchCount" : 2242,
+    "images" : 7883,
+    "recordCount" : 6273
+  },
+  "exportStateCounts" : {
+    "accepted" : 6238,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 336,
+    "blocked" : 1297,
+    "duplicate" : 428,
+    "ned" : 57,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-10 13:54:05",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Nebraska, Lancaster County—Fairview Cemetery, Burial Records, 1864–1999",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -19792,11 +19792,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:49:39",
+  "dateTimeFetched" : "2021-04-22 18:05:21",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 20
+    "IMAGE" : 20,
+    "PROJECT" : 1
   },
   "name" : "Perú, Junin—Registros Civiles, Nacimientos, 1890—1999 [Parte L]",
   "state" : "READY_FOR_DELIVERY"
@@ -20122,70 +20122,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4712,
-    "projectUUID" : "176E913B-E513-4DFD-A9B6-47A3FFE80E1D",
-    "name" : "Italy (Italian Ancestors), Teramo—Civil Registration, 1809–1936 [Part B]",
-    "state" : "READY_FOR_WORK",
-    "travelerId" : "19-0414"
-  },
-  "imagesetCount" : 200,
-  "imagesetInIndexingStatesCount" : 1,
-  "batchCount" : 45,
-  "auditBatchCount" : 2,
-  "batchingBatchesNotReviewComplete" : 199,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 190630,
-  "imageCountFromImagesetsInIndexingStates" : 701,
-  "imageCountBatchingComplete" : 701,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 2,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 1,
-    "batchCount" : 43,
-    "images" : 701,
-    "recordCount" : 0
-  },
-  "exportStateCounts" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 171,
-    "audit" : 8,
-    "blocked" : 530,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-20 18:03:27",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Italy (Italian Ancestors), Teramo—Civil Registration, 1809–1936 [Part B]",
-  "state" : "READY_FOR_WORK"
-}, {
-  "project" : {
     "projectId" : 1430,
     "projectUUID" : "1438240A-6720-4EED-8E34-33C331A2A6A1",
     "name" : "Peru, Puno—Registros Civiles, Nacimientos, 1926–2016 [Part L]",
@@ -20248,6 +20184,70 @@
   "enttityTypeProblemCountMap" : null,
   "name" : "Peru, Puno—Registros Civiles, Nacimientos, 1926–2016 [Part L]",
   "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 4712,
+    "projectUUID" : "176E913B-E513-4DFD-A9B6-47A3FFE80E1D",
+    "name" : "Italy (Italian Ancestors), Teramo—Civil Registration, 1809–1936 [Part B]",
+    "state" : "READY_FOR_WORK",
+    "travelerId" : "19-0414"
+  },
+  "imagesetCount" : 200,
+  "imagesetInIndexingStatesCount" : 1,
+  "batchCount" : 45,
+  "auditBatchCount" : 2,
+  "batchingBatchesNotReviewComplete" : 199,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 190630,
+  "imageCountFromImagesetsInIndexingStates" : 701,
+  "imageCountBatchingComplete" : 701,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 2,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 1,
+    "batchCount" : 43,
+    "images" : 701,
+    "recordCount" : 0
+  },
+  "exportStateCounts" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 171,
+    "audit" : 8,
+    "blocked" : 530,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "exportStateDiffs" : {
+    "accepted" : 0,
+    "exported" : 0,
+    "failed" : 0,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 0,
+    "unreadable" : 0,
+    "notExported" : 0,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 0
+  },
+  "dateTimeFetched" : "2021-04-20 18:03:27",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "Italy (Italian Ancestors), Teramo—Civil Registration, 1809–1936 [Part B]",
+  "state" : "READY_FOR_WORK"
 }, {
   "project" : {
     "projectId" : 3702,
@@ -20698,45 +20698,45 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 4684,
-    "projectUUID" : "3554296B-E275-4F14-9304-3D5558AE2EB0",
-    "name" : "US, New York, Capital—Index to Land Records, Grantees, 1630–1975 [Part A]",
-    "state" : "READY_FOR_WORK",
-    "travelerId" : "18-0457"
+    "projectId" : 3026,
+    "projectUUID" : "15A0013D-305B-496A-B8DE-5A53A0C346E1",
+    "name" : "US, Washington—Marriage Records, 1750–1990 [Part T]",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "17-0030"
   },
-  "imagesetCount" : 34,
-  "imagesetInIndexingStatesCount" : 34,
-  "batchCount" : 14696,
-  "auditBatchCount" : 698,
+  "imagesetCount" : 4,
+  "imagesetInIndexingStatesCount" : 4,
+  "batchCount" : 490,
+  "auditBatchCount" : 23,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 16397,
-  "imageCountFromImagesetsInIndexingStates" : 16397,
-  "imageCountBatchingComplete" : 16397,
+  "imageCount" : 4727,
+  "imageCountFromImagesetsInIndexingStates" : 4727,
+  "imageCountBatchingComplete" : 4727,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 698,
+  "iesAuditBatchCount" : 23,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 34,
-    "batchCount" : 13998,
-    "images" : 16397,
-    "recordCount" : 0
+    "imagesetCount" : 4,
+    "batchCount" : 467,
+    "images" : 4727,
+    "recordCount" : 2661
   },
   "exportStateCounts" : {
-    "accepted" : 0,
-    "exported" : 0,
+    "accepted" : 2320,
+    "exported" : 331,
     "failed" : 0,
-    "inProgress" : 13999,
-    "audit" : 698,
-    "blocked" : 2398,
-    "duplicate" : 0,
-    "ned" : 0,
+    "inProgress" : 0,
+    "audit" : 230,
+    "blocked" : 77,
+    "duplicate" : 19,
+    "ned" : 1973,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 0
+    "noPersonas" : 7
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -20755,11 +20755,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-20 17:43:56",
+  "dateTimeFetched" : "2021-04-10 10:16:34",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, New York, Capital—Index to Land Records, Grantees, 1630–1975 [Part A]",
-  "state" : "READY_FOR_WORK"
+  "name" : "US, Washington—Marriage Records, 1750–1990 [Part T]",
+  "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
     "projectId" : 4501,
@@ -20826,45 +20826,45 @@
   "state" : "ACTIVE"
 }, {
   "project" : {
-    "projectId" : 3026,
-    "projectUUID" : "15A0013D-305B-496A-B8DE-5A53A0C346E1",
-    "name" : "US, Washington—Marriage Records, 1750–1990 [Part T]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "17-0030"
+    "projectId" : 4684,
+    "projectUUID" : "3554296B-E275-4F14-9304-3D5558AE2EB0",
+    "name" : "US, New York, Capital—Index to Land Records, Grantees, 1630–1975 [Part A]",
+    "state" : "READY_FOR_WORK",
+    "travelerId" : "18-0457"
   },
-  "imagesetCount" : 4,
-  "imagesetInIndexingStatesCount" : 4,
-  "batchCount" : 490,
-  "auditBatchCount" : 23,
+  "imagesetCount" : 34,
+  "imagesetInIndexingStatesCount" : 34,
+  "batchCount" : 14696,
+  "auditBatchCount" : 698,
   "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 4727,
-  "imageCountFromImagesetsInIndexingStates" : 4727,
-  "imageCountBatchingComplete" : 4727,
+  "imageCount" : 16397,
+  "imageCountFromImagesetsInIndexingStates" : 16397,
+  "imageCountBatchingComplete" : 16397,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 23,
+  "iesAuditBatchCount" : 698,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 4,
-    "batchCount" : 467,
-    "images" : 4727,
-    "recordCount" : 2661
+    "imagesetCount" : 34,
+    "batchCount" : 13998,
+    "images" : 16397,
+    "recordCount" : 0
   },
   "exportStateCounts" : {
-    "accepted" : 2320,
-    "exported" : 331,
+    "accepted" : 0,
+    "exported" : 0,
     "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 230,
-    "blocked" : 77,
-    "duplicate" : 19,
-    "ned" : 1973,
+    "inProgress" : 13999,
+    "audit" : 698,
+    "blocked" : 2398,
+    "duplicate" : 0,
+    "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 7
+    "noPersonas" : 0
   },
   "exportStateDiffs" : {
     "accepted" : 0,
@@ -20883,11 +20883,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-10 10:16:34",
+  "dateTimeFetched" : "2021-04-20 17:43:56",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, Washington—Marriage Records, 1750–1990 [Part T]",
-  "state" : "READY_FOR_DELIVERY"
+  "name" : "US, New York, Capital—Index to Land Records, Grantees, 1630–1975 [Part A]",
+  "state" : "READY_FOR_WORK"
 }, {
   "project" : {
     "projectId" : 3367,
@@ -21082,70 +21082,6 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3153,
-    "projectUUID" : "7A8BC1DA-E5B3-4359-A887-B86D93B2C127",
-    "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie H]",
-    "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "15-0917"
-  },
-  "imagesetCount" : 2,
-  "imagesetInIndexingStatesCount" : 2,
-  "batchCount" : 393,
-  "auditBatchCount" : 19,
-  "batchingBatchesNotReviewComplete" : 0,
-  "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 1204,
-  "imageCountFromImagesetsInIndexingStates" : 1204,
-  "imageCountBatchingComplete" : 1204,
-  "blockedCount" : 0,
-  "iesAuditBatchCount" : 19,
-  "iesCountsNoAudit" : {
-    "imagesetCount" : 2,
-    "batchCount" : 374,
-    "images" : 1204,
-    "recordCount" : 14
-  },
-  "exportStateCounts" : {
-    "accepted" : 8,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 56,
-    "blocked" : 85,
-    "duplicate" : 0,
-    "ned" : 1111,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "exportStateDiffs" : {
-    "accepted" : 0,
-    "exported" : 0,
-    "failed" : 0,
-    "inProgress" : 0,
-    "audit" : 0,
-    "blocked" : 0,
-    "duplicate" : 0,
-    "ned" : 0,
-    "unreadable" : 0,
-    "notExported" : 0,
-    "readyForExport" : 0,
-    "rejected" : 0,
-    "published" : 0,
-    "nonExportableImages" : 0,
-    "noPersonas" : 0
-  },
-  "dateTimeFetched" : "2021-04-14 09:12:31",
-  "batchesWithTooManyImages" : { },
-  "enttityTypeProblemCountMap" : null,
-  "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie H]",
-  "state" : "READY_FOR_DELIVERY"
-}, {
-  "project" : {
     "projectId" : 1412,
     "projectUUID" : "74E9D124-2DEC-4BAD-9A27-64A424536BD4",
     "name" : "US, Iowa—Old Age Assistance Records, 1934–1946 [Part C]",
@@ -21210,67 +21146,67 @@
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
-    "projectId" : 3330,
-    "projectUUID" : "E95E8F99-86F6-425E-A853-A0F4F20A8EBD",
-    "name" : "US, Alaska—Naturalizations, 1884–1991",
+    "projectId" : 3153,
+    "projectUUID" : "7A8BC1DA-E5B3-4359-A887-B86D93B2C127",
+    "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie H]",
     "state" : "READY_FOR_DELIVERY",
-    "travelerId" : "19-0213"
+    "travelerId" : "15-0917"
   },
-  "imagesetCount" : 217,
-  "imagesetInIndexingStatesCount" : 217,
-  "batchCount" : 22920,
-  "auditBatchCount" : 1090,
-  "batchingBatchesNotReviewComplete" : 2,
+  "imagesetCount" : 2,
+  "imagesetInIndexingStatesCount" : 2,
+  "batchCount" : 393,
+  "auditBatchCount" : 19,
+  "batchingBatchesNotReviewComplete" : 0,
   "batchesWOWorkflowsCount" : 0,
-  "imageCount" : 152052,
-  "imageCountFromImagesetsInIndexingStates" : 152052,
-  "imageCountBatchingComplete" : 150423,
-  "blockedCount" : 64144,
-  "iesAuditBatchCount" : 1090,
+  "imageCount" : 1204,
+  "imageCountFromImagesetsInIndexingStates" : 1204,
+  "imageCountBatchingComplete" : 1204,
+  "blockedCount" : 0,
+  "iesAuditBatchCount" : 19,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 217,
-    "batchCount" : 21830,
-    "images" : 152052,
-    "recordCount" : 81836
+    "imagesetCount" : 2,
+    "batchCount" : 374,
+    "images" : 1204,
+    "recordCount" : 14
   },
   "exportStateCounts" : {
-    "accepted" : 71918,
-    "exported" : 19,
+    "accepted" : 8,
+    "exported" : 0,
     "failed" : 0,
-    "inProgress" : 1,
-    "audit" : 4302,
-    "blocked" : 65718,
-    "duplicate" : 465,
-    "ned" : 13643,
+    "inProgress" : 0,
+    "audit" : 56,
+    "blocked" : 85,
+    "duplicate" : 0,
+    "ned" : 1111,
     "unreadable" : 0,
-    "notExported" : 2,
+    "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 286
+    "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 233,
-    "exported" : 1,
+    "accepted" : 0,
+    "exported" : 0,
     "failed" : 0,
-    "inProgress" : -1,
-    "audit" : 5,
+    "inProgress" : 0,
+    "audit" : 0,
     "blocked" : 0,
     "duplicate" : 0,
-    "ned" : 34,
+    "ned" : 0,
     "unreadable" : 0,
-    "notExported" : 2,
+    "notExported" : 0,
     "readyForExport" : 0,
     "rejected" : 0,
     "published" : 0,
     "nonExportableImages" : 0,
-    "noPersonas" : 1
+    "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-09 08:15:04",
+  "dateTimeFetched" : "2021-04-14 09:12:31",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
-  "name" : "US, Alaska—Naturalizations, 1884–1991",
+  "name" : "Luxembourg—Registres d'état civil, 1796–1923 [Partie H]",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -21335,6 +21271,70 @@
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : null,
   "name" : "US, Texas—Passenger and Crew Lists of Vessels Arriving at Corpus Christi, 1948–1959",
+  "state" : "READY_FOR_DELIVERY"
+}, {
+  "project" : {
+    "projectId" : 3330,
+    "projectUUID" : "E95E8F99-86F6-425E-A853-A0F4F20A8EBD",
+    "name" : "US, Alaska—Naturalizations, 1884–1991",
+    "state" : "READY_FOR_DELIVERY",
+    "travelerId" : "19-0213"
+  },
+  "imagesetCount" : 217,
+  "imagesetInIndexingStatesCount" : 217,
+  "batchCount" : 22920,
+  "auditBatchCount" : 1090,
+  "batchingBatchesNotReviewComplete" : 2,
+  "batchesWOWorkflowsCount" : 0,
+  "imageCount" : 152052,
+  "imageCountFromImagesetsInIndexingStates" : 152052,
+  "imageCountBatchingComplete" : 150423,
+  "blockedCount" : 64144,
+  "iesAuditBatchCount" : 1090,
+  "iesCountsNoAudit" : {
+    "imagesetCount" : 217,
+    "batchCount" : 21830,
+    "images" : 152052,
+    "recordCount" : 81836
+  },
+  "exportStateCounts" : {
+    "accepted" : 71918,
+    "exported" : 19,
+    "failed" : 0,
+    "inProgress" : 1,
+    "audit" : 4302,
+    "blocked" : 65718,
+    "duplicate" : 465,
+    "ned" : 13643,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 286
+  },
+  "exportStateDiffs" : {
+    "accepted" : 233,
+    "exported" : 1,
+    "failed" : 0,
+    "inProgress" : -1,
+    "audit" : 5,
+    "blocked" : 0,
+    "duplicate" : 0,
+    "ned" : 34,
+    "unreadable" : 0,
+    "notExported" : 2,
+    "readyForExport" : 0,
+    "rejected" : 0,
+    "published" : 0,
+    "nonExportableImages" : 0,
+    "noPersonas" : 1
+  },
+  "dateTimeFetched" : "2021-04-09 08:15:04",
+  "batchesWithTooManyImages" : { },
+  "enttityTypeProblemCountMap" : null,
+  "name" : "US, Alaska—Naturalizations, 1884–1991",
   "state" : "READY_FOR_DELIVERY"
 }, {
   "project" : {
@@ -25171,15 +25171,15 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:12:20",
+  "dateTimeFetched" : "2021-04-22 17:32:05",
   "batchesWithTooManyImages" : {
     "DA8C903B-AF38-4628-BF20-BEBDF84C9B25" : 413,
     "2EBAAADB-0B42-4A46-A193-9E111FDD2B70" : 502
   },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
+    "IMAGE" : 2,
     "BATCH" : 2,
-    "IMAGE" : 2
+    "PROJECT" : 1
   },
   "name" : "South Africa, Cape Province—Death Notices, 1834–1989 [Part B]",
   "state" : "READY_FOR_DELIVERY"
@@ -25882,14 +25882,14 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:26:26",
+  "dateTimeFetched" : "2021-04-22 17:43:35",
   "batchesWithTooManyImages" : {
     "2FCB9DCC-B5CA-4F1D-83F7-5EE8AEC61D8E" : 1163
   },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
+    "IMAGE" : 663,
     "BATCH" : 1,
-    "IMAGE" : 663
+    "PROJECT" : 1
   },
   "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part K]",
   "state" : "READY_FOR_DELIVERY"
@@ -31036,16 +31036,16 @@
     "imagesetCount" : 247,
     "batchCount" : 55478,
     "images" : 184523,
-    "recordCount" : 1031
+    "recordCount" : 1071
   },
   "exportStateCounts" : {
-    "accepted" : 504,
+    "accepted" : 535,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 163370,
+    "inProgress" : 163337,
     "audit" : 8182,
     "blocked" : 20633,
-    "duplicate" : 16,
+    "duplicate" : 18,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -31056,13 +31056,13 @@
     "noPersonas" : 0
   },
   "exportStateDiffs" : {
-    "accepted" : 286,
+    "accepted" : 31,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 3205,
-    "audit" : 177,
-    "blocked" : 460,
-    "duplicate" : 9,
+    "inProgress" : -33,
+    "audit" : 0,
+    "blocked" : 0,
+    "duplicate" : 2,
     "ned" : 0,
     "unreadable" : 0,
     "notExported" : 0,
@@ -31072,7 +31072,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:11:39",
+  "dateTimeFetched" : "2021-04-22 18:25:45",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
     "DGS_ASSIGNMENT" : 1
@@ -34082,11 +34082,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:26:43",
+  "dateTimeFetched" : "2021-04-22 17:43:50",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 1050
+    "IMAGE" : 1050,
+    "PROJECT" : 1
   },
   "name" : "US, Kansas—1925 State Census",
   "state" : "READY_FOR_DELIVERY"
@@ -35237,11 +35237,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:20:40",
+  "dateTimeFetched" : "2021-04-22 17:38:49",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 4
+    "IMAGE" : 4,
+    "PROJECT" : 1
   },
   "name" : "US, New Jersey—Naturalization Records, 1796–1991 [Part I]",
   "state" : "READY_FOR_DELIVERY"
@@ -36648,11 +36648,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:43:14",
+  "dateTimeFetched" : "2021-04-22 17:59:05",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 20104
+    "IMAGE" : 20104,
+    "PROJECT" : 1
   },
   "name" : "South Africa, Transvaal—Marriage Records, 1870–1930",
   "state" : "READY_FOR_DELIVERY"
@@ -56235,14 +56235,14 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:20:13",
+  "dateTimeFetched" : "2021-04-22 17:38:31",
   "batchesWithTooManyImages" : {
     "1C1B3F34-E404-47FE-BCD8-0CC8B67A8016" : 2399
   },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
+    "IMAGE" : 1909,
     "BATCH" : 1,
-    "IMAGE" : 1909
+    "PROJECT" : 1
   },
   "name" : "US, Iowa—Old Age Assistance Records, 1934–1946 [Part D]",
   "state" : "READY_FOR_DELIVERY"
@@ -71409,7 +71409,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:11:22",
+  "dateTimeFetched" : "2021-04-22 17:31:45",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
     "DGS_ASSIGNMENT" : 1
@@ -81911,7 +81911,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:11:30",
+  "dateTimeFetched" : "2021-04-22 17:31:53",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
     "DGS_ASSIGNMENT" : 1
@@ -86983,29 +86983,29 @@
     "travelerId" : "20-0517"
   },
   "imagesetCount" : 86,
-  "imagesetInIndexingStatesCount" : 76,
-  "batchCount" : 21950,
-  "auditBatchCount" : 1043,
-  "batchingBatchesNotReviewComplete" : 10,
+  "imagesetInIndexingStatesCount" : 77,
+  "batchCount" : 22285,
+  "auditBatchCount" : 1059,
+  "batchingBatchesNotReviewComplete" : 9,
   "batchesWOWorkflowsCount" : 0,
   "imageCount" : 97638,
-  "imageCountFromImagesetsInIndexingStates" : 85973,
-  "imageCountBatchingComplete" : 85973,
+  "imageCountFromImagesetsInIndexingStates" : 87272,
+  "imageCountBatchingComplete" : 87272,
   "blockedCount" : 0,
-  "iesAuditBatchCount" : 1043,
+  "iesAuditBatchCount" : 1059,
   "iesCountsNoAudit" : {
-    "imagesetCount" : 76,
-    "batchCount" : 20907,
-    "images" : 85973,
+    "imagesetCount" : 77,
+    "batchCount" : 21226,
+    "images" : 87272,
     "recordCount" : 0
   },
   "exportStateCounts" : {
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 83033,
-    "audit" : 4147,
-    "blocked" : 2940,
+    "inProgress" : 84309,
+    "audit" : 4211,
+    "blocked" : 2963,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -87020,9 +87020,9 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 32688,
-    "audit" : 1627,
-    "blocked" : 1238,
+    "inProgress" : 1276,
+    "audit" : 64,
+    "blocked" : 23,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -87033,7 +87033,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:10:55",
+  "dateTimeFetched" : "2021-04-22 18:25:14",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
     "DGS_ASSIGNMENT" : 1
@@ -94459,11 +94459,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:04:29",
+  "dateTimeFetched" : "2021-04-22 17:26:26",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 4828
+    "IMAGE" : 4828,
+    "PROJECT" : 1
   },
   "name" : "US—Canadian Border Crossings, 1894–1954",
   "state" : "READY_FOR_DELIVERY"
@@ -100670,11 +100670,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:54:56",
+  "dateTimeFetched" : "2021-04-22 18:10:23",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 1086
+    "IMAGE" : 1086,
+    "PROJECT" : 1
   },
   "name" : "US, Georgia, Houston County—Marriage Records, 1832–2015 ",
   "state" : "READY_FOR_DELIVERY"
@@ -111747,7 +111747,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:11:47",
+  "dateTimeFetched" : "2021-04-22 18:25:53",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
     "DGS_ASSIGNMENT" : 1
@@ -121029,7 +121029,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:11:04",
+  "dateTimeFetched" : "2021-04-22 18:25:22",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
     "DGS_ASSIGNMENT" : 1
@@ -138189,14 +138189,14 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:03:55",
+  "dateTimeFetched" : "2021-04-22 17:26:06",
   "batchesWithTooManyImages" : {
     "34353B02-9289-4FE5-B406-1AD3FDE13CF7" : 1237
   },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
+    "IMAGE" : 737,
     "BATCH" : 1,
-    "IMAGE" : 737
+    "PROJECT" : 1
   },
   "name" : "Ecuador, Cuenca—Registros Parroquiales, 1786–1954 [Part B]",
   "state" : "READY_FOR_DELIVERY"
@@ -146323,11 +146323,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:00:00",
+  "dateTimeFetched" : "2021-04-22 18:15:02",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 5
+    "IMAGE" : 5,
+    "PROJECT" : 1
   },
   "name" : "Venezuela, Archdiocese of Valencia—Catholic Church Records, 1924—2014 [Part D]",
   "state" : "READY_FOR_DELIVERY"
@@ -150217,9 +150217,9 @@
     "accepted" : 0,
     "exported" : 0,
     "failed" : 0,
-    "inProgress" : 710,
-    "audit" : 32,
-    "blocked" : 467,
+    "inProgress" : 0,
+    "audit" : 0,
+    "blocked" : 0,
     "duplicate" : 0,
     "ned" : 0,
     "unreadable" : 0,
@@ -150230,7 +150230,7 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 13:11:18",
+  "dateTimeFetched" : "2021-04-22 18:25:33",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
     "DGS_ASSIGNMENT" : 1
@@ -154653,11 +154653,11 @@
     "nonExportableImages" : 0,
     "noPersonas" : 0
   },
-  "dateTimeFetched" : "2021-04-22 12:32:23",
+  "dateTimeFetched" : "2021-04-22 17:48:56",
   "batchesWithTooManyImages" : { },
   "enttityTypeProblemCountMap" : {
-    "PROJECT" : 1,
-    "IMAGE" : 846
+    "IMAGE" : 846,
+    "PROJECT" : 1
   },
   "name" : "El Salvador—Registros Civiles, 1836–2001 [Parte C]",
   "state" : "READY_FOR_DELIVERY"
