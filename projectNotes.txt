@@ -10,7 +10,7 @@ AC16A959-2BC3-4E47-9B30-96EE68A08DC7:57FD5C4A-136A-4228-86C7-A5C9301D969E is an 
 8C1571B2-30F5-4401-8D1D-6AD8360EE65B:92 images are not associated with a batchingbatch or indexing batch
 98D490FA-2E58-4732-AD89-714D68562CA7:looks like 20K+ batches do not have workflows
 74166EB7-99C0-4D38-B789-66A8D78F4E82:294 images are not associated with batches
-06660EB2-3409-4817-8124-84FA2CCFB5DE:batch B9D51CF7-8882-4F8A-A48C-14B2B186F360 does not have a workflow,20104 non-blocked imagges are not associated with an indexing batch
+-- 06660EB2-3409-4817-8124-84FA2CCFB5DE:batch B9D51CF7-8882-4F8A-A48C-14B2B186F360 does not have a workflow,20104 non-blocked imagges are not associated with an indexing batch
 -- 62BB214E-B0A5-489C-BA43-3058A190C46F:image 16160094-F214-413E-8C25-E6EA579960C3 should be blocked and  it is not, it is blocked in 35E2230E-F3B4-426B-BB6E-BED3510511F2 but not blocked in BBBF7178-18E5-4AC4-8ACE-B36DC73A4FA9
 33651B1F-8E0B-439E-B84C-E7CCA17B562E:1050 images are not blocked and are not associated with an indexing batch
 1FD4D9EC-55B2-4738-B022-E75D4F40D6EE:it looks like there might be 207 batches that have empty keying.resources, not sure about the blocked images
@@ -53,3 +53,4 @@ DAA0FAD2-D330-4708-93F9-095721623C1A:#unindexedImages in batch 2FCB9DCC-B5CA-4F1
 7838FF6D-99FE-44D5-9FCC-7724B57A72E6:We will let indexing-on-the-fly handle these
 A21328DF-DA70-4950-91AA-8E68B749FFBC:We will let indexing-on-the-fly handle these
 C4F542D4-BE18-416A-B38B-9BE31ADA5FE9:2 images will be indexed by the readiness team
+06660EB2-3409-4817-8124-84FA2CCFB5DE:A Part B project has been created to index missing images
